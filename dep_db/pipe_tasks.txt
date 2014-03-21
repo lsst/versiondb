@@ -40,3 +40,17 @@ master-g047ac61a25	0	matplotlib	0.0.1
 8.0.0.1	0	skymap	8.0.0.0
 8.0.0.1	0	geom	8.0.0.0
 8.0.0.1	0	matplotlib	0.0.1
+8.0.0.1	1	pipe_base	8.0.0.0+1
+8.0.0.1	1	pex_config	8.0.0.0+1
+8.0.0.1	1	afw	8.0.0.1+1
+8.0.0.1	1	meas_algorithms	8.0.0.0+1
+8.0.0.1	1	meas_astrom	8.0.0.0+1
+8.0.0.1	1	meas_deblender	8.0.0.0+1
+8.0.0.1	1	astrometry_net_data	8.0.0.0
+8.0.0.1	1	ip_isr	8.0.0.0+1
+8.0.0.1	1	ip_diffim	8.0.0.0+1
+8.0.0.1	1	coadd_utils	8.0.0.0+1
+8.0.0.1	1	coadd_chisquared	8.0.0.0+1
+8.0.0.1	1	skymap	8.0.0.0+1
+8.0.0.1	1	geom	8.0.0.0+1
+8.0.0.1	1	matplotlib	0.0.1
