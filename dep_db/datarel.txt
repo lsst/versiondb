@@ -61,3 +61,12 @@ master-g2b157218fd	0	scisql	0.3+3
 8.0.0.1	4	matplotlib	0.0.1
 8.0.0.1	4	cat	8.0.0.0+2
 8.0.0.1	4	scisql	0.3+3
+8.0.0.1	5	ap	8.0.0.0+5
+8.0.0.1	5	ctrl_orca	8.0.1.0
+8.0.0.1	5	pipe_tasks	master-gc96bb0d399
+8.0.0.1	5	obs_lsstSim	8.0.0.0+7
+8.0.0.1	5	meas_extensions_multiShapelet	8.0.0.0+5
+8.0.0.1	5	astrometry_net_data	8.0.0.0+2
+8.0.0.1	5	matplotlib	0.0.1+1
+8.0.0.1	5	cat	8.0.0.0+3
+8.0.0.1	5	scisql	0.3+4
