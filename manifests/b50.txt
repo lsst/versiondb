@@ -1,0 +1,33 @@
+# product                 SHA1                                      Version                       
+BUILD=b50
+cfitsio                   33315c44cf1c66011dfbfc1098a594a46ad59a70  3310+2                                   
+throughputs               a6e2efc0c9c01ca6c64016117a5e700cad356e0f  master-ga6e2efc0c9                       
+sims_dustmaps             4521073c953051bf71b97eda8a54b7c246456ec7  2014.04.17                               
+python                    fed5ae191b41761d5144e77fb7a71246e533d3b5  0.0.1                                    
+swig                      fe723b8c12ccc30aa562504ab34487b53b0d6abb  2.0.12                                   
+pykg_config               c4dd3b426d8c89d1abccbd64ed5e3e3ea4209f2f  1.2.0                                    python
+palpy                     3de858ea630e243ac594516dadd7dcafef6e81d7  2014.04.07                               python
+pyephem                   c375d08b389f80e7d1c287ca8da5ff216413c6fc  3.7.5.1                                  
+doxygen                   7f1d56fd90454c06bba588e141c8870c985e790d  1.8.2+2                                  
+numpy                     e3014bbc3285368c8fb605a5225c1affc7fdd34f  0.0.1                                    python
+scons                     d169feb7e15d207a038fef4c9017e220c087132f  2.1.0+7                                  python
+sims_sed_library          8b4b3e376bd8db2f3d11213766f335bb2fbb52dd  2014.04.23                               
+freetds                   65bec99c16438d2f7f679588754be8dc38cacf93  2014.04.07                               
+boost                     c62c367ba144895628fb0aa7813d305a8eead8a1  1.55.0.1                                 python
+matplotlib                a7cb3a7235886c474e242d3f89160e3865d2f008  0.0.1                                    python,numpy
+sconsUtils                f38997df3e51b4d96dede5237c922cb4bf21a4c9  8.0.0.0                                  scons,doxygen
+pymssql                   b098d072cb0fc038983760d6937abc5ec88a6927  2.0.0                                    python,freetds
+pyfits                    152c2a4c43e1e48158de6cf64e02f528a1bf0a82  3.1.2+2                                  numpy
+sims_catalogs_generation  3a8747fb4c5f0612793ccb52a5dcd0d66937735b  master-g3a8747fb4c                       sconsUtils,pymssql,throughputs,sims_sed_library
+healpy                    34a01f80f79dba9daea9901426bf0ac2681ba0d6  1.7.4                                    python,pykg_config,cfitsio,pyfits
+base                      47bec627314ffabab7045a2fa59d242465786c5d  8.0.0.0+1                                boost,sconsUtils,swig,doxygen
+pex_exceptions            0c17e8181a986fa5287de662973a6674a55a9877  8.0.0.0+1                                base,boost,swig
+utils                     f29efbd9a5169478225951891d7cc8eec7879454  8.0.0.0+1                                base,pex_exceptions,boost,numpy
+daf_base                  8b13b8eb038adcba175a0d8d691d21f1be749da2  8.0.0.0+1                                utils,pex_exceptions
+sims_coordUtils           2accf2fbf556185ae2a2156a2eb9ddc663818b8f  master-g2accf2fbf5                       base,python,throughputs,pyfits
+pex_policy                1de8776442cddfe8b8c328b46a0687e9ce0c9dc2  8.0.0.0+1                                daf_base
+pex_config                67294dae49eca03289834bf5b345f5f74d1ed07a  8.0.0.0+1                                daf_base,pex_policy,numpy
+sims_maf                  6984eb2a1728a0b5ce77f3c718cf7b4f93ec5a77  master-g6984eb2a17                       base,numpy,matplotlib,pyephem,palpy,healpy,pex_config,sims_catalogs_generation
+sims_photUtils            a33d264ea0a5213dc10150d3706cd672474ec1c6  master-ga33d264ea0                       sims_sed_library,sims_dustmaps,sims_coordUtils,python,throughputs,pyfits
+sims_catalogs_measures    94aedab603c502cd482fe5d75a42cb82572911e1  master-g94aedab603+4                     python,sims_catalogs_generation,sims_photUtils,sims_coordUtils,throughputs,pyfits,sims_sed_library
+lsst_sims                 c3a481e4b1e7671999efc4243845b0a0b7159080  master-gc3a481e4b1+15                    sims_maf,sims_catalogs_generation,sims_catalogs_measures,sims_sed_library,sims_dustmaps
