@@ -61,3 +61,12 @@ master-gd2597e8fbe	0	skypix	8.0.0.0+6
 master-gd2597e8fbe	0	pipe_base	master-g68ab2d7f1b
 master-gd2597e8fbe	0	meas_algorithms	master-g662c0a808e
 master-gd2597e8fbe	0	doxygen	1.8.2+2
+master-gd2597e8fbe	1	boost	1.55.0.1+1
+master-gd2597e8fbe	1	numpy	0.0.1+1
+master-gd2597e8fbe	1	mysqlclient	tickets.DM-711-gd50a379db6
+master-gd2597e8fbe	1	afw	tickets.DM-711-g973b8c3f75
+master-gd2597e8fbe	1	geom	8.0.0.1+1
+master-gd2597e8fbe	1	skypix	8.0.0.0+7
+master-gd2597e8fbe	1	pipe_base	master-g68ab2d7f1b+1
+master-gd2597e8fbe	1	meas_algorithms	master-g662c0a808e+1
+master-gd2597e8fbe	1	doxygen	tickets.DM-711-gcde96ba90b

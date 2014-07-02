@@ -47,3 +47,10 @@ master-gb12ed14d28	1	daf_persistence	master-g858fc3cd61
 master-gb12ed14d28	1	afw	master-gc225a2381c
 master-gb12ed14d28	1	skypix	8.0.0.0+6
 master-gb12ed14d28	1	pyfits	3.1.2+3
+master-gb12ed14d28	2	daf_base	master-gba7c85d83f+1
+master-gb12ed14d28	2	pex_logging	master-gb72f82c336+1
+master-gb12ed14d28	2	pex_policy	master-g1b45812366+1
+master-gb12ed14d28	2	daf_persistence	master-g858fc3cd61+1
+master-gb12ed14d28	2	afw	tickets.DM-711-g973b8c3f75
+master-gb12ed14d28	2	skypix	8.0.0.0+7
+master-gb12ed14d28	2	pyfits	tickets.DM-711-g9b8711c984
