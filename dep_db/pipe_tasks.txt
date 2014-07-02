@@ -110,3 +110,17 @@ master-gc96bb0d399	0	coadd_chisquared	8.0.0.0+5
 master-gc96bb0d399	0	skymap	8.0.0.0+5
 master-gc96bb0d399	0	geom	8.0.0.0+3
 master-gc96bb0d399	0	matplotlib	0.0.1+1
+master-gda979ae2a0	0	pipe_base	master-g68ab2d7f1b
+master-gda979ae2a0	0	pex_config	master-g310e890736
+master-gda979ae2a0	0	afw	master-gc225a2381c
+master-gda979ae2a0	0	meas_algorithms	master-g662c0a808e
+master-gda979ae2a0	0	meas_astrom	master-g368560e450
+master-gda979ae2a0	0	meas_deblender	master-g28bb96de3c
+master-gda979ae2a0	0	astrometry_net_data	8.0.0.0+3
+master-gda979ae2a0	0	ip_isr	master-gbb5167a1e1+2
+master-gda979ae2a0	0	ip_diffim	master-g7414f4f31e
+master-gda979ae2a0	0	coadd_utils	master-g3c200c9475
+master-gda979ae2a0	0	coadd_chisquared	master-gcba632cd4e
+master-gda979ae2a0	0	skymap	8.0.0.0+6
+master-gda979ae2a0	0	geom	8.0.0.1
+master-gda979ae2a0	0	matplotlib	0.0.1+1

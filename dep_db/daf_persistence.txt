@@ -10,3 +10,6 @@
 master-gde766ea3be	0	mysqlclient	5.1.65+3
 master-gde766ea3be	0	pex_logging	8.0.0.0+3
 master-gde766ea3be	0	pex_policy	8.0.0.0+3
+master-g858fc3cd61	0	mysqlclient	5.1.65+3
+master-g858fc3cd61	0	pex_logging	master-gb72f82c336
+master-g858fc3cd61	0	pex_policy	master-g1b45812366

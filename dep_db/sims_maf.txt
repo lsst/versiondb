@@ -206,3 +206,11 @@ master-g6e79dff51c	0	palpy	2014.04.07
 master-g6e79dff51c	0	healpy	1.7.4
 master-g6e79dff51c	0	pex_config	8.0.0.0+1
 master-g6e79dff51c	0	sims_catalogs_generation	master-g9566e89059
+master-g6e79dff51c	1	base	master-g7194cb7ccc
+master-g6e79dff51c	1	numpy	0.0.1+1
+master-g6e79dff51c	1	matplotlib	0.0.1+1
+master-g6e79dff51c	1	pyephem	3.7.5.1
+master-g6e79dff51c	1	palpy	2014.04.07+1
+master-g6e79dff51c	1	healpy	1.7.4+1
+master-g6e79dff51c	1	pex_config	master-g310e890736
+master-g6e79dff51c	1	sims_catalogs_generation	master-g9566e89059+1

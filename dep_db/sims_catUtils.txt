@@ -51,3 +51,11 @@ master-g1d049baae1	0	sims_photUtils	master-g4bab2056cd
 master-g1d049baae1	0	python	0.0.1
 master-g1d049baae1	0	pymssql	2.0.0
 master-g1d049baae1	0	obs_lsstSim	8.0.0.0+5
+master-g1d049baae1	1	utils	master-g7e816b2b5d
+master-g1d049baae1	1	sims_catalogs_measures	master-g30ba6fd81d+3
+master-g1d049baae1	1	sims_catalogs_generation	master-g9566e89059+1
+master-g1d049baae1	1	sims_coordUtils	master-g2911e2ee20+1
+master-g1d049baae1	1	sims_photUtils	master-g4bab2056cd+1
+master-g1d049baae1	1	python	master-gcbf93ab65b
+master-g1d049baae1	1	pymssql	2.0.0+1
+master-g1d049baae1	1	obs_lsstSim	master-g73636eae1e

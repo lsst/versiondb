@@ -22,3 +22,7 @@
 8.0.0.0	5	pipe_base	master-g1c78bd6392
 8.0.0.0	5	pex_config	8.0.0.0+3
 8.0.0.0	5	afwdata	8.0.0.1+2
+master-g3c200c9475	0	afw	master-gc225a2381c
+master-g3c200c9475	0	pipe_base	master-g68ab2d7f1b
+master-g3c200c9475	0	pex_config	master-g310e890736
+master-g3c200c9475	0	afwdata	8.0.0.1+3

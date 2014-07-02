@@ -34,3 +34,9 @@ master-g1c78bd6392	0	pex_config	8.0.0.0+3
 master-g1c78bd6392	0	utils	8.0.0.0+3
 master-g1c78bd6392	0	afw	master-g97ff631172
 master-g1c78bd6392	0	obs_test	8.0.0.0+3
+master-g68ab2d7f1b	0	daf_persistence	master-g858fc3cd61
+master-g68ab2d7f1b	0	pex_logging	master-gb72f82c336
+master-g68ab2d7f1b	0	pex_config	master-g310e890736
+master-g68ab2d7f1b	0	utils	master-g7e816b2b5d
+master-g68ab2d7f1b	0	afw	master-gc225a2381c
+master-g68ab2d7f1b	0	obs_test	8.0.0.0+4

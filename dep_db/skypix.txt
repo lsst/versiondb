@@ -22,3 +22,7 @@
 8.0.0.0	5	pex_policy	8.0.0.0+3
 8.0.0.0	5	geom	8.0.0.0+3
 8.0.0.0	5	afw	master-g97ff631172
+8.0.0.0	6	utils	master-g7e816b2b5d
+8.0.0.0	6	pex_policy	master-g1b45812366
+8.0.0.0	6	geom	8.0.0.1
+8.0.0.0	6	afw	master-gc225a2381c
