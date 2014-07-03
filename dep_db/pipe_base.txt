@@ -52,3 +52,9 @@ master-g49274de619	0	pex_config	master-g310e890736
 master-g49274de619	0	utils	master-g7e816b2b5d
 master-g49274de619	0	afw	master-gc225a2381c
 master-g49274de619	0	obs_test	8.0.0.0+4
+master-g49274de619	1	daf_persistence	master-g858fc3cd61+1
+master-g49274de619	1	pex_logging	master-gb72f82c336+1
+master-g49274de619	1	pex_config	master-g310e890736+1
+master-g49274de619	1	utils	master-g7e816b2b5d+1
+master-g49274de619	1	afw	tickets.DM-711-g973b8c3f75
+master-g49274de619	1	obs_test	8.0.0.0+5
