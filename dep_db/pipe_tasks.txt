@@ -166,3 +166,17 @@ master-g75be6566da	0	coadd_chisquared	master-gcba632cd4e+3
 master-g75be6566da	0	skymap	8.0.0.0+7
 master-g75be6566da	0	geom	8.0.0.1+1
 master-g75be6566da	0	matplotlib	0.0.1+1
+master-g75be6566da	1	pipe_base	master-g49274de619
+master-g75be6566da	1	pex_config	master-g310e890736
+master-g75be6566da	1	afw	master-gc225a2381c
+master-g75be6566da	1	meas_algorithms	master-g662c0a808e+2
+master-g75be6566da	1	meas_astrom	master-gad1466b1da
+master-g75be6566da	1	meas_deblender	master-g503b718650+1
+master-g75be6566da	1	astrometry_net_data	8.0.0.0+3
+master-g75be6566da	1	ip_isr	master-gbb5167a1e1+4
+master-g75be6566da	1	ip_diffim	master-g7414f4f31e+4
+master-g75be6566da	1	coadd_utils	master-g3c200c9475+2
+master-g75be6566da	1	coadd_chisquared	master-gcba632cd4e+2
+master-g75be6566da	1	skymap	8.0.0.0+6
+master-g75be6566da	1	geom	8.0.0.1
+master-g75be6566da	1	matplotlib	0.0.1+1

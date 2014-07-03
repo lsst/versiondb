@@ -106,3 +106,12 @@ master-g73636eae1e	3	meas_algorithms	master-g662c0a808e+3
 master-g73636eae1e	3	ip_isr	master-gbb5167a1e1+5
 master-g73636eae1e	3	pipe_tasks	master-g75be6566da
 master-g73636eae1e	3	mysqlpython	1.2.3+9
+master-g73636eae1e	4	daf_base	master-gba7c85d83f
+master-g73636eae1e	4	pex_policy	master-g1b45812366
+master-g73636eae1e	4	afw	master-gc225a2381c
+master-g73636eae1e	4	daf_persistence	master-g858fc3cd61
+master-g73636eae1e	4	daf_butlerUtils	master-gb12ed14d28+1
+master-g73636eae1e	4	meas_algorithms	master-g662c0a808e+2
+master-g73636eae1e	4	ip_isr	master-gbb5167a1e1+4
+master-g73636eae1e	4	pipe_tasks	master-g75be6566da+1
+master-g73636eae1e	4	mysqlpython	1.2.3+8
