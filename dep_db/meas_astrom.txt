@@ -115,3 +115,12 @@ master-g20ac51bfba	1	wcslib	4.14+3
 master-g20ac51bfba	1	astrometry_net	0.30+3
 master-g20ac51bfba	1	numpy	0.0.1+1
 master-g20ac51bfba	1	matplotlib	0.0.1+1
+master-g20ac51bfba	2	afw	master-g87af617644
+master-g20ac51bfba	2	meas_algorithms	master-gbc4b5c7ccf+1
+master-g20ac51bfba	2	pex_logging	master-gb72f82c336
+master-g20ac51bfba	2	pex_config	master-g310e890736
+master-g20ac51bfba	2	pipe_base	master-g49274de619+2
+master-g20ac51bfba	2	wcslib	4.14+3
+master-g20ac51bfba	2	astrometry_net	0.30+3
+master-g20ac51bfba	2	numpy	0.0.1+1
+master-g20ac51bfba	2	matplotlib	0.0.1+1
