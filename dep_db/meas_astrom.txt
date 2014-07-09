@@ -133,3 +133,12 @@ master-g53cfeb2afe	0	wcslib	4.14+3
 master-g53cfeb2afe	0	astrometry_net	0.30+3
 master-g53cfeb2afe	0	numpy	0.0.1+1
 master-g53cfeb2afe	0	matplotlib	0.0.1+1
+master-g53cfeb2afe	1	afw	tickets.DM-711-g973b8c3f75
+master-g53cfeb2afe	1	meas_algorithms	master-gbc4b5c7ccf+2
+master-g53cfeb2afe	1	pex_logging	master-gb72f82c336+1
+master-g53cfeb2afe	1	pex_config	master-g310e890736+1
+master-g53cfeb2afe	1	pipe_base	master-g49274de619+1
+master-g53cfeb2afe	1	wcslib	4.14+4
+master-g53cfeb2afe	1	astrometry_net	tickets.DM-711-gf98931a6d7
+master-g53cfeb2afe	1	numpy	0.0.1+1
+master-g53cfeb2afe	1	matplotlib	0.0.1+1
