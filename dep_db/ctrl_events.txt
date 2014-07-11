@@ -97,3 +97,14 @@ master-g0054bcf0f3	4	cat	8.0.0.0+4
 master-g0054bcf0f3	4	daf_persistence	master-g858fc3cd61
 master-g0054bcf0f3	4	swig	2.0.12
 master-g0054bcf0f3	4	doxygen	1.8.2+2
+master-g0054bcf0f3	5	boost	1.55.0.1+1
+master-g0054bcf0f3	5	activemqcpp	3.5.0+12
+master-g0054bcf0f3	5	utils	master-g7e816b2b5d+1
+master-g0054bcf0f3	5	daf_base	master-gba7c85d83f+1
+master-g0054bcf0f3	5	pex_logging	master-gb72f82c336+1
+master-g0054bcf0f3	5	pex_exceptions	master-g82f5e1da65+1
+master-g0054bcf0f3	5	pex_policy	master-g1b45812366+1
+master-g0054bcf0f3	5	cat	8.0.0.0+5
+master-g0054bcf0f3	5	daf_persistence	master-g858fc3cd61+1
+master-g0054bcf0f3	5	swig	2.0.12
+master-g0054bcf0f3	5	doxygen	tickets.DM-711-gcde96ba90b
