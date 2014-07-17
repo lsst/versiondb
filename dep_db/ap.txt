@@ -196,3 +196,12 @@ master-gc0350e27ca	0	skypix	8.0.0.0+10
 master-gc0350e27ca	0	pipe_base	master-g49274de619+4
 master-gc0350e27ca	0	meas_algorithms	master-g324974a1d2+5
 master-gc0350e27ca	0	doxygen	1.8.2+2
+master-gc0350e27ca	1	boost	1.55.0.1+1
+master-gc0350e27ca	1	numpy	0.0.1+1
+master-gc0350e27ca	1	mysqlclient	tickets.DM-711-gd50a379db6
+master-gc0350e27ca	1	afw	tickets.DM-711-g973b8c3f75
+master-gc0350e27ca	1	geom	8.0.0.1+1
+master-gc0350e27ca	1	skypix	8.0.0.0+7
+master-gc0350e27ca	1	pipe_base	master-g49274de619+1
+master-gc0350e27ca	1	meas_algorithms	master-g324974a1d2+6
+master-gc0350e27ca	1	doxygen	tickets.DM-711-gcde96ba90b
