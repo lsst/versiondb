@@ -16,3 +16,6 @@ master-g858fc3cd61	0	pex_policy	master-g1b45812366
 master-g858fc3cd61	1	mysqlclient	tickets.DM-711-gd50a379db6
 master-g858fc3cd61	1	pex_logging	master-gb72f82c336+1
 master-g858fc3cd61	1	pex_policy	master-g1b45812366+1
+master-g858fc3cd61	2	mysqlclient	5.1.65+3
+master-g858fc3cd61	2	pex_logging	master-gb72f82c336+2
+master-g858fc3cd61	2	pex_policy	master-g1b45812366+2
