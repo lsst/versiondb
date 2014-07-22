@@ -159,3 +159,10 @@ tickets.DM-271-gb27598f9fb	0	ctrl_provenance	8.0.0.0+4
 8.0.1.0	15	daf_persistence	master-g858fc3cd61+2
 8.0.1.0	15	ctrl_events	master-g0054bcf0f3+6
 8.0.1.0	15	ctrl_provenance	8.0.0.0+6
+8.0.1.0	16	cat	8.0.0.0+6
+8.0.1.0	16	utils	master-g7e816b2b5d+2
+8.0.1.0	16	pex_policy	master-g1b45812366+2
+8.0.1.0	16	pex_harness	8.0.0.0+21
+8.0.1.0	16	daf_persistence	master-g858fc3cd61+2
+8.0.1.0	16	ctrl_events	master-g0054bcf0f3+6
+8.0.1.0	16	ctrl_provenance	8.0.0.0+6
