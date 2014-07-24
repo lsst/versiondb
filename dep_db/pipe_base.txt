@@ -124,3 +124,9 @@ master-g0217dacde4	0	pex_config	master-g488456bb86
 master-g0217dacde4	0	utils	master-g7e816b2b5d+2
 master-g0217dacde4	0	afw	master-ge501f9eacb
 master-g0217dacde4	0	obs_test	8.0.0.0+7
+master-g0217dacde4	1	daf_persistence	master-g858fc3cd61+3
+master-g0217dacde4	1	pex_logging	u.jbosch.DM-827-g3bfdc7bf6c
+master-g0217dacde4	1	pex_config	master-g488456bb86+1
+master-g0217dacde4	1	utils	u.jbosch.DM-827-g11212a1ac9
+master-g0217dacde4	1	afw	u.jbosch.DM-827-g6fc1c3d1a6
+master-g0217dacde4	1	obs_test	8.0.0.0+8

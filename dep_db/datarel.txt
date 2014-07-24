@@ -403,3 +403,12 @@ master-g2b157218fd	0	scisql	0.3+3
 8.0.0.1	42	matplotlib	0.0.1+1
 8.0.0.1	42	cat	8.0.0.0+6
 8.0.0.1	42	scisql	0.3+4
+8.0.0.1	43	ap	u.jbosch.DM-827-g2866d533d2
+8.0.0.1	43	ctrl_orca	u.jbosch.DM-827-gd5e0cca122
+8.0.0.1	43	pipe_tasks	u.jbosch.DM-827-g94d2ee8cc7
+8.0.0.1	43	obs_lsstSim	master-g73636eae1e+32
+8.0.0.1	43	meas_extensions_multiShapelet	master-g43064b73a7+24
+8.0.0.1	43	astrometry_net_data	8.0.0.0+3
+8.0.0.1	43	matplotlib	0.0.1+1
+8.0.0.1	43	cat	8.0.0.0+7
+8.0.0.1	43	scisql	0.3+4

@@ -166,3 +166,10 @@ tickets.DM-271-gb27598f9fb	0	ctrl_provenance	8.0.0.0+4
 8.0.1.0	16	daf_persistence	master-g858fc3cd61+2
 8.0.1.0	16	ctrl_events	master-g0054bcf0f3+6
 8.0.1.0	16	ctrl_provenance	8.0.0.0+6
+u.jbosch.DM-827-gd5e0cca122	0	cat	8.0.0.0+7
+u.jbosch.DM-827-gd5e0cca122	0	utils	u.jbosch.DM-827-g11212a1ac9
+u.jbosch.DM-827-gd5e0cca122	0	pex_policy	u.jbosch.DM-827-g0050b9767b
+u.jbosch.DM-827-gd5e0cca122	0	pex_harness	u.jbosch.DM-827-g916e2b6fd9
+u.jbosch.DM-827-gd5e0cca122	0	daf_persistence	master-g858fc3cd61+3
+u.jbosch.DM-827-gd5e0cca122	0	ctrl_events	u.jbosch.DM-827-g13db915ec5
+u.jbosch.DM-827-gd5e0cca122	0	ctrl_provenance	u.jbosch.DM-827-g32bb9fcc69

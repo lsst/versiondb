@@ -326,3 +326,11 @@ master-g1b432502db	22	meas_astrom	master-g447a60edf0+4
 master-g1b432502db	22	mysqlpython	1.2.3+8
 master-g1b432502db	22	pipe_tasks	master-g6bd9c6d639+2
 master-g1b432502db	22	meas_extensions_multiShapelet	master-g43064b73a7+23
+master-g1b432502db	23	pex_policy	u.jbosch.DM-827-g0050b9767b
+master-g1b432502db	23	daf_butlerUtils	master-gb12ed14d28+13
+master-g1b432502db	23	afw	u.jbosch.DM-827-g6fc1c3d1a6
+master-g1b432502db	23	meas_algorithms	u.jbosch.DM-827-g8857e07a62
+master-g1b432502db	23	meas_astrom	u.jbosch.DM-827-gc6b973451a
+master-g1b432502db	23	mysqlpython	1.2.3+8
+master-g1b432502db	23	pipe_tasks	u.jbosch.DM-827-g94d2ee8cc7
+master-g1b432502db	23	meas_extensions_multiShapelet	master-g43064b73a7+24
