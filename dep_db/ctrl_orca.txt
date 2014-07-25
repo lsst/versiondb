@@ -180,3 +180,10 @@ u.jbosch.DM-827-gd5e0cca122	0	ctrl_provenance	u.jbosch.DM-827-g32bb9fcc69
 8.0.1.0	17	daf_persistence	master-g858fc3cd61+4
 8.0.1.0	17	ctrl_events	master-g0054bcf0f3+7
 8.0.1.0	17	ctrl_provenance	8.0.0.0+7
+8.0.1.0	18	cat	8.0.0.0+5
+8.0.1.0	18	utils	master-g7e816b2b5d+1
+8.0.1.0	18	pex_policy	master-g1b45812366+1
+8.0.1.0	18	pex_harness	8.0.0.0+23
+8.0.1.0	18	daf_persistence	master-g858fc3cd61+1
+8.0.1.0	18	ctrl_events	master-g0054bcf0f3+5
+8.0.1.0	18	ctrl_provenance	8.0.0.0+5
