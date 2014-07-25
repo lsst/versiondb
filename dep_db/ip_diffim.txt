@@ -262,3 +262,11 @@ u.jbosch.DM-827-gdee8d025aa	1	pex_config	master-g488456bb86+1
 u.jbosch.DM-827-gdee8d025aa	1	pipe_base	master-g0217dacde4+1
 u.jbosch.DM-827-gdee8d025aa	1	afwdata	8.0.0.1+3
 u.jbosch.DM-827-gdee8d025aa	1	matplotlib	0.0.1+1
+master-g6463df455a	5	afw	master-ge501f9eacb
+master-g6463df455a	5	meas_algorithms	master-g226094cd2d+1
+master-g6463df455a	5	meas_deblender	master-gf628ee8b48+22
+master-g6463df455a	5	numpy	0.0.1+1
+master-g6463df455a	5	pex_config	master-g488456bb86
+master-g6463df455a	5	pipe_base	master-g0e74bce734
+master-g6463df455a	5	afwdata	8.0.0.1+3
+master-g6463df455a	5	matplotlib	0.0.1+1

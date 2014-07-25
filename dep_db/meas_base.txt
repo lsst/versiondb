@@ -74,3 +74,7 @@ u.jbosch.DM-827-ge3c4ce7a75	0	afw	u.jbosch.DM-827-g6fc1c3d1a6
 u.jbosch.DM-827-ge3c4ce7a75	0	pipe_base	master-g0217dacde4+1
 u.jbosch.DM-827-ge3c4ce7a75	0	daf_base	u.jbosch.DM-827-gee7c544513
 u.jbosch.DM-827-ge3c4ce7a75	0	pex_config	master-g488456bb86+1
+master-g84ce51cfc5	3	afw	master-ge501f9eacb
+master-g84ce51cfc5	3	pipe_base	master-g0e74bce734
+master-g84ce51cfc5	3	daf_base	master-gba7c85d83f+2
+master-g84ce51cfc5	3	pex_config	master-g488456bb86

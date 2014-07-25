@@ -116,3 +116,7 @@ u.jbosch.DM-827-g8857e07a62	1	afw	u.jbosch.DM-827-g6fc1c3d1a6
 u.jbosch.DM-827-g8857e07a62	1	pex_logging	u.jbosch.DM-827-g3bfdc7bf6c
 u.jbosch.DM-827-g8857e07a62	1	pipe_base	master-g0217dacde4+1
 u.jbosch.DM-827-g8857e07a62	1	meas_base	u.jbosch.DM-827-ge3c4ce7a75
+master-g226094cd2d	1	afw	master-ge501f9eacb
+master-g226094cd2d	1	pex_logging	master-gb72f82c336+2
+master-g226094cd2d	1	pipe_base	master-g0e74bce734
+master-g226094cd2d	1	meas_base	master-g84ce51cfc5+3
