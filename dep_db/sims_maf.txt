@@ -390,3 +390,11 @@ master-g8d3f4a8147	0	palpy	2014.04.07
 master-g8d3f4a8147	0	healpy	1.7.4
 master-g8d3f4a8147	0	pex_config	8.0.0.0+1
 master-g8d3f4a8147	0	sims_catalogs_generation	master-g264462a115+3
+master-g8d3f4a8147	1	base	master-gf8e3da99db
+master-g8d3f4a8147	1	numpy	0.0.1+1
+master-g8d3f4a8147	1	matplotlib	0.0.1+1
+master-g8d3f4a8147	1	pyephem	3.7.5.1
+master-g8d3f4a8147	1	palpy	2014.04.07+1
+master-g8d3f4a8147	1	healpy	1.7.4+1
+master-g8d3f4a8147	1	pex_config	master-g488456bb86+2
+master-g8d3f4a8147	1	sims_catalogs_generation	master-g264462a115+5
