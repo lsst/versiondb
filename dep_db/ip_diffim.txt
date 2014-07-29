@@ -334,3 +334,11 @@ master-gf37d459824	0	pex_config	master-g488456bb86+2
 master-gf37d459824	0	pipe_base	master-g0e74bce734+1
 master-gf37d459824	0	afwdata	8.0.0.1+3
 master-gf37d459824	0	matplotlib	0.0.1+1
+master-gf37d459824	1	afw	tickets.DM-711-g63d083c15d
+master-gf37d459824	1	meas_algorithms	master-g226094cd2d+6
+master-gf37d459824	1	meas_deblender	master-gf628ee8b48+27
+master-gf37d459824	1	numpy	0.0.1+1
+master-gf37d459824	1	pex_config	master-g488456bb86+3
+master-gf37d459824	1	pipe_base	master-g0e74bce734+3
+master-gf37d459824	1	afwdata	8.0.0.1+4
+master-gf37d459824	1	matplotlib	0.0.1+1
