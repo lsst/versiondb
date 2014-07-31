@@ -25,3 +25,6 @@ master-g858fc3cd61	3	pex_policy	u.jbosch.DM-827-g0050b9767b
 master-g858fc3cd61	4	mysqlclient	5.1.65+3
 master-g858fc3cd61	4	pex_logging	master-gb72f82c336+3
 master-g858fc3cd61	4	pex_policy	master-g1b45812366+3
+9.0	0	mysqlclient	5.1.65+3
+9.0	0	pex_logging	9.0
+9.0	0	pex_policy	9.0
