@@ -403,3 +403,12 @@ master-gb014ff9ee3	13	doxygen	1.8.2+2
 9.0	1	pipe_base	9.0+1
 9.0	1	meas_algorithms	9.0+1
 9.0	1	doxygen	1.8.5
+9.0	2	boost	1.55.0.1+1
+9.0	2	numpy	0.0.1+1
+9.0	2	mysqlclient	5.1.73
+9.0	2	afw	master-g7e978163bc
+9.0	2	geom	8.0.0.1+3
+9.0	2	skypix	8.0.0.0+26
+9.0	2	pipe_base	9.0+2
+9.0	2	meas_algorithms	9.0+2
+9.0	2	doxygen	1.8.5

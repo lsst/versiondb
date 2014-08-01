@@ -208,3 +208,10 @@ u.jbosch.DM-827-g916e2b6fd9	0	afw	u.jbosch.DM-827-g6fc1c3d1a6
 8.0.0.0	28	daf_persistence	9.0+1
 8.0.0.0	28	ctrl_events	9.0+1
 8.0.0.0	28	afw	9.0+1
+8.0.0.0	29	daf_base	9.0+2
+8.0.0.0	29	pex_logging	9.0+2
+8.0.0.0	29	pex_exceptions	9.0+2
+8.0.0.0	29	pex_policy	9.0+2
+8.0.0.0	29	daf_persistence	9.0+2
+8.0.0.0	29	ctrl_events	9.0+2
+8.0.0.0	29	afw	master-g7e978163bc
