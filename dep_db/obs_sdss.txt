@@ -534,3 +534,11 @@ master-g1b432502db	47	meas_extensions_multiShapelet	master-g43064b73a7+34
 9.0	0	mysqlpython	1.2.3+8
 9.0	0	pipe_tasks	9.0
 9.0	0	meas_extensions_multiShapelet	9.0
+9.0	1	pex_policy	9.0+1
+9.0	1	daf_butlerUtils	9.0+1
+9.0	1	afw	9.0+1
+9.0	1	meas_algorithms	9.0+1
+9.0	1	meas_astrom	9.0+1
+9.0	1	mysqlpython	1.2.3+10
+9.0	1	pipe_tasks	9.0+1
+9.0	1	meas_extensions_multiShapelet	9.0+1
