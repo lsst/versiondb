@@ -243,3 +243,10 @@ u.jbosch.DM-827-gd5e0cca122	0	ctrl_provenance	u.jbosch.DM-827-g32bb9fcc69
 8.0.1.0	26	daf_persistence	9.0+4
 8.0.1.0	26	ctrl_events	9.0+4
 8.0.1.0	26	ctrl_provenance	8.0.0.0+12
+8.0.1.0	27	cat	8.0.0.0+13
+8.0.1.0	27	utils	9.0+4
+8.0.1.0	27	pex_policy	9.0+4
+8.0.1.0	27	pex_harness	8.0.0.0+32
+8.0.1.0	27	daf_persistence	9.0+4
+8.0.1.0	27	ctrl_events	9.0+4
+8.0.1.0	27	ctrl_provenance	8.0.0.0+12
