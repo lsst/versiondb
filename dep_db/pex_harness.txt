@@ -236,3 +236,10 @@ u.jbosch.DM-827-g916e2b6fd9	0	afw	u.jbosch.DM-827-g6fc1c3d1a6
 8.0.0.0	32	daf_persistence	9.0+4
 8.0.0.0	32	ctrl_events	9.0+4
 8.0.0.0	32	afw	u.price.DM-1019-g736465650a
+master-g3a467afa91	0	daf_base	master-g833d95eff5
+master-g3a467afa91	0	pex_logging	master-gd54699d4b1
+master-g3a467afa91	0	pex_exceptions	master-g3a93a35064
+master-g3a467afa91	0	pex_policy	master-gd6ff45bc6e
+master-g3a467afa91	0	daf_persistence	9.0+5
+master-g3a467afa91	0	ctrl_events	master-g37718e6ebc
+master-g3a467afa91	0	afw	master-g6478230a4e

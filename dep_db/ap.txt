@@ -448,3 +448,12 @@ master-gb014ff9ee3	13	doxygen	1.8.2+2
 9.0	6	pipe_base	tickets.DM-927-ga6502bc2d8
 9.0	6	meas_algorithms	9.0+6
 9.0	6	doxygen	1.8.5
+master-g8f36adc8c8	0	boost	1.55.0.1+2
+master-g8f36adc8c8	0	numpy	0.0.1+2
+master-g8f36adc8c8	0	mysqlclient	5.1.73
+master-g8f36adc8c8	0	afw	master-g6478230a4e
+master-g8f36adc8c8	0	geom	8.0.0.1+4
+master-g8f36adc8c8	0	skypix	8.0.0.0+30
+master-g8f36adc8c8	0	pipe_base	master-g767c8ebabf
+master-g8f36adc8c8	0	meas_algorithms	master-gd53b26432b
+master-g8f36adc8c8	0	doxygen	1.8.5

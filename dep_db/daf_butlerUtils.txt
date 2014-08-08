@@ -208,3 +208,10 @@ master-gb12ed14d28	18	pyfits	tickets.DM-711-g9b8711c984
 9.0	5	afw	u.price.DM-1019-g736465650a
 9.0	5	skypix	8.0.0.0+29
 9.0	5	pyfits	3.2.4+1
+9.0	6	daf_base	master-g833d95eff5
+9.0	6	pex_logging	master-gd54699d4b1
+9.0	6	pex_policy	master-gd6ff45bc6e
+9.0	6	daf_persistence	9.0+5
+9.0	6	afw	master-g6478230a4e
+9.0	6	skypix	8.0.0.0+30
+9.0	6	pyfits	3.2.4+1

@@ -40,3 +40,6 @@ u.jbosch.DM-827-g32bb9fcc69	0	pex_logging	u.jbosch.DM-827-g3bfdc7bf6c
 8.0.0.0	12	cat	8.0.0.0+13
 8.0.0.0	12	pex_policy	9.0+4
 8.0.0.0	12	pex_logging	9.0+4
+master-gb95a1fa6dc	0	cat	8.0.0.0+14
+master-gb95a1fa6dc	0	pex_policy	master-gd6ff45bc6e
+master-gb95a1fa6dc	0	pex_logging	master-gd54699d4b1

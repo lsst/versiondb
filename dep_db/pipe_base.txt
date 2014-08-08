@@ -208,3 +208,9 @@ tickets.DM-927-ga6502bc2d8	0	pex_config	9.0+4
 tickets.DM-927-ga6502bc2d8	0	utils	9.0+4
 tickets.DM-927-ga6502bc2d8	0	afw	9.1+1
 tickets.DM-927-ga6502bc2d8	0	obs_test	8.0.0.0+15
+master-g767c8ebabf	0	daf_persistence	9.0+5
+master-g767c8ebabf	0	pex_logging	master-gd54699d4b1
+master-g767c8ebabf	0	pex_config	9.0+5
+master-g767c8ebabf	0	utils	master-g406e1a2078
+master-g767c8ebabf	0	afw	master-g6478230a4e
+master-g767c8ebabf	0	obs_test	8.0.0.0+16
