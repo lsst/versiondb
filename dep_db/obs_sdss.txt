@@ -606,3 +606,11 @@ master-g1b432502db	47	meas_extensions_multiShapelet	master-g43064b73a7+34
 9.0	9	mysqlpython	1.2.3+11
 9.0	9	pipe_tasks	master-gc51746f683+1
 9.0	9	meas_extensions_multiShapelet	9.0+8
+9.0	10	pex_policy	release.Summer2014-gd6ff45bc6e
+9.0	10	daf_butlerUtils	9.0+7
+9.0	10	afw	release.Summer2014-g6478230a4e
+9.0	10	meas_algorithms	release.Summer2014-gd53b26432b
+9.0	10	meas_astrom	release.Summer2014-g3b028f38d7
+9.0	10	mysqlpython	1.2.3+11
+9.0	10	pipe_tasks	release.Summer2014-gc51746f683
+9.0	10	meas_extensions_multiShapelet	9.0+9
