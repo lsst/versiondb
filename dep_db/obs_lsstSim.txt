@@ -700,3 +700,12 @@ master-g73636eae1e	56	mysqlpython	1.2.3+8
 9.0	12	ip_isr	9.2
 9.0	12	pipe_tasks	master-g54b69be482
 9.0	12	mysqlpython	1.2.3+11
+9.0	13	daf_base	9.2
+9.0	13	pex_policy	9.2
+9.0	13	afw	9.2
+9.0	13	daf_persistence	9.0+7
+9.0	13	daf_butlerUtils	9.0+8
+9.0	13	meas_algorithms	9.2+1
+9.0	13	ip_isr	9.2+1
+9.0	13	pipe_tasks	u.jbosch.DM-978-g9194523312
+9.0	13	mysqlpython	1.2.3+11
