@@ -226,3 +226,9 @@ release.Summer2014-g767c8ebabf	0	obs_test	8.0.0.0+17
 9.2	0	utils	9.2
 9.2	0	afw	9.2
 9.2	0	obs_test	8.0.0.0+18
+9.2	1	daf_persistence	9.0+8
+9.2	1	pex_logging	9.2+1
+9.2	1	pex_config	9.0+8
+9.2	1	utils	9.2+1
+9.2	1	afw	9.2+1
+9.2	1	obs_test	8.0.0.0+19
