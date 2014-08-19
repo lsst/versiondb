@@ -212,3 +212,7 @@ release.Summer2014-gd53b26432b	0	meas_base	release.Summer2014-g4da113ce93
 9.2	4	pex_logging	9.2+1
 9.2	4	pipe_base	9.2+1
 9.2	4	meas_base	master-g9dc9c2256a+1
+tickets.DM-958-ge95976267c	0	afw	tickets.DM-958-gc2a7a9007a
+tickets.DM-958-ge95976267c	0	pex_logging	9.2
+tickets.DM-958-ge95976267c	0	pipe_base	9.2+2
+tickets.DM-958-ge95976267c	0	meas_base	tickets.DM-958-g6da281388f

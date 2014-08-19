@@ -166,3 +166,6 @@ master-g43064b73a7	34	shapelet	master-gfec14dd0de+16
 9.0	14	meas_algorithms	9.2+4
 9.0	14	afw	9.2+1
 9.0	14	shapelet	9.0+9
+9.0	15	meas_algorithms	tickets.DM-958-ge95976267c
+9.0	15	afw	tickets.DM-958-gc2a7a9007a
+9.0	15	shapelet	9.0+10
