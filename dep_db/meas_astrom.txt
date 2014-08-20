@@ -601,3 +601,12 @@ tickets.DM-958-g2edd692624	1	wcslib	4.14+5
 tickets.DM-958-g2edd692624	1	astrometry_net	0.50.1
 tickets.DM-958-g2edd692624	1	numpy	0.0.1+2
 tickets.DM-958-g2edd692624	1	matplotlib	0.0.1+2
+tickets.DM-958-g2edd692624	2	afw	tickets.DM-958-g2840d4ec83
+tickets.DM-958-g2edd692624	2	meas_algorithms	tickets.DM-958-ge95976267c+2
+tickets.DM-958-g2edd692624	2	pex_logging	9.2
+tickets.DM-958-g2edd692624	2	pex_config	9.0+7
+tickets.DM-958-g2edd692624	2	pipe_base	9.2+4
+tickets.DM-958-g2edd692624	2	wcslib	4.14+5
+tickets.DM-958-g2edd692624	2	astrometry_net	0.50.1
+tickets.DM-958-g2edd692624	2	numpy	0.0.1+2
+tickets.DM-958-g2edd692624	2	matplotlib	0.0.1+2
