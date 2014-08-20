@@ -534,3 +534,11 @@ tickets.DM-958-g19d923ab86	0	pex_config	9.0+7
 tickets.DM-958-g19d923ab86	0	pipe_base	9.2+5
 tickets.DM-958-g19d923ab86	0	afwdata	8.0.0.1+7
 tickets.DM-958-g19d923ab86	0	matplotlib	0.0.1+2
+master-g81111946cc	2	afw	master-g778eee48a3
+master-g81111946cc	2	meas_algorithms	9.2+5
+master-g81111946cc	2	meas_deblender	9.0+15
+master-g81111946cc	2	numpy	0.0.1+2
+master-g81111946cc	2	pex_config	9.0+7
+master-g81111946cc	2	pipe_base	9.2+6
+master-g81111946cc	2	afwdata	8.0.0.1+7
+master-g81111946cc	2	matplotlib	0.0.1+2

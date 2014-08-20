@@ -228,3 +228,7 @@ tickets.DM-958-ge95976267c	3	afw	tickets.DM-958-g8d9b3d3a66
 tickets.DM-958-ge95976267c	3	pex_logging	9.2
 tickets.DM-958-ge95976267c	3	pipe_base	9.2+5
 tickets.DM-958-ge95976267c	3	meas_base	tickets.DM-958-g6da281388f+3
+9.2	5	afw	master-g778eee48a3
+9.2	5	pex_logging	9.2
+9.2	5	pipe_base	9.2+6
+9.2	5	meas_base	master-g9dc9c2256a+2

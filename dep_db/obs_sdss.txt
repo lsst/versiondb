@@ -718,3 +718,11 @@ tickets.DM-958-g544918b561	0	meas_astrom	tickets.DM-958-g2edd692624+3
 tickets.DM-958-g544918b561	0	mysqlpython	1.2.3+11
 tickets.DM-958-g544918b561	0	pipe_tasks	tickets.DM-958-gd17f04a965+4
 tickets.DM-958-g544918b561	0	meas_extensions_multiShapelet	9.0+18
+9.0	23	pex_policy	9.2
+9.0	23	daf_butlerUtils	9.0+14
+9.0	23	afw	master-g778eee48a3
+9.0	23	meas_algorithms	9.2+5
+9.0	23	meas_astrom	9.2+5
+9.0	23	mysqlpython	1.2.3+11
+9.0	23	pipe_tasks	master-g8e4607d595+3
+9.0	23	meas_extensions_multiShapelet	9.0+19
