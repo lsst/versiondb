@@ -710,3 +710,11 @@ master-g1b432502db	47	meas_extensions_multiShapelet	master-g43064b73a7+34
 9.0	22	mysqlpython	1.2.3+11
 9.0	22	pipe_tasks	tickets.DM-958-gd17f04a965+4
 9.0	22	meas_extensions_multiShapelet	9.0+18
+tickets.DM-958-g544918b561	0	pex_policy	9.2
+tickets.DM-958-g544918b561	0	daf_butlerUtils	9.0+13
+tickets.DM-958-g544918b561	0	afw	tickets.DM-958-g8d9b3d3a66
+tickets.DM-958-g544918b561	0	meas_algorithms	tickets.DM-958-ge95976267c+3
+tickets.DM-958-g544918b561	0	meas_astrom	tickets.DM-958-g2edd692624+3
+tickets.DM-958-g544918b561	0	mysqlpython	1.2.3+11
+tickets.DM-958-g544918b561	0	pipe_tasks	tickets.DM-958-gd17f04a965+4
+tickets.DM-958-g544918b561	0	meas_extensions_multiShapelet	9.0+18
