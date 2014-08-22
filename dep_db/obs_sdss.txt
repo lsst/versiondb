@@ -750,3 +750,11 @@ tickets.DM-958-g544918b561	0	meas_extensions_multiShapelet	9.0+18
 9.0	26	mysqlpython	1.2.3+11
 9.0	26	pipe_tasks	master-g8e4607d595+6
 9.0	26	meas_extensions_multiShapelet	9.0+22
+u.jbosch.DM-958-g0ed66bbb5f	0	pex_policy	9.2+2
+u.jbosch.DM-958-g0ed66bbb5f	0	daf_butlerUtils	9.0+16
+u.jbosch.DM-958-g0ed66bbb5f	0	afw	u.jbosch.DM-958-g56df42d2bb
+u.jbosch.DM-958-g0ed66bbb5f	0	meas_algorithms	tickets.DM-958-ge95976267c+4
+u.jbosch.DM-958-g0ed66bbb5f	0	meas_astrom	tickets.DM-958-g2edd692624+4
+u.jbosch.DM-958-g0ed66bbb5f	0	mysqlpython	1.2.3+11
+u.jbosch.DM-958-g0ed66bbb5f	0	pipe_tasks	u.jbosch.DM-958-g02df497d06
+u.jbosch.DM-958-g0ed66bbb5f	0	meas_extensions_multiShapelet	9.0+23

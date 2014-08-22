@@ -566,3 +566,11 @@ master-g81111946cc	5	pex_config	9.0+9
 master-g81111946cc	5	pipe_base	9.2+7
 master-g81111946cc	5	afwdata	8.0.0.1+8
 master-g81111946cc	5	matplotlib	0.0.1+2
+tickets.DM-958-g19d923ab86	1	afw	u.jbosch.DM-958-g56df42d2bb
+tickets.DM-958-g19d923ab86	1	meas_algorithms	tickets.DM-958-ge95976267c+4
+tickets.DM-958-g19d923ab86	1	meas_deblender	tickets.DM-958-g7eb70a4c7c+4
+tickets.DM-958-g19d923ab86	1	numpy	0.0.1+2
+tickets.DM-958-g19d923ab86	1	pex_config	9.0+9
+tickets.DM-958-g19d923ab86	1	pipe_base	9.2+8
+tickets.DM-958-g19d923ab86	1	afwdata	8.0.0.1+8
+tickets.DM-958-g19d923ab86	1	matplotlib	0.0.1+2
