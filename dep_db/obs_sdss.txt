@@ -766,3 +766,11 @@ u.jbosch.DM-958-g0ed66bbb5f	0	meas_extensions_multiShapelet	9.0+23
 9.0	27	mysqlpython	1.2.3+11
 9.0	27	pipe_tasks	master-g05f0a2d5a7
 9.0	27	meas_extensions_multiShapelet	9.0+24
+master-g0ac7921dc0	0	pex_policy	9.2+2
+master-g0ac7921dc0	0	daf_butlerUtils	9.0+17
+master-g0ac7921dc0	0	afw	master-ge549d4c1bd
+master-g0ac7921dc0	0	meas_algorithms	master-g3d996953e7
+master-g0ac7921dc0	0	meas_astrom	master-g3f11100fca
+master-g0ac7921dc0	0	mysqlpython	1.2.3+11
+master-g0ac7921dc0	0	pipe_tasks	master-g05f0a2d5a7
+master-g0ac7921dc0	0	meas_extensions_multiShapelet	9.0+24
