@@ -248,3 +248,7 @@ tickets.DM-958-ge95976267c	4	afw	u.jbosch.DM-958-g56df42d2bb
 tickets.DM-958-ge95976267c	4	pex_logging	9.2+2
 tickets.DM-958-ge95976267c	4	pipe_base	9.2+8
 tickets.DM-958-ge95976267c	4	meas_base	u.jbosch.DM-958-g7f59d92370
+master-g3d996953e7	0	afw	master-ge549d4c1bd
+master-g3d996953e7	0	pex_logging	9.2+2
+master-g3d996953e7	0	pipe_base	9.2+9
+master-g3d996953e7	0	meas_base	master-gae0805d6d7

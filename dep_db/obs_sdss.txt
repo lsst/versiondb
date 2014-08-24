@@ -758,3 +758,11 @@ u.jbosch.DM-958-g0ed66bbb5f	0	meas_astrom	tickets.DM-958-g2edd692624+4
 u.jbosch.DM-958-g0ed66bbb5f	0	mysqlpython	1.2.3+11
 u.jbosch.DM-958-g0ed66bbb5f	0	pipe_tasks	u.jbosch.DM-958-g02df497d06
 u.jbosch.DM-958-g0ed66bbb5f	0	meas_extensions_multiShapelet	9.0+23
+9.0	27	pex_policy	9.2+2
+9.0	27	daf_butlerUtils	9.0+17
+9.0	27	afw	master-ge549d4c1bd
+9.0	27	meas_algorithms	master-g3d996953e7
+9.0	27	meas_astrom	master-g3f11100fca
+9.0	27	mysqlpython	1.2.3+11
+9.0	27	pipe_tasks	master-g05f0a2d5a7
+9.0	27	meas_extensions_multiShapelet	9.0+24
