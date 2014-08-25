@@ -96,3 +96,17 @@ tickets.DM-70-g3d6c1db32a	0	protobuf	2.4.1
 tickets.DM-70-g3d6c1db32a	0	twisted	12.0.0
 tickets.DM-70-g3d6c1db32a	0	xrootd	4.0.0rc3-qsClient2
 tickets.DM-70-g3d6c1db32a	0	zookeeper	3.4.6
+master-g3dc7485e5d	1	antlr	2.7.7
+master-g3dc7485e5d	1	boost	1.55.0.1+2
+master-g3dc7485e5d	1	db	1.0.3+1
+master-g3dc7485e5d	1	swig	2.0.12
+master-g3dc7485e5d	1	geom	8.0.0.1+5
+master-g3dc7485e5d	1	kazoo	2.0b1
+master-g3dc7485e5d	1	luaxmlrpc	1.2.1-2
+master-g3dc7485e5d	1	mysqlproxy	0.8.2
+master-g3dc7485e5d	1	mysqlpython	1.2.3+11
+master-g3dc7485e5d	1	numpy	0.0.1+2
+master-g3dc7485e5d	1	protobuf	2.4.1
+master-g3dc7485e5d	1	twisted	12.0.0
+master-g3dc7485e5d	1	xrootd	3.2.8-qsPatch5
+master-g3dc7485e5d	1	zookeeper	3.4.6
