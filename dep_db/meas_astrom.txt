@@ -673,3 +673,12 @@ master-g3f11100fca	0	wcslib	4.14+5
 master-g3f11100fca	0	astrometry_net	0.50.1
 master-g3f11100fca	0	numpy	0.0.1+2
 master-g3f11100fca	0	matplotlib	0.0.1+2
+master-g3f11100fca	1	afw	u.jbosch.DM-1058-g8c220a82f9
+master-g3f11100fca	1	meas_algorithms	master-g3d996953e7+1
+master-g3f11100fca	1	pex_logging	9.2+2
+master-g3f11100fca	1	pex_config	9.0+9
+master-g3f11100fca	1	pipe_base	9.2+10
+master-g3f11100fca	1	wcslib	4.14+5
+master-g3f11100fca	1	astrometry_net	0.50.1
+master-g3f11100fca	1	numpy	0.0.1+2
+master-g3f11100fca	1	matplotlib	0.0.1+2
