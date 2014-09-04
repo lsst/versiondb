@@ -709,3 +709,12 @@ tickets.DM-1070-g7bd2fc3639	0	wcslib	4.14+5
 tickets.DM-1070-g7bd2fc3639	0	astrometry_net	0.50.1
 tickets.DM-1070-g7bd2fc3639	0	numpy	0.0.1+2
 tickets.DM-1070-g7bd2fc3639	0	matplotlib	0.0.1+2
+master-g3f11100fca	4	afw	master-gffe80e26e1
+master-g3f11100fca	4	meas_algorithms	master-g3d996953e7+4
+master-g3f11100fca	4	pex_logging	9.2+2
+master-g3f11100fca	4	pex_config	9.0+9
+master-g3f11100fca	4	pipe_base	9.2+12
+master-g3f11100fca	4	wcslib	4.14+5
+master-g3f11100fca	4	astrometry_net	0.50.1
+master-g3f11100fca	4	numpy	0.0.1+2
+master-g3f11100fca	4	matplotlib	0.0.1+2

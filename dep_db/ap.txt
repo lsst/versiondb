@@ -646,3 +646,12 @@ tickets.DM-1070-g6de5fb8c9b	0	skypix	8.0.0.0+45
 tickets.DM-1070-g6de5fb8c9b	0	pipe_base	9.2+13
 tickets.DM-1070-g6de5fb8c9b	0	meas_algorithms	tickets.DM-1070-g8eb96543de
 tickets.DM-1070-g6de5fb8c9b	0	doxygen	1.8.5
+9.2	18	boost	1.55.0.1+2
+9.2	18	numpy	0.0.1+2
+9.2	18	mysqlclient	5.1.73
+9.2	18	afw	master-gffe80e26e1
+9.2	18	geom	8.0.0.1+5
+9.2	18	skypix	8.0.0.0+44
+9.2	18	pipe_base	9.2+12
+9.2	18	meas_algorithms	master-g3d996953e7+4
+9.2	18	doxygen	1.8.5

@@ -806,3 +806,11 @@ master-g0ac7921dc0	4	meas_astrom	tickets.DM-1070-g7bd2fc3639
 master-g0ac7921dc0	4	mysqlpython	1.2.3+11
 master-g0ac7921dc0	4	pipe_tasks	tickets.DM-1070-g7c7bc46778
 master-g0ac7921dc0	4	meas_extensions_multiShapelet	9.0+28
+master-g0ac7921dc0	5	pex_policy	9.2+2
+master-g0ac7921dc0	5	daf_butlerUtils	9.0+20
+master-g0ac7921dc0	5	afw	master-gffe80e26e1
+master-g0ac7921dc0	5	meas_algorithms	master-g3d996953e7+4
+master-g0ac7921dc0	5	meas_astrom	master-g3f11100fca+4
+master-g0ac7921dc0	5	mysqlpython	1.2.3+11
+master-g0ac7921dc0	5	pipe_tasks	master-gf3e39ff4aa
+master-g0ac7921dc0	5	meas_extensions_multiShapelet	9.0+29
