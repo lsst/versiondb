@@ -727,3 +727,12 @@ master-g1ef8ddc794	0	wcslib	4.14+5
 master-g1ef8ddc794	0	astrometry_net	0.50.1
 master-g1ef8ddc794	0	numpy	0.0.1+2
 master-g1ef8ddc794	0	matplotlib	0.0.1+2
+master-g1ef8ddc794	1	afw	master-g67bd3b2eb7
+master-g1ef8ddc794	1	meas_algorithms	master-gd134c1442c
+master-g1ef8ddc794	1	pex_logging	9.2+2
+master-g1ef8ddc794	1	pex_config	9.0+9
+master-g1ef8ddc794	1	pipe_base	9.2+14
+master-g1ef8ddc794	1	wcslib	4.14+5
+master-g1ef8ddc794	1	astrometry_net	0.50.1
+master-g1ef8ddc794	1	numpy	0.0.1+2
+master-g1ef8ddc794	1	matplotlib	0.0.1+2
