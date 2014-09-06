@@ -654,3 +654,11 @@ master-gb7068840f7	9	pex_config	9.0+9
 master-gb7068840f7	9	pipe_base	9.2+16
 master-gb7068840f7	9	afwdata	8.0.0.1+8
 master-gb7068840f7	9	matplotlib	0.0.1+2
+master-gb7068840f7	10	afw	master-ge7a2be3732
+master-gb7068840f7	10	meas_algorithms	master-gd134c1442c+3
+master-gb7068840f7	10	meas_deblender	master-gd842813eb3+4
+master-gb7068840f7	10	numpy	0.0.1+2
+master-gb7068840f7	10	pex_config	9.0+9
+master-gb7068840f7	10	pipe_base	9.2+17
+master-gb7068840f7	10	afwdata	8.0.0.1+8
+master-gb7068840f7	10	matplotlib	0.0.1+2
