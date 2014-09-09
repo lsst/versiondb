@@ -952,3 +952,12 @@ master-g73636eae1e	56	mysqlpython	1.2.3+8
 9.0	40	ip_isr	master-gd545ee275d+22
 9.0	40	pipe_tasks	master-g82466bf720+6
 9.0	40	mysqlpython	1.2.3+11
+tickets.DM-840-g442b630b02	0	daf_base	9.2+2
+tickets.DM-840-g442b630b02	0	pex_policy	9.2+2
+tickets.DM-840-g442b630b02	0	afw	tickets.DM-840-g3b42c93798
+tickets.DM-840-g442b630b02	0	daf_persistence	9.0+9
+tickets.DM-840-g442b630b02	0	daf_butlerUtils	tickets.DM-840-g8a5b066c39
+tickets.DM-840-g442b630b02	0	meas_algorithms	tickets.DM-840-g6f4cb65efa
+tickets.DM-840-g442b630b02	0	ip_isr	tickets.DM-840-gf405b6100b
+tickets.DM-840-g442b630b02	0	pipe_tasks	tickets.DM-840-g2c45560205
+tickets.DM-840-g442b630b02	0	mysqlpython	1.2.3+11

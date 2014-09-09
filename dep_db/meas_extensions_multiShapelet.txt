@@ -235,3 +235,6 @@ master-g43064b73a7	34	shapelet	master-gfec14dd0de+16
 master-gcb77a07cd6	0	meas_algorithms	master-gd134c1442c+5
 master-gcb77a07cd6	0	afw	master-ge7a2be3732
 master-gcb77a07cd6	0	shapelet	9.0+25
+master-gcb77a07cd6	1	meas_algorithms	tickets.DM-840-g6f4cb65efa
+master-gcb77a07cd6	1	afw	tickets.DM-840-g3b42c93798
+master-gcb77a07cd6	1	shapelet	9.0+26
