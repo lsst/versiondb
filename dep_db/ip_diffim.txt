@@ -718,3 +718,11 @@ master-gb7068840f7	15	pex_config	9.0+9
 master-gb7068840f7	15	pipe_base	9.2+21
 master-gb7068840f7	15	afwdata	8.0.0.1+8
 master-gb7068840f7	15	matplotlib	0.0.1+2
+tickets.DM-840-g9f3230280a	2	afw	tickets.DM-840-g2f6171e82c
+tickets.DM-840-g9f3230280a	2	meas_algorithms	tickets.DM-840-gd16f294433
+tickets.DM-840-g9f3230280a	2	meas_deblender	tickets.DM-840-g6608291035+2
+tickets.DM-840-g9f3230280a	2	numpy	0.0.1+2
+tickets.DM-840-g9f3230280a	2	pex_config	9.0+9
+tickets.DM-840-g9f3230280a	2	pipe_base	9.2+22
+tickets.DM-840-g9f3230280a	2	afwdata	8.0.0.1+8
+tickets.DM-840-g9f3230280a	2	matplotlib	0.0.1+2
