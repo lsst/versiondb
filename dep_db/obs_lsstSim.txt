@@ -1024,3 +1024,12 @@ tickets.DM-840-g442b630b02	4	meas_algorithms	tickets.DM-840-g650c7401aa
 tickets.DM-840-g442b630b02	4	ip_isr	tickets.DM-840-g645f68605b
 tickets.DM-840-g442b630b02	4	pipe_tasks	tickets.DM-840-g2c45560205+4
 tickets.DM-840-g442b630b02	4	mysqlpython	1.2.3+11
+9.0	44	daf_base	9.2+2
+9.0	44	pex_policy	9.2+2
+9.0	44	afw	master-g3c6fd7ec90
+9.0	44	daf_persistence	9.0+9
+9.0	44	daf_butlerUtils	9.0+27
+9.0	44	meas_algorithms	master-gd134c1442c+9
+9.0	44	ip_isr	master-gd545ee275d+26
+9.0	44	pipe_tasks	master-g82466bf720+10
+9.0	44	mysqlpython	1.2.3+11
