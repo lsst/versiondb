@@ -1042,3 +1042,12 @@ tickets.DM-1176-g2392e6dd52	0	meas_algorithms	tickets.DM-1176-g2d3a5fccae
 tickets.DM-1176-g2392e6dd52	0	ip_isr	tickets.DM-1176-g219584a3ca
 tickets.DM-1176-g2392e6dd52	0	pipe_tasks	tickets.DM-1176-g35e3701f96
 tickets.DM-1176-g2392e6dd52	0	mysqlpython	1.2.3+11
+9.0	45	daf_base	9.2+2
+9.0	45	pex_policy	9.2+2
+9.0	45	afw	master-g3c6fd7ec90
+9.0	45	daf_persistence	9.0+9
+9.0	45	daf_butlerUtils	9.0+27
+9.0	45	meas_algorithms	master-gd134c1442c+10
+9.0	45	ip_isr	master-gd545ee275d+27
+9.0	45	pipe_tasks	master-g82466bf720+11
+9.0	45	mysqlpython	1.2.3+11
