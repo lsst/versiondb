@@ -1227,3 +1227,12 @@ master-gdeff072769	2	palpy	2014.04.07
 master-gdeff072769	2	python	0.0.1
 master-gdeff072769	2	pymssql	2.0.0
 master-gdeff072769	2	obs_lsstSim	8.0.0.0+5
+master-gdeff072769	3	utils	9.2+3
+master-gdeff072769	3	sims_catalogs_measures	master-g2508ac3aed+2
+master-gdeff072769	3	sims_catalogs_generation	master-gf598e5f8b8+1
+master-gdeff072769	3	sims_coordUtils	master-g29b80d0dd6+1
+master-gdeff072769	3	sims_photUtils	master-g2226c4439b+3
+master-gdeff072769	3	palpy	2014.04.07+2
+master-gdeff072769	3	python	0.0.2
+master-gdeff072769	3	pymssql	2.0.0+2
+master-gdeff072769	3	obs_lsstSim	9.0+47
