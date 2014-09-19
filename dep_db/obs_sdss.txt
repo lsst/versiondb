@@ -974,3 +974,11 @@ master-g0ac7921dc0	24	meas_astrom	master-g1ef8ddc794+16
 master-g0ac7921dc0	24	mysqlpython	1.2.3+11
 master-g0ac7921dc0	24	pipe_tasks	master-g82466bf720+12
 master-g0ac7921dc0	24	meas_extensions_multiShapelet	master-gcb77a07cd6+10
+tickets.DM-1176-g28963c2f92	1	pex_policy	9.2+2
+tickets.DM-1176-g28963c2f92	1	daf_butlerUtils	tickets.DM-1176-gbef47559ea+1
+tickets.DM-1176-g28963c2f92	1	afw	tickets.DM-1176-geea3eb4aaa
+tickets.DM-1176-g28963c2f92	1	meas_algorithms	tickets.DM-1176-g503e67413f
+tickets.DM-1176-g28963c2f92	1	meas_astrom	tickets.DM-1176-g77ecbec742+1
+tickets.DM-1176-g28963c2f92	1	mysqlpython	1.2.3+11
+tickets.DM-1176-g28963c2f92	1	pipe_tasks	tickets.DM-1176-g35e3701f96+1
+tickets.DM-1176-g28963c2f92	1	meas_extensions_multiShapelet	tickets.DM-1176-g836124fdaa+1

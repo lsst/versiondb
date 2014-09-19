@@ -1123,3 +1123,12 @@ master-g2b157218fd	0	scisql	0.3+3
 8.0.0.1	122	matplotlib	0.0.1+2
 8.0.0.1	122	cat	8.0.0.0+18
 8.0.0.1	122	scisql	0.3.2
+8.0.0.1	123	ap	master-g0122578495+18
+8.0.0.1	123	ctrl_orca	9.2+24
+8.0.0.1	123	pipe_tasks	tickets.DM-1176-g35e3701f96+1
+8.0.0.1	123	obs_lsstSim	tickets.DM-1176-g2392e6dd52+1
+8.0.0.1	123	meas_extensions_multiShapelet	tickets.DM-1176-g836124fdaa+1
+8.0.0.1	123	astrometry_net_data	8.0.0.0+8
+8.0.0.1	123	matplotlib	0.0.1+2
+8.0.0.1	123	cat	8.0.0.0+18
+8.0.0.1	123	scisql	0.3.2
