@@ -271,3 +271,6 @@ master-gcb77a07cd6	10	shapelet	9.0+29
 tickets.DM-1176-g836124fdaa	1	meas_algorithms	tickets.DM-1176-g503e67413f
 tickets.DM-1176-g836124fdaa	1	afw	tickets.DM-1176-geea3eb4aaa
 tickets.DM-1176-g836124fdaa	1	shapelet	9.0+32
+tickets.DM-1176-g836124fdaa	2	meas_algorithms	tickets.DM-1176-g503e67413f+1
+tickets.DM-1176-g836124fdaa	2	afw	tickets.DM-1176-geea3eb4aaa+1
+tickets.DM-1176-g836124fdaa	2	shapelet	9.0+33

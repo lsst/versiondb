@@ -439,3 +439,10 @@ release.Summer2014-g1eac04101c	0	ctrl_provenance	release.Summer2014-gb95a1fa6dc
 9.2	24	daf_persistence	9.0+9
 9.2	24	ctrl_events	9.2+2
 9.2	24	ctrl_provenance	9.2+2
+9.2	25	cat	8.0.0.0+19
+9.2	25	utils	9.2+3
+9.2	25	pex_policy	9.2+3
+9.2	25	pex_harness	9.2+25
+9.2	25	daf_persistence	9.0+10
+9.2	25	ctrl_events	9.2+3
+9.2	25	ctrl_provenance	9.2+3
