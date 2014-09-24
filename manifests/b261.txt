@@ -1,0 +1,33 @@
+# product                 SHA1                                      Version                       
+BUILD=b261
+expat                     4a0254e0b24aa2186953e2bb74a61f90b990e9cd  2.0.1                                    
+libevent                  410bd5abbb136cc04fe7400bceb37a15f72c61bc  2.0.16-stable                            
+antlr                     c05368a54fb7186d977896fa1a6db94a02d6d887  2.7.7                                    
+swig                      fe723b8c12ccc30aa562504ab34487b53b0d6abb  2.0.12                                   
+zookeeper                 c48457902fcd1cfdfac8f0fc00c1ea8482dbcbf6  3.4.6                                    
+mysqlclient               ada095532201e04202dd53a8e6b3f842aa928e24  5.1.73                                   
+xrootd                    2798bbf74885a406985a0e9d084d282f9ba76de0  4.0.0rc4-qsClient2                       
+mysql                     5d79af2a508b164763f31a1b823690f1226bbb02  5.1.65                                   
+doxygen                   16ba5fa702ef543facf1ab4530b6a436f20f8f8b  1.8.5                                    
+lua                       8b632a67b3d0a5e0c29dc21dd5b95f52888958c1  5.1.4                                    
+python                    cbf93ab65b96fb3a73837dd7646f9762acbe3ef4  0.0.2                                    
+luaexpat                  4b0ede14508ca6f98a25a83c0b3adaba84e70669  1.1                                      lua,expat
+mysqlpython               bd46a5f42237ae63804db3ad11256bb03e4667c8  1.2.3+11                                 python,mysqlclient
+boost                     bcb3a2454f9bf9c6645d55a3a04ac6342950b014  master-gbcb3a2454f                       python
+protobuf                  832d49817023913013a8c10258ed7efb24e37135  2.4.1                                    python
+kazoo                     89c833ba84d23b27c5b9bfb08ed6d172a62229fe  2.0b1                                    python
+mysqlproxy                92bb7f61066b94abbb9d9e72f617dc55719cb34f  0.8.2                                    mysql,lua,libevent
+zopeinterface             9b9798ca42bed6025836f2f6b99b3170b890a1c5  3.8.0                                    python
+luasocket                 59c9a137eb23878b52b8cc7b73652b11a6d78f45  2.0.2                                    lua
+scisql                    ccebf271e692800d10f974a5df3bc75cf3d7828b  0.3.2                                    mysql,python
+numpy                     e3014bbc3285368c8fb605a5225c1affc7fdd34f  0.0.1+2                                  python
+twisted                   b8024db1dcc4424aa12c95f6d8f9a8f99ecdf653  12.0.0                                   python,zopeinterface
+scons                     04d5b3952f4eb952fc89f93b1da9aa716d2f8c69  2.3.0+1                                  python
+sconsUtils                c88cf636552dc14223ec83de1c51d27105c31121  master-gc88cf63655                       scons,doxygen
+luaxmlrpc                 1bdc2373fbdc5a6f03d038620f44cab70edfe1b9  1.2.1-2                                  lua,luaexpat,luasocket
+db                        ed2dc995c69e0c791fc822db30c05e2799594d83  1.0.3.lsst1+2                            python,mysqlclient,mysqlpython,sconsUtils
+partition                 b40bdee9243ad5b494cdda813f9b82291303308b  master-gb40bdee924                       boost,sconsUtils
+geom                      e36792e6e9d9e1dba9c850006c7d1175100e0ab0  8.0.0.1+7                                sconsUtils
+qserv                     fb2c1a6ae7e22a72b44170a593f3312955a6ddc0  master-gfb2c1a6ae7+1                     antlr,boost,db,swig,geom,kazoo,luaxmlrpc,mysqlproxy,mysqlpython,numpy,protobuf,scisql,twisted,xrootd,zookeeper
+qserv_testdata            08e11b0d688a47c626e1223a1e974c4ce8f0e70e  master-g08e11b0d68                       qserv
+qserv_distrib             35cc638215f828d7db194adb2cdc790c6b308e37  master-g35cc638215                       qserv,partition,qserv_testdata
