@@ -130,3 +130,7 @@
 8.0.0.1	32	daf_persistence	9.0+11
 8.0.0.1	32	pex_config	9.0+11
 8.0.0.1	32	ndarray	8.0.0.0+16
+8.0.0.1	33	lsst_thirdparty	8.0.0.0+24
+8.0.0.1	33	daf_persistence	9.0+12
+8.0.0.1	33	pex_config	9.0+12
+8.0.0.1	33	ndarray	8.0.0.0+17

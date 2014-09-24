@@ -1105,3 +1105,12 @@ master-g5194e28263	1	meas_algorithms	master-gb4b9ec973c+1
 master-g5194e28263	1	ip_isr	master-gf86d3bf08b+1
 master-g5194e28263	1	pipe_tasks	master-geb22ebdab7+1
 master-g5194e28263	1	mysqlpython	1.2.3+11
+master-g5194e28263	2	daf_base	9.2+5
+master-g5194e28263	2	pex_policy	9.2+5
+master-g5194e28263	2	afw	master-gfe62f89551+1
+master-g5194e28263	2	daf_persistence	9.0+12
+master-g5194e28263	2	daf_butlerUtils	master-g049f91dc7a+1
+master-g5194e28263	2	meas_algorithms	master-gb4b9ec973c+2
+master-g5194e28263	2	ip_isr	master-gf86d3bf08b+2
+master-g5194e28263	2	pipe_tasks	master-geb22ebdab7+2
+master-g5194e28263	2	mysqlpython	1.2.3+11
