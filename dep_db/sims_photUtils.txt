@@ -724,3 +724,12 @@ master-g2226c4439b	6	sims_coordUtils	master-g29b80d0dd6+4
 master-g2226c4439b	6	python	0.0.2
 master-g2226c4439b	6	throughputs	master-ga6e2efc0c9
 master-g2226c4439b	6	pyfits	3.2.4+1
+master-g2226c4439b	7	utils	9.2+5
+master-g2226c4439b	7	sims_catalogs_measures	master-g2508ac3aed+5
+master-g2226c4439b	7	sims_catalogs_generation	bugfix.CATSIM-90-improve-test-coverage-g6300f48e67
+master-g2226c4439b	7	sims_sed_library	2014.09.08
+master-g2226c4439b	7	sims_dustmaps	2014.04.17
+master-g2226c4439b	7	sims_coordUtils	master-g29b80d0dd6+5
+master-g2226c4439b	7	python	0.0.2
+master-g2226c4439b	7	throughputs	master-ga6e2efc0c9
+master-g2226c4439b	7	pyfits	3.2.4+1
