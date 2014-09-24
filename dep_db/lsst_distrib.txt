@@ -997,3 +997,10 @@ master-gd080185724	38	testing_endtoend	8.0.0.0+44
 9.0	64	ctrl_platform_lsst	8.0.0.1+67
 9.0	64	datarel	8.0.0.1+130
 9.0	64	testing_endtoend	8.0.0.0+101
+9.0	65	lsst	master-g77178ff2cd+2
+9.0	65	lsst_apps	8.0.0.1+131
+9.0	65	ctrl_execute	8.1.1.0+63
+9.0	65	ctrl_platform_gordon	8.1.0.0+63
+9.0	65	ctrl_platform_lsst	8.0.0.1+67
+9.0	65	datarel	8.0.0.1+131
+9.0	65	testing_endtoend	8.0.0.0+102
