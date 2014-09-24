@@ -284,3 +284,14 @@ master-g512c3fc7d5	0	cat	8.0.0.0+20
 master-g512c3fc7d5	0	daf_persistence	9.0+11
 master-g512c3fc7d5	0	swig	2.0.12
 master-g512c3fc7d5	0	doxygen	1.8.5
+9.3	0	boost	master-gbcb3a2454f
+9.3	0	activemqcpp	3.5.0+13
+9.3	0	utils	9.2+4
+9.3	0	daf_base	9.2+4
+9.3	0	pex_logging	9.2+4
+9.3	0	pex_exceptions	9.2+4
+9.3	0	pex_policy	9.2+4
+9.3	0	cat	8.0.0.0+20
+9.3	0	daf_persistence	9.0+11
+9.3	0	swig	2.0.12
+9.3	0	doxygen	1.8.5
