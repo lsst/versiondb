@@ -1006,3 +1006,11 @@ master-gb608554d9d	1	meas_astrom	master-g56c6eaf7d1
 master-gb608554d9d	1	mysqlpython	1.2.3+11
 master-gb608554d9d	1	pipe_tasks	master-geb22ebdab7
 master-gb608554d9d	1	meas_extensions_multiShapelet	master-gd4d564a7d5
+master-gb608554d9d	2	pex_policy	9.2+4
+master-gb608554d9d	2	daf_butlerUtils	master-g049f91dc7a
+master-gb608554d9d	2	afw	master-gfe62f89551
+master-gb608554d9d	2	meas_algorithms	master-gb4b9ec973c+1
+master-gb608554d9d	2	meas_astrom	master-g56c6eaf7d1+1
+master-gb608554d9d	2	mysqlpython	1.2.3+11
+master-gb608554d9d	2	pipe_tasks	master-geb22ebdab7+1
+master-gb608554d9d	2	meas_extensions_multiShapelet	master-gd4d564a7d5+1
