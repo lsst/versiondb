@@ -1344,3 +1344,12 @@ feature.CATSIM-104-documentation-and-examples-for-g390e94615a	0	palpy	2014.04.07
 feature.CATSIM-104-documentation-and-examples-for-g390e94615a	0	python	0.0.2
 feature.CATSIM-104-documentation-and-examples-for-g390e94615a	0	pymssql	2.0.0+2
 feature.CATSIM-104-documentation-and-examples-for-g390e94615a	0	obs_lsstSim	master-g5194e28263+5
+master-g7983880227	0	utils	9.2+5
+master-g7983880227	0	sims_catalogs_measures	master-g2508ac3aed+6
+master-g7983880227	0	sims_catalogs_generation	master-g6300f48e67
+master-g7983880227	0	sims_coordUtils	master-g29b80d0dd6+7
+master-g7983880227	0	sims_photUtils	feature.CATSIM-112-g2364a9719d
+master-g7983880227	0	palpy	2014.04.07+2
+master-g7983880227	0	python	0.0.2
+master-g7983880227	0	pymssql	2.0.0+2
+master-g7983880227	0	obs_lsstSim	master-g5194e28263+5
