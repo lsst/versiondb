@@ -18,3 +18,7 @@
 1.0.3.lsst1	2	mysqlclient	5.1.73
 1.0.3.lsst1	2	mysqlpython	1.2.3+11
 1.0.3.lsst1	2	sconsUtils	master-gc88cf63655
+1.0.3.lsst1	3	python	0.0.2
+1.0.3.lsst1	3	mysqlclient	5.1.73
+1.0.3.lsst1	3	mysqlpython	1.2.3+11
+1.0.3.lsst1	3	sconsUtils	tickets.DM-1209-g9f5d2e680e
