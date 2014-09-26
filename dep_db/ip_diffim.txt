@@ -870,3 +870,11 @@ u.pgee.DM-1071-g3d32682725	1	pex_config	9.0+14
 u.pgee.DM-1071-g3d32682725	1	pipe_base	9.2+31
 u.pgee.DM-1071-g3d32682725	1	afwdata	8.0.0.1+12
 u.pgee.DM-1071-g3d32682725	1	matplotlib	0.0.1+2
+master-g5dd0a78d52	8	afw	master-g229767422b+2
+master-g5dd0a78d52	8	meas_algorithms	master-gb4b9ec973c+8
+master-g5dd0a78d52	8	meas_deblender	master-gb769b6c842+8
+master-g5dd0a78d52	8	numpy	0.0.1+2
+master-g5dd0a78d52	8	pex_config	9.0+14
+master-g5dd0a78d52	8	pipe_base	9.2+31
+master-g5dd0a78d52	8	afwdata	8.0.0.1+12
+master-g5dd0a78d52	8	matplotlib	0.0.1+2
