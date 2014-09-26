@@ -678,3 +678,11 @@ master-gccad58485b	5	palpy	2014.04.07+2
 master-gccad58485b	5	healpy	1.7.4+4
 master-gccad58485b	5	pex_config	9.0+14
 master-gccad58485b	5	sims_catalogs_generation	master-g6300f48e67+2
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	base	9.1+8
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	numpy	0.0.1+2
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	matplotlib	0.0.1+2
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	pyephem	3.7.5.1
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	palpy	2014.04.07+2
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	healpy	1.7.4+4
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	pex_config	9.0+14
+bugfix.OPSIM-542-showmaf.py-dies-if-no-display-info-g13a4a47e1d	0	sims_catalogs_generation	master-g6300f48e67+2
