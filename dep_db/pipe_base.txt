@@ -418,3 +418,9 @@ u.price.DM-893-gb9b117ff79	0	pex_config	9.0+14
 u.price.DM-893-gb9b117ff79	0	utils	9.2+7
 u.price.DM-893-gb9b117ff79	0	afw	u.price.DM-893-gb4c7305a3d
 u.price.DM-893-gb9b117ff79	0	obs_test	8.0.0.0+25
+9.2	32	daf_persistence	9.0+14
+9.2	32	pex_logging	9.2+7
+9.2	32	pex_config	9.0+14
+9.2	32	utils	9.2+7
+9.2	32	afw	master-gbecbd2e9c3
+9.2	32	obs_test	8.0.0.0+25
