@@ -710,3 +710,11 @@ feature.CATSIM-99-refactor-DBObject-g83701cecd9	0	palpy	2014.04.07+2
 feature.CATSIM-99-refactor-DBObject-g83701cecd9	0	healpy	1.7.4+4
 feature.CATSIM-99-refactor-DBObject-g83701cecd9	0	pex_config	9.0+14
 feature.CATSIM-99-refactor-DBObject-g83701cecd9	0	sims_catalogs_generation	feature.CATSIM-99-refactor-DBObject-gc9d883f357
+master-gc14b2fdbf1	1	base	9.1+9
+master-gc14b2fdbf1	1	numpy	0.0.1+2
+master-gc14b2fdbf1	1	matplotlib	0.0.1+2
+master-gc14b2fdbf1	1	pyephem	3.7.5.1
+master-gc14b2fdbf1	1	palpy	2014.04.07+2
+master-gc14b2fdbf1	1	healpy	1.7.4+4
+master-gc14b2fdbf1	1	pex_config	9.0+15
+master-gc14b2fdbf1	1	sims_catalogs_generation	master-g6300f48e67+3

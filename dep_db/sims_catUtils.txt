@@ -1452,3 +1452,12 @@ feature.CATSIM-99-refactor-DBObject-g1a636bfcbc	0	palpy	2014.04.07+2
 feature.CATSIM-99-refactor-DBObject-g1a636bfcbc	0	python	0.0.2
 feature.CATSIM-99-refactor-DBObject-g1a636bfcbc	0	pymssql	2.0.0+2
 feature.CATSIM-99-refactor-DBObject-g1a636bfcbc	0	obs_lsstSim	master-g5194e28263+13
+master-g7983880227	11	utils	9.2+8
+master-g7983880227	11	sims_catalogs_measures	master-g2508ac3aed+9
+master-g7983880227	11	sims_catalogs_generation	master-g6300f48e67+3
+master-g7983880227	11	sims_coordUtils	master-g29b80d0dd6+12
+master-g7983880227	11	sims_photUtils	master-g2364a9719d+6
+master-g7983880227	11	palpy	2014.04.07+2
+master-g7983880227	11	python	0.0.2
+master-g7983880227	11	pymssql	2.0.0+2
+master-g7983880227	11	obs_lsstSim	master-g5194e28263+15
