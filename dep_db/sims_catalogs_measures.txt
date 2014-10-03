@@ -219,3 +219,6 @@ feature.CATSIM-99-refactor-DBObject-g73770ed9a4	0	sims_catalogs_generation	featu
 master-g2508ac3aed	9	utils	9.2+8
 master-g2508ac3aed	9	python	0.0.2
 master-g2508ac3aed	9	sims_catalogs_generation	master-g6300f48e67+3
+feature.CATSIM-130-update-bounds-API-gb33d76db5b	0	utils	9.2+8
+feature.CATSIM-130-update-bounds-API-gb33d76db5b	0	python	0.0.2
+feature.CATSIM-130-update-bounds-API-gb33d76db5b	0	sims_catalogs_generation	feature.CATSIM-130-update-bounds-API-g2cd64cfbcd
