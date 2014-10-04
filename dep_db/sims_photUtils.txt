@@ -877,3 +877,12 @@ feature.CATSIM-130-update-bounds-API-ge2bc6e73cc	0	sims_coordUtils	feature.CATSI
 feature.CATSIM-130-update-bounds-API-ge2bc6e73cc	0	python	0.0.2
 feature.CATSIM-130-update-bounds-API-ge2bc6e73cc	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-130-update-bounds-API-ge2bc6e73cc	0	pyfits	3.2.4+1
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	utils	9.2+8
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	sims_catalogs_measures	feature.CATSIM-130-update-bounds-API-gd49d38e47a
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	sims_catalogs_generation	feature.CATSIM-130-update-bounds-API-g31e77b6141
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	sims_sed_library	2014.09.08
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	sims_dustmaps	master-ge49b71e5da
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	sims_coordUtils	feature.CATSIM-130-update-bounds-API-gdaee7d5bc6+1
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	python	0.0.2
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-130-update-bounds-API-ga0486c050d	0	pyfits	3.2.4+1

@@ -1542,3 +1542,12 @@ feature.CATSIM-130-update-bounds-API-gd16c53fa5b	0	palpy	2014.04.07+2
 feature.CATSIM-130-update-bounds-API-gd16c53fa5b	0	python	0.0.2
 feature.CATSIM-130-update-bounds-API-gd16c53fa5b	0	pymssql	2.0.0+2
 feature.CATSIM-130-update-bounds-API-gd16c53fa5b	0	obs_lsstSim	master-g5194e28263+22
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	utils	9.2+8
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	sims_catalogs_measures	feature.CATSIM-130-update-bounds-API-gd49d38e47a
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	sims_catalogs_generation	feature.CATSIM-130-update-bounds-API-g31e77b6141
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	sims_coordUtils	feature.CATSIM-130-update-bounds-API-gdaee7d5bc6+1
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	sims_photUtils	feature.CATSIM-130-update-bounds-API-ga0486c050d
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	palpy	2014.04.07+2
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	python	0.0.2
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	pymssql	2.0.0+2
+feature.CATSIM-130-update-bounds-API-g30ba79e02e	0	obs_lsstSim	master-g5194e28263+22

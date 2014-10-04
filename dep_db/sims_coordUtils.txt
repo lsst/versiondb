@@ -690,3 +690,11 @@ feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	0	throughputs	master-ga6e2efc0c
 feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	0	palpy	2014.04.07+2
 feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	0	pyfits	3.2.4+1
 feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	0	afw	master-g798c5d360f
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	sims_catalogs_measures	feature.CATSIM-130-update-bounds-API-gd49d38e47a
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	utils	9.2+8
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	base	9.1+9
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	python	0.0.2
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	throughputs	master-ga6e2efc0c9
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	palpy	2014.04.07+2
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	pyfits	3.2.4+1
+feature.CATSIM-130-update-bounds-API-gdaee7d5bc6	1	afw	master-g798c5d360f
