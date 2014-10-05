@@ -734,3 +734,11 @@ master-gc14b2fdbf1	3	palpy	2014.04.07+2
 master-gc14b2fdbf1	3	healpy	1.7.4+4
 master-gc14b2fdbf1	3	pex_config	9.0+15
 master-gc14b2fdbf1	3	sims_catalogs_generation	feature.CATSIM-130-update-bounds-API-g31e77b6141
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	base	9.1+9
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	numpy	0.0.1+2
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	matplotlib	0.0.1+2
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	pyephem	3.7.5.1
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	palpy	2014.04.07+2
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	healpy	1.7.4+4
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	pex_config	9.0+15
+feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	sims_catalogs_generation	master-g6300f48e67+3
