@@ -742,3 +742,11 @@ feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	palpy	2014.0
 feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	healpy	1.7.4+4
 feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	pex_config	9.0+15
 feature.OPSIM-534-add-capability-to-override-metadata-gd862d39961	0	sims_catalogs_generation	master-g6300f48e67+3
+master-g4993c4cbcc	0	base	9.1+9
+master-g4993c4cbcc	0	numpy	0.0.1+2
+master-g4993c4cbcc	0	matplotlib	0.0.1+2
+master-g4993c4cbcc	0	pyephem	3.7.5.1
+master-g4993c4cbcc	0	palpy	2014.04.07+2
+master-g4993c4cbcc	0	healpy	1.7.4+4
+master-g4993c4cbcc	0	pex_config	9.0+15
+master-g4993c4cbcc	0	sims_catalogs_generation	master-g6300f48e67+3
