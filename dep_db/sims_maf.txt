@@ -761,3 +761,14 @@ master-gd4a8f2fdc0	0	sims_catalogs_generation	master-g6300f48e67+3
 master-gd4a8f2fdc0	0	sims_photUtils	master-g2364a9719d+12
 master-gd4a8f2fdc0	0	sims_coordUtils	master-g93e2e2d778
 master-gd4a8f2fdc0	0	sims_dustmaps	master-ge49b71e5da
+master-gd4a8f2fdc0	1	base	9.1+9
+master-gd4a8f2fdc0	1	numpy	0.0.1+2
+master-gd4a8f2fdc0	1	matplotlib	0.0.1+2
+master-gd4a8f2fdc0	1	pyephem	3.7.5.1
+master-gd4a8f2fdc0	1	palpy	2014.04.07+2
+master-gd4a8f2fdc0	1	healpy	1.7.4+4
+master-gd4a8f2fdc0	1	pex_config	9.0+15
+master-gd4a8f2fdc0	1	sims_catalogs_generation	master-g6300f48e67+3
+master-gd4a8f2fdc0	1	sims_photUtils	master-g2364a9719d+13
+master-gd4a8f2fdc0	1	sims_coordUtils	master-g93e2e2d778
+master-gd4a8f2fdc0	1	sims_dustmaps	2014.09.23
