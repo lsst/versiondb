@@ -268,3 +268,13 @@ master-ga9ffcc60e0	2	daf_base	9.2+8
 master-ga9ffcc60e0	2	daf_persistence	9.0+16
 master-ga9ffcc60e0	2	utils	9.2+8
 master-ga9ffcc60e0	2	pex_exceptions	9.2+8
+master-ga9ffcc60e0	3	python	0.0.2
+master-ga9ffcc60e0	3	mysqlclient	5.1.73
+master-ga9ffcc60e0	3	mysqlpython	1.2.3+11
+master-ga9ffcc60e0	3	boost	1.55.0.1.lsst1
+master-ga9ffcc60e0	3	pex_logging	master-ga3c551941d
+master-ga9ffcc60e0	3	pex_policy	master-g6f03882114
+master-ga9ffcc60e0	3	daf_base	9.2+8
+master-ga9ffcc60e0	3	daf_persistence	9.0+17
+master-ga9ffcc60e0	3	utils	9.2+8
+master-ga9ffcc60e0	3	pex_exceptions	9.2+8
