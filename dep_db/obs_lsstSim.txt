@@ -1303,3 +1303,12 @@ master-g5194e28263	23	meas_algorithms	master-gb4b9ec973c+18
 master-g5194e28263	23	ip_isr	master-gf86d3bf08b+18
 master-g5194e28263	23	pipe_tasks	u.pgee.DM-1041-g072a7fe834
 master-g5194e28263	23	mysqlpython	1.2.3+11
+master-g5194e28263	24	daf_base	9.2+8
+master-g5194e28263	24	pex_policy	9.2+8
+master-g5194e28263	24	afw	master-g798c5d360f+1
+master-g5194e28263	24	daf_persistence	9.0+16
+master-g5194e28263	24	daf_butlerUtils	master-g049f91dc7a+12
+master-g5194e28263	24	meas_algorithms	master-gb4b9ec973c+19
+master-g5194e28263	24	ip_isr	master-gf86d3bf08b+19
+master-g5194e28263	24	pipe_tasks	master-g13478a4316+1
+master-g5194e28263	24	mysqlpython	1.2.3+11

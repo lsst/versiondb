@@ -1222,3 +1222,11 @@ u.pgee.DM-1041-g29fa49a9bb	0	meas_astrom	master-g56c6eaf7d1+18
 u.pgee.DM-1041-g29fa49a9bb	0	mysqlpython	1.2.3+11
 u.pgee.DM-1041-g29fa49a9bb	0	pipe_tasks	u.pgee.DM-1041-g072a7fe834
 u.pgee.DM-1041-g29fa49a9bb	0	meas_extensions_multiShapelet	master-gd4d564a7d5+19
+master-gf25e758b85	2	pex_policy	9.2+8
+master-gf25e758b85	2	daf_butlerUtils	master-g049f91dc7a+12
+master-gf25e758b85	2	afw	master-g798c5d360f+1
+master-gf25e758b85	2	meas_algorithms	master-gb4b9ec973c+19
+master-gf25e758b85	2	meas_astrom	master-g56c6eaf7d1+19
+master-gf25e758b85	2	mysqlpython	1.2.3+11
+master-gf25e758b85	2	pipe_tasks	master-g13478a4316+1
+master-gf25e758b85	2	meas_extensions_multiShapelet	master-gd4d564a7d5+20
