@@ -82,3 +82,6 @@ master-g858fc3cd61	4	pex_policy	master-g1b45812366+3
 master-g0d9f6bd099	0	mysqlclient	5.1.73
 master-g0d9f6bd099	0	pex_logging	master-ga3c551941d
 master-g0d9f6bd099	0	pex_policy	master-g6f03882114
+master-g0d9f6bd099	1	mysqlclient	5.1.73
+master-g0d9f6bd099	1	pex_logging	master-ga3c551941d+1
+master-g0d9f6bd099	1	pex_policy	master-g6f03882114+1

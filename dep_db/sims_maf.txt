@@ -827,3 +827,14 @@ master-gd4a8f2fdc0	6	sims_catalogs_generation	master-g6300f48e67+3
 master-gd4a8f2fdc0	6	sims_photUtils	bugfix.CATSIM-129-cull-the-m-flares-g44978b5ebe
 master-gd4a8f2fdc0	6	sims_coordUtils	master-g93e2e2d778+3
 master-gd4a8f2fdc0	6	sims_dustmaps	2014.09.23
+master-gd4a8f2fdc0	7	base	9.1+10
+master-gd4a8f2fdc0	7	numpy	0.0.1+2
+master-gd4a8f2fdc0	7	matplotlib	0.0.1+2
+master-gd4a8f2fdc0	7	pyephem	3.7.5.1
+master-gd4a8f2fdc0	7	palpy	2014.04.07+2
+master-gd4a8f2fdc0	7	healpy	1.7.4+4
+master-gd4a8f2fdc0	7	pex_config	9.0+17
+master-gd4a8f2fdc0	7	sims_catalogs_generation	master-g6300f48e67+4
+master-gd4a8f2fdc0	7	sims_photUtils	master-g9b088c3c9b
+master-gd4a8f2fdc0	7	sims_coordUtils	master-g93e2e2d778+4
+master-gd4a8f2fdc0	7	sims_dustmaps	2014.09.23

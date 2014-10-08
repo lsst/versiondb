@@ -225,3 +225,6 @@ feature.CATSIM-130-update-bounds-API-gb33d76db5b	0	sims_catalogs_generation	feat
 feature.CATSIM-130-update-bounds-API-gd49d38e47a	0	utils	9.2+8
 feature.CATSIM-130-update-bounds-API-gd49d38e47a	0	python	0.0.2
 feature.CATSIM-130-update-bounds-API-gd49d38e47a	0	sims_catalogs_generation	feature.CATSIM-130-update-bounds-API-g31e77b6141
+master-g2508ac3aed	10	utils	9.2+9
+master-g2508ac3aed	10	python	0.0.2
+master-g2508ac3aed	10	sims_catalogs_generation	master-g6300f48e67+4

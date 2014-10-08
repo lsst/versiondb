@@ -579,3 +579,10 @@ release.Summer2014-g1eac04101c	0	ctrl_provenance	release.Summer2014-gb95a1fa6dc
 9.2	44	daf_persistence	master-g0d9f6bd099
 9.2	44	ctrl_events	master-g50b5c1aacd
 9.2	44	ctrl_provenance	9.2+12
+9.2	45	cat	master-ga9ffcc60e0+5
+9.2	45	utils	9.2+9
+9.2	45	pex_policy	master-g6f03882114+1
+9.2	45	pex_harness	9.2+45
+9.2	45	daf_persistence	master-g0d9f6bd099+1
+9.2	45	ctrl_events	master-g50b5c1aacd+1
+9.2	45	ctrl_provenance	9.2+13
