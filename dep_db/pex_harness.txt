@@ -551,3 +551,10 @@ release.Summer2014-g3a467afa91	0	afw	release.Summer2014-g6478230a4e
 9.2	42	daf_persistence	9.0+17
 9.2	42	ctrl_events	9.3+7
 9.2	42	afw	master-g798c5d360f+2
+9.2	43	daf_base	9.2+8
+9.2	43	pex_logging	master-ga3c551941d
+9.2	43	pex_exceptions	9.2+8
+9.2	43	pex_policy	master-g6f03882114
+9.2	43	daf_persistence	master-g0d9f6bd099
+9.2	43	ctrl_events	9.3+8
+9.2	43	afw	master-g798c5d360f+3
