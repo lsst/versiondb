@@ -1126,3 +1126,9 @@ master-g552f5f0666	5	pipe_tasks	master-g13478a4316+3
 master-g552f5f0666	5	obs_lsstSim	master-g5194e28263+26
 master-g552f5f0666	5	obs_sdss	master-gf25e758b85+6
 master-g552f5f0666	5	obs_test	8.0.0.0+29
+master-g552f5f0666	6	lsst_libs	8.0.0.1+40
+master-g552f5f0666	6	meas_deblender	master-gb769b6c842+21
+master-g552f5f0666	6	pipe_tasks	u.pgee.DM-1041-g072a7fe834+1
+master-g552f5f0666	6	obs_lsstSim	master-g5194e28263+27
+master-g552f5f0666	6	obs_sdss	u.pgee.DM-1041-g29fa49a9bb+1
+master-g552f5f0666	6	obs_test	8.0.0.0+29
