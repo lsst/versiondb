@@ -860,3 +860,14 @@ master-gd4a8f2fdc0	9	sims_catalogs_generation	master-g96af6211aa
 master-gd4a8f2fdc0	9	sims_photUtils	feature.CATSIM-121-add-alex-abate-s-igm-code-into-gc966b0eb24
 master-gd4a8f2fdc0	9	sims_coordUtils	master-g93e2e2d778+5
 master-gd4a8f2fdc0	9	sims_dustmaps	2014.09.23
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	base	9.1+10
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	numpy	0.0.1+2
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	matplotlib	0.0.1+2
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	pyephem	3.7.5.1
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	palpy	2014.04.07+2
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	healpy	1.7.4+4
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	pex_config	9.0+17
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	sims_catalogs_generation	feature.CATSIM-99-refactor-DBObject-g73107ad5a5
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	sims_photUtils	feature.CATSIM-99-refactor-DBObject-gb6b6314e87
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	sims_coordUtils	feature.CATSIM-99-refactor-DBObject-gde4d60a5ce
+feature.CATSIM-99-refactor-DBObject-g51c14787b2	0	sims_dustmaps	2014.09.23

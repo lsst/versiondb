@@ -1546,3 +1546,9 @@ master-g69b085209b	220	sims_catalogs_generation	master-g96af6211aa
 master-g69b085209b	220	sims_catalogs_measures	master-g2508ac3aed+11
 master-g69b085209b	220	sims_sed_library	2014.10.06
 master-g69b085209b	220	sims_dustmaps	2014.09.23
+master-g69b085209b	221	sims_maf	feature.CATSIM-99-refactor-DBObject-g51c14787b2
+master-g69b085209b	221	sims_catUtils	feature.CATSIM-99-refactor-DBObject-g080e9b2258
+master-g69b085209b	221	sims_catalogs_generation	feature.CATSIM-99-refactor-DBObject-g73107ad5a5
+master-g69b085209b	221	sims_catalogs_measures	feature.CATSIM-99-refactor-DBObject-g73770ed9a4+1
+master-g69b085209b	221	sims_sed_library	2014.10.06
+master-g69b085209b	221	sims_dustmaps	2014.09.23
