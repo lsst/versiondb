@@ -1162,3 +1162,9 @@ master-g552f5f0666	11	pipe_tasks	master-g379087737a+3
 master-g552f5f0666	11	obs_lsstSim	master-g5194e28263+31
 master-g552f5f0666	11	obs_sdss	master-g6fe02f90bb
 master-g552f5f0666	11	obs_test	8.0.0.0+30
+master-g552f5f0666	12	lsst_libs	8.0.0.1+41
+master-g552f5f0666	12	meas_deblender	master-gb769b6c842+25
+master-g552f5f0666	12	pipe_tasks	master-g379087737a+4
+master-g552f5f0666	12	obs_lsstSim	master-g5194e28263+32
+master-g552f5f0666	12	obs_sdss	master-g6fe02f90bb+1
+master-g552f5f0666	12	obs_test	8.0.0.0+30
