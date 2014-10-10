@@ -1078,3 +1078,12 @@ master-g604cf44c83	0	skypix	8.0.0.0+74
 master-g604cf44c83	0	pipe_base	9.2+41
 master-g604cf44c83	0	meas_algorithms	master-g7bce1f4e06
 master-g604cf44c83	0	doxygen	1.8.5
+master-g604cf44c83	1	boost	1.55.0.1.lsst1
+master-g604cf44c83	1	numpy	0.0.1+2
+master-g604cf44c83	1	mysqlclient	5.1.73
+master-g604cf44c83	1	afw	master-gab8dab66a1+1
+master-g604cf44c83	1	geom	8.0.0.1+11
+master-g604cf44c83	1	skypix	8.0.0.0+75
+master-g604cf44c83	1	pipe_base	9.2+42
+master-g604cf44c83	1	meas_algorithms	master-g7bce1f4e06+2
+master-g604cf44c83	1	doxygen	1.8.5

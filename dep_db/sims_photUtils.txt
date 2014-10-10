@@ -993,3 +993,12 @@ feature.CATSIM-99-refactor-DBObject-gb6b6314e87	0	sims_coordUtils	feature.CATSIM
 feature.CATSIM-99-refactor-DBObject-gb6b6314e87	0	python	0.0.2
 feature.CATSIM-99-refactor-DBObject-gb6b6314e87	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-99-refactor-DBObject-gb6b6314e87	0	pyfits	3.2.4+1
+master-g9b088c3c9b	2	utils	9.2+10
+master-g9b088c3c9b	2	sims_catalogs_measures	master-g2508ac3aed+12
+master-g9b088c3c9b	2	sims_catalogs_generation	master-g96af6211aa+1
+master-g9b088c3c9b	2	sims_sed_library	2014.10.06
+master-g9b088c3c9b	2	sims_dustmaps	2014.09.23
+master-g9b088c3c9b	2	sims_coordUtils	master-g93e2e2d778+6
+master-g9b088c3c9b	2	python	0.0.2
+master-g9b088c3c9b	2	throughputs	master-ga6e2efc0c9
+master-g9b088c3c9b	2	pyfits	3.2.4+1

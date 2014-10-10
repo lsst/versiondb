@@ -1527,3 +1527,11 @@ master-g670d49097a	0	astrometry_net_data	8.0.0.0+13
 master-g670d49097a	0	matplotlib	0.0.1+2
 master-g670d49097a	0	cat	master-ga9ffcc60e0+5
 master-g670d49097a	0	scisql	0.3.3
+master-g670d49097a	1	ap	master-g604cf44c83+1
+master-g670d49097a	1	ctrl_orca	9.2+46
+master-g670d49097a	1	pipe_tasks	master-g379087737a+5
+master-g670d49097a	1	obs_lsstSim	master-g5194e28263+33
+master-g670d49097a	1	astrometry_net_data	8.0.0.0+14
+master-g670d49097a	1	matplotlib	0.0.1+2
+master-g670d49097a	1	cat	master-ga9ffcc60e0+6
+master-g670d49097a	1	scisql	0.3.3
