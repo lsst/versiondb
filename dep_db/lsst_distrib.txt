@@ -1284,3 +1284,10 @@ master-gd080185724	38	testing_endtoend	8.0.0.0+44
 9.0	105	ctrl_platform_lsst	8.0.0.1+83
 9.0	105	datarel	8.0.0.1+166
 9.0	105	testing_endtoend	8.0.0.0+129
+9.0	106	lsst	master-geeb256c6d7
+9.0	106	lsst_apps	master-g552f5f0666+11
+9.0	106	ctrl_execute	8.1.1.0+79
+9.0	106	ctrl_platform_gordon	8.1.0.0+79
+9.0	106	ctrl_platform_lsst	8.0.0.1+83
+9.0	106	datarel	master-g670d49097a
+9.0	106	testing_endtoend	master-ge6b054c9fd
