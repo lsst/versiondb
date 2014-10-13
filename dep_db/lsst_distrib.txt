@@ -1305,3 +1305,10 @@ u.ktlim.removeSConstruct-g389c00c463	0	ctrl_platform_gordon	8.1.0.0+80
 u.ktlim.removeSConstruct-g389c00c463	0	ctrl_platform_lsst	8.0.0.1+84
 u.ktlim.removeSConstruct-g389c00c463	0	datarel	master-g670d49097a+1
 u.ktlim.removeSConstruct-g389c00c463	0	testing_endtoend	master-ge6b054c9fd+1
+9.0	108	lsst	master-geeb256c6d7+1
+9.0	108	lsst_apps	master-g552f5f0666+14
+9.0	108	ctrl_execute	8.1.1.0+80
+9.0	108	ctrl_platform_gordon	8.1.0.0+80
+9.0	108	ctrl_platform_lsst	8.0.0.1+84
+9.0	108	datarel	master-g670d49097a+2
+9.0	108	testing_endtoend	master-ge6b054c9fd+1
