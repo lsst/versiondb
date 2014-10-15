@@ -1785,3 +1785,12 @@ feature.CATSIM-130-update-bounds-API-gc94a91d0c1	0	palpy	1.2
 feature.CATSIM-130-update-bounds-API-gc94a91d0c1	0	python	0.0.2
 feature.CATSIM-130-update-bounds-API-gc94a91d0c1	0	pymssql	2.0.0+2
 feature.CATSIM-130-update-bounds-API-gc94a91d0c1	0	obs_lsstSim	master-g5194e28263+38
+master-gd98a030508	7	utils	9.2+11
+master-gd98a030508	7	sims_catalogs_measures	master-g03f7278ee9+1
+master-gd98a030508	7	sims_catalogs_generation	master-g112d69d45f+1
+master-gd98a030508	7	sims_coordUtils	master-g2705dbc173+4
+master-gd98a030508	7	sims_photUtils	master-g88c718ccf0+4
+master-gd98a030508	7	palpy	1.2
+master-gd98a030508	7	python	0.0.2
+master-gd98a030508	7	pymssql	2.0.0+2
+master-gd98a030508	7	obs_lsstSim	master-g5194e28263+38
