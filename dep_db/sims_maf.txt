@@ -992,3 +992,14 @@ master-g0e981d7807	2	sims_catalogs_generation	master-g943e2fcbac
 master-g0e981d7807	2	sims_photUtils	master-gf09067888d
 master-g0e981d7807	2	sims_coordUtils	master-g82fd0ad134
 master-g0e981d7807	2	sims_dustmaps	2014.09.23
+master-g4533c637b3	0	base	9.1+12
+master-g4533c637b3	0	numpy	0.0.1+2
+master-g4533c637b3	0	matplotlib	0.0.1+2
+master-g4533c637b3	0	pyephem	3.7.5.1
+master-g4533c637b3	0	palpy	1.2
+master-g4533c637b3	0	healpy	1.7.4+4
+master-g4533c637b3	0	pex_config	9.0+19
+master-g4533c637b3	0	sims_catalogs_generation	master-g943e2fcbac
+master-g4533c637b3	0	sims_photUtils	feature.CATSIM-121-add-alex-abate-s-igm-code-into-g9db1a084be+1
+master-g4533c637b3	0	sims_coordUtils	master-g82fd0ad134
+master-g4533c637b3	0	sims_dustmaps	2014.09.23
