@@ -981,3 +981,14 @@ master-g0e981d7807	1	sims_catalogs_generation	master-g112d69d45f+1
 master-g0e981d7807	1	sims_photUtils	master-g88c718ccf0+4
 master-g0e981d7807	1	sims_coordUtils	master-g2705dbc173+4
 master-g0e981d7807	1	sims_dustmaps	2014.09.23
+master-g0e981d7807	2	base	9.1+12
+master-g0e981d7807	2	numpy	0.0.1+2
+master-g0e981d7807	2	matplotlib	0.0.1+2
+master-g0e981d7807	2	pyephem	3.7.5.1
+master-g0e981d7807	2	palpy	1.2
+master-g0e981d7807	2	healpy	1.7.4+4
+master-g0e981d7807	2	pex_config	9.0+19
+master-g0e981d7807	2	sims_catalogs_generation	master-g943e2fcbac
+master-g0e981d7807	2	sims_photUtils	master-gf09067888d
+master-g0e981d7807	2	sims_coordUtils	master-g82fd0ad134
+master-g0e981d7807	2	sims_dustmaps	2014.09.23
