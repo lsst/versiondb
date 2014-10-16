@@ -502,3 +502,9 @@ u.price.DM-893-gb9b117ff79	0	obs_test	8.0.0.0+25
 9.2	45	utils	9.2+11
 9.2	45	afw	master-g51a67dff1f
 9.2	45	obs_test	8.0.0.0+32
+9.2	46	daf_persistence	master-g0d9f6bd099+4
+9.2	46	pex_logging	master-ga3c551941d+4
+9.2	46	pex_config	9.0+20
+9.2	46	utils	9.2+12
+9.2	46	afw	tickets.DM-768-gff27aae1e2
+9.2	46	obs_test	8.0.0.0+33

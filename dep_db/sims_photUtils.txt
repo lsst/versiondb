@@ -1128,3 +1128,12 @@ master-gf09067888d	5	sims_coordUtils	feature.CATSIM-127-vectorize-astrometry-g20
 master-gf09067888d	5	python	0.0.2
 master-gf09067888d	5	throughputs	master-ga6e2efc0c9
 master-gf09067888d	5	pyfits	3.2.4+1
+master-gf09067888d	6	utils	9.2+12
+master-gf09067888d	6	sims_catalogs_measures	master-g6c9cadf211+1
+master-gf09067888d	6	sims_catalogs_generation	master-g943e2fcbac+1
+master-gf09067888d	6	sims_sed_library	2014.10.06
+master-gf09067888d	6	sims_dustmaps	2014.09.23
+master-gf09067888d	6	sims_coordUtils	master-g82fd0ad134+5
+master-gf09067888d	6	python	0.0.2
+master-gf09067888d	6	throughputs	master-ga6e2efc0c9
+master-gf09067888d	6	pyfits	3.2.4+1
