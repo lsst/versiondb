@@ -1848,3 +1848,12 @@ feature.CATSIM-91-simplify-phoSim-input-g033e643f2b	2	palpy	1.2
 feature.CATSIM-91-simplify-phoSim-input-g033e643f2b	2	python	0.0.2
 feature.CATSIM-91-simplify-phoSim-input-g033e643f2b	2	pymssql	2.0.0+2
 feature.CATSIM-91-simplify-phoSim-input-g033e643f2b	2	obs_lsstSim	master-g5194e28263+39
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	utils	9.2+11
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	sims_catalogs_measures	feature.CATSIM-91-simplify-phoSim-input-g66990aad6c
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	sims_catalogs_generation	master-g943e2fcbac
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	sims_coordUtils	master-g82fd0ad134+3
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	sims_photUtils	master-gf09067888d+3
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	palpy	1.2
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	python	0.0.2
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	pymssql	2.0.0+2
+feature.CATSIM-91-simplify-phoSim-input-g551cdb6aa5	0	obs_lsstSim	master-g5194e28263+39
