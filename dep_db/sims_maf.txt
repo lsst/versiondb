@@ -1036,3 +1036,14 @@ master-g4533c637b3	3	sims_catalogs_generation	master-g943e2fcbac
 master-g4533c637b3	3	sims_photUtils	master-gf09067888d+2
 master-g4533c637b3	3	sims_coordUtils	master-g82fd0ad134+2
 master-g4533c637b3	3	sims_dustmaps	2014.09.23
+master-g4533c637b3	4	base	9.1+12
+master-g4533c637b3	4	numpy	0.0.1+2
+master-g4533c637b3	4	matplotlib	0.0.1+2
+master-g4533c637b3	4	pyephem	3.7.5.1
+master-g4533c637b3	4	palpy	1.2
+master-g4533c637b3	4	healpy	1.7.4+4
+master-g4533c637b3	4	pex_config	9.0+19
+master-g4533c637b3	4	sims_catalogs_generation	master-g943e2fcbac
+master-g4533c637b3	4	sims_photUtils	master-gf09067888d+3
+master-g4533c637b3	4	sims_coordUtils	master-g82fd0ad134+3
+master-g4533c637b3	4	sims_dustmaps	2014.09.23
