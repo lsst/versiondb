@@ -1124,3 +1124,14 @@ master-g4511a0cace	0	sims_catalogs_generation	master-g943e2fcbac
 master-g4511a0cace	0	sims_photUtils	master-gf09067888d+4
 master-g4511a0cace	0	sims_coordUtils	master-g82fd0ad134+4
 master-g4511a0cace	0	sims_dustmaps	2014.09.23
+master-g4511a0cace	1	base	9.1+12
+master-g4511a0cace	1	numpy	0.0.1+2
+master-g4511a0cace	1	matplotlib	0.0.1+2
+master-g4511a0cace	1	pyephem	3.7.5.1
+master-g4511a0cace	1	palpy	1.2
+master-g4511a0cace	1	healpy	1.8.1
+master-g4511a0cace	1	pex_config	9.0+21
+master-g4511a0cace	1	sims_catalogs_generation	master-g943e2fcbac
+master-g4511a0cace	1	sims_photUtils	master-gf09067888d+7
+master-g4511a0cace	1	sims_coordUtils	master-g82fd0ad134+6
+master-g4511a0cace	1	sims_dustmaps	2014.09.23
