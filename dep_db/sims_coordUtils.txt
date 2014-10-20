@@ -890,3 +890,11 @@ feature.CATSIM-127-vectorize-astrometry-g204ef460b4	1	throughputs	master-ga6e2ef
 feature.CATSIM-127-vectorize-astrometry-g204ef460b4	1	palpy	1.2
 feature.CATSIM-127-vectorize-astrometry-g204ef460b4	1	pyfits	3.2.4+1
 feature.CATSIM-127-vectorize-astrometry-g204ef460b4	1	afw	master-g51a67dff1f+1
+master-g82fd0ad134	7	sims_catalogs_measures	master-g6c9cadf211+1
+master-g82fd0ad134	7	utils	9.2+12
+master-g82fd0ad134	7	base	9.1+13
+master-g82fd0ad134	7	python	0.0.2
+master-g82fd0ad134	7	throughputs	master-ga6e2efc0c9
+master-g82fd0ad134	7	palpy	1.2
+master-g82fd0ad134	7	pyfits	3.2.4+1
+master-g82fd0ad134	7	afw	tickets.DM-768-gff27aae1e2+1

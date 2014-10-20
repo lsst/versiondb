@@ -614,3 +614,10 @@ release.Summer2014-g3a467afa91	0	afw	release.Summer2014-g6478230a4e
 9.2	51	daf_persistence	master-g0d9f6bd099+5
 9.2	51	ctrl_events	master-g50b5c1aacd+5
 9.2	51	afw	master-g51a67dff1f+1
+9.2	52	daf_base	master-g1445ebdc1e+1
+9.2	52	pex_logging	master-ga3c551941d+6
+9.2	52	pex_exceptions	9.2+12
+9.2	52	pex_policy	master-g6f03882114+6
+9.2	52	daf_persistence	master-g0d9f6bd099+6
+9.2	52	ctrl_events	master-g50b5c1aacd+6
+9.2	52	afw	tickets.DM-768-gff27aae1e2+1
