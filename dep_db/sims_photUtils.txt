@@ -1173,3 +1173,12 @@ feature.CATSIM-121-add-alex-abate-s-igm-code-into-g3c2de48d67	0	sims_coordUtils	
 feature.CATSIM-121-add-alex-abate-s-igm-code-into-g3c2de48d67	0	python	0.0.2
 feature.CATSIM-121-add-alex-abate-s-igm-code-into-g3c2de48d67	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-121-add-alex-abate-s-igm-code-into-g3c2de48d67	0	pyfits	3.2.4+1
+master-gf09067888d	10	utils	9.2+13
+master-gf09067888d	10	sims_catalogs_measures	master-g6c9cadf211+2
+master-gf09067888d	10	sims_catalogs_generation	master-g943e2fcbac+2
+master-gf09067888d	10	sims_sed_library	2014.10.06
+master-gf09067888d	10	sims_dustmaps	2014.09.23
+master-gf09067888d	10	sims_coordUtils	master-g204ef460b4
+master-gf09067888d	10	python	0.0.2
+master-gf09067888d	10	throughputs	master-ga6e2efc0c9
+master-gf09067888d	10	pyfits	3.2.4+1
