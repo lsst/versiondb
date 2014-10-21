@@ -1483,3 +1483,12 @@ master-g5194e28263	43	meas_algorithms	master-g7bce1f4e06+11
 master-g5194e28263	43	ip_isr	master-gf86d3bf08b+35
 master-g5194e28263	43	pipe_tasks	master-g379087737a+15
 master-g5194e28263	43	mysqlpython	1.2.3+11
+u.krughoff.DM-766-g8d53d26f2f	0	daf_base	master-g1445ebdc1e+2
+u.krughoff.DM-766-g8d53d26f2f	0	pex_policy	master-g6f03882114+7
+u.krughoff.DM-766-g8d53d26f2f	0	afw	u.krughoff.DM-766-g0e13e8e4fa
+u.krughoff.DM-766-g8d53d26f2f	0	daf_persistence	master-g0d9f6bd099+7
+u.krughoff.DM-766-g8d53d26f2f	0	daf_butlerUtils	master-g049f91dc7a+24
+u.krughoff.DM-766-g8d53d26f2f	0	meas_algorithms	master-g7bce1f4e06+12
+u.krughoff.DM-766-g8d53d26f2f	0	ip_isr	master-gf86d3bf08b+36
+u.krughoff.DM-766-g8d53d26f2f	0	pipe_tasks	master-g379087737a+16
+u.krughoff.DM-766-g8d53d26f2f	0	mysqlpython	1.2.3+11
