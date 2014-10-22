@@ -1256,3 +1256,14 @@ master-gdf171705c0	8	sims_catalogs_generation	master-g943e2fcbac+2
 master-gdf171705c0	8	sims_photUtils	master-g9e683f77a4
 master-gdf171705c0	8	sims_coordUtils	master-g204ef460b4+5
 master-gdf171705c0	8	sims_dustmaps	2014.09.23
+master-gdf171705c0	9	base	9.1+14
+master-gdf171705c0	9	numpy	0.0.1+2
+master-gdf171705c0	9	matplotlib	0.0.1+2
+master-gdf171705c0	9	pyephem	3.7.5.1
+master-gdf171705c0	9	palpy	1.2
+master-gdf171705c0	9	healpy	1.8.1
+master-gdf171705c0	9	pex_config	9.0+23
+master-gdf171705c0	9	sims_catalogs_generation	bugfix.CATSIM-144-cleanup-astrometry-gc86697f056
+master-gdf171705c0	9	sims_photUtils	master-g9e683f77a4+1
+master-gdf171705c0	9	sims_coordUtils	bugfix.CATSIM-144-cleanup-astrometry-g8a5996aae0
+master-gdf171705c0	9	sims_dustmaps	2014.09.23

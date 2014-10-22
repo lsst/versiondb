@@ -1992,3 +1992,12 @@ master-g289ed2aa87	14	palpy	1.2
 master-g289ed2aa87	14	python	0.0.2
 master-g289ed2aa87	14	pymssql	2.0.0+2
 master-g289ed2aa87	14	obs_lsstSim	master-g5194e28263+45
+master-g289ed2aa87	15	utils	9.2+13
+master-g289ed2aa87	15	sims_catalogs_measures	master-g6c9cadf211+3
+master-g289ed2aa87	15	sims_catalogs_generation	bugfix.CATSIM-144-cleanup-astrometry-gc86697f056
+master-g289ed2aa87	15	sims_coordUtils	bugfix.CATSIM-144-cleanup-astrometry-g8a5996aae0
+master-g289ed2aa87	15	sims_photUtils	master-g9e683f77a4+1
+master-g289ed2aa87	15	palpy	1.2
+master-g289ed2aa87	15	python	0.0.2
+master-g289ed2aa87	15	pymssql	2.0.0+2
+master-g289ed2aa87	15	obs_lsstSim	master-g5194e28263+45
