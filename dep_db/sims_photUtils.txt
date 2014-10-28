@@ -1281,3 +1281,12 @@ master-g9e683f77a4	4	sims_coordUtils	master-gc92608cda6+1
 master-g9e683f77a4	4	python	0.0.2
 master-g9e683f77a4	4	throughputs	master-ga6e2efc0c9
 master-g9e683f77a4	4	pyfits	3.2.4+1
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	utils	9.2+13
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	sims_catalogs_measures	bugfix.CATSIM-142-add-all-to-modules-g6534ce79eb
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	sims_catalogs_generation	bugfix.CATSIM-142-add-all-to-modules-gcec0201a11
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	sims_sed_library	2014.10.06
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	sims_dustmaps	2014.09.23
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	sims_coordUtils	bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	python	0.0.2
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	throughputs	master-ga6e2efc0c9
+bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	pyfits	3.2.4+1

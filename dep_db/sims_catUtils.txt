@@ -2055,3 +2055,12 @@ master-g289ed2aa87	21	palpy	1.2
 master-g289ed2aa87	21	python	0.0.2
 master-g289ed2aa87	21	pymssql	2.0.0+2
 master-g289ed2aa87	21	obs_lsstSim	master-g5194e28263+49
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	utils	9.2+13
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	sims_catalogs_measures	bugfix.CATSIM-142-add-all-to-modules-g6534ce79eb
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	sims_catalogs_generation	bugfix.CATSIM-142-add-all-to-modules-gcec0201a11
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	sims_coordUtils	bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	sims_photUtils	bugfix.CATSIM-142-add-all-to-modules-g6021b39202
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	palpy	1.2
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	python	0.0.2
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	pymssql	2.0.0+2
+bugfix.CATSIM-142-add-all-to-modules-gd4ef1767bb	0	obs_lsstSim	master-g5194e28263+49
