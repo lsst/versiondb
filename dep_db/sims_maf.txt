@@ -1344,3 +1344,14 @@ master-g04b0217135	3	sims_photUtils	bugfix.CATSIM-139-unittest-variable-scope-gf
 master-g04b0217135	3	sims_coordUtils	bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04
 master-g04b0217135	3	sims_dustmaps	2014.09.23
 master-g04b0217135	3	healpy	1.8.1
+master-g04b0217135	4	base	9.1+14
+master-g04b0217135	4	numpy	0.0.1+2
+master-g04b0217135	4	matplotlib	0.0.1+2
+master-g04b0217135	4	pyephem	3.7.5.1
+master-g04b0217135	4	palpy	1.2
+master-g04b0217135	4	pex_config	9.0+23
+master-g04b0217135	4	sims_catalogs_generation	master-g7fd5435f42
+master-g04b0217135	4	sims_photUtils	master-gcc09d18850
+master-g04b0217135	4	sims_coordUtils	master-g3a47187927
+master-g04b0217135	4	sims_dustmaps	2014.09.23
+master-g04b0217135	4	healpy	1.8.1
