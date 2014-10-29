@@ -1882,3 +1882,9 @@ master-g69b085209b	276	sims_catalogs_generation	master-g7fd5435f42
 master-g69b085209b	276	sims_catalogs_measures	master-g426128905d
 master-g69b085209b	276	sims_sed_library	2014.10.06
 master-g69b085209b	276	sims_dustmaps	2014.09.23
+master-g69b085209b	277	sims_maf	master-gf0b5cadb5c+1
+master-g69b085209b	277	sims_catUtils	bugfix.CATSIM-142-add-all-to-modules-g9167f340df
+master-g69b085209b	277	sims_catalogs_generation	bugfix.CATSIM-142-add-all-to-modules-gbeba173927
+master-g69b085209b	277	sims_catalogs_measures	bugfix.CATSIM-142-add-all-to-modules-gb6658c8d24
+master-g69b085209b	277	sims_sed_library	2014.10.06
+master-g69b085209b	277	sims_dustmaps	2014.09.23
