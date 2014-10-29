@@ -1333,3 +1333,14 @@ master-g04b0217135	2	sims_photUtils	bugfix.CATSIM-142-add-all-to-modules-g6021b3
 master-g04b0217135	2	sims_coordUtils	bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b
 master-g04b0217135	2	sims_dustmaps	2014.09.23
 master-g04b0217135	2	healpy	1.8.1
+master-g04b0217135	3	base	9.1+14
+master-g04b0217135	3	numpy	0.0.1+2
+master-g04b0217135	3	matplotlib	0.0.1+2
+master-g04b0217135	3	pyephem	3.7.5.1
+master-g04b0217135	3	palpy	1.2
+master-g04b0217135	3	pex_config	9.0+23
+master-g04b0217135	3	sims_catalogs_generation	bugfix.CATSIM-139-unittest-variable-scope-g7fd5435f42
+master-g04b0217135	3	sims_photUtils	bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982
+master-g04b0217135	3	sims_coordUtils	bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04
+master-g04b0217135	3	sims_dustmaps	2014.09.23
+master-g04b0217135	3	healpy	1.8.1

@@ -1290,3 +1290,12 @@ bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	sims_coordUtils	bugfix.CATSIM
 bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	python	0.0.2
 bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	throughputs	master-ga6e2efc0c9
 bugfix.CATSIM-142-add-all-to-modules-g6021b39202	0	pyfits	3.2.4+1
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	utils	9.2+13
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	sims_catalogs_measures	bugfix.CATSIM-139-unittest-variable-scope-g830c366035
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	sims_catalogs_generation	bugfix.CATSIM-139-unittest-variable-scope-g7fd5435f42
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	sims_sed_library	2014.10.06
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	sims_dustmaps	2014.09.23
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	sims_coordUtils	bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	python	0.0.2
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	throughputs	master-ga6e2efc0c9
+bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982	0	pyfits	3.2.4+1

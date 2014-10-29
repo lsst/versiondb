@@ -2073,3 +2073,12 @@ master-g47a0a05441	0	palpy	1.2
 master-g47a0a05441	0	python	0.0.2
 master-g47a0a05441	0	pymssql	2.0.0+2
 master-g47a0a05441	0	obs_lsstSim	master-g5194e28263+49
+master-g47a0a05441	1	utils	9.2+13
+master-g47a0a05441	1	sims_catalogs_measures	bugfix.CATSIM-139-unittest-variable-scope-g830c366035
+master-g47a0a05441	1	sims_catalogs_generation	bugfix.CATSIM-139-unittest-variable-scope-g7fd5435f42
+master-g47a0a05441	1	sims_coordUtils	bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04
+master-g47a0a05441	1	sims_photUtils	bugfix.CATSIM-139-unittest-variable-scope-gf02eeca982
+master-g47a0a05441	1	palpy	1.2
+master-g47a0a05441	1	python	0.0.2
+master-g47a0a05441	1	pymssql	2.0.0+2
+master-g47a0a05441	1	obs_lsstSim	master-g5194e28263+49

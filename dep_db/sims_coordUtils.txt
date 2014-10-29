@@ -986,3 +986,11 @@ bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b	0	throughputs	master-ga6e2efc0c
 bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b	0	palpy	1.2
 bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b	0	pyfits	3.2.4+1
 bugfix.CATSIM-142-add-all-to-modules-gfae0266a1b	0	afw	master-ge159d3c2e4
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	sims_catalogs_measures	bugfix.CATSIM-139-unittest-variable-scope-g830c366035
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	utils	9.2+13
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	base	9.1+14
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	python	0.0.2
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	throughputs	master-ga6e2efc0c9
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	palpy	1.2
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	pyfits	3.2.4+1
+bugfix.CATSIM-139-unittest-variable-scope-g21ef9cbd04	0	afw	master-ge159d3c2e4
