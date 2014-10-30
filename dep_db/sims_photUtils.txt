@@ -1326,3 +1326,12 @@ bugfix.CATSIM-142-add-all-to-modules-g28ecb7fbef	0	sims_coordUtils	bugfix.CATSIM
 bugfix.CATSIM-142-add-all-to-modules-g28ecb7fbef	0	python	0.0.2
 bugfix.CATSIM-142-add-all-to-modules-g28ecb7fbef	0	throughputs	master-ga6e2efc0c9
 bugfix.CATSIM-142-add-all-to-modules-g28ecb7fbef	0	pyfits	3.2.4+1
+master-gb4f191d49f	0	utils	9.2+13
+master-gb4f191d49f	0	sims_catalogs_measures	master-g6cae647c55
+master-gb4f191d49f	0	sims_catalogs_generation	bugfix.CATSIM-131-phosim-unittest-g033d66b8fb
+master-gb4f191d49f	0	sims_sed_library	2014.10.06
+master-gb4f191d49f	0	sims_dustmaps	2014.09.23
+master-gb4f191d49f	0	sims_coordUtils	master-g712061c45e
+master-gb4f191d49f	0	python	0.0.2
+master-gb4f191d49f	0	throughputs	master-ga6e2efc0c9
+master-gb4f191d49f	0	pyfits	3.2.4+1
