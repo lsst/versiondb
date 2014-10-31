@@ -1,0 +1,7 @@
+# product                 SHA1                                      Version                       
+BUILD=b424
+python                    cbf93ab65b96fb3a73837dd7646f9762acbe3ef4  0.0.2                                    
+mysqlclient               ada095532201e04202dd53a8e6b3f842aa928e24  5.1.73                                   
+mysql                     5d79af2a508b164763f31a1b823690f1226bbb02  5.1.65                                   
+mysqlpython               bd46a5f42237ae63804db3ad11256bb03e4667c8  1.2.3+11                                 python,mysqlclient
+scisql                    002cc66b271053b1a24637897fc115f56ba3c9b9  0.3.4                                    mysql,mysqlpython,python
