@@ -1522,3 +1522,10 @@ u.ktlim.removeSConstruct-g389c00c463	0	testing_endtoend	master-ge6b054c9fd+1
 9.0	138	ctrl_platform_lsst	8.0.0.1+98
 9.0	138	datarel	master-g670d49097a+27
 9.0	138	testing_endtoend	master-ge6b054c9fd+15
+9.0	139	lsst	master-g1d2c90db84
+9.0	139	lsst_apps	master-g63be2d204b+23
+9.0	139	ctrl_execute	8.1.1.0+94
+9.0	139	ctrl_platform_gordon	8.1.0.0+94
+9.0	139	ctrl_platform_lsst	8.0.0.1+98
+9.0	139	datarel	master-g670d49097a+28
+9.0	139	testing_endtoend	master-ge6b054c9fd+15
