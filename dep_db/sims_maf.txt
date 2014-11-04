@@ -1454,3 +1454,14 @@ master-gcbf4350a18	1	sims_photUtils	master-gb4f191d49f+3
 master-gcbf4350a18	1	sims_coordUtils	feature.CATSIM-147-generalize-findchipname-g902ca3eb1a
 master-gcbf4350a18	1	sims_dustmaps	2014.09.23
 master-gcbf4350a18	1	healpy	1.8.1
+master-gcbf4350a18	2	base	9.1+14
+master-gcbf4350a18	2	numpy	0.0.1+2
+master-gcbf4350a18	2	matplotlib	0.0.1+2
+master-gcbf4350a18	2	pyephem	3.7.5.1
+master-gcbf4350a18	2	palpy	1.2
+master-gcbf4350a18	2	pex_config	9.0+23
+master-gcbf4350a18	2	sims_catalogs_generation	master-g1aa8b2d613
+master-gcbf4350a18	2	sims_photUtils	feature.CATSIM-136-cosmology-package-g365213bddd
+master-gcbf4350a18	2	sims_coordUtils	master-g712061c45e+2
+master-gcbf4350a18	2	sims_dustmaps	2014.09.23
+master-gcbf4350a18	2	healpy	1.8.1
