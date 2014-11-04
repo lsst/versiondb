@@ -1432,3 +1432,14 @@ master-gf0b5cadb5c	4	sims_photUtils	master-gb4f191d49f+2
 master-gf0b5cadb5c	4	sims_coordUtils	master-g712061c45e+2
 master-gf0b5cadb5c	4	sims_dustmaps	2014.09.23
 master-gf0b5cadb5c	4	healpy	1.8.1
+master-gcbf4350a18	0	base	9.1+14
+master-gcbf4350a18	0	numpy	0.0.1+2
+master-gcbf4350a18	0	matplotlib	0.0.1+2
+master-gcbf4350a18	0	pyephem	3.7.5.1
+master-gcbf4350a18	0	palpy	1.2
+master-gcbf4350a18	0	pex_config	9.0+23
+master-gcbf4350a18	0	sims_catalogs_generation	master-g1aa8b2d613
+master-gcbf4350a18	0	sims_photUtils	master-gb4f191d49f+2
+master-gcbf4350a18	0	sims_coordUtils	master-g712061c45e+2
+master-gcbf4350a18	0	sims_dustmaps	2014.09.23
+master-gcbf4350a18	0	healpy	1.8.1
