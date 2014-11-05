@@ -1389,3 +1389,12 @@ master-gb4f191d49f	4	sims_coordUtils	feature.CATSIM-147-generalize-findchipname-
 master-gb4f191d49f	4	python	0.0.2
 master-gb4f191d49f	4	throughputs	master-ga6e2efc0c9
 master-gb4f191d49f	4	pyfits	3.2.4+1
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	utils	9.2+13
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	sims_catalogs_measures	master-g6cae647c55+2
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	sims_catalogs_generation	master-g1aa8b2d613
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	sims_sed_library	2014.10.06
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	sims_dustmaps	2014.09.23
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	sims_coordUtils	master-g712061c45e+2
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	python	0.0.2
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-136-cosmology-package-g1524072c6c	0	pyfits	3.2.4+1
