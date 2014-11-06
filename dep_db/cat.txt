@@ -368,3 +368,13 @@ master-ga9ffcc60e0	12	daf_base	master-g1445ebdc1e+3
 master-ga9ffcc60e0	12	daf_persistence	master-g0d9f6bd099+8
 master-ga9ffcc60e0	12	utils	9.2+14
 master-ga9ffcc60e0	12	pex_exceptions	9.2+14
+master-ga9ffcc60e0	13	python	0.0.2
+master-ga9ffcc60e0	13	mysqlclient	5.1.73
+master-ga9ffcc60e0	13	mysqlpython	1.2.3+11
+master-ga9ffcc60e0	13	boost	master-gc8af3da5b4
+master-ga9ffcc60e0	13	pex_logging	master-ga3c551941d+9
+master-ga9ffcc60e0	13	pex_policy	master-g6f03882114+9
+master-ga9ffcc60e0	13	daf_base	master-g1445ebdc1e+4
+master-ga9ffcc60e0	13	daf_persistence	master-g0d9f6bd099+9
+master-ga9ffcc60e0	13	utils	9.2+15
+master-ga9ffcc60e0	13	pex_exceptions	9.2+15

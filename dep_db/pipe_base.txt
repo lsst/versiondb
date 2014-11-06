@@ -586,3 +586,9 @@ master-g8a4579b8a5	1	pex_config	9.0+24
 master-g8a4579b8a5	1	utils	9.2+14
 master-g8a4579b8a5	1	afw	master-ge2d6789131+1
 master-g8a4579b8a5	1	obs_test	8.0.0.0+37
+master-g8a4579b8a5	2	daf_persistence	master-g0d9f6bd099+9
+master-g8a4579b8a5	2	pex_logging	master-ga3c551941d+9
+master-g8a4579b8a5	2	pex_config	9.0+25
+master-g8a4579b8a5	2	utils	9.2+15
+master-g8a4579b8a5	2	afw	master-ge2d6789131+2
+master-g8a4579b8a5	2	obs_test	8.0.0.0+38
