@@ -358,3 +358,13 @@ master-ga9ffcc60e0	11	daf_base	master-g1445ebdc1e+2
 master-ga9ffcc60e0	11	daf_persistence	master-g0d9f6bd099+7
 master-ga9ffcc60e0	11	utils	9.2+13
 master-ga9ffcc60e0	11	pex_exceptions	9.2+13
+master-ga9ffcc60e0	12	python	0.0.2
+master-ga9ffcc60e0	12	mysqlclient	5.1.73
+master-ga9ffcc60e0	12	mysqlpython	1.2.3+11
+master-ga9ffcc60e0	12	boost	tickets.DM-1486-g2cc5d319db
+master-ga9ffcc60e0	12	pex_logging	master-ga3c551941d+8
+master-ga9ffcc60e0	12	pex_policy	master-g6f03882114+8
+master-ga9ffcc60e0	12	daf_base	master-g1445ebdc1e+3
+master-ga9ffcc60e0	12	daf_persistence	master-g0d9f6bd099+8
+master-ga9ffcc60e0	12	utils	9.2+14
+master-ga9ffcc60e0	12	pex_exceptions	9.2+14
