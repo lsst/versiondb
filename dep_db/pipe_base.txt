@@ -574,3 +574,9 @@ u.price.DM-893-gb9b117ff79	0	obs_test	8.0.0.0+25
 9.2	57	utils	9.2+13
 9.2	57	afw	master-ge2d6789131
 9.2	57	obs_test	8.0.0.0+36
+master-g8a4579b8a5	0	daf_persistence	master-g0d9f6bd099+7
+master-g8a4579b8a5	0	pex_logging	master-ga3c551941d+7
+master-g8a4579b8a5	0	pex_config	9.0+23
+master-g8a4579b8a5	0	utils	9.2+13
+master-g8a4579b8a5	0	afw	master-ge2d6789131
+master-g8a4579b8a5	0	obs_test	8.0.0.0+36
