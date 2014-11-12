@@ -1488,3 +1488,12 @@ bugfix.CATSIM-153-speed-up-readgalfast-unit-test-gd1521a1521	0	sims_coordUtils	m
 bugfix.CATSIM-153-speed-up-readgalfast-unit-test-gd1521a1521	0	python	0.0.2
 bugfix.CATSIM-153-speed-up-readgalfast-unit-test-gd1521a1521	0	throughputs	master-ga6e2efc0c9
 bugfix.CATSIM-153-speed-up-readgalfast-unit-test-gd1521a1521	0	pyfits	3.2.4+1
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	utils	9.2+16
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	sims_catalogs_measures	master-g6cae647c55+5
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	sims_catalogs_generation	master-g1aa8b2d613+3
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	sims_sed_library	2014.10.06
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	sims_dustmaps	2014.09.23
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	sims_coordUtils	master-ged37e9d3bd+4
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	python	0.0.2
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	throughputs	master-ga6e2efc0c9
+bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g42f08fd42c	0	pyfits	3.2.4+1
