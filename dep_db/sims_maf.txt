@@ -1641,3 +1641,14 @@ master-ge912988570	7	sims_photUtils	bugfix.CATSIM-153-speed-up-readgalfast-unit-
 master-ge912988570	7	sims_coordUtils	master-ged37e9d3bd+4
 master-ge912988570	7	sims_dustmaps	2014.09.23
 master-ge912988570	7	healpy	1.8.1
+master-ge912988570	8	base	9.1+17
+master-ge912988570	8	numpy	0.0.1+2
+master-ge912988570	8	matplotlib	0.0.1+2
+master-ge912988570	8	pyephem	3.7.5.1
+master-ge912988570	8	palpy	1.2
+master-ge912988570	8	pex_config	9.0+26
+master-ge912988570	8	sims_catalogs_generation	master-g1aa8b2d613+3
+master-ge912988570	8	sims_photUtils	master-g04e0e46227+1
+master-ge912988570	8	sims_coordUtils	master-ged37e9d3bd+5
+master-ge912988570	8	sims_dustmaps	2014.09.23
+master-ge912988570	8	healpy	1.8.1
