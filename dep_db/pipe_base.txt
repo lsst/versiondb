@@ -616,3 +616,9 @@ tickets.DM-1471-g31a7a6d72c	1	pex_config	9.0+26
 tickets.DM-1471-g31a7a6d72c	1	utils	9.2+16
 tickets.DM-1471-g31a7a6d72c	1	afw	master-ge2d6789131+3
 tickets.DM-1471-g31a7a6d72c	1	obs_test	tickets.DM-1471-gda5dc75c89
+master-g8a4579b8a5	5	daf_persistence	master-g0d9f6bd099+10
+master-g8a4579b8a5	5	pex_logging	master-ga3c551941d+10
+master-g8a4579b8a5	5	pex_config	9.0+26
+master-g8a4579b8a5	5	utils	9.2+16
+master-g8a4579b8a5	5	afw	u.pgee.DM-1439-gd58f9fd041
+master-g8a4579b8a5	5	obs_test	8.0.0.0+39
