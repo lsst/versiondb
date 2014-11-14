@@ -2424,3 +2424,12 @@ master-gff703a0573	19	palpy	1.2
 master-gff703a0573	19	python	0.0.2
 master-gff703a0573	19	pymssql	2.0.0+2
 master-gff703a0573	19	obs_lsstSim	master-g5194e28263+69
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	utils	9.2+16
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	sims_catalogs_measures	feature.CATSIM-159-galsim-galaxy-images-g0301d66dd3
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	sims_catalogs_generation	master-g1aa8b2d613+3
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	sims_coordUtils	master-ged37e9d3bd+7
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	sims_photUtils	feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	palpy	1.2
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	python	0.0.2
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	pymssql	2.0.0+2
+feature.CATSIM-159-galsim-galaxy-images-g6979da0db1	0	obs_lsstSim	master-g5194e28263+68

@@ -1515,3 +1515,12 @@ master-g04e0e46227	2	sims_coordUtils	master-ged37e9d3bd+6
 master-g04e0e46227	2	python	0.0.2
 master-g04e0e46227	2	throughputs	master-ga6e2efc0c9
 master-g04e0e46227	2	pyfits	3.2.4+1
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	utils	9.2+16
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	sims_catalogs_measures	feature.CATSIM-159-galsim-galaxy-images-g0301d66dd3
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	sims_catalogs_generation	master-g1aa8b2d613+3
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	sims_sed_library	2014.10.06
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	sims_dustmaps	2014.09.23
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	sims_coordUtils	master-ged37e9d3bd+7
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	python	0.0.2
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-159-galsim-galaxy-images-ga10aef3ce9	0	pyfits	3.2.4+1
