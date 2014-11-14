@@ -1674,3 +1674,14 @@ master-ge912988570	10	sims_photUtils	feature.CATSIM-159-galsim-galaxy-images-ga1
 master-ge912988570	10	sims_coordUtils	master-ged37e9d3bd+7
 master-ge912988570	10	sims_dustmaps	2014.09.23
 master-ge912988570	10	healpy	1.8.1
+master-ge912988570	11	base	9.1+17
+master-ge912988570	11	numpy	0.0.1+2
+master-ge912988570	11	matplotlib	0.0.1+2
+master-ge912988570	11	pyephem	3.7.5.1
+master-ge912988570	11	palpy	1.2
+master-ge912988570	11	pex_config	9.0+26
+master-ge912988570	11	sims_catalogs_generation	bugfix.CATSIM-165-reorder-ObservationMetaData-init-g0c340a6c78
+master-ge912988570	11	sims_photUtils	master-g04e0e46227+3
+master-ge912988570	11	sims_coordUtils	master-ged37e9d3bd+8
+master-ge912988570	11	sims_dustmaps	2014.09.23
+master-ge912988570	11	healpy	1.8.1
