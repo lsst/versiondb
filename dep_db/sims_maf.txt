@@ -1729,3 +1729,14 @@ master-g4cf5f1579a	0	sims_photUtils	master-g04e0e46227+5
 master-g4cf5f1579a	0	sims_coordUtils	master-ged37e9d3bd+10
 master-g4cf5f1579a	0	sims_dustmaps	2014.09.23
 master-g4cf5f1579a	0	healpy	1.8.1
+master-g4cf5f1579a	1	base	9.1+17
+master-g4cf5f1579a	1	numpy	0.0.1+2
+master-g4cf5f1579a	1	matplotlib	0.0.1+2
+master-g4cf5f1579a	1	pyephem	3.7.5.1
+master-g4cf5f1579a	1	palpy	1.2
+master-g4cf5f1579a	1	pex_config	9.0+27
+master-g4cf5f1579a	1	sims_catalogs_generation	master-g0552ef04f0+1
+master-g4cf5f1579a	1	sims_photUtils	bugfix.CATSIM-153-speed-up-readgalfast-unit-test-g7574988497
+master-g4cf5f1579a	1	sims_coordUtils	master-ged37e9d3bd+10
+master-g4cf5f1579a	1	sims_dustmaps	2014.09.23
+master-g4cf5f1579a	1	healpy	1.8.1
