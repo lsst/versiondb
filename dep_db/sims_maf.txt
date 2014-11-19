@@ -1740,3 +1740,14 @@ master-g4cf5f1579a	1	sims_photUtils	bugfix.CATSIM-153-speed-up-readgalfast-unit-
 master-g4cf5f1579a	1	sims_coordUtils	master-ged37e9d3bd+10
 master-g4cf5f1579a	1	sims_dustmaps	2014.09.23
 master-g4cf5f1579a	1	healpy	1.8.1
+master-g4cf5f1579a	2	base	9.1+17
+master-g4cf5f1579a	2	numpy	0.0.1+2
+master-g4cf5f1579a	2	matplotlib	0.0.1+2
+master-g4cf5f1579a	2	pyephem	3.7.5.1
+master-g4cf5f1579a	2	palpy	1.2
+master-g4cf5f1579a	2	pex_config	9.0+27
+master-g4cf5f1579a	2	sims_catalogs_generation	master-g0552ef04f0+1
+master-g4cf5f1579a	2	sims_photUtils	master-g17a140ceea
+master-g4cf5f1579a	2	sims_coordUtils	master-ged37e9d3bd+11
+master-g4cf5f1579a	2	sims_dustmaps	2014.09.23
+master-g4cf5f1579a	2	healpy	1.8.1
