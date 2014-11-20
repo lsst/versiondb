@@ -646,3 +646,9 @@ master-g8f85b57581	1	pex_config	9.0+27
 master-g8f85b57581	1	utils	9.2+17
 master-g8f85b57581	1	afw	u.pgee.DM-1439-ged6b4449cc
 master-g8f85b57581	1	obs_test	master-gdeef3033d0+1
+master-g8f85b57581	2	daf_persistence	master-g0d9f6bd099+11
+master-g8f85b57581	2	pex_logging	master-ga3c551941d+11
+master-g8f85b57581	2	pex_config	9.0+27
+master-g8f85b57581	2	utils	9.2+17
+master-g8f85b57581	2	afw	master-g6e1230f7bf
+master-g8f85b57581	2	obs_test	master-gdeef3033d0+2
