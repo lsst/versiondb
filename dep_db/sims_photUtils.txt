@@ -1623,3 +1623,12 @@ feature.CATSIM-183-rrlyrae-catalog-g4b4bc2c5e7	0	sims_coordUtils	master-ged37e9d
 feature.CATSIM-183-rrlyrae-catalog-g4b4bc2c5e7	0	python	0.0.2
 feature.CATSIM-183-rrlyrae-catalog-g4b4bc2c5e7	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-183-rrlyrae-catalog-g4b4bc2c5e7	0	pyfits	3.2.4+1
+master-g17a140ceea	6	utils	9.2+17
+master-g17a140ceea	6	sims_catalogs_measures	master-g6cae647c55+8
+master-g17a140ceea	6	sims_catalogs_generation	master-g0552ef04f0+1
+master-g17a140ceea	6	sims_sed_library	2014.10.06
+master-g17a140ceea	6	sims_dustmaps	2014.09.23
+master-g17a140ceea	6	sims_coordUtils	bugfix.CATSIM-171-fix-parallax-units-g2d6219b236
+master-g17a140ceea	6	python	0.0.2
+master-g17a140ceea	6	throughputs	master-ga6e2efc0c9
+master-g17a140ceea	6	pyfits	3.2.4+1
