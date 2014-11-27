@@ -537,3 +537,14 @@ u.rallsman.TestBBFailInScons-g1031c5f8f2	0	cat	master-ga9ffcc60e0+15
 u.rallsman.TestBBFailInScons-g1031c5f8f2	0	daf_persistence	master-g0d9f6bd099+11
 u.rallsman.TestBBFailInScons-g1031c5f8f2	0	swig	master-gccf66d07ee
 u.rallsman.TestBBFailInScons-g1031c5f8f2	0	doxygen	1.8.5
+master-ge11dfb8975	2	boost	master-gc8af3da5b4
+master-ge11dfb8975	2	activemqcpp	3.5.0+13
+master-ge11dfb8975	2	utils	9.2+17
+master-ge11dfb8975	2	daf_base	master-gf960897899
+master-ge11dfb8975	2	pex_logging	master-ga3c551941d+12
+master-ge11dfb8975	2	pex_exceptions	master-gc69578ece6
+master-ge11dfb8975	2	pex_policy	master-g6f03882114+12
+master-ge11dfb8975	2	cat	master-ga9ffcc60e0+16
+master-ge11dfb8975	2	daf_persistence	master-g0d9f6bd099+12
+master-ge11dfb8975	2	swig	master-gccf66d07ee
+master-ge11dfb8975	2	doxygen	1.8.5
