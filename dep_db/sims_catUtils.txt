@@ -2721,3 +2721,12 @@ bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	0	palpy	1.2
 bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	0	python	0.0.2
 bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	0	pymssql	2.0.0+2
 bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	0	obs_lsstSim	master-g5194e28263+89
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	utils	9.2+17
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	sims_catalogs_measures	bugfix.CATSIM-179-phoSim-test-is-null-gde112e8423+2
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	sims_catalogs_generation	bugfix.CATSIM-179-phoSim-test-is-null-gd8c737b47e
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	sims_coordUtils	bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852+2
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	sims_photUtils	master-g17a140ceea+14
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	palpy	1.2
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	python	0.0.2
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	pymssql	2.0.0+2
+bugfix.CATSIM-179-phoSim-test-is-null-gb55cb06f36	1	obs_lsstSim	master-g5194e28263+89
