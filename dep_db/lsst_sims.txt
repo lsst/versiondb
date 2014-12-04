@@ -2314,3 +2314,9 @@ master-g69b085209b	348	sims_catalogs_generation	master-gc9c7611eed
 master-g69b085209b	348	sims_catalogs_measures	master-g6cae647c55+11
 master-g69b085209b	348	sims_sed_library	2014.10.06
 master-g69b085209b	348	sims_dustmaps	2014.09.23
+master-g69b085209b	349	sims_maf	master-g60d3d06534+7
+master-g69b085209b	349	sims_catUtils	bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3
+master-g69b085209b	349	sims_catalogs_generation	bugfix.CATSIM-179-phoSim-test-is-null-g40e5296ec1
+master-g69b085209b	349	sims_catalogs_measures	bugfix.CATSIM-179-phoSim-test-is-null-gde112e8423
+master-g69b085209b	349	sims_sed_library	2014.10.06
+master-g69b085209b	349	sims_dustmaps	2014.09.23

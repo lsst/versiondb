@@ -2694,3 +2694,12 @@ master-ga059b365d9	0	palpy	1.2
 master-ga059b365d9	0	python	0.0.2
 master-ga059b365d9	0	pymssql	2.0.0+2
 master-ga059b365d9	0	obs_lsstSim	master-g5194e28263+89
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	utils	9.2+17
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	sims_catalogs_measures	bugfix.CATSIM-179-phoSim-test-is-null-gde112e8423
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	sims_catalogs_generation	bugfix.CATSIM-179-phoSim-test-is-null-g40e5296ec1
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	sims_coordUtils	bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	sims_photUtils	master-g17a140ceea+12
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	palpy	1.2
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	python	0.0.2
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	pymssql	2.0.0+2
+bugfix.CATSIM-179-phoSim-test-is-null-g45a9666be3	0	obs_lsstSim	master-g5194e28263+89
