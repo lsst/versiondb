@@ -1905,3 +1905,14 @@ master-g60d3d06534	7	sims_photUtils	master-g17a140ceea+12
 master-g60d3d06534	7	sims_coordUtils	bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852
 master-g60d3d06534	7	sims_dustmaps	2014.09.23
 master-g60d3d06534	7	healpy	1.8.1
+master-g60d3d06534	8	base	9.1+17
+master-g60d3d06534	8	numpy	0.0.1+2
+master-g60d3d06534	8	matplotlib	0.0.1+2
+master-g60d3d06534	8	pyephem	3.7.5.1
+master-g60d3d06534	8	palpy	1.2
+master-g60d3d06534	8	pex_config	9.0+28
+master-g60d3d06534	8	sims_catalogs_generation	bugfix.CATSIM-179-phoSim-test-is-null-ge48cfeae44
+master-g60d3d06534	8	sims_photUtils	master-g17a140ceea+13
+master-g60d3d06534	8	sims_coordUtils	bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852+1
+master-g60d3d06534	8	sims_dustmaps	2014.09.23
+master-g60d3d06534	8	healpy	1.8.1
