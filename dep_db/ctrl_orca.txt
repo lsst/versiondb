@@ -838,3 +838,10 @@ release.Summer2014-g1eac04101c	0	ctrl_provenance	release.Summer2014-gb95a1fa6dc
 9.2	81	daf_persistence	master-g0d9f6bd099+14
 9.2	81	ctrl_events	master-ge11dfb8975+6
 9.2	81	ctrl_provenance	9.2+28
+master-g30672b0e0d	0	cat	master-g7d87eeff51
+master-g30672b0e0d	0	utils	master-gf44c96c709
+master-g30672b0e0d	0	pex_policy	master-g6a3ac32d1b
+master-g30672b0e0d	0	pex_harness	master-g084aeec0a4
+master-g30672b0e0d	0	daf_persistence	master-g3391ba5ea0
+master-g30672b0e0d	0	ctrl_events	master-gcf15f11bcc
+master-g30672b0e0d	0	ctrl_provenance	9.2+29

@@ -1960,3 +1960,14 @@ master-g60d3d06534	12	sims_photUtils	master-g7ce4e9eb77+2
 master-g60d3d06534	12	sims_coordUtils	master-gd54b26a94b+6
 master-g60d3d06534	12	sims_dustmaps	2014.09.23
 master-g60d3d06534	12	healpy	1.8.1+1
+master-g60d3d06534	13	base	9.1+18
+master-g60d3d06534	13	numpy	0.0.1+2
+master-g60d3d06534	13	matplotlib	0.0.1+2
+master-g60d3d06534	13	pyephem	master-g2fa459bf78
+master-g60d3d06534	13	palpy	1.2
+master-g60d3d06534	13	pex_config	master-g98e65bf68e
+master-g60d3d06534	13	sims_catalogs_generation	master-gc9c7611eed+1
+master-g60d3d06534	13	sims_photUtils	master-g7ce4e9eb77+3
+master-g60d3d06534	13	sims_coordUtils	master-gd54b26a94b+7
+master-g60d3d06534	13	sims_dustmaps	2014.09.23
+master-g60d3d06534	13	healpy	1.8.1+1

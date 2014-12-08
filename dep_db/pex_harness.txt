@@ -824,3 +824,10 @@ release.Summer2014-g3a467afa91	0	afw	release.Summer2014-g6478230a4e
 9.2	81	daf_persistence	master-g0d9f6bd099+14
 9.2	81	ctrl_events	master-ge11dfb8975+6
 9.2	81	afw	master-gae20e2b580+2
+master-g084aeec0a4	0	daf_base	master-g3d0fb8ae5f
+master-g084aeec0a4	0	pex_logging	master-gd167108223
+master-g084aeec0a4	0	pex_exceptions	master-gc69578ece6+1
+master-g084aeec0a4	0	pex_policy	master-g6a3ac32d1b
+master-g084aeec0a4	0	daf_persistence	master-g3391ba5ea0
+master-g084aeec0a4	0	ctrl_events	master-gcf15f11bcc
+master-g084aeec0a4	0	afw	master-gae20e2b580+3
