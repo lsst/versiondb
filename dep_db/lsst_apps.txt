@@ -1643,3 +1643,10 @@ master-g63be2d204b	60	pipe_tasks	master-g5c3c32f3ec+16
 master-g63be2d204b	60	obs_lsstSim	master-g5194e28263+92
 master-g63be2d204b	60	obs_sdss	master-gc89ca185f0
 master-g63be2d204b	60	obs_test	master-g937d36d91b
+master-g63be2d204b	61	lsst_libs	8.0.0.1+57
+master-g63be2d204b	61	meas_deblender	master-g76a88a4307+1
+master-g63be2d204b	61	meas_modelfit	master-gba5e6bb9a9+5
+master-g63be2d204b	61	pipe_tasks	master-g5c3c32f3ec+17
+master-g63be2d204b	61	obs_lsstSim	master-g5194e28263+93
+master-g63be2d204b	61	obs_sdss	master-gc89ca185f0+1
+master-g63be2d204b	61	obs_test	master-g937d36d91b
