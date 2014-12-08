@@ -42,3 +42,7 @@
 1.0.3.lsst1	8	mysqlclient	5.1.73
 1.0.3.lsst1	8	mysqlpython	1.2.3+11
 1.0.3.lsst1	8	sconsUtils	master-g5c293cd5b1
+master-ge46289b8c2	0	python	0.0.2
+master-ge46289b8c2	0	mysqlclient	master-gb5244aa1cc
+master-ge46289b8c2	0	mysqlpython	1.2.3+12
+master-ge46289b8c2	0	sconsUtils	master-g5c293cd5b1

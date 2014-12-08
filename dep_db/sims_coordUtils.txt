@@ -1274,3 +1274,11 @@ bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852	2	throughputs	master-ga6e2efc0
 bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852	2	palpy	1.2
 bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852	2	pyfits	3.2.4+1
 bugfix.CATSIM-179-phoSim-test-is-null-g4a4e9bc852	2	afw	master-gae20e2b580
+master-gd54b26a94b	5	sims_catalogs_measures	master-g6cae647c55+12
+master-gd54b26a94b	5	utils	master-gf44c96c709
+master-gd54b26a94b	5	base	9.1+18
+master-gd54b26a94b	5	python	0.0.2
+master-gd54b26a94b	5	throughputs	master-ga6e2efc0c9
+master-gd54b26a94b	5	palpy	1.2
+master-gd54b26a94b	5	pyfits	master-g08519beb22
+master-gd54b26a94b	5	afw	master-gae20e2b580+1
