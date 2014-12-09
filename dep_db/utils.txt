@@ -142,3 +142,7 @@ master-gf44c96c709	1	base	10.0
 master-gf44c96c709	1	pex_exceptions	master-gc69578ece6+2
 master-gf44c96c709	1	boost	master-g52f51dfb32
 master-gf44c96c709	1	numpy	0.0.1+2
+10.0	0	base	10.0+1
+10.0	0	pex_exceptions	10.0
+10.0	0	boost	master-g52f51dfb32
+10.0	0	numpy	0.0.1+2

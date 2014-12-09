@@ -852,3 +852,10 @@ master-g30672b0e0d	0	ctrl_provenance	9.2+29
 10.0	0	daf_persistence	10.0
 10.0	0	ctrl_events	10.0
 10.0	0	ctrl_provenance	10.0
+10.0	1	cat	10.0+1
+10.0	1	utils	10.0
+10.0	1	pex_policy	10.0
+10.0	1	pex_harness	10.0
+10.0	1	daf_persistence	10.0+1
+10.0	1	ctrl_events	10.0+1
+10.0	1	ctrl_provenance	10.0+1

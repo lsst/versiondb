@@ -54,3 +54,7 @@ tickets.DM-1090-ge26f020475	0	sconsUtils	master-g69e4df865e
 10.0	0	log4cxx	0.10.0.lsst1+1
 10.0	0	utils	master-gf44c96c709+1
 10.0	0	sconsUtils	master-g5c293cd5b1
+10.0	1	boost	master-g52f51dfb32
+10.0	1	log4cxx	0.10.0.lsst1+1
+10.0	1	utils	10.0
+10.0	1	sconsUtils	10.0

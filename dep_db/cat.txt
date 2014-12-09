@@ -468,3 +468,13 @@ master-g7d87eeff51	0	pex_exceptions	master-gc69578ece6+1
 10.0	0	daf_persistence	10.0
 10.0	0	utils	master-gf44c96c709+1
 10.0	0	pex_exceptions	master-gc69578ece6+2
+10.0	1	python	0.0.2
+10.0	1	mysqlclient	master-gb5244aa1cc
+10.0	1	mysqlpython	1.2.3+12
+10.0	1	boost	master-g52f51dfb32
+10.0	1	pex_logging	10.0
+10.0	1	pex_policy	10.0
+10.0	1	daf_base	10.0+1
+10.0	1	daf_persistence	10.0+1
+10.0	1	utils	10.0
+10.0	1	pex_exceptions	10.0
