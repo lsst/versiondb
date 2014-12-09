@@ -230,3 +230,7 @@
 8.0.0.1	57	daf_persistence	master-g3391ba5ea0
 8.0.0.1	57	pex_config	master-g98e65bf68e
 8.0.0.1	57	ndarray	master-g28afc54ef9
+8.0.0.1	58	lsst_thirdparty	8.0.0.0+39
+8.0.0.1	58	daf_persistence	10.0
+8.0.0.1	58	pex_config	master-g98e65bf68e+1
+8.0.0.1	58	ndarray	master-g28afc54ef9+1

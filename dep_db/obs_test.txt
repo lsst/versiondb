@@ -232,3 +232,8 @@ master-g937d36d91b	0	daf_butlerUtils	master-gc54cf9771d
 master-g937d36d91b	0	pex_policy	master-g6a3ac32d1b
 master-g937d36d91b	0	daf_persistence	master-g3391ba5ea0
 master-g937d36d91b	0	pex_config	master-g98e65bf68e
+master-g937d36d91b	1	daf_base	10.0
+master-g937d36d91b	1	daf_butlerUtils	10.0
+master-g937d36d91b	1	pex_policy	master-g6a3ac32d1b+1
+master-g937d36d91b	1	daf_persistence	10.0
+master-g937d36d91b	1	pex_config	master-g98e65bf68e+1

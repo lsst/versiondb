@@ -845,3 +845,10 @@ master-g30672b0e0d	0	pex_harness	master-g084aeec0a4
 master-g30672b0e0d	0	daf_persistence	master-g3391ba5ea0
 master-g30672b0e0d	0	ctrl_events	master-gcf15f11bcc
 master-g30672b0e0d	0	ctrl_provenance	9.2+29
+10.0	0	cat	10.0
+10.0	0	utils	master-gf44c96c709+1
+10.0	0	pex_policy	master-g6a3ac32d1b+1
+10.0	0	pex_harness	master-g084aeec0a4+1
+10.0	0	daf_persistence	10.0
+10.0	0	ctrl_events	10.0
+10.0	0	ctrl_provenance	10.0

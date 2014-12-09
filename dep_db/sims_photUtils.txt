@@ -1758,3 +1758,12 @@ feature.CATSIM-138-cosmological-magnitudes-gb54a96be24	0	sims_coordUtils	master-
 feature.CATSIM-138-cosmological-magnitudes-gb54a96be24	0	python	0.0.2
 feature.CATSIM-138-cosmological-magnitudes-gb54a96be24	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-138-cosmological-magnitudes-gb54a96be24	0	pyfits	master-g08519beb22
+master-g7ce4e9eb77	5	utils	master-gf44c96c709+1
+master-g7ce4e9eb77	5	sims_catalogs_measures	master-gac383202b7+1
+master-g7ce4e9eb77	5	sims_catalogs_generation	master-g7bf1047834+1
+master-g7ce4e9eb77	5	sims_sed_library	2014.10.06
+master-g7ce4e9eb77	5	sims_dustmaps	2014.09.23
+master-g7ce4e9eb77	5	sims_coordUtils	master-g4c96225e23+1
+master-g7ce4e9eb77	5	python	0.0.2
+master-g7ce4e9eb77	5	throughputs	master-ga6e2efc0c9
+master-g7ce4e9eb77	5	pyfits	master-g08519beb22
