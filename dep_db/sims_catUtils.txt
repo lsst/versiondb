@@ -2820,3 +2820,12 @@ master-g0c05116516	4	palpy	1.2
 master-g0c05116516	4	python	0.0.2
 master-g0c05116516	4	pymssql	2.0.0+2
 master-g0c05116516	4	obs_lsstSim	10.0
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	utils	10.0
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	sims_catalogs_measures	master-gac383202b7+2
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	sims_catalogs_generation	master-g7bf1047834+2
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	sims_coordUtils	master-g4c96225e23+2
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	sims_photUtils	master-gff1f2206bf
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	palpy	1.2
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	python	0.0.2
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	pymssql	2.0.0+2
+feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	obs_lsstSim	10.0
