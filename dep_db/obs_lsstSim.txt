@@ -1978,3 +1978,12 @@ master-g5194e28263	94	mysqlpython	1.2.3+12
 10.0	0	ip_isr	10.0+1
 10.0	0	pipe_tasks	10.0
 10.0	0	mysqlpython	1.2.3+12
+10.0	1	daf_base	10.0+1
+10.0	1	pex_policy	10.0
+10.0	1	afw	10.0+1
+10.0	1	daf_persistence	10.0+1
+10.0	1	daf_butlerUtils	10.0+1
+10.0	1	meas_algorithms	10.0
+10.0	1	ip_isr	10.0+1
+10.0	1	pipe_tasks	master-g80a4fc0e4d
+10.0	1	mysqlpython	1.2.3+12

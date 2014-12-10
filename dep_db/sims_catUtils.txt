@@ -2829,3 +2829,12 @@ feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	palpy	1.2
 feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	python	0.0.2
 feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	pymssql	2.0.0+2
 feature.CATSIM-157-catsim-demos-gb44f85f4c9	0	obs_lsstSim	10.0
+master-g0c05116516	5	utils	10.0
+master-g0c05116516	5	sims_catalogs_measures	master-gac383202b7+2
+master-g0c05116516	5	sims_catalogs_generation	master-g7bf1047834+2
+master-g0c05116516	5	sims_coordUtils	master-g4c96225e23+2
+master-g0c05116516	5	sims_photUtils	master-gff1f2206bf
+master-g0c05116516	5	palpy	1.2
+master-g0c05116516	5	python	0.0.2
+master-g0c05116516	5	pymssql	2.0.0+2
+master-g0c05116516	5	obs_lsstSim	10.0+1
