@@ -222,3 +222,10 @@ master-g28afc54ef9	1	fftw	3.3.3
 10.0	0	base	10.0+1
 10.0	0	swig	master-gccf66d07ee
 10.0	0	fftw	3.3.3
+10.0	1	boost	1.55.0.1.lsst2
+10.0	1	python	0.0.2
+10.0	1	numpy	0.0.1+2
+10.0	1	eigen	3.2.0
+10.0	1	base	10.0+2
+10.0	1	swig	3.0.2.lsst1
+10.0	1	fftw	3.3.3

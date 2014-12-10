@@ -211,3 +211,6 @@ master-g35cc638215	0	qserv_testdata	master-g08e11b0d68
 1.0.0	68	qserv	master-g82507d4ed1
 1.0.0	68	partition	10.0
 1.0.0	68	qserv_testdata	10.0+2
+1.0.0	69	qserv	master-g82507d4ed1+1
+1.0.0	69	partition	10.0+1
+1.0.0	69	qserv_testdata	10.0+3

@@ -1785,3 +1785,12 @@ master-gff1f2206bf	1	sims_coordUtils	master-g4c96225e23+3
 master-gff1f2206bf	1	python	0.0.2
 master-gff1f2206bf	1	throughputs	master-ga6e2efc0c9
 master-gff1f2206bf	1	pyfits	master-g08519beb22
+master-gff1f2206bf	2	utils	10.0+1
+master-gff1f2206bf	2	sims_catalogs_measures	master-gac383202b7+3
+master-gff1f2206bf	2	sims_catalogs_generation	master-g7bf1047834+3
+master-gff1f2206bf	2	sims_sed_library	2014.10.06
+master-gff1f2206bf	2	sims_dustmaps	2014.09.23
+master-gff1f2206bf	2	sims_coordUtils	master-g4c96225e23+4
+master-gff1f2206bf	2	python	0.0.2
+master-gff1f2206bf	2	throughputs	master-ga6e2efc0c9
+master-gff1f2206bf	2	pyfits	3.2.4.lsst1
