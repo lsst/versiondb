@@ -500,3 +500,14 @@ master-g8bcc5e6060	1	daf_base	10.0+2
 master-g8bcc5e6060	1	daf_persistence	10.0+2
 master-g8bcc5e6060	1	utils	10.0+1
 master-g8bcc5e6060	1	pex_exceptions	10.0+1
+master-g8bcc5e6060	2	python	0.0.2
+master-g8bcc5e6060	2	mysqlclient	5.1.73.lsst1
+master-g8bcc5e6060	2	mysqlpython	1.2.3+13
+master-g8bcc5e6060	2	db	master-g3cce271c61+2
+master-g8bcc5e6060	2	log	10.0+3
+master-g8bcc5e6060	2	boost	1.55.0.1.lsst2
+master-g8bcc5e6060	2	pex_policy	10.0+2
+master-g8bcc5e6060	2	daf_base	10.0+3
+master-g8bcc5e6060	2	daf_persistence	10.0+3
+master-g8bcc5e6060	2	utils	10.0+2
+master-g8bcc5e6060	2	pex_exceptions	10.0+2

@@ -1627,3 +1627,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	3	pipe_base	10.0+2
 10.0	3	meas_algorithms	10.0+2
 10.0	3	doxygen	1.8.5
+10.0	4	boost	1.55.0.1.lsst2
+10.0	4	numpy	0.0.1+2
+10.0	4	mysqlclient	5.1.73.lsst1
+10.0	4	afw	tickets.DM-1215-geba7e727a2
+10.0	4	geom	10.0+2
+10.0	4	skypix	10.0+3
+10.0	4	pipe_base	10.0+3
+10.0	4	meas_algorithms	10.0+3
+10.0	4	doxygen	1.8.5
