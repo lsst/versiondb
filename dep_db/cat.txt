@@ -511,3 +511,13 @@ master-g8bcc5e6060	2	daf_base	10.0+3
 master-g8bcc5e6060	2	daf_persistence	10.0+3
 master-g8bcc5e6060	2	utils	10.0+2
 master-g8bcc5e6060	2	pex_exceptions	10.0+2
+10.0	2	python	0.0.2
+10.0	2	mysqlclient	5.1.73.lsst1
+10.0	2	mysqlpython	1.2.3+13
+10.0	2	boost	1.55.0.1.lsst2
+10.0	2	pex_logging	10.0+1
+10.0	2	pex_policy	10.0+1
+10.0	2	daf_base	10.0+2
+10.0	2	daf_persistence	10.0+2
+10.0	2	utils	10.0+1
+10.0	2	pex_exceptions	10.0+1
