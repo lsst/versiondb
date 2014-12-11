@@ -1827,3 +1827,10 @@ master-g83a9d60184	5	pipe_tasks	master-g80a4fc0e4d+4
 10.0	1	meas_astrom	10.0+2
 10.0	1	mysqlpython	1.2.3+13
 10.0	1	pipe_tasks	10.0+1
+master-g83a9d60184	6	pex_policy	10.0+2
+master-g83a9d60184	6	daf_butlerUtils	10.0+6
+master-g83a9d60184	6	afw	master-gd1bb39f546
+master-g83a9d60184	6	meas_algorithms	10.0+5
+master-g83a9d60184	6	meas_astrom	10.0+5
+master-g83a9d60184	6	mysqlpython	1.2.3+13
+master-g83a9d60184	6	pipe_tasks	master-g80a4fc0e4d+5
