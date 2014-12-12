@@ -922,3 +922,10 @@ master-g30672b0e0d	0	ctrl_provenance	9.2+29
 10.0	10	daf_persistence	10.0+3
 10.0	10	ctrl_events	master-g6f35c86b98
 10.0	10	ctrl_provenance	10.0+4
+10.0	11	cat	master-g8bcc5e6060+2
+10.0	11	utils	10.0+2
+10.0	11	pex_policy	10.0+2
+10.0	11	pex_harness	10.0+10
+10.0	11	daf_persistence	10.0+3
+10.0	11	ctrl_events	u.rallsman.TestBBFailInScons-g1031c5f8f2+1
+10.0	11	ctrl_provenance	10.0+4

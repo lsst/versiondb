@@ -908,3 +908,10 @@ master-g084aeec0a4	1	afw	10.0
 10.0	9	daf_persistence	10.0+3
 10.0	9	ctrl_events	master-g6f35c86b98
 10.0	9	afw	master-gd1bb39f546
+10.0	10	daf_base	10.0+3
+10.0	10	pex_logging	10.0+2
+10.0	10	pex_exceptions	10.0+2
+10.0	10	pex_policy	10.0+2
+10.0	10	daf_persistence	10.0+3
+10.0	10	ctrl_events	u.rallsman.TestBBFailInScons-g1031c5f8f2+1
+10.0	10	afw	master-gd1bb39f546
