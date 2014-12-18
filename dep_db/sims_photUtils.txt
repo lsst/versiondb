@@ -1875,3 +1875,12 @@ master-g9572b3e4b3	2	sims_coordUtils	master-g4c96225e23+9
 master-g9572b3e4b3	2	python	0.0.2
 master-g9572b3e4b3	2	throughputs	master-ga6e2efc0c9
 master-g9572b3e4b3	2	pyfits	3.2.4.lsst1
+master-g9572b3e4b3	3	utils	10.0+2
+master-g9572b3e4b3	3	sims_catalogs_measures	bugfix.CATSIM-211-rotskypos-in-radians-gf141f2079e
+master-g9572b3e4b3	3	sims_catalogs_generation	bugfix.CATSIM-211-rotskypos-in-radians-g592449c6fa
+master-g9572b3e4b3	3	sims_sed_library	2014.10.06
+master-g9572b3e4b3	3	sims_dustmaps	2014.09.23
+master-g9572b3e4b3	3	sims_coordUtils	bugfix.CATSIM-211-rotskypos-in-radians-ga751456015
+master-g9572b3e4b3	3	python	0.0.2
+master-g9572b3e4b3	3	throughputs	master-ga6e2efc0c9
+master-g9572b3e4b3	3	pyfits	3.2.4.lsst1

@@ -1378,3 +1378,11 @@ master-g4c96225e23	9	throughputs	master-ga6e2efc0c9
 master-g4c96225e23	9	palpy	1.2
 master-g4c96225e23	9	pyfits	3.2.4.lsst1
 master-g4c96225e23	9	afw	master-gd580f15959
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	sims_catalogs_measures	bugfix.CATSIM-211-rotskypos-in-radians-gf141f2079e
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	utils	10.0+2
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	base	10.0+3
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	python	0.0.2
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	throughputs	master-ga6e2efc0c9
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	palpy	1.2
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	pyfits	3.2.4.lsst1
+bugfix.CATSIM-211-rotskypos-in-radians-ga751456015	0	afw	master-gd580f15959
