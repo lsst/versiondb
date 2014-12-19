@@ -1884,3 +1884,12 @@ master-g9572b3e4b3	3	sims_coordUtils	bugfix.CATSIM-211-rotskypos-in-radians-ga75
 master-g9572b3e4b3	3	python	0.0.2
 master-g9572b3e4b3	3	throughputs	master-ga6e2efc0c9
 master-g9572b3e4b3	3	pyfits	3.2.4.lsst1
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	utils	10.0+2
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	sims_catalogs_measures	master-gac383202b7+4
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	sims_catalogs_generation	master-g7bf1047834+4
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	sims_sed_library	2014.10.06
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	sims_dustmaps	2014.09.23
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	sims_coordUtils	master-g4c96225e23+9
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	python	0.0.2
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-193-write-galaxy-sed-matching-code-g78fdda2e2f	0	pyfits	3.2.4.lsst1
