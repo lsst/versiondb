@@ -3036,3 +3036,12 @@ master-g41576e0700	19	palpy	1.2
 master-g41576e0700	19	python	0.0.2
 master-g41576e0700	19	pymssql	2.0.0+2
 master-g41576e0700	19	obs_lsstSim	10.0+14
+master-g1965bb9341	0	utils	10.0+2
+master-g1965bb9341	0	sims_catalogs_measures	master-g0936520c97
+master-g1965bb9341	0	sims_catalogs_generation	master-g5abba9a41f
+master-g1965bb9341	0	sims_coordUtils	master-g899e720a9e
+master-g1965bb9341	0	sims_photUtils	master-g9572b3e4b3+5
+master-g1965bb9341	0	palpy	1.2
+master-g1965bb9341	0	python	0.0.2
+master-g1965bb9341	0	pymssql	2.0.0+2
+master-g1965bb9341	0	obs_lsstSim	10.0+14
