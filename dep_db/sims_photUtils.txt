@@ -1920,3 +1920,12 @@ feature.CATSIM-193-write-galaxy-sed-matching-code-gd3d7271406	0	sims_coordUtils	
 feature.CATSIM-193-write-galaxy-sed-matching-code-gd3d7271406	0	python	0.0.2
 feature.CATSIM-193-write-galaxy-sed-matching-code-gd3d7271406	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-193-write-galaxy-sed-matching-code-gd3d7271406	0	pyfits	3.2.4.lsst1
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	utils	10.0+2
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	sims_catalogs_measures	master-gac383202b7+4
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	sims_catalogs_generation	master-g7bf1047834+4
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	sims_sed_library	2014.10.06
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	sims_dustmaps	2014.09.23
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	sims_coordUtils	master-g4c96225e23+10
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	python	0.0.2
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0	0	pyfits	3.2.4.lsst1

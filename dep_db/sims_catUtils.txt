@@ -3027,3 +3027,12 @@ master-g41576e0700	18	palpy	1.2
 master-g41576e0700	18	python	0.0.2
 master-g41576e0700	18	pymssql	2.0.0+2
 master-g41576e0700	18	obs_lsstSim	10.0+14
+master-g41576e0700	19	utils	10.0+2
+master-g41576e0700	19	sims_catalogs_measures	master-gac383202b7+4
+master-g41576e0700	19	sims_catalogs_generation	master-g7bf1047834+4
+master-g41576e0700	19	sims_coordUtils	master-g4c96225e23+10
+master-g41576e0700	19	sims_photUtils	feature.CATSIM-193-write-galaxy-sed-matching-code-g0275c6dde0
+master-g41576e0700	19	palpy	1.2
+master-g41576e0700	19	python	0.0.2
+master-g41576e0700	19	pymssql	2.0.0+2
+master-g41576e0700	19	obs_lsstSim	10.0+14
