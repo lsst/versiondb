@@ -8,3 +8,7 @@ feature.OPSIM-624-make-opsim-a-distributable-eups-g2627fee440	0	mysqlpython	1.2.
 feature.OPSIM-624-make-opsim-a-distributable-eups-g2627fee440	0	twisted	12.0.0
 feature.OPSIM-624-make-opsim-a-distributable-eups-g2627fee440	0	palpy	1.2
 feature.OPSIM-624-make-opsim-a-distributable-eups-g2627fee440	0	lsst	10.0+1
+master-g9f085d22bd	0	mysql	5.1.65.lsst1
+master-g9f085d22bd	0	mysqlpython	1.2.3+13
+master-g9f085d22bd	0	palpy	1.2
+master-g9f085d22bd	0	lsst	10.0+1
