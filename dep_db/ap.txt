@@ -1744,3 +1744,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	16	pipe_base	10.0+11
 10.0	16	meas_algorithms	master-gdeb1434fa4+6
 10.0	16	doxygen	1.8.5
+10.0	17	boost	1.55.0.1.lsst2
+10.0	17	numpy	0.0.1+2
+10.0	17	mysqlclient	5.1.73.lsst1
+10.0	17	afw	master-gf01f01a542
+10.0	17	geom	10.0+2
+10.0	17	skypix	10.0+11
+10.0	17	pipe_base	10.0+11
+10.0	17	meas_algorithms	master-gdeb1434fa4+7
+10.0	17	doxygen	1.8.5
