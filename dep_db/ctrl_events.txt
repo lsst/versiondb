@@ -746,3 +746,14 @@ u.rallsman.TestBBFailInScons-g1031c5f8f2	2	cat	master-g8bcc5e6060+4
 u.rallsman.TestBBFailInScons-g1031c5f8f2	2	daf_persistence	10.0+4
 u.rallsman.TestBBFailInScons-g1031c5f8f2	2	swig	3.0.2.lsst1
 u.rallsman.TestBBFailInScons-g1031c5f8f2	2	doxygen	1.8.5
+master-g6f35c86b98	3	boost	1.55.0.1.lsst2
+master-g6f35c86b98	3	activemqcpp	3.5.0+15
+master-g6f35c86b98	3	utils	10.0+2
+master-g6f35c86b98	3	daf_base	master-g06cae74964
+master-g6f35c86b98	3	pex_logging	10.0+3
+master-g6f35c86b98	3	pex_exceptions	10.0+2
+master-g6f35c86b98	3	pex_policy	10.0+3
+master-g6f35c86b98	3	cat	master-g8bcc5e6060+5
+master-g6f35c86b98	3	daf_persistence	10.0+4
+master-g6f35c86b98	3	swig	3.0.2.lsst1
+master-g6f35c86b98	3	doxygen	1.8.5
