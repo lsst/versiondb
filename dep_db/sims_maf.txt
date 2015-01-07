@@ -2373,3 +2373,15 @@ master-g85703ecbc6	16	sims_coordUtils	master-g899e720a9e+3
 master-g85703ecbc6	16	sims_dustmaps	2014.09.23
 master-g85703ecbc6	16	healpy	1.8.1+3
 master-g85703ecbc6	16	obs_lsstSim	10.0+23
+master-g85703ecbc6	17	base	10.0+3
+master-g85703ecbc6	17	numpy	0.0.1+2
+master-g85703ecbc6	17	matplotlib	0.0.1+2
+master-g85703ecbc6	17	pyephem	3.7.5.1.lsst1
+master-g85703ecbc6	17	palpy	1.2
+master-g85703ecbc6	17	pex_config	master-g63b8418d08
+master-g85703ecbc6	17	sims_catalogs_generation	master-g5abba9a41f
+master-g85703ecbc6	17	sims_photUtils	feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783
+master-g85703ecbc6	17	sims_coordUtils	master-g899e720a9e+3
+master-g85703ecbc6	17	sims_dustmaps	2014.09.23
+master-g85703ecbc6	17	healpy	1.8.1+3
+master-g85703ecbc6	17	obs_lsstSim	10.0+23

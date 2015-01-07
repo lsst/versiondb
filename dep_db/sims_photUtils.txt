@@ -1965,3 +1965,12 @@ master-g9572b3e4b3	8	sims_coordUtils	master-g899e720a9e+3
 master-g9572b3e4b3	8	python	0.0.2
 master-g9572b3e4b3	8	throughputs	master-ga6e2efc0c9
 master-g9572b3e4b3	8	pyfits	3.2.4.lsst1
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	utils	10.0+2
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	sims_catalogs_measures	master-g0936520c97
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	sims_catalogs_generation	master-g5abba9a41f
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	sims_sed_library	2014.10.06
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	sims_dustmaps	2014.09.23
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	sims_coordUtils	master-g899e720a9e+3
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	python	0.0.2
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-193-write-galaxy-sed-matching-code-gef5d666783	0	pyfits	3.2.4.lsst1
