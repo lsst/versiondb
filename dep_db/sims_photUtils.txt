@@ -1983,3 +1983,12 @@ feature.CATSIM-193-write-galaxy-sed-matching-code-gf8acebde8a	0	sims_coordUtils	
 feature.CATSIM-193-write-galaxy-sed-matching-code-gf8acebde8a	0	python	0.0.2
 feature.CATSIM-193-write-galaxy-sed-matching-code-gf8acebde8a	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-193-write-galaxy-sed-matching-code-gf8acebde8a	0	pyfits	3.2.4.lsst1
+master-gf4b08de607	0	utils	10.0+2
+master-gf4b08de607	0	sims_catalogs_measures	master-g0936520c97
+master-gf4b08de607	0	sims_catalogs_generation	master-g5abba9a41f
+master-gf4b08de607	0	sims_sed_library	2014.10.06
+master-gf4b08de607	0	sims_dustmaps	2014.09.23
+master-gf4b08de607	0	sims_coordUtils	master-g899e720a9e+3
+master-gf4b08de607	0	python	0.0.2
+master-gf4b08de607	0	throughputs	master-ga6e2efc0c9
+master-gf4b08de607	0	pyfits	3.2.4.lsst1
