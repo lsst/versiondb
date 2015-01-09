@@ -849,3 +849,8 @@ master-gb78200cc66	1	pipe_base	master-ga34ec3e352
 master-gb78200cc66	1	daf_base	master-g06cae74964
 master-gb78200cc66	1	pex_config	master-g63b8418d08
 master-gb78200cc66	1	coadd_utils	10.0+13
+master-gb78200cc66	2	afw	master-g71d736df3a
+master-gb78200cc66	2	pipe_base	master-ga34ec3e352+1
+master-gb78200cc66	2	daf_base	master-g06cae74964
+master-gb78200cc66	2	pex_config	master-g63b8418d08
+master-gb78200cc66	2	coadd_utils	10.0+14
