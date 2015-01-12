@@ -3207,3 +3207,12 @@ master-g1965bb9341	18	palpy	1.2
 master-g1965bb9341	18	python	0.0.2
 master-g1965bb9341	18	pymssql	2.0.0+2
 master-g1965bb9341	18	obs_lsstSim	10.0+29
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	utils	10.0+2
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	sims_catalogs_measures	master-g0936520c97
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	sims_catalogs_generation	master-g5abba9a41f
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	sims_coordUtils	master-g899e720a9e+4
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	sims_photUtils	master-gf4b08de607+1
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	palpy	1.2
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	python	0.0.2
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	pymssql	2.0.0+2
+bugfix.CATSIM-169-catalogModel-bugs-g4da2436b23	0	obs_lsstSim	10.0+29
