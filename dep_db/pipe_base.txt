@@ -796,3 +796,9 @@ master-ga34ec3e352	1	pex_config	master-g63b8418d08
 master-ga34ec3e352	1	utils	10.0+2
 master-ga34ec3e352	1	afw	master-g71d736df3a
 master-ga34ec3e352	1	obs_test	10.0+12
+master-ga34ec3e352	2	daf_persistence	10.0+5
+master-ga34ec3e352	2	pex_logging	10.0+4
+master-ga34ec3e352	2	pex_config	master-g63b8418d08+1
+master-ga34ec3e352	2	utils	10.0+3
+master-ga34ec3e352	2	afw	master-g71d736df3a+1
+master-ga34ec3e352	2	obs_test	10.0+13

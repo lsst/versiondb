@@ -236,3 +236,10 @@ master-g28afc54ef9	1	fftw	3.3.3
 10.0	2	base	10.0+3
 10.0	2	swig	3.0.2.lsst1
 10.0	2	fftw	3.3.3
+10.0	3	boost	1.55.0.1.lsst2
+10.0	3	python	0.0.2
+10.0	3	numpy	0.0.1+2
+10.0	3	eigen	3.2.0
+10.0	3	base	master-g548d41d8ed
+10.0	3	swig	3.0.2.lsst1
+10.0	3	fftw	3.3.3
