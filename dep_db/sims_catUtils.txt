@@ -3234,3 +3234,12 @@ master-g9f9ed094ca	1	palpy	1.2
 master-g9f9ed094ca	1	python	0.0.2
 master-g9f9ed094ca	1	pymssql	2.0.0+2
 master-g9f9ed094ca	1	obs_lsstSim	10.0+30
+master-g9f9ed094ca	2	utils	10.0+2
+master-g9f9ed094ca	2	sims_catalogs_measures	master-g0936520c97
+master-g9f9ed094ca	2	sims_catalogs_generation	master-g5abba9a41f
+master-g9f9ed094ca	2	sims_coordUtils	master-g899e720a9e+4
+master-g9f9ed094ca	2	sims_photUtils	master-gf4b08de607+1
+master-g9f9ed094ca	2	palpy	1.2
+master-g9f9ed094ca	2	python	0.0.2
+master-g9f9ed094ca	2	pymssql	2.0.0+2
+master-g9f9ed094ca	2	obs_lsstSim	10.0+31
