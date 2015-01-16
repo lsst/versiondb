@@ -2058,3 +2058,10 @@ master-g83a9d60184	38	meas_algorithms	u.pgee.DM-1125-g02463a4c28
 master-g83a9d60184	38	meas_astrom	10.0+32
 master-g83a9d60184	38	mysqlpython	1.2.3+13
 master-g83a9d60184	38	pipe_tasks	master-g12b3d09912+8
+master-g83a9d60184	39	pex_policy	10.0+4
+master-g83a9d60184	39	daf_butlerUtils	10.0+16
+master-g83a9d60184	39	afw	master-g545f4dc910
+master-g83a9d60184	39	meas_algorithms	master-g256381954a
+master-g83a9d60184	39	meas_astrom	10.0+33
+master-g83a9d60184	39	mysqlpython	1.2.3+13
+master-g83a9d60184	39	pipe_tasks	master-g12b3d09912+9
