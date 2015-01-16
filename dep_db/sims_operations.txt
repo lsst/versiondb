@@ -16,3 +16,7 @@ master-gf23b7c5ccb	0	mysql	5.1.65.lsst1
 master-gf23b7c5ccb	0	mysqlpython	1.2.3+13
 master-gf23b7c5ccb	0	palpy	1.2
 master-gf23b7c5ccb	0	lsst	master-g9ed9d8b09b
+bugfix.OPSIM-708-remove-envset-from-eups-table-gbfab45ece9	0	mysql	5.1.65.lsst1
+bugfix.OPSIM-708-remove-envset-from-eups-table-gbfab45ece9	0	mysqlpython	1.2.3+13
+bugfix.OPSIM-708-remove-envset-from-eups-table-gbfab45ece9	0	palpy	1.2
+bugfix.OPSIM-708-remove-envset-from-eups-table-gbfab45ece9	0	lsst	master-g9ed9d8b09b
