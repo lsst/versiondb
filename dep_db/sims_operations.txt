@@ -24,3 +24,7 @@ master-gf5709c3a7c	0	mysql	5.1.65.lsst1
 master-gf5709c3a7c	0	mysqlpython	1.2.3+13
 master-gf5709c3a7c	0	palpy	1.2
 master-gf5709c3a7c	0	lsst	master-g9ed9d8b09b
+bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	mysql	5.1.65.lsst1
+bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	mysqlpython	1.2.3+13
+bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	palpy	1.2
+bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	lsst	master-g9ed9d8b09b
