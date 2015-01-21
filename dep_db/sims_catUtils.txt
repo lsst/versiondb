@@ -3369,3 +3369,12 @@ feature.CATSIM-151-split-astrometry-and-photometry-ge1933e7deb	1	palpy	1.2
 feature.CATSIM-151-split-astrometry-and-photometry-ge1933e7deb	1	python	0.0.2
 feature.CATSIM-151-split-astrometry-and-photometry-ge1933e7deb	1	pymssql	2.0.0+2
 feature.CATSIM-151-split-astrometry-and-photometry-ge1933e7deb	1	obs_lsstSim	10.0+43
+master-g24a7348601	0	utils	10.0+3
+master-g24a7348601	0	sims_catalogs_measures	master-gcda82b22c8
+master-g24a7348601	0	sims_catalogs_generation	master-g5abba9a41f+1
+master-g24a7348601	0	sims_coordUtils	master-g8df0efcf4d
+master-g24a7348601	0	sims_photUtils	master-gdb619108a7
+master-g24a7348601	0	palpy	1.2
+master-g24a7348601	0	python	0.0.2
+master-g24a7348601	0	pymssql	2.0.0+2
+master-g24a7348601	0	obs_lsstSim	10.0+43

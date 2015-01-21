@@ -1466,3 +1466,11 @@ feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	throughputs	mas
 feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	palpy	1.2
 feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	pyfits	3.2.4.lsst1
 feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	afw	master-g545f4dc910
+master-g8df0efcf4d	0	sims_catalogs_measures	master-gcda82b22c8
+master-g8df0efcf4d	0	utils	10.0+3
+master-g8df0efcf4d	0	base	master-g548d41d8ed
+master-g8df0efcf4d	0	python	0.0.2
+master-g8df0efcf4d	0	throughputs	master-ga6e2efc0c9
+master-g8df0efcf4d	0	palpy	1.2
+master-g8df0efcf4d	0	pyfits	3.2.4.lsst1
+master-g8df0efcf4d	0	afw	master-g545f4dc910
