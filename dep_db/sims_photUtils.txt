@@ -2037,3 +2037,12 @@ feature.CATSIM-151-split-astrometry-and-photometry-g948750699a	0	sims_coordUtils
 feature.CATSIM-151-split-astrometry-and-photometry-g948750699a	0	python	0.0.2
 feature.CATSIM-151-split-astrometry-and-photometry-g948750699a	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-151-split-astrometry-and-photometry-g948750699a	0	pyfits	3.2.4.lsst1
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	utils	10.0+3
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	sims_catalogs_measures	feature.CATSIM-151-split-astrometry-and-photometry-g8a94d503e9
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	sims_catalogs_generation	master-g5abba9a41f+1
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	sims_sed_library	2014.10.06
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	sims_dustmaps	2014.09.23
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	sims_coordUtils	feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	python	0.0.2
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-151-split-astrometry-and-photometry-gbdbc120b37	0	pyfits	3.2.4.lsst1
