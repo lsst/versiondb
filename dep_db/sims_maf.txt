@@ -2673,3 +2673,15 @@ master-gf5fbfbe3ff	1	sims_coordUtils	feature.CATSIM-151-split-astrometry-and-pho
 master-gf5fbfbe3ff	1	sims_dustmaps	2014.09.23
 master-gf5fbfbe3ff	1	healpy	1.8.1+3
 master-gf5fbfbe3ff	1	obs_lsstSim	10.0+42
+master-gf5fbfbe3ff	2	base	master-g548d41d8ed
+master-gf5fbfbe3ff	2	numpy	0.0.1+2
+master-gf5fbfbe3ff	2	matplotlib	0.0.1+2
+master-gf5fbfbe3ff	2	pyephem	3.7.5.1.lsst1
+master-gf5fbfbe3ff	2	palpy	1.2
+master-gf5fbfbe3ff	2	pex_config	master-g63b8418d08+1
+master-gf5fbfbe3ff	2	sims_catalogs_generation	master-g5abba9a41f+1
+master-gf5fbfbe3ff	2	sims_photUtils	master-gf4b08de607+4
+master-gf5fbfbe3ff	2	sims_coordUtils	master-g899e720a9e+7
+master-gf5fbfbe3ff	2	sims_dustmaps	2014.09.23
+master-gf5fbfbe3ff	2	healpy	1.8.1+3
+master-gf5fbfbe3ff	2	obs_lsstSim	10.0+43
