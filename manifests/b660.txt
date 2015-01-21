@@ -1,0 +1,12 @@
+# product                 SHA1                                      Version                       
+BUILD=b660
+doxygen                   16ba5fa702ef543facf1ab4530b6a436f20f8f8b  1.8.5                                    
+python                    cbf93ab65b96fb3a73837dd7646f9762acbe3ef4  0.0.2                                    
+mysqlclient               b5244aa1cc5e692fdf2d47a301f9aa0b47cdbc83  5.1.73.lsst1                             
+scons                     04d5b3952f4eb952fc89f93b1da9aa716d2f8c69  2.3.0+1                                  python
+mysql                     05b0a515cf4562ed4a2a3a7435698f29cf59f9eb  5.1.65.lsst1                             
+sconsUtils                9a7533b2ae170c496ece776be872619dbdec36f4  master-g9a7533b2ae                       scons,doxygen
+palpy                     3c3377bf0d0f614fd822c576333d34ac4f069874  1.2                                      python
+mysqlpython               bd46a5f42237ae63804db3ad11256bb03e4667c8  1.2.3+13                                 python,mysqlclient
+lsst                      9ed9d8b09b1e373c5e026024309bfbe87435cfab  master-g9ed9d8b09b                       sconsUtils
+sims_operations           70e186918e4f3d7a5cade89ccda77b9a8eed8ace  master-g70e186918e                       mysql,mysqlpython,palpy,lsst
