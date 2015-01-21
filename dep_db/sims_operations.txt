@@ -28,3 +28,7 @@ bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	mysql	5.1.65.lss
 bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	mysqlpython	1.2.3+13
 bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	palpy	1.2
 bugfix.OPSIM-711-fix-path-override-for-eups-build-g441ab30304	0	lsst	master-g9ed9d8b09b
+master-gadcb3b34d3	0	mysql	5.1.65.lsst1
+master-gadcb3b34d3	0	mysqlpython	1.2.3+13
+master-gadcb3b34d3	0	palpy	1.2
+master-gadcb3b34d3	0	lsst	master-g9ed9d8b09b
