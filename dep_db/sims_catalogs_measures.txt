@@ -363,3 +363,6 @@ master-g0936520c97	0	sims_catalogs_generation	master-g5abba9a41f
 master-g0936520c97	1	utils	10.0+3
 master-g0936520c97	1	python	0.0.2
 master-g0936520c97	1	sims_catalogs_generation	master-g5abba9a41f+1
+feature.CATSIM-151-split-astrometry-and-photometry-g8a94d503e9	0	utils	10.0+3
+feature.CATSIM-151-split-astrometry-and-photometry-g8a94d503e9	0	python	0.0.2
+feature.CATSIM-151-split-astrometry-and-photometry-g8a94d503e9	0	sims_catalogs_generation	master-g5abba9a41f+1

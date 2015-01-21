@@ -1458,3 +1458,11 @@ master-g899e720a9e	7	throughputs	master-ga6e2efc0c9
 master-g899e720a9e	7	palpy	1.2
 master-g899e720a9e	7	pyfits	3.2.4.lsst1
 master-g899e720a9e	7	afw	master-g545f4dc910
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	sims_catalogs_measures	feature.CATSIM-151-split-astrometry-and-photometry-g8a94d503e9
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	utils	10.0+3
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	base	master-g548d41d8ed
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	python	0.0.2
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	throughputs	master-ga6e2efc0c9
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	palpy	1.2
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	pyfits	3.2.4.lsst1
+feature.CATSIM-151-split-astrometry-and-photometry-g731bd68835	0	afw	master-g545f4dc910

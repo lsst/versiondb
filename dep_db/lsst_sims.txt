@@ -2796,3 +2796,9 @@ master-g69b085209b	426	sims_catalogs_generation	master-g5abba9a41f+1
 master-g69b085209b	426	sims_catalogs_measures	master-g0936520c97+1
 master-g69b085209b	426	sims_sed_library	2014.10.06
 master-g69b085209b	426	sims_dustmaps	2014.09.23
+master-g69b085209b	427	sims_maf	master-gf5fbfbe3ff+1
+master-g69b085209b	427	sims_catUtils	feature.CATSIM-151-split-astrometry-and-photometry-ge1933e7deb
+master-g69b085209b	427	sims_catalogs_generation	master-g5abba9a41f+1
+master-g69b085209b	427	sims_catalogs_measures	feature.CATSIM-151-split-astrometry-and-photometry-g8a94d503e9
+master-g69b085209b	427	sims_sed_library	2014.10.06
+master-g69b085209b	427	sims_dustmaps	2014.09.23
