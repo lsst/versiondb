@@ -1,0 +1,10 @@
+# product                 SHA1                                      Version                       
+BUILD=b662
+python                    cbf93ab65b96fb3a73837dd7646f9762acbe3ef4  0.0.2                                    
+numpy                     e3014bbc3285368c8fb605a5225c1affc7fdd34f  0.0.1+2                                  python
+fftw                      79f7a23301533025fb1a46e9e8e60e565bdb8831  3.3.3                                    
+boost                     52f51dfb325a3e133b19d1e7540b0c6236b8ed61  1.55.0.1.lsst2                           python
+pyfits                    08519beb22c27656b9766f976d4cb58394d473b9  3.2.4.lsst1                              numpy
+scons                     04d5b3952f4eb952fc89f93b1da9aa716d2f8c69  2.3.0+1                                  python
+tmv                       adc6811b132b8f89bf307edce8b85bd8a9dc2e89  0.72                                     scons
+GalSim                    e4770557bfe2b3721b6b3f317799cbdf8b547b62  master-ge4770557bf                       numpy,pyfits,boost,fftw,tmv
