@@ -3405,3 +3405,12 @@ master-g24a7348601	3	palpy	1.2
 master-g24a7348601	3	python	0.0.2
 master-g24a7348601	3	pymssql	2.0.0+2
 master-g24a7348601	3	obs_lsstSim	10.0+46
+master-g24a7348601	4	utils	master-g64ff11fffb
+master-g24a7348601	4	sims_catalogs_measures	master-gcda82b22c8+1
+master-g24a7348601	4	sims_catalogs_generation	master-g5abba9a41f+2
+master-g24a7348601	4	sims_coordUtils	master-g8df0efcf4d+3
+master-g24a7348601	4	sims_photUtils	master-gdb619108a7+3
+master-g24a7348601	4	palpy	1.2
+master-g24a7348601	4	python	0.0.2
+master-g24a7348601	4	pymssql	2.0.0+2
+master-g24a7348601	4	obs_lsstSim	10.0+47
