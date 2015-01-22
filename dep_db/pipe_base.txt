@@ -820,3 +820,9 @@ master-ga34ec3e352	5	pex_config	tickets.DM-1800-g35760e2397
 master-ga34ec3e352	5	utils	10.0+3
 master-ga34ec3e352	5	afw	master-g545f4dc910+1
 master-ga34ec3e352	5	obs_test	10.0+16
+master-ga34ec3e352	6	daf_persistence	10.0+6
+master-ga34ec3e352	6	pex_logging	10.0+5
+master-ga34ec3e352	6	pex_config	master-g63b8418d08+2
+master-ga34ec3e352	6	utils	master-g64ff11fffb
+master-ga34ec3e352	6	afw	master-g545f4dc910+2
+master-ga34ec3e352	6	obs_test	10.0+17

@@ -2064,3 +2064,12 @@ master-gdb619108a7	1	sims_coordUtils	master-g8df0efcf4d+1
 master-gdb619108a7	1	python	0.0.2
 master-gdb619108a7	1	throughputs	master-ga6e2efc0c9
 master-gdb619108a7	1	pyfits	3.2.4.lsst1
+master-gdb619108a7	2	utils	master-g64ff11fffb
+master-gdb619108a7	2	sims_catalogs_measures	master-gcda82b22c8+1
+master-gdb619108a7	2	sims_catalogs_generation	master-g5abba9a41f+2
+master-gdb619108a7	2	sims_sed_library	2014.10.06
+master-gdb619108a7	2	sims_dustmaps	2014.09.23
+master-gdb619108a7	2	sims_coordUtils	master-g8df0efcf4d+2
+master-gdb619108a7	2	python	0.0.2
+master-gdb619108a7	2	throughputs	master-ga6e2efc0c9
+master-gdb619108a7	2	pyfits	3.2.4.lsst1
