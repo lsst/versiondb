@@ -642,3 +642,14 @@ master-g8bcc5e6060	13	daf_base	master-g06cae74964+2
 master-g8bcc5e6060	13	daf_persistence	10.0+6
 master-g8bcc5e6060	13	utils	master-g64ff11fffb
 master-g8bcc5e6060	13	pex_exceptions	10.0+3
+master-g8bcc5e6060	14	python	0.0.2
+master-g8bcc5e6060	14	mysqlclient	5.1.73.lsst1
+master-g8bcc5e6060	14	mysqlpython	1.2.3+13
+master-g8bcc5e6060	14	db	master-g3cce271c61+2
+master-g8bcc5e6060	14	log	u.ktlim.getLogger-g85e66952d5
+master-g8bcc5e6060	14	boost	1.55.0.1.lsst2
+master-g8bcc5e6060	14	pex_policy	10.0+5
+master-g8bcc5e6060	14	daf_base	master-g06cae74964+2
+master-g8bcc5e6060	14	daf_persistence	10.0+6
+master-g8bcc5e6060	14	utils	master-g64ff11fffb
+master-g8bcc5e6060	14	pex_exceptions	10.0+3
