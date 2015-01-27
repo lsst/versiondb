@@ -3459,3 +3459,12 @@ master-g7aa2e53f24	3	palpy	1.2
 master-g7aa2e53f24	3	python	0.0.2
 master-g7aa2e53f24	3	pymssql	2.0.0+2
 master-g7aa2e53f24	3	obs_lsstSim	10.0+51
+master-g7aa2e53f24	4	utils	master-g64ff11fffb
+master-g7aa2e53f24	4	sims_catalogs_measures	master-gcda82b22c8+1
+master-g7aa2e53f24	4	sims_catalogs_generation	master-g5abba9a41f+2
+master-g7aa2e53f24	4	sims_coordUtils	master-g8df0efcf4d+7
+master-g7aa2e53f24	4	sims_photUtils	feature.CATSIM-152-unify-photutils.py-and-photometry.py-g3aa0ef082d
+master-g7aa2e53f24	4	palpy	1.2
+master-g7aa2e53f24	4	python	0.0.2
+master-g7aa2e53f24	4	pymssql	2.0.0+2
+master-g7aa2e53f24	4	obs_lsstSim	10.0+51
