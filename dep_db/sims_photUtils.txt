@@ -2127,3 +2127,12 @@ feature.CATSIM-152-unify-photutils.py-and-photometry.py-g3aa0ef082d	0	sims_coord
 feature.CATSIM-152-unify-photutils.py-and-photometry.py-g3aa0ef082d	0	python	0.0.2
 feature.CATSIM-152-unify-photutils.py-and-photometry.py-g3aa0ef082d	0	throughputs	master-ga6e2efc0c9
 feature.CATSIM-152-unify-photutils.py-and-photometry.py-g3aa0ef082d	0	pyfits	3.2.4.lsst1
+master-gdb619108a7	8	utils	master-g64ff11fffb
+master-gdb619108a7	8	sims_catalogs_measures	master-gcda82b22c8+1
+master-gdb619108a7	8	sims_catalogs_generation	master-g5abba9a41f+2
+master-gdb619108a7	8	sims_sed_library	2014.10.06
+master-gdb619108a7	8	sims_dustmaps	2014.09.23
+master-gdb619108a7	8	sims_coordUtils	master-g8df0efcf4d+8
+master-gdb619108a7	8	python	0.0.2
+master-gdb619108a7	8	throughputs	master-ga6e2efc0c9
+master-gdb619108a7	8	pyfits	3.2.4.lsst1

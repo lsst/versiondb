@@ -2142,3 +2142,10 @@ master-g83a9d60184	50	meas_algorithms	master-g87bdd2112b+4
 master-g83a9d60184	50	meas_astrom	10.0+44
 master-g83a9d60184	50	mysqlpython	1.2.3+13
 master-g83a9d60184	50	pipe_tasks	master-g12b3d09912+20
+tickets.DM-1218-g630bcbe482	0	pex_policy	10.0+5
+tickets.DM-1218-g630bcbe482	0	daf_butlerUtils	10.0+24
+tickets.DM-1218-g630bcbe482	0	afw	tickets.DM-1218-g286e5d968c
+tickets.DM-1218-g630bcbe482	0	meas_algorithms	tickets.DM-1218-ge970673179
+tickets.DM-1218-g630bcbe482	0	meas_astrom	10.0+45
+tickets.DM-1218-g630bcbe482	0	mysqlpython	1.2.3+13
+tickets.DM-1218-g630bcbe482	0	pipe_tasks	tickets.DM-1218-g63e038bcbc
