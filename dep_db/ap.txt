@@ -2023,3 +2023,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	47	pipe_base	master-ga34ec3e352+13
 10.0	47	meas_algorithms	master-g91d2054d19
 10.0	47	doxygen	1.8.5
+10.0	48	boost	1.55.0.1.lsst2
+10.0	48	numpy	0.0.1+2
+10.0	48	mysqlclient	5.1.73.lsst1
+10.0	48	afw	master-g121dde2ad4+1
+10.0	48	geom	10.0+2
+10.0	48	skypix	10.0+25
+10.0	48	pipe_base	master-ga34ec3e352+14
+10.0	48	meas_algorithms	master-g91d2054d19+1
+10.0	48	doxygen	1.8.5
