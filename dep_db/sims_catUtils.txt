@@ -3513,3 +3513,12 @@ master-g7aa2e53f24	9	palpy	1.2
 master-g7aa2e53f24	9	python	0.0.2
 master-g7aa2e53f24	9	pymssql	2.0.0+2
 master-g7aa2e53f24	9	obs_lsstSim	10.0+55
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	utils	master-g64ff11fffb
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	sims_catalogs_measures	master-gcda82b22c8+1
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	sims_catalogs_generation	master-g5abba9a41f+2
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	sims_coordUtils	master-g8df0efcf4d+10
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	sims_photUtils	master-g9b2498b50d+2
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	palpy	1.2
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	python	0.0.2
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	pymssql	2.0.0+2
+feature.SIM-58-add-snia-to-catalogs-of-galaxies-generated-g1be8c9aa5a	0	obs_lsstSim	10.0+55
