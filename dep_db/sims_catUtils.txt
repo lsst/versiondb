@@ -3532,3 +3532,12 @@ feature.SIM-166-update-opsim-interface-g5225d4b702	0	palpy	1.2
 feature.SIM-166-update-opsim-interface-g5225d4b702	0	python	0.0.2
 feature.SIM-166-update-opsim-interface-g5225d4b702	0	pymssql	2.0.0+2
 feature.SIM-166-update-opsim-interface-g5225d4b702	0	obs_lsstSim	10.0+55
+master-g7aa2e53f24	10	utils	master-g64ff11fffb
+master-g7aa2e53f24	10	sims_catalogs_measures	master-gcda82b22c8+1
+master-g7aa2e53f24	10	sims_catalogs_generation	master-g5abba9a41f+2
+master-g7aa2e53f24	10	sims_coordUtils	master-g8df0efcf4d+10
+master-g7aa2e53f24	10	sims_photUtils	master-g9b2498b50d+2
+master-g7aa2e53f24	10	palpy	1.2
+master-g7aa2e53f24	10	python	0.0.2
+master-g7aa2e53f24	10	pymssql	2.0.0+2
+master-g7aa2e53f24	10	obs_lsstSim	10.0+56
