@@ -110,3 +110,7 @@ u.ktlim.getLogger-g85e66952d5	0	boost	1.55.0.1.lsst2
 u.ktlim.getLogger-g85e66952d5	0	log4cxx	master-g672bd33acd
 u.ktlim.getLogger-g85e66952d5	0	utils	master-g64ff11fffb
 u.ktlim.getLogger-g85e66952d5	0	sconsUtils	master-g9a7533b2ae
+master-gfab0203bd3	3	boost	1.55.0.1.lsst2
+master-gfab0203bd3	3	log4cxx	0.10.0.lsst2
+master-gfab0203bd3	3	utils	master-g64ff11fffb
+master-gfab0203bd3	3	sconsUtils	master-g9a7533b2ae
