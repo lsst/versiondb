@@ -2084,3 +2084,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0	61	obs_lsstSim	10.0+56
 10.0	61	obs_sdss	master-gd7793341af+3
 10.0	61	obs_test	10.0+25
+10.0	62	lsst_libs	10.0+14
+10.0	62	meas_deblender	10.0+50
+10.0	62	meas_modelfit	master-g40827173df+9
+10.0	62	pipe_tasks	tickets.DM-1903-gad2c39dde4
+10.0	62	obs_lsstSim	10.0+57
+10.0	62	obs_sdss	master-gd7793341af+4
+10.0	62	obs_test	tickets.DM-1903-g4b06a1fe6d
