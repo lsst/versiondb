@@ -3561,3 +3561,13 @@ master-gfbbbef2e8b	1	palpy	1.2
 master-gfbbbef2e8b	1	python	0.0.2
 master-gfbbbef2e8b	1	pymssql	2.0.0+2
 master-gfbbbef2e8b	1	obs_lsstSim	10.0+57
+master-gfbbbef2e8b	2	utils	master-g64ff11fffb
+master-gfbbbef2e8b	2	sims_catalogs_measures	master-gcda82b22c8+3
+master-gfbbbef2e8b	2	sims_catalogs_generation	master-g0f873cfc8a
+master-gfbbbef2e8b	2	sims_coordUtils	master-g8df0efcf4d+12
+master-gfbbbef2e8b	2	sims_photUtils	master-g9b2498b50d+4
+master-gfbbbef2e8b	2	sims_data	master-gdac76d2d31
+master-gfbbbef2e8b	2	palpy	1.2
+master-gfbbbef2e8b	2	python	0.0.2
+master-gfbbbef2e8b	2	pymssql	2.0.0+2
+master-gfbbbef2e8b	2	obs_lsstSim	10.0+58
