@@ -912,3 +912,7 @@ u.pgee.DM-429-g5451ff5f78	1	afw	master-g88ebe97c14
 u.pgee.DM-429-g5451ff5f78	1	pex_logging	10.0+5
 u.pgee.DM-429-g5451ff5f78	1	pipe_base	master-ga34ec3e352+17
 u.pgee.DM-429-g5451ff5f78	1	meas_base	u.pgee.DM-429-g3142ee8d30
+master-g88e1822c97	0	afw	master-g88ebe97c14
+master-g88e1822c97	0	pex_logging	10.0+5
+master-g88e1822c97	0	pipe_base	master-ga34ec3e352+17
+master-g88e1822c97	0	meas_base	master-g585db74dcd

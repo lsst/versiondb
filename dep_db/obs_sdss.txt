@@ -2233,3 +2233,10 @@ u.pgee.DM-429-gc66455f9e0	0	meas_algorithms	u.pgee.DM-429-g5451ff5f78+1
 u.pgee.DM-429-gc66455f9e0	0	meas_astrom	10.0+55
 u.pgee.DM-429-gc66455f9e0	0	mysqlpython	1.2.3+13
 u.pgee.DM-429-gc66455f9e0	0	pipe_tasks	u.pgee.DM-429-g671f4e407a+2
+master-g870f23defa	0	pex_policy	10.0+5
+master-g870f23defa	0	daf_butlerUtils	10.0+28
+master-g870f23defa	0	afw	master-g88ebe97c14
+master-g870f23defa	0	meas_algorithms	master-g88e1822c97
+master-g870f23defa	0	meas_astrom	10.0+56
+master-g870f23defa	0	mysqlpython	1.2.3+13
+master-g870f23defa	0	pipe_tasks	master-gf93ac65dfd
