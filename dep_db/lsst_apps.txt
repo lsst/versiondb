@@ -2161,3 +2161,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0	72	obs_lsstSim	10.0+66
 10.0	72	obs_sdss	master-g870f23defa+2
 10.0	72	obs_test	10.0+29
+10.0	73	lsst_libs	10.0+15
+10.0	73	meas_deblender	tickets.DM-1576-ge1b60e0f12
+10.0	73	meas_modelfit	master-g40827173df+19
+10.0	73	pipe_tasks	master-gf93ac65dfd+3
+10.0	73	obs_lsstSim	10.0+67
+10.0	73	obs_sdss	master-g870f23defa+3
+10.0	73	obs_test	10.0+30
