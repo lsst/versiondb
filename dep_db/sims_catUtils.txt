@@ -3714,3 +3714,14 @@ feature.CATSIM-159-galsim-galaxy-images-gcb8adc7acd	2	python	master-g259ae7060d
 feature.CATSIM-159-galsim-galaxy-images-gcb8adc7acd	2	pymssql	2.0.0+3
 feature.CATSIM-159-galsim-galaxy-images-gcb8adc7acd	2	GalSim	1.2+1
 feature.CATSIM-159-galsim-galaxy-images-gcb8adc7acd	2	obs_lsstSim	10.0+69
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	utils	master-g64ff11fffb+1
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	sims_catalogs_measures	feature.CATSIM-159-galsim-galaxy-images-gcda82b22c8+1
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	sims_catalogs_generation	feature.CATSIM-159-galsim-galaxy-images-gab7243f368
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	sims_coordUtils	feature.CATSIM-159-galsim-galaxy-images-gc244f33aeb+2
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	sims_photUtils	master-g9b2498b50d+13
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	sims_data	master-gdac76d2d31
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	palpy	1.2+1
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	python	master-g259ae7060d
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	pymssql	2.0.0+3
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	GalSim	1.2+1
+feature.CATSIM-159-galsim-galaxy-images-g2fd2da127c	0	obs_lsstSim	10.0+69
