@@ -3117,3 +3117,15 @@ master-ge7f12bd582	18	sims_coordUtils	feature.CATSIM-159-galsim-galaxy-images-gc
 master-ge7f12bd582	18	sims_dustmaps	2014.09.23
 master-ge7f12bd582	18	healpy	1.8.1+4
 master-ge7f12bd582	18	obs_lsstSim	10.0+69
+master-ge7f12bd582	19	base	master-g548d41d8ed+1
+master-ge7f12bd582	19	numpy	0.0.1+3
+master-ge7f12bd582	19	matplotlib	0.0.1+3
+master-ge7f12bd582	19	pyephem	3.7.5.1.lsst1
+master-ge7f12bd582	19	palpy	1.2+1
+master-ge7f12bd582	19	pex_config	master-g1bbe32c89d+1
+master-ge7f12bd582	19	sims_catalogs_generation	feature.CATSIM-159-galsim-galaxy-images-g9444800d00
+master-ge7f12bd582	19	sims_photUtils	master-g9b2498b50d+12
+master-ge7f12bd582	19	sims_coordUtils	feature.CATSIM-159-galsim-galaxy-images-gc244f33aeb+1
+master-ge7f12bd582	19	sims_dustmaps	2014.09.23
+master-ge7f12bd582	19	healpy	1.8.1+4
+master-ge7f12bd582	19	obs_lsstSim	10.0+69
