@@ -1642,3 +1642,11 @@ feature.CATSIM-159-galsim-galaxy-images-gc244f33aeb	2	throughputs	master-ga6e2ef
 feature.CATSIM-159-galsim-galaxy-images-gc244f33aeb	2	palpy	1.2+1
 feature.CATSIM-159-galsim-galaxy-images-gc244f33aeb	2	pyfits	3.2.4.lsst1+1
 feature.CATSIM-159-galsim-galaxy-images-gc244f33aeb	2	afw	master-g3e709686d5
+master-gf9ba9378b7	0	sims_catalogs_measures	master-gcda82b22c8+5
+master-gf9ba9378b7	0	utils	master-g64ff11fffb+1
+master-gf9ba9378b7	0	base	master-g548d41d8ed+1
+master-gf9ba9378b7	0	python	master-g259ae7060d
+master-gf9ba9378b7	0	throughputs	master-ga6e2efc0c9
+master-gf9ba9378b7	0	palpy	1.2+1
+master-gf9ba9378b7	0	pyfits	3.2.4.lsst1+1
+master-gf9ba9378b7	0	afw	master-g3e709686d5
