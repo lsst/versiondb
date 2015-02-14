@@ -3736,3 +3736,14 @@ master-ga41fd2dac8	0	python	master-g259ae7060d
 master-ga41fd2dac8	0	pymssql	2.0.0+3
 master-ga41fd2dac8	0	GalSim	1.2+1
 master-ga41fd2dac8	0	obs_lsstSim	10.0+69
+master-ga41fd2dac8	1	utils	master-g64ff11fffb+1
+master-ga41fd2dac8	1	sims_catalogs_measures	master-gcda82b22c8+5
+master-ga41fd2dac8	1	sims_catalogs_generation	master-g9cc8a13290
+master-ga41fd2dac8	1	sims_coordUtils	master-gf9ba9378b7
+master-ga41fd2dac8	1	sims_photUtils	feature.SIM-164-fit-for-magnorm-in-selectstarsed-g274628c80f
+master-ga41fd2dac8	1	sims_data	master-gdac76d2d31
+master-ga41fd2dac8	1	palpy	1.2+1
+master-ga41fd2dac8	1	python	master-g259ae7060d
+master-ga41fd2dac8	1	pymssql	2.0.0+3
+master-ga41fd2dac8	1	GalSim	1.2+1
+master-ga41fd2dac8	1	obs_lsstSim	10.0+69
