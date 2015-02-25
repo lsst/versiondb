@@ -2217,3 +2217,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0	80	obs_lsstSim	10.0+74
 10.0	80	obs_sdss	master-g870f23defa+10
 10.0	80	obs_test	10.0+34
+10.0	81	lsst_libs	10.0+16
+10.0	81	meas_deblender	master-g75eeaabc1b+5
+10.0	81	meas_modelfit	master-g40827173df+27
+10.0	81	pipe_tasks	tickets.DM-1903-g2c3796e8a6
+10.0	81	obs_lsstSim	10.0+75
+10.0	81	obs_sdss	master-g870f23defa+11
+10.0	81	obs_test	tickets.DM-1903-geed2af5ba3
