@@ -3956,3 +3956,14 @@ master-ga41fd2dac8	20	python	master-g259ae7060d
 master-ga41fd2dac8	20	pymssql	2.0.0+3
 master-ga41fd2dac8	20	GalSim	1.2.lsst2
 master-ga41fd2dac8	20	obs_lsstSim	10.0+77
+master-ga41fd2dac8	21	utils	master-g64ff11fffb+1
+master-ga41fd2dac8	21	sims_catalogs_measures	master-gcda82b22c8+5
+master-ga41fd2dac8	21	sims_catalogs_generation	master-g9cc8a13290
+master-ga41fd2dac8	21	sims_coordUtils	master-gf9ba9378b7+3
+master-ga41fd2dac8	21	sims_photUtils	master-g076987dab0
+master-ga41fd2dac8	21	sims_data	master-gdac76d2d31
+master-ga41fd2dac8	21	palpy	1.2+1
+master-ga41fd2dac8	21	python	master-g259ae7060d
+master-ga41fd2dac8	21	pymssql	2.0.0+3
+master-ga41fd2dac8	21	GalSim	1.2.lsst2
+master-ga41fd2dac8	21	obs_lsstSim	10.0+81

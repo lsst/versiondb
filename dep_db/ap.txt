@@ -2221,3 +2221,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	69	pipe_base	master-ga34ec3e352+26
 10.0	69	meas_algorithms	u.lauren.DM-245-g7ad849f28f
 10.0	69	doxygen	1.8.5
+10.0	70	boost	1.55.0.1.lsst2+1
+10.0	70	numpy	0.0.1+3
+10.0	70	mysqlclient	5.1.73.lsst1
+10.0	70	afw	master-ga65628c99c
+10.0	70	geom	10.0+3
+10.0	70	skypix	10.0+34
+10.0	70	pipe_base	master-ga34ec3e352+26
+10.0	70	meas_algorithms	master-g214abdfdce
+10.0	70	doxygen	1.8.5
