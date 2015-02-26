@@ -108,3 +108,13 @@ master-ged85575779	10	flask	0.10.1
 master-ged85575779	10	log	master-gfab0203bd3+4
 master-ged85575779	10	obs_sdss	master-g870f23defa+16
 master-ged85575779	10	mysqlpython	1.2.3+14
+master-g3294999c6d	0	afw	master-ga65628c99c
+master-g3294999c6d	0	base	master-g548d41d8ed+1
+master-g3294999c6d	0	boost	1.55.0.1.lsst2+1
+master-g3294999c6d	0	cat	master-g39ac039f79+2
+master-g3294999c6d	0	daf_base	master-g06cae74964+3
+master-g3294999c6d	0	db	master-g8b795aae1c
+master-g3294999c6d	0	flask	0.10.1
+master-g3294999c6d	0	log	master-gfab0203bd3+4
+master-g3294999c6d	0	obs_sdss	master-g870f23defa+13
+master-g3294999c6d	0	mysqlpython	1.2.3+14
