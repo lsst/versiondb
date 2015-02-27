@@ -3234,3 +3234,9 @@ master-g69b085209b	499	sims_catalogs_generation	master-g9cc8a13290
 master-g69b085209b	499	sims_catalogs_measures	master-gcda82b22c8+5
 master-g69b085209b	499	sims_sed_library	2014.10.06
 master-g69b085209b	499	sims_dustmaps	2014.09.23
+master-g69b085209b	500	sims_maf	master-g5d5f92e8a0+18
+master-g69b085209b	500	sims_catUtils	bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8
+master-g69b085209b	500	sims_catalogs_generation	bugfix.CATSIM-189-fix-parallax-units-consistently-gef09db19b1
+master-g69b085209b	500	sims_catalogs_measures	master-gcda82b22c8+6
+master-g69b085209b	500	sims_sed_library	2014.10.06
+master-g69b085209b	500	sims_dustmaps	2014.09.23

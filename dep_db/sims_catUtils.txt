@@ -4022,3 +4022,12 @@ master-ga41fd2dac8	24	python	master-g259ae7060d
 master-ga41fd2dac8	24	pymssql	2.0.0+3
 master-ga41fd2dac8	24	GalSim	1.2.lsst2
 master-ga41fd2dac8	24	obs_lsstSim	10.0+81
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	utils	master-g64ff11fffb+1
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	sims_catalogs_measures	master-gcda82b22c8+6
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	sims_catalogs_generation	bugfix.CATSIM-189-fix-parallax-units-consistently-gef09db19b1
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	sims_coordUtils	bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	sims_photUtils	master-g076987dab0+3
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	palpy	1.2+1
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	python	master-g259ae7060d
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	pymssql	2.0.0+3
+bugfix.CATSIM-189-fix-parallax-units-consistently-gf91b3510a8	0	obs_lsstSim	10.0+81

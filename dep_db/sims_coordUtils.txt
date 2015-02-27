@@ -1690,3 +1690,11 @@ master-gf9ba9378b7	5	throughputs	master-ga6e2efc0c9
 master-gf9ba9378b7	5	palpy	tickets.SIM-945-g4569f0b2f9
 master-gf9ba9378b7	5	pyfits	3.2.4.lsst1+1
 master-gf9ba9378b7	5	afw	master-ga65628c99c
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	sims_catalogs_measures	master-gcda82b22c8+6
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	utils	master-g64ff11fffb+1
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	base	master-g548d41d8ed+1
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	python	master-g259ae7060d
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	throughputs	master-ga6e2efc0c9
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	palpy	1.2+1
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	pyfits	3.2.4.lsst1+1
+bugfix.CATSIM-189-fix-parallax-units-consistently-g3f41c9fd5b	0	afw	master-ga65628c99c

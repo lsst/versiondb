@@ -393,3 +393,6 @@ feature.CATSIM-159-galsim-galaxy-images-gcda82b22c8	1	sims_catalogs_generation	f
 master-gcda82b22c8	5	utils	master-g64ff11fffb+1
 master-gcda82b22c8	5	python	master-g259ae7060d
 master-gcda82b22c8	5	sims_catalogs_generation	master-g9cc8a13290
+master-gcda82b22c8	6	utils	master-g64ff11fffb+1
+master-gcda82b22c8	6	python	master-g259ae7060d
+master-gcda82b22c8	6	sims_catalogs_generation	bugfix.CATSIM-189-fix-parallax-units-consistently-gef09db19b1
