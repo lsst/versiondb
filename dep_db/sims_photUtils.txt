@@ -2352,3 +2352,12 @@ feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-gf9e60b374f	0	
 feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-gf9e60b374f	0	python	master-g259ae7060d
 feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-gf9e60b374f	0	throughputs	master-ga6e2efc0c9
 feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-gf9e60b374f	0	pyfits	3.2.4.lsst1+1
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	utils	master-g64ff11fffb+1
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	sims_catalogs_measures	master-gcda82b22c8+5
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	sims_catalogs_generation	master-g9cc8a13290
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	sims_sed_library	2014.10.06
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	sims_dustmaps	2014.09.23
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	sims_coordUtils	master-gf9ba9378b7+3
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	python	master-g259ae7060d
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	throughputs	master-ga6e2efc0c9
+bugfix.SIM-969-fix-magnorm-precision-ga672d79b98	0	pyfits	3.2.4.lsst1+1
