@@ -4053,3 +4053,14 @@ master-g3b0d17d0ed	0	python	master-g259ae7060d
 master-g3b0d17d0ed	0	pymssql	2.0.0+3
 master-g3b0d17d0ed	0	GalSim	1.2.lsst2
 master-g3b0d17d0ed	0	obs_lsstSim	10.0+83
+master-g3b0d17d0ed	1	utils	master-g64ff11fffb+1
+master-g3b0d17d0ed	1	sims_catalogs_measures	master-gcda82b22c8+7
+master-g3b0d17d0ed	1	sims_catalogs_generation	master-g588eb35cfd
+master-g3b0d17d0ed	1	sims_coordUtils	master-gcdf0957ed0
+master-g3b0d17d0ed	1	sims_photUtils	master-g076987dab0+4
+master-g3b0d17d0ed	1	sims_data	master-gdac76d2d31
+master-g3b0d17d0ed	1	palpy	1.6
+master-g3b0d17d0ed	1	python	master-g259ae7060d
+master-g3b0d17d0ed	1	pymssql	2.0.0+3
+master-g3b0d17d0ed	1	GalSim	1.2.lsst2
+master-g3b0d17d0ed	1	obs_lsstSim	10.0+81
