@@ -3978,3 +3978,14 @@ feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	0	
 feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	0	pymssql	2.0.0+3
 feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	0	GalSim	1.2.lsst2
 feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	0	obs_lsstSim	10.0+81
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	utils	master-g64ff11fffb+1
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	sims_catalogs_measures	master-gcda82b22c8+5
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	sims_catalogs_generation	master-g9cc8a13290
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	sims_coordUtils	master-gf9ba9378b7+3
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	sims_photUtils	feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-gf9e60b374f
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	sims_data	master-gdac76d2d31
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	palpy	1.2+1
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	python	master-g259ae7060d
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	pymssql	2.0.0+3
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	GalSim	1.2.lsst2
+feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-ga41fd2dac8	1	obs_lsstSim	10.0+81
