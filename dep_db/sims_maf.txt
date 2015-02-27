@@ -3381,3 +3381,15 @@ master-g5d5f92e8a0	12	sims_coordUtils	master-gf9ba9378b7+3
 master-g5d5f92e8a0	12	sims_dustmaps	2014.09.23
 master-g5d5f92e8a0	12	healpy	1.8.1+4
 master-g5d5f92e8a0	12	obs_lsstSim	10.0+81
+master-g5d5f92e8a0	13	base	master-g548d41d8ed+1
+master-g5d5f92e8a0	13	numpy	0.0.1+3
+master-g5d5f92e8a0	13	matplotlib	0.0.1+3
+master-g5d5f92e8a0	13	pyephem	3.7.5.1.lsst1
+master-g5d5f92e8a0	13	palpy	1.2+1
+master-g5d5f92e8a0	13	pex_config	master-g1bbe32c89d+1
+master-g5d5f92e8a0	13	sims_catalogs_generation	master-g9cc8a13290
+master-g5d5f92e8a0	13	sims_photUtils	feature.SIM-923-add-manyfluxcalc-method-to-sims_photutils.sed.sed-g0f1ea95ea8
+master-g5d5f92e8a0	13	sims_coordUtils	master-gf9ba9378b7+3
+master-g5d5f92e8a0	13	sims_dustmaps	2014.09.23
+master-g5d5f92e8a0	13	healpy	1.8.1+4
+master-g5d5f92e8a0	13	obs_lsstSim	10.0+81
