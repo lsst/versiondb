@@ -2379,3 +2379,12 @@ master-g076987dab0	3	sims_coordUtils	bugfix.CATSIM-189-fix-parallax-units-consis
 master-g076987dab0	3	python	master-g259ae7060d
 master-g076987dab0	3	throughputs	master-ga6e2efc0c9
 master-g076987dab0	3	pyfits	3.2.4.lsst1+1
+master-g076987dab0	4	utils	master-g64ff11fffb+1
+master-g076987dab0	4	sims_catalogs_measures	master-gcda82b22c8+7
+master-g076987dab0	4	sims_catalogs_generation	master-g588eb35cfd
+master-g076987dab0	4	sims_sed_library	2014.10.06
+master-g076987dab0	4	sims_dustmaps	2014.09.23
+master-g076987dab0	4	sims_coordUtils	master-gcdf0957ed0
+master-g076987dab0	4	python	master-g259ae7060d
+master-g076987dab0	4	throughputs	master-ga6e2efc0c9
+master-g076987dab0	4	pyfits	3.2.4.lsst1+1
