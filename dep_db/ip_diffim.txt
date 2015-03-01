@@ -2102,3 +2102,11 @@ u.pgee.DM-980b-g63017c44a0	0	pex_config	master-g1bbe32c89d+1
 u.pgee.DM-980b-g63017c44a0	0	pipe_base	master-ga34ec3e352+26
 u.pgee.DM-980b-g63017c44a0	0	afwdata	10.0+3
 u.pgee.DM-980b-g63017c44a0	0	matplotlib	0.0.1+3
+master-ga42e5f1dbb	0	afw	master-ga65628c99c
+master-ga42e5f1dbb	0	meas_base	master-g543429c161
+master-ga42e5f1dbb	0	meas_deblender	master-g75eeaabc1b+9
+master-ga42e5f1dbb	0	numpy	0.0.1+3
+master-ga42e5f1dbb	0	pex_config	master-g1bbe32c89d+1
+master-ga42e5f1dbb	0	pipe_base	master-ga34ec3e352+26
+master-ga42e5f1dbb	0	afwdata	10.0+3
+master-ga42e5f1dbb	0	matplotlib	0.0.1+3

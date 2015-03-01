@@ -4097,3 +4097,14 @@ master-g772e115ddc	2	python	master-g259ae7060d
 master-g772e115ddc	2	pymssql	2.0.0+3
 master-g772e115ddc	2	GalSim	1.2.lsst2
 master-g772e115ddc	2	obs_lsstSim	10.0+85
+master-g772e115ddc	3	utils	master-g64ff11fffb+1
+master-g772e115ddc	3	sims_catalogs_measures	master-gcda82b22c8+7
+master-g772e115ddc	3	sims_catalogs_generation	master-g588eb35cfd
+master-g772e115ddc	3	sims_coordUtils	master-gcdf0957ed0
+master-g772e115ddc	3	sims_photUtils	master-g6d1b64371d
+master-g772e115ddc	3	sims_data	master-gdac76d2d31
+master-g772e115ddc	3	palpy	1.6
+master-g772e115ddc	3	python	master-g259ae7060d
+master-g772e115ddc	3	pymssql	2.0.0+3
+master-g772e115ddc	3	GalSim	1.2.lsst2
+master-g772e115ddc	3	obs_lsstSim	10.0+86
