@@ -4174,3 +4174,14 @@ master-gad81426398	2	python	master-g259ae7060d
 master-gad81426398	2	pymssql	2.0.0+3
 master-gad81426398	2	GalSim	1.2.lsst2
 master-gad81426398	2	obs_lsstSim	10.0+89
+master-gad81426398	3	utils	master-g64ff11fffb+1
+master-gad81426398	3	sims_catalogs_measures	master-gcda82b22c8+7
+master-gad81426398	3	sims_catalogs_generation	master-g588eb35cfd
+master-gad81426398	3	sims_coordUtils	master-gcdf0957ed0
+master-gad81426398	3	sims_photUtils	feature.SIM-967-rework-selectstarsed-and-readgalfast-g87229b8812
+master-gad81426398	3	sims_data	master-gdac76d2d31
+master-gad81426398	3	palpy	1.6
+master-gad81426398	3	python	master-g259ae7060d
+master-gad81426398	3	pymssql	2.0.0+3
+master-gad81426398	3	GalSim	1.2.lsst2
+master-gad81426398	3	obs_lsstSim	10.0+89
