@@ -2406,3 +2406,12 @@ master-g6d1b64371d	1	sims_coordUtils	master-gcdf0957ed0+1
 master-g6d1b64371d	1	python	master-g259ae7060d
 master-g6d1b64371d	1	throughputs	master-ga6e2efc0c9
 master-g6d1b64371d	1	pyfits	3.2.4.lsst1+1
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	utils	master-g64ff11fffb+1
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	sims_catalogs_measures	master-gcda82b22c8+7
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	sims_catalogs_generation	master-g588eb35cfd
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	sims_sed_library	2014.10.06
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	sims_dustmaps	2014.09.23
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	sims_coordUtils	master-gcdf0957ed0
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	python	master-g259ae7060d
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	throughputs	master-ga6e2efc0c9
+feature.SIM-967-rework-selectstarsed-and-readgalfast-g4e70cf0c57	0	pyfits	3.2.4.lsst1+1
