@@ -1000,3 +1000,7 @@ u.pgee.DM-420-g7301f2750d	0	afw	master-ga65628c99c
 u.pgee.DM-420-g7301f2750d	0	pex_logging	10.0+6
 u.pgee.DM-420-g7301f2750d	0	pipe_base	master-ga34ec3e352+26
 u.pgee.DM-420-g7301f2750d	0	meas_base	u.pgee.DM-420-gc60c4240b6
+master-g214abdfdce	7	afw	tickets.DM-882-g8b486590bb
+master-g214abdfdce	7	pex_logging	10.0+7
+master-g214abdfdce	7	pipe_base	master-ga34ec3e352+28
+master-g214abdfdce	7	meas_base	master-g5614b9cb9e+2
