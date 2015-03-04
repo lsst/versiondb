@@ -2374,3 +2374,12 @@ tickets.DM-1576-g5183c7874e	0	wcslib	4.14+7
 tickets.DM-1576-g5183c7874e	0	astrometry_net	0.50.1+4
 tickets.DM-1576-g5183c7874e	0	numpy	0.0.1+3
 tickets.DM-1576-g5183c7874e	0	matplotlib	0.0.1+3
+master-g39cd4d7075	11	afw	master-ga65628c99c
+master-g39cd4d7075	11	meas_algorithms	u.pgee.DM-420-gffb0f0d803
+master-g39cd4d7075	11	pex_logging	10.0+6
+master-g39cd4d7075	11	pex_config	master-g1bbe32c89d+1
+master-g39cd4d7075	11	pipe_base	master-ga34ec3e352+26
+master-g39cd4d7075	11	wcslib	4.14+7
+master-g39cd4d7075	11	astrometry_net	0.50.1+4
+master-g39cd4d7075	11	numpy	0.0.1+3
+master-g39cd4d7075	11	matplotlib	0.0.1+3
