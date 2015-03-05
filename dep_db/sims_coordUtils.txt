@@ -1754,3 +1754,11 @@ feature.SIM-943-move-utility-functions-gb5c3e653e5	0	throughputs	master-ga6e2efc
 feature.SIM-943-move-utility-functions-gb5c3e653e5	0	palpy	1.6
 feature.SIM-943-move-utility-functions-gb5c3e653e5	0	pyfits	3.2.4.lsst1+1
 feature.SIM-943-move-utility-functions-gb5c3e653e5	0	afw	master-gcb7650adda
+master-gcdf0957ed0	6	sims_catalogs_measures	master-gcda82b22c8+7
+master-gcdf0957ed0	6	utils	master-g64ff11fffb+1
+master-gcdf0957ed0	6	base	master-g548d41d8ed+1
+master-gcdf0957ed0	6	python	master-g259ae7060d
+master-gcdf0957ed0	6	throughputs	master-ga6e2efc0c9
+master-gcdf0957ed0	6	palpy	1.6
+master-gcdf0957ed0	6	pyfits	3.2.4.lsst1+1
+master-gcdf0957ed0	6	afw	tickets.DM-1576-g04cbfea652+2
