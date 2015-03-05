@@ -2869,3 +2869,12 @@ master-g5194e28263	94	mysqlpython	1.2.3+12
 10.0	99	ip_isr	master-g3d1a22232e+13
 10.0	99	pipe_tasks	tickets.DM-1576-g494b82ef49
 10.0	99	mysqlpython	1.2.3+14
+10.0	100	daf_base	master-g08e90f836b
+10.0	100	pex_policy	10.0+8
+10.0	100	afw	tickets.DM-1576-g04cbfea652+2
+10.0	100	daf_persistence	10.0+9
+10.0	100	daf_butlerUtils	10.0+41
+10.0	100	meas_algorithms	master-g214abdfdce+11
+10.0	100	ip_isr	master-g3d1a22232e+13
+10.0	100	pipe_tasks	tickets.DM-1576-g494b82ef49+1
+10.0	100	mysqlpython	1.2.3+14
