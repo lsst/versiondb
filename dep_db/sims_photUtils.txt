@@ -2478,3 +2478,12 @@ master-g35c08b4a85	2	sims_coordUtils	master-gcdf0957ed0+5
 master-g35c08b4a85	2	python	master-g259ae7060d
 master-g35c08b4a85	2	throughputs	master-ga6e2efc0c9
 master-g35c08b4a85	2	pyfits	3.2.4.lsst1+1
+master-g35c08b4a85	3	utils	master-g64ff11fffb+1
+master-g35c08b4a85	3	sims_catalogs_measures	feature.SIM-943-move-utility-functions-g6929428fd4
+master-g35c08b4a85	3	sims_catalogs_generation	feature.SIM-943-move-utility-functions-g51b1119936
+master-g35c08b4a85	3	sims_sed_library	2014.10.06
+master-g35c08b4a85	3	sims_dustmaps	2014.09.23
+master-g35c08b4a85	3	sims_coordUtils	feature.SIM-943-move-utility-functions-gb5c3e653e5
+master-g35c08b4a85	3	python	master-g259ae7060d
+master-g35c08b4a85	3	throughputs	master-ga6e2efc0c9
+master-g35c08b4a85	3	pyfits	3.2.4.lsst1+1

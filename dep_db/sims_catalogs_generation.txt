@@ -205,3 +205,6 @@ bugfix.CATSIM-189-fix-parallax-units-consistently-gef09db19b1	0	utils	master-g64
 bugfix.CATSIM-189-fix-parallax-units-consistently-gef09db19b1	0	python	master-g259ae7060d
 master-g588eb35cfd	0	utils	master-g64ff11fffb+1
 master-g588eb35cfd	0	python	master-g259ae7060d
+feature.SIM-943-move-utility-functions-g51b1119936	0	utils	master-g64ff11fffb+1
+feature.SIM-943-move-utility-functions-g51b1119936	0	python	master-g259ae7060d
+feature.SIM-943-move-utility-functions-g51b1119936	0	sims_utils	feature.SIM-943-move-utility-functions-gb72a978f4a

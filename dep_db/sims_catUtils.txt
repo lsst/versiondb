@@ -4273,3 +4273,14 @@ master-gad81426398	11	python	master-g259ae7060d
 master-gad81426398	11	pymssql	2.0.0+3
 master-gad81426398	11	GalSim	1.2.lsst2
 master-gad81426398	11	obs_lsstSim	10.0+97
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	utils	master-g64ff11fffb+1
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	sims_catalogs_measures	feature.SIM-943-move-utility-functions-g6929428fd4
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	sims_catalogs_generation	feature.SIM-943-move-utility-functions-g51b1119936
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	sims_coordUtils	feature.SIM-943-move-utility-functions-gb5c3e653e5
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	sims_photUtils	master-g35c08b4a85+3
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	sims_data	master-gdac76d2d31
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	palpy	1.6
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	python	master-g259ae7060d
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	pymssql	2.0.0+3
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	GalSim	1.2.lsst2
+feature.SIM-943-move-utility-functions-g47d4be1de2	0	obs_lsstSim	10.0+97
