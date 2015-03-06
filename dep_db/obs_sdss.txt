@@ -2506,3 +2506,10 @@ u.pgee.DM-1073-ge6271203da	0	meas_algorithms	master-g214abdfdce+10
 u.pgee.DM-1073-ge6271203da	0	meas_astrom	master-g39cd4d7075+16
 u.pgee.DM-1073-ge6271203da	0	mysqlpython	1.2.3+14
 u.pgee.DM-1073-ge6271203da	0	pipe_tasks	master-g7a96c73137+15
+master-g870f23defa	36	pex_policy	10.0+8
+master-g870f23defa	36	daf_butlerUtils	10.0+40
+master-g870f23defa	36	afw	master-gcb7650adda
+master-g870f23defa	36	meas_algorithms	u.pgee.DM-420-g6911a59d50
+master-g870f23defa	36	meas_astrom	master-g39cd4d7075+17
+master-g870f23defa	36	mysqlpython	1.2.3+14
+master-g870f23defa	36	pipe_tasks	u.pgee.DM-420-gda4f9590ea+2
