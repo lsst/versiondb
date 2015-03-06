@@ -2513,3 +2513,10 @@ master-g870f23defa	36	meas_algorithms	u.pgee.DM-420-g6911a59d50
 master-g870f23defa	36	meas_astrom	master-g39cd4d7075+17
 master-g870f23defa	36	mysqlpython	1.2.3+14
 master-g870f23defa	36	pipe_tasks	u.pgee.DM-420-gda4f9590ea+2
+tickets.DM-1576-g084ffe2e6b	0	pex_policy	10.0+8
+tickets.DM-1576-g084ffe2e6b	0	daf_butlerUtils	10.0+41
+tickets.DM-1576-g084ffe2e6b	0	afw	tickets.DM-1576-g04cbfea652+2
+tickets.DM-1576-g084ffe2e6b	0	meas_algorithms	master-g214abdfdce+11
+tickets.DM-1576-g084ffe2e6b	0	meas_astrom	tickets.DM-1576-g51165841c4
+tickets.DM-1576-g084ffe2e6b	0	mysqlpython	1.2.3+14
+tickets.DM-1576-g084ffe2e6b	0	pipe_tasks	tickets.DM-1576-gf4a067ec0d
