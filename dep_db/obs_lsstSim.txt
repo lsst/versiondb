@@ -2896,3 +2896,12 @@ master-g5194e28263	94	mysqlpython	1.2.3+12
 10.0	102	ip_isr	master-g3d1a22232e+14
 10.0	102	pipe_tasks	u.pgee.DM-420-gda4f9590ea+2
 10.0	102	mysqlpython	1.2.3+14
+10.0	103	daf_base	master-g08e90f836b
+10.0	103	pex_policy	10.0+8
+10.0	103	afw	tickets.DM-1576-g04cbfea652+2
+10.0	103	daf_persistence	10.0+9
+10.0	103	daf_butlerUtils	10.0+41
+10.0	103	meas_algorithms	master-g214abdfdce+11
+10.0	103	ip_isr	master-g3d1a22232e+13
+10.0	103	pipe_tasks	tickets.DM-1576-gf4a067ec0d+1
+10.0	103	mysqlpython	1.2.3+14
