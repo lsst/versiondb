@@ -2441,3 +2441,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0	112	obs_lsstSim	u.pgee.DM-1073-g3e9f84c871
 10.0	112	obs_sdss	u.pgee.DM-1073-gb9c3f49798
 10.0	112	obs_test	u.pgee.DM-1073-g87e9e3fe77
+10.0	113	lsst_libs	10.0+18
+10.0	113	meas_deblender	tickets.DM-1576-ge1b60e0f12+4
+10.0	113	meas_modelfit	master-g40827173df+57
+10.0	113	pipe_tasks	tickets.DM-1576-gf4a067ec0d+2
+10.0	113	obs_lsstSim	10.0+104
+10.0	113	obs_sdss	tickets.DM-1576-g084ffe2e6b+2
+10.0	113	obs_test	master-g310d58a07c+7
