@@ -3994,3 +3994,15 @@ master-gd471676e0b	21	sims_coordUtils	master-g27688ba5a5+5
 master-gd471676e0b	21	sims_dustmaps	master-g9b0d0a937d
 master-gd471676e0b	21	healpy	1.8.1+4
 master-gd471676e0b	21	obs_lsstSim	10.0+111
+master-gd471676e0b	22	base	master-g548d41d8ed+1
+master-gd471676e0b	22	numpy	0.0.1+3
+master-gd471676e0b	22	matplotlib	0.0.1+3
+master-gd471676e0b	22	pyephem	3.7.5.1.lsst1
+master-gd471676e0b	22	palpy	1.6
+master-gd471676e0b	22	pex_config	master-g1bbe32c89d+3
+master-gd471676e0b	22	sims_catalogs_generation	master-g5281ebb2ab
+master-gd471676e0b	22	sims_photUtils	master-g35c08b4a85+15
+master-gd471676e0b	22	sims_coordUtils	master-g27688ba5a5+7
+master-gd471676e0b	22	sims_dustmaps	master-g9b0d0a937d
+master-gd471676e0b	22	healpy	1.8.1+4
+master-gd471676e0b	22	obs_lsstSim	10.0+112
