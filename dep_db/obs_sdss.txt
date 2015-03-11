@@ -2555,3 +2555,10 @@ master-g870f23defa	37	meas_algorithms	master-g214abdfdce+14
 master-g870f23defa	37	meas_astrom	master-g39cd4d7075+19
 master-g870f23defa	37	mysqlpython	1.2.3+14
 master-g870f23defa	37	pipe_tasks	master-g7a96c73137+16
+tickets.DM-1576-g4aab34585a	1	pex_policy	10.0+8
+tickets.DM-1576-g4aab34585a	1	daf_butlerUtils	10.0+42
+tickets.DM-1576-g4aab34585a	1	afw	tickets.DM-1576-gf5211fdc4e
+tickets.DM-1576-g4aab34585a	1	meas_algorithms	tickets.DM-1576-g4074cd9391
+tickets.DM-1576-g4aab34585a	1	meas_astrom	tickets.DM-1576-g627ac8f4b1
+tickets.DM-1576-g4aab34585a	1	mysqlpython	1.2.3+14
+tickets.DM-1576-g4aab34585a	1	pipe_tasks	tickets.DM-1576-gf4a067ec0d+4
