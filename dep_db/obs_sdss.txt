@@ -2597,3 +2597,10 @@ master-g88ef2fe22d	0	meas_algorithms	master-ge958276cee
 master-g88ef2fe22d	0	meas_astrom	master-g85c615bec7
 master-g88ef2fe22d	0	mysqlpython	1.2.3+14
 master-g88ef2fe22d	0	pipe_tasks	master-g7a96c73137+20
+master-g88ef2fe22d	1	pex_policy	10.0+8
+master-g88ef2fe22d	1	daf_butlerUtils	10.0+43
+master-g88ef2fe22d	1	afw	master-g7d0203e41d
+master-g88ef2fe22d	1	meas_algorithms	master-ge958276cee+1
+master-g88ef2fe22d	1	meas_astrom	master-g85c615bec7+1
+master-g88ef2fe22d	1	mysqlpython	1.2.3+14
+master-g88ef2fe22d	1	pipe_tasks	master-g7a96c73137+21
