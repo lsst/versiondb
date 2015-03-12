@@ -220,3 +220,6 @@ feature.SIM-90-use-palpy-gd927d95969	0	sims_utils	feature.SIM-90-use-palpy-gc7e1
 feature.SIM-136-photometric-uncertainties-gd19067bdca	0	utils	master-g64ff11fffb+1
 feature.SIM-136-photometric-uncertainties-gd19067bdca	0	python	master-g259ae7060d
 feature.SIM-136-photometric-uncertainties-gd19067bdca	0	sims_utils	master-ge8900fd7e3
+master-g5281ebb2ab	1	utils	master-g64ff11fffb+2
+master-g5281ebb2ab	1	python	master-g259ae7060d
+master-g5281ebb2ab	1	sims_utils	master-ge8900fd7e3+1
