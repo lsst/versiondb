@@ -2622,3 +2622,12 @@ feature.SIM-967-rework-selectstarsed-and-readgalfast-g992b84eb5f	0	sims_coordUti
 feature.SIM-967-rework-selectstarsed-and-readgalfast-g992b84eb5f	0	python	master-g259ae7060d
 feature.SIM-967-rework-selectstarsed-and-readgalfast-g992b84eb5f	0	throughputs	master-ga6e2efc0c9
 feature.SIM-967-rework-selectstarsed-and-readgalfast-g992b84eb5f	0	pyfits	3.2.4.lsst1+1
+master-g915bbd4502	0	utils	master-g64ff11fffb+1
+master-g915bbd4502	0	sims_catalogs_measures	master-g99e633108e+1
+master-g915bbd4502	0	sims_catalogs_generation	master-g5281ebb2ab
+master-g915bbd4502	0	sims_sed_library	2014.10.06
+master-g915bbd4502	0	sims_dustmaps	master-g9b0d0a937d
+master-g915bbd4502	0	sims_coordUtils	master-g27688ba5a5+7
+master-g915bbd4502	0	python	master-g259ae7060d
+master-g915bbd4502	0	throughputs	master-ga6e2efc0c9
+master-g915bbd4502	0	pyfits	3.2.4.lsst1+1
