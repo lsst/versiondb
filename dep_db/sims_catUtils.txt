@@ -4702,3 +4702,14 @@ master-gaf7f2d2c65	0	python	master-g259ae7060d
 master-gaf7f2d2c65	0	pymssql	2.0.0+3
 master-gaf7f2d2c65	0	GalSim	1.2.lsst2
 master-gaf7f2d2c65	0	obs_lsstSim	10.0+120
+master-gaf7f2d2c65	1	utils	master-g64ff11fffb+2
+master-gaf7f2d2c65	1	sims_catalogs_measures	master-g99e633108e+6
+master-gaf7f2d2c65	1	sims_catalogs_generation	master-gcc73a46424+1
+master-gaf7f2d2c65	1	sims_coordUtils	master-g27688ba5a5+12
+master-gaf7f2d2c65	1	sims_photUtils	master-g0e0f930f36+1
+master-gaf7f2d2c65	1	sims_data	master-gdac76d2d31
+master-gaf7f2d2c65	1	palpy	1.6
+master-gaf7f2d2c65	1	python	master-g259ae7060d
+master-gaf7f2d2c65	1	pymssql	2.0.0+3
+master-gaf7f2d2c65	1	GalSim	1.2.lsst2
+master-gaf7f2d2c65	1	obs_lsstSim	10.0+121

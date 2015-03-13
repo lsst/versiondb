@@ -3067,3 +3067,12 @@ u.pgee.DM-1073-g3e9f84c871	0	mysqlpython	1.2.3+14
 10.0	120	ip_isr	master-g3d1a22232e+30
 10.0	120	pipe_tasks	master-g7a96c73137+27
 10.0	120	mysqlpython	1.2.3+14
+10.0	121	daf_base	tickets.DM-2321-g105cd382a8+1
+10.0	121	pex_policy	10.0+11
+10.0	121	afw	tickets.DM-2321-g29257d4d64
+10.0	121	daf_persistence	10.0+12
+10.0	121	daf_butlerUtils	10.0+46
+10.0	121	meas_algorithms	master-ge958276cee+8
+10.0	121	ip_isr	master-g3d1a22232e+31
+10.0	121	pipe_tasks	master-g7a96c73137+28
+10.0	121	mysqlpython	1.2.3+14

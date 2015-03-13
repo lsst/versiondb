@@ -1199,3 +1199,8 @@ master-g0d20a5cde7	0	pipe_base	master-ga34ec3e352+35
 master-g0d20a5cde7	0	daf_base	master-g08e90f836b
 master-g0d20a5cde7	0	pex_config	master-g1bbe32c89d+3
 master-g0d20a5cde7	0	coadd_utils	10.0+48
+master-g0d20a5cde7	1	afw	tickets.DM-2321-g29257d4d64
+master-g0d20a5cde7	1	pipe_base	master-ga34ec3e352+39
+master-g0d20a5cde7	1	daf_base	tickets.DM-2321-g105cd382a8+1
+master-g0d20a5cde7	1	pex_config	master-g1bbe32c89d+6
+master-g0d20a5cde7	1	coadd_utils	10.0+52
