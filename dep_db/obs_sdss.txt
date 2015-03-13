@@ -2632,3 +2632,10 @@ master-g88ef2fe22d	5	meas_algorithms	u.pgee.DM-420-g83d49c8b9f
 master-g88ef2fe22d	5	meas_astrom	master-g85c615bec7+5
 master-g88ef2fe22d	5	mysqlpython	1.2.3+14
 master-g88ef2fe22d	5	pipe_tasks	u.pgee.DM-420-gda4f9590ea+3
+master-g88ef2fe22d	6	pex_policy	10.0+8
+master-g88ef2fe22d	6	daf_butlerUtils	10.0+43
+master-g88ef2fe22d	6	afw	master-g7d0203e41d
+master-g88ef2fe22d	6	meas_algorithms	master-ge958276cee+5
+master-g88ef2fe22d	6	meas_astrom	master-g85c615bec7+6
+master-g88ef2fe22d	6	mysqlpython	1.2.3+14
+master-g88ef2fe22d	6	pipe_tasks	master-g7a96c73137+25
