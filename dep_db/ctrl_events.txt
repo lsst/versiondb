@@ -1054,3 +1054,14 @@ master-g6f35c86b98	29	cat	master-g39ac039f79+12
 master-g6f35c86b98	29	daf_persistence	10.0+10
 master-g6f35c86b98	29	swig	tickets.DM-1972-g4647db1127
 master-g6f35c86b98	29	doxygen	1.8.5
+master-g6f35c86b98	30	boost	1.55.0.1.lsst2+1
+master-g6f35c86b98	30	activemqcpp	3.5.0+15
+master-g6f35c86b98	30	utils	master-g64ff11fffb+1
+master-g6f35c86b98	30	daf_base	tickets.DM-2321-g105cd382a8
+master-g6f35c86b98	30	pex_logging	10.0+10
+master-g6f35c86b98	30	pex_exceptions	10.0+4
+master-g6f35c86b98	30	pex_policy	10.0+10
+master-g6f35c86b98	30	cat	master-g39ac039f79+13
+master-g6f35c86b98	30	daf_persistence	10.0+11
+master-g6f35c86b98	30	swig	3.0.2.lsst1
+master-g6f35c86b98	30	doxygen	1.8.5
