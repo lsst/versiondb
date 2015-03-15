@@ -2527,3 +2527,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	103	pipe_base	master-ga34ec3e352+41
 10.0	103	meas_algorithms	master-ge958276cee+10
 10.0	103	doxygen	1.8.5
+10.0	104	boost	1.55.0.1.lsst2+1
+10.0	104	numpy	0.0.1+3
+10.0	104	mysqlclient	5.1.73.lsst1
+10.0	104	afw	master-g7d0203e41d
+10.0	104	geom	10.0+3
+10.0	104	skypix	10.0+42
+10.0	104	pipe_base	master-ga34ec3e352+42
+10.0	104	meas_algorithms	u.pgee.DM-420-g8513efed8c
+10.0	104	doxygen	1.8.5

@@ -2674,3 +2674,10 @@ u.pgee.DM-1073-gc46e017055	0	meas_algorithms	master-ge958276cee+10
 u.pgee.DM-1073-gc46e017055	0	meas_astrom	master-g85c615bec7+11
 u.pgee.DM-1073-gc46e017055	0	mysqlpython	1.2.3+14
 u.pgee.DM-1073-gc46e017055	0	pipe_tasks	u.pgee.DM-1073-g07516779a5+1
+master-gcd9cbbf25b	0	pex_policy	10.0+8
+master-gcd9cbbf25b	0	daf_butlerUtils	10.0+43
+master-gcd9cbbf25b	0	afw	master-g7d0203e41d
+master-gcd9cbbf25b	0	meas_algorithms	u.pgee.DM-420-g8513efed8c
+master-gcd9cbbf25b	0	meas_astrom	u.pgee.DM-420-gae89fd519c
+master-gcd9cbbf25b	0	mysqlpython	1.2.3+14
+master-gcd9cbbf25b	0	pipe_tasks	u.pgee.DM-420-g46f20c201f
