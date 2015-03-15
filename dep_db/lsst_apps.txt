@@ -2574,3 +2574,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0	131	obs_lsstSim	10.0+122
 10.0	131	obs_sdss	master-g88ef2fe22d+10
 10.0	131	obs_test	master-g310d58a07c+12
+10.0	132	lsst_libs	10.0+18
+10.0	132	meas_deblender	master-g75eeaabc1b+35
+10.0	132	meas_modelfit	master-g40827173df+76
+10.0	132	pipe_tasks	u.pgee.DM-1073-g07516779a5+1
+10.0	132	obs_lsstSim	u.pgee.DM-1073-g3e9f84c871+1
+10.0	132	obs_sdss	u.pgee.DM-1073-gc46e017055
+10.0	132	obs_test	u.pgee.DM-1073-g87e9e3fe77+1
