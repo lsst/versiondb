@@ -3121,3 +3121,12 @@ master-gb1f5397aab	2	meas_algorithms	u.pgee.DM-420-g8513efed8c
 master-gb1f5397aab	2	ip_isr	master-g3d1a22232e+34
 master-gb1f5397aab	2	pipe_tasks	u.pgee.DM-420-gda26da1989
 master-gb1f5397aab	2	mysqlpython	1.2.3+14
+master-gb1f5397aab	3	daf_base	master-g08e90f836b
+master-gb1f5397aab	3	pex_policy	10.0+8
+master-gb1f5397aab	3	afw	master-g7d0203e41d
+master-gb1f5397aab	3	daf_persistence	10.0+9
+master-gb1f5397aab	3	daf_butlerUtils	10.0+43
+master-gb1f5397aab	3	meas_algorithms	u.pgee.DM-420-gc768710e81
+master-gb1f5397aab	3	ip_isr	master-g3d1a22232e+36
+master-gb1f5397aab	3	pipe_tasks	u.pgee.DM-420-gda26da1989+1
+master-gb1f5397aab	3	mysqlpython	1.2.3+14
