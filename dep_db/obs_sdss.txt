@@ -2751,3 +2751,10 @@ master-gebcd384ac8	0	meas_algorithms	master-g574ee438a6
 master-gebcd384ac8	0	meas_astrom	master-g8ed2b19caf
 master-gebcd384ac8	0	mysqlpython	1.2.3+14
 master-gebcd384ac8	0	pipe_tasks	master-g9bea063723
+master-gebcd384ac8	1	pex_policy	10.0+12
+master-gebcd384ac8	1	daf_butlerUtils	10.0+54
+master-gebcd384ac8	1	afw	u.lauren.DM-1738-gc839d0f282
+master-gebcd384ac8	1	meas_algorithms	master-g574ee438a6+1
+master-gebcd384ac8	1	meas_astrom	master-g8ed2b19caf+1
+master-gebcd384ac8	1	mysqlpython	1.2.3+14
+master-gebcd384ac8	1	pipe_tasks	master-g9bea063723+1
