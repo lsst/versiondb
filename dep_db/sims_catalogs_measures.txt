@@ -432,3 +432,6 @@ master-g99e633108e	6	sims_catalogs_generation	master-gcc73a46424+1
 master-g863d38f508	0	utils	master-g64ff11fffb+1
 master-g863d38f508	0	python	master-g259ae7060d
 master-g863d38f508	0	sims_catalogs_generation	master-gcc73a46424
+feature.SIM-1037-only-calculate-requested-magnitudes-ge05d382c4f	0	utils	master-g64ff11fffb+1
+feature.SIM-1037-only-calculate-requested-magnitudes-ge05d382c4f	0	python	master-g259ae7060d
+feature.SIM-1037-only-calculate-requested-magnitudes-ge05d382c4f	0	sims_catalogs_generation	master-gcc73a46424
