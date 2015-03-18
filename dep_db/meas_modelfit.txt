@@ -1204,3 +1204,9 @@ tickets.DM-1161-g584bbdc016	0	meas_base	tickets.DM-1161-g985a6d4d0c
 tickets.DM-1161-g584bbdc016	0	shapelet	10.0+54
 tickets.DM-1161-g584bbdc016	0	pipe_tasks	master-g9bea063723+4
 tickets.DM-1161-g584bbdc016	0	matplotlib	0.0.1+3
+tickets.DM-1161-g584bbdc016	1	afw	master-g5f21d69f78
+tickets.DM-1161-g584bbdc016	1	meas_algorithms	tickets.DM-1161-gce18b35dd8
+tickets.DM-1161-g584bbdc016	1	meas_base	tickets.DM-1161-g985a6d4d0c
+tickets.DM-1161-g584bbdc016	1	shapelet	10.0+54
+tickets.DM-1161-g584bbdc016	1	pipe_tasks	master-g9bea063723+5
+tickets.DM-1161-g584bbdc016	1	matplotlib	0.0.1+3

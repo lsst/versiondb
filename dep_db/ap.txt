@@ -2644,3 +2644,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	116	pipe_base	master-ga34ec3e352+50
 10.0	116	meas_algorithms	tickets.DM-1161-g85af462418
 10.0	116	doxygen	1.8.5
+10.0	117	boost	1.55.0.1.lsst2+1
+10.0	117	numpy	0.0.1+3
+10.0	117	mysqlclient	5.1.73.lsst1
+10.0	117	afw	master-g5f21d69f78
+10.0	117	geom	10.0+3
+10.0	117	skypix	10.0+54
+10.0	117	pipe_base	master-ga34ec3e352+50
+10.0	117	meas_algorithms	tickets.DM-1161-gce18b35dd8
+10.0	117	doxygen	1.8.5
