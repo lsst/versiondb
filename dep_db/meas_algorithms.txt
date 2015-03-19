@@ -1156,3 +1156,7 @@ tickets.DM-1161-gce18b35dd8	0	afw	master-g5f21d69f78
 tickets.DM-1161-gce18b35dd8	0	pex_logging	10.0+12
 tickets.DM-1161-gce18b35dd8	0	pipe_base	master-ga34ec3e352+50
 tickets.DM-1161-gce18b35dd8	0	meas_base	tickets.DM-1161-g985a6d4d0c
+master-g574ee438a6	4	afw	u.pgee.DM-1076-g1b04f1ecb2
+master-g574ee438a6	4	pex_logging	10.0+12
+master-g574ee438a6	4	pipe_base	master-ga34ec3e352+52
+master-g574ee438a6	4	meas_base	u.pgee.DM-1076-g0a3988b486+1

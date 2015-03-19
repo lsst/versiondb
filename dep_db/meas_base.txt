@@ -1279,3 +1279,8 @@ tickets.DM-1161-g985a6d4d0c	0	pipe_base	master-ga34ec3e352+50
 tickets.DM-1161-g985a6d4d0c	0	daf_base	master-g3f149c2149
 tickets.DM-1161-g985a6d4d0c	0	pex_config	master-g1bbe32c89d+7
 tickets.DM-1161-g985a6d4d0c	0	coadd_utils	10.0+63
+u.pgee.DM-1076-g0a3988b486	1	afw	u.pgee.DM-1076-g1b04f1ecb2
+u.pgee.DM-1076-g0a3988b486	1	pipe_base	master-ga34ec3e352+52
+u.pgee.DM-1076-g0a3988b486	1	daf_base	master-g3f149c2149
+u.pgee.DM-1076-g0a3988b486	1	pex_config	master-g1bbe32c89d+7
+u.pgee.DM-1076-g0a3988b486	1	coadd_utils	10.0+65
