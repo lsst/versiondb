@@ -2820,3 +2820,12 @@ master-g0e0f930f36	14	sims_coordUtils	master-g27688ba5a5+26
 master-g0e0f930f36	14	python	master-g259ae7060d
 master-g0e0f930f36	14	throughputs	master-ga6e2efc0c9
 master-g0e0f930f36	14	pyfits	3.2.4.lsst1+1
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	utils	master-g64ff11fffb+1
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	sims_catalogs_measures	master-g863d38f508
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	sims_catalogs_generation	master-gcc73a46424
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	sims_sed_library	2014.10.06
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	sims_dustmaps	master-g9b0d0a937d
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	sims_coordUtils	master-g27688ba5a5+26
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	python	master-g259ae7060d
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	throughputs	master-ga6e2efc0c9
+feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e	1	pyfits	3.2.4.lsst1+1
