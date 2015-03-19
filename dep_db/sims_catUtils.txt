@@ -4944,3 +4944,14 @@ master-gce0eaba1be	13	python	master-g259ae7060d
 master-gce0eaba1be	13	pymssql	2.0.0+3
 master-gce0eaba1be	13	GalSim	1.2.lsst2
 master-gce0eaba1be	13	obs_lsstSim	master-gb1f5397aab+15
+master-gce0eaba1be	14	utils	master-g64ff11fffb+1
+master-gce0eaba1be	14	sims_catalogs_measures	master-g863d38f508
+master-gce0eaba1be	14	sims_catalogs_generation	master-gcc73a46424
+master-gce0eaba1be	14	sims_coordUtils	master-g27688ba5a5+21
+master-gce0eaba1be	14	sims_photUtils	feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-ge1be5f679e
+master-gce0eaba1be	14	sims_data	master-gdac76d2d31
+master-gce0eaba1be	14	palpy	1.6
+master-gce0eaba1be	14	python	master-g259ae7060d
+master-gce0eaba1be	14	pymssql	2.0.0+3
+master-gce0eaba1be	14	GalSim	1.2.lsst2
+master-gce0eaba1be	14	obs_lsstSim	master-gb1f5397aab+12
