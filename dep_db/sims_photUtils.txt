@@ -2856,3 +2856,12 @@ master-g0e0f930f36	17	sims_coordUtils	master-g27688ba5a5+29
 master-g0e0f930f36	17	python	master-g259ae7060d
 master-g0e0f930f36	17	throughputs	master-ga6e2efc0c9
 master-g0e0f930f36	17	pyfits	3.2.4.lsst1+1
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	utils	master-g64ff11fffb+1
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	sims_catalogs_measures	feature.SIM-1037-only-calculate-requested-magnitudes-g46cf926cb4
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	sims_catalogs_generation	master-gcc73a46424
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	sims_sed_library	2014.10.06
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	sims_dustmaps	master-g9b0d0a937d
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	sims_coordUtils	master-g27688ba5a5+30
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	python	master-g259ae7060d
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	throughputs	master-ga6e2efc0c9
+feature.SIM-1037-only-calculate-requested-magnitudes-g1280d06b13	0	pyfits	3.2.4.lsst1+1
