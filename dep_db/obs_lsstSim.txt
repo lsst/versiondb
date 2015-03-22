@@ -3373,3 +3373,12 @@ master-gb1f5397aab	30	meas_algorithms	master-g574ee438a6+13
 master-gb1f5397aab	30	ip_isr	master-g3d1a22232e+61
 master-gb1f5397aab	30	pipe_tasks	master-g9bea063723+20
 master-gb1f5397aab	30	mysqlpython	1.2.3+14
+master-gb1f5397aab	31	daf_base	master-g3f149c2149
+master-gb1f5397aab	31	pex_policy	10.0+12
+master-gb1f5397aab	31	afw	u.swinbank.DM-2306-g22b40a69df
+master-gb1f5397aab	31	daf_persistence	10.0+13
+master-gb1f5397aab	31	daf_butlerUtils	10.0+69
+master-gb1f5397aab	31	meas_algorithms	master-g574ee438a6+14
+master-gb1f5397aab	31	ip_isr	master-g3d1a22232e+62
+master-gb1f5397aab	31	pipe_tasks	master-g9bea063723+21
+master-gb1f5397aab	31	mysqlpython	1.2.3+14
