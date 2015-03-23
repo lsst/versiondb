@@ -441,3 +441,6 @@ feature.SIM-1037-only-calculate-requested-magnitudes-g46cf926cb4	0	sims_catalogs
 master-g863d38f508	1	utils	u.swinbank.DM-2347-g6934cec33f
 master-g863d38f508	1	python	master-g259ae7060d
 master-g863d38f508	1	sims_catalogs_generation	master-gcc73a46424+2
+master-g863d38f508	2	utils	u.swinbank.DM-2347-g7a811ad11d
+master-g863d38f508	2	python	master-g259ae7060d
+master-g863d38f508	2	sims_catalogs_generation	master-gcc73a46424+3
