@@ -906,3 +906,14 @@ master-g18f8571762	1	daf_base	master-g3f149c2149
 master-g18f8571762	1	daf_persistence	10.0+13
 master-g18f8571762	1	utils	master-g64ff11fffb+1
 master-g18f8571762	1	pex_exceptions	10.0+4
+master-g18f8571762	2	python	master-g259ae7060d
+master-g18f8571762	2	mysqlclient	5.1.73.lsst1
+master-g18f8571762	2	mysqlpython	1.2.3+14
+master-g18f8571762	2	db	master-gef6fad7020+1
+master-g18f8571762	2	log	1.1.2+2
+master-g18f8571762	2	boost	1.55.0.1.lsst2+1
+master-g18f8571762	2	pex_policy	10.0+13
+master-g18f8571762	2	daf_base	master-g3f149c2149+1
+master-g18f8571762	2	daf_persistence	10.0+14
+master-g18f8571762	2	utils	u.swinbank.DM-2347-g6934cec33f
+master-g18f8571762	2	pex_exceptions	10.0+4
