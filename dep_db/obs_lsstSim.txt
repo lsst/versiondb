@@ -3454,3 +3454,12 @@ master-gb1f5397aab	39	meas_algorithms	master-g574ee438a6+22
 master-gb1f5397aab	39	ip_isr	master-g3d1a22232e+70
 master-gb1f5397aab	39	pipe_tasks	master-g9bea063723+27
 master-gb1f5397aab	39	mysqlpython	1.2.3+14
+master-gb1f5397aab	40	daf_base	master-g3f149c2149
+master-gb1f5397aab	40	pex_policy	tickets.DM-2386-gee5514fa5d
+master-gb1f5397aab	40	afw	master-ga12ea15f74+5
+master-gb1f5397aab	40	daf_persistence	10.0+20
+master-gb1f5397aab	40	daf_butlerUtils	10.0+77
+master-gb1f5397aab	40	meas_algorithms	master-g574ee438a6+23
+master-gb1f5397aab	40	ip_isr	master-g3d1a22232e+71
+master-gb1f5397aab	40	pipe_tasks	master-g9bea063723+28
+master-gb1f5397aab	40	mysqlpython	1.2.3+14

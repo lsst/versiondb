@@ -972,3 +972,14 @@ master-g18f8571762	7	daf_base	master-g3f149c2149
 master-g18f8571762	7	daf_persistence	10.0+19
 master-g18f8571762	7	utils	master-g64ff11fffb+1
 master-g18f8571762	7	pex_exceptions	10.0+4
+master-g18f8571762	8	python	master-g259ae7060d
+master-g18f8571762	8	mysqlclient	5.1.73.lsst1
+master-g18f8571762	8	mysqlpython	1.2.3+14
+master-g18f8571762	8	db	master-gef6fad7020
+master-g18f8571762	8	log	1.1.2
+master-g18f8571762	8	boost	1.55.0.1.lsst2+1
+master-g18f8571762	8	pex_policy	tickets.DM-2386-gee5514fa5d
+master-g18f8571762	8	daf_base	master-g3f149c2149
+master-g18f8571762	8	daf_persistence	10.0+20
+master-g18f8571762	8	utils	master-g64ff11fffb+1
+master-g18f8571762	8	pex_exceptions	10.0+4
