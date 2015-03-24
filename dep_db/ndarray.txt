@@ -264,3 +264,10 @@ master-g7408a83a3a	2	eigen	3.2.0
 master-g7408a83a3a	2	base	master-g548d41d8ed+2
 master-g7408a83a3a	2	swig	tickets.DM-1972-g4647db1127
 master-g7408a83a3a	2	fftw	3.3.3
+master-g7408a83a3a	3	boost	tickets.DM-2384-gca32f9a511
+master-g7408a83a3a	3	python	master-g259ae7060d
+master-g7408a83a3a	3	numpy	0.0.1+3
+master-g7408a83a3a	3	eigen	3.2.0
+master-g7408a83a3a	3	base	master-g548d41d8ed+3
+master-g7408a83a3a	3	swig	3.0.2.lsst1
+master-g7408a83a3a	3	fftw	3.3.3
