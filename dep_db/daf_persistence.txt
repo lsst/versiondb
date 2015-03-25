@@ -190,3 +190,6 @@ master-g3391ba5ea0	0	pex_policy	master-g6a3ac32d1b
 10.0	20	mysqlclient	5.1.73.lsst1
 10.0	20	pex_logging	10.0+12
 10.0	20	pex_policy	tickets.DM-2386-gee5514fa5d
+10.0	21	mysqlclient	5.1.73.lsst1
+10.0	21	pex_logging	master-gdb4482ee35
+10.0	21	pex_policy	master-g0f530505b3
