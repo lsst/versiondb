@@ -1246,3 +1246,9 @@ master-gb12bcc32c7	2	pex_config	master-g1bbe32c89d+15
 master-gb12bcc32c7	2	utils	master-g64ff11fffb+1
 master-gb12bcc32c7	2	afw	master-g23e0ace0ba
 master-gb12bcc32c7	2	obs_test	master-g0bfce498d9+34
+master-gb12bcc32c7	3	daf_persistence	10.0+22
+master-gb12bcc32c7	3	pex_logging	master-gdb4482ee35+1
+master-gb12bcc32c7	3	pex_config	master-g1bbe32c89d+16
+master-gb12bcc32c7	3	utils	tickets.DM-2347-g7222f26c69
+master-gb12bcc32c7	3	afw	tickets.DM-2347-g89acbf3a5a
+master-gb12bcc32c7	3	obs_test	master-g0bfce498d9+35
