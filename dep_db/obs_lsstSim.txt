@@ -3571,3 +3571,12 @@ tickets.DM-2033-gb9464e91e5	0	meas_algorithms	master-gc6a7168121+1
 tickets.DM-2033-gb9464e91e5	0	ip_isr	master-g3d1a22232e+82
 tickets.DM-2033-gb9464e91e5	0	pipe_tasks	master-g9bea063723+37
 tickets.DM-2033-gb9464e91e5	0	mysqlpython	1.2.3+14
+master-gc584ed14e8	0	daf_base	master-g3f149c2149+6
+master-gc584ed14e8	0	pex_policy	master-g0f530505b3+3
+master-gc584ed14e8	0	afw	master-g8708957e45+1
+master-gc584ed14e8	0	daf_persistence	10.0+24
+master-gc584ed14e8	0	daf_butlerUtils	10.0+84
+master-gc584ed14e8	0	meas_algorithms	master-gc6a7168121+1
+master-gc584ed14e8	0	ip_isr	master-g3d1a22232e+82
+master-gc584ed14e8	0	pipe_tasks	master-g9bea063723+37
+master-gc584ed14e8	0	mysqlpython	1.2.3+14
