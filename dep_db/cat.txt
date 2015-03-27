@@ -1016,3 +1016,14 @@ master-g18f8571762	11	daf_base	master-g3f149c2149+5
 master-g18f8571762	11	daf_persistence	10.0+23
 master-g18f8571762	11	utils	master-g65c9fa1db3
 master-g18f8571762	11	pex_exceptions	10.0+4
+master-g18f8571762	12	python	master-g259ae7060d
+master-g18f8571762	12	mysqlclient	5.1.73.lsst1
+master-g18f8571762	12	mysqlpython	1.2.3+14
+master-g18f8571762	12	db	master-gef6fad7020+6
+master-g18f8571762	12	log	1.1.2+7
+master-g18f8571762	12	boost	1.55.0.1.lsst2+1
+master-g18f8571762	12	pex_policy	master-g0f530505b3+3
+master-g18f8571762	12	daf_base	master-g3f149c2149+6
+master-g18f8571762	12	daf_persistence	10.0+24
+master-g18f8571762	12	utils	master-g65c9fa1db3+1
+master-g18f8571762	12	pex_exceptions	10.0+7
