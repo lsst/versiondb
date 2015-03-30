@@ -1250,3 +1250,14 @@ tickets.DM-1350-g452f7091c6	0	pex_logging	master-gdb4482ee35+3
 tickets.DM-1350-g452f7091c6	0	pex_exceptions	10.0+7
 tickets.DM-1350-g452f7091c6	0	swig	3.0.2.lsst1
 tickets.DM-1350-g452f7091c6	0	doxygen	1.8.5
+master-g6f35c86b98	47	boost	1.55.0.1.lsst2+1
+master-g6f35c86b98	47	activemqcpp	3.5.0+15
+master-g6f35c86b98	47	utils	master-g65c9fa1db3+2
+master-g6f35c86b98	47	daf_base	master-g3f149c2149+7
+master-g6f35c86b98	47	pex_logging	master-gdb4482ee35+4
+master-g6f35c86b98	47	pex_exceptions	10.0+8
+master-g6f35c86b98	47	pex_policy	master-g0f530505b3+4
+master-g6f35c86b98	47	cat	master-g18f8571762+13
+master-g6f35c86b98	47	daf_persistence	10.0+25
+master-g6f35c86b98	47	swig	3.0.2.lsst1
+master-g6f35c86b98	47	doxygen	1.8.5
