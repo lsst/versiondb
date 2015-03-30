@@ -1241,3 +1241,12 @@ master-g6f35c86b98	46	cat	master-g18f8571762+12
 master-g6f35c86b98	46	daf_persistence	10.0+24
 master-g6f35c86b98	46	swig	3.0.2.lsst1
 master-g6f35c86b98	46	doxygen	1.8.5
+tickets.DM-1350-g452f7091c6	0	boost	1.55.0.1.lsst2+1
+tickets.DM-1350-g452f7091c6	0	activemqcpp	3.5.0+15
+tickets.DM-1350-g452f7091c6	0	utils	master-g65c9fa1db3+1
+tickets.DM-1350-g452f7091c6	0	base	master-g548d41d8ed+4
+tickets.DM-1350-g452f7091c6	0	daf_base	master-g3f149c2149+6
+tickets.DM-1350-g452f7091c6	0	pex_logging	master-gdb4482ee35+3
+tickets.DM-1350-g452f7091c6	0	pex_exceptions	10.0+7
+tickets.DM-1350-g452f7091c6	0	swig	3.0.2.lsst1
+tickets.DM-1350-g452f7091c6	0	doxygen	1.8.5
