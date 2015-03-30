@@ -1384,3 +1384,10 @@ master-gc54cf9771d	0	pyfits	master-g08519beb22
 10.0	87	afw	master-gbcaf5a437a
 10.0	87	skypix	10.0+86
 10.0	87	pyfits	3.2.4.lsst1+1
+10.0	88	daf_base	master-g3f149c2149+6
+10.0	88	pex_logging	master-gdb4482ee35+3
+10.0	88	pex_policy	master-g0f530505b3+3
+10.0	88	daf_persistence	10.0+24
+10.0	88	afw	tickets.DM-2436-g73e4d85ee0
+10.0	88	skypix	10.0+87
+10.0	88	pyfits	3.2.4.lsst1+1
