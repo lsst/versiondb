@@ -1391,3 +1391,9 @@ master-gb03937bc9e	34	pex_policy	master-g0f530505b3+5
 master-gb03937bc9e	34	daf_persistence	10.0+26
 master-gb03937bc9e	34	ctrl_events	master-g6f35c86b98+48
 master-gb03937bc9e	34	ctrl_provenance	10.0+53
+10.0-1-gb03937b	0	cat	10.0-3-g18f8571
+10.0-1-gb03937b	0	utils	10.0-2-g65c9fa1
+10.0-1-gb03937b	0	pex_policy	10.0-1-g0f53050
+10.0-1-gb03937b	0	daf_persistence	10.0+27
+10.0-1-gb03937b	0	ctrl_events	10.0-3-g6f35c86
+10.0-1-gb03937b	0	ctrl_provenance	10.0+54

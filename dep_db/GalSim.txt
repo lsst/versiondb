@@ -48,3 +48,8 @@ u.jbosch.DM-1920-ga001b1539b	0	tmv	tickets.DM-1920-g96e47a4422
 1.2.lsst2	1	boost	tickets.DM-2384-gca32f9a511
 1.2.lsst2	1	fftw	3.3.3
 1.2.lsst2	1	tmv	0.72.lsst1
+1.2.lsst2	2	numpy	0.0.1+4
+1.2.lsst2	2	pyfits	3.2.4.lsst1+2
+1.2.lsst2	2	boost	1.55.0.1.lsst2+2
+1.2.lsst2	2	fftw	3.3.3
+1.2.lsst2	2	tmv	0.72.lsst1+1

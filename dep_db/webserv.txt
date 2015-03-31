@@ -802,3 +802,9 @@ master-g284ca1f586	99	dbserv	master-g49cc6b0b5c+8
 master-g284ca1f586	99	imgserv	master-ge218d629fa+1
 master-g284ca1f586	99	metaserv	master-g490c9e125a+8
 master-g284ca1f586	99	mysqlpython	1.2.3+14
+0.1.0-1-g284ca1f	0	db	1.0.5-11-gef6fad7
+0.1.0-1-g284ca1f	0	flask	0.10.1+1
+0.1.0-1-g284ca1f	0	dbserv	0.1.0-3-g49cc6b0
+0.1.0-1-g284ca1f	0	imgserv	master-ge218d629fa+2
+0.1.0-1-g284ca1f	0	metaserv	0.1.0-7-g490c9e1
+0.1.0-1-g284ca1f	0	mysqlpython	1.2.3+15

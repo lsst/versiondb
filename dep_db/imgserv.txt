@@ -1432,3 +1432,14 @@ master-ge218d629fa	1	log	1.1.2+9
 master-ge218d629fa	1	obs_sdss	master-gebcd384ac8+50
 master-ge218d629fa	1	mysqlpython	1.2.3+14
 master-ge218d629fa	1	sconsUtils	u.mjuric.trigger-g54c983ffe9
+master-ge218d629fa	2	afw	10.0-31-gf05db66
+master-ge218d629fa	2	base	10.0-1-g548d41d
+master-ge218d629fa	2	boost	1.55.0.1.lsst2+2
+master-ge218d629fa	2	cat	10.0-3-g18f8571
+master-ge218d629fa	2	daf_base	10.0-3-g3f149c2
+master-ge218d629fa	2	db	1.0.5-11-gef6fad7
+master-ge218d629fa	2	flask	0.10.1+1
+master-ge218d629fa	2	log	1.1.2+10
+master-ge218d629fa	2	obs_sdss	10.0-7-gebcd384
+master-ge218d629fa	2	mysqlpython	1.2.3+15
+master-ge218d629fa	2	sconsUtils	u.mjuric.trigger-g54c983ffe9+1
