@@ -3129,3 +3129,10 @@ master-gebcd384ac8	50	pipe_tasks	master-g9bea063723+46
 10.0-7-gebcd384	3	meas_astrom	10.0-4-g294043a+3
 10.0-7-gebcd384	3	mysqlpython	1.2.3+15
 10.0-7-gebcd384	3	pipe_tasks	10.0-9-g9bea063+3
+10.0-7-gebcd384	4	pex_policy	10.0-1-g0f53050+1
+10.0-7-gebcd384	4	daf_butlerUtils	10.0+93
+10.0-7-gebcd384	4	afw	tickets.DM-2306-g4c084dd845
+10.0-7-gebcd384	4	meas_algorithms	10.0-13-gfea353b+1
+10.0-7-gebcd384	4	meas_astrom	10.0-4-g294043a+4
+10.0-7-gebcd384	4	mysqlpython	1.2.3+15
+10.0-7-gebcd384	4	pipe_tasks	tickets.DM-2306-g85a20bff1d

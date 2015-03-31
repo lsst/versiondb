@@ -1344,3 +1344,7 @@ tickets.DM-1161-gce18b35dd8	1	meas_base	tickets.DM-1161-gaecccee73a
 10.0-13-gfea353b	0	pex_logging	10.0-1-gdb4482e+1
 10.0-13-gfea353b	0	pipe_base	10.0-2-gb12bcc3+1
 10.0-13-gfea353b	0	meas_base	10.0-24-g2750f92
+10.0-13-gfea353b	1	afw	tickets.DM-2306-g4c084dd845
+10.0-13-gfea353b	1	pex_logging	10.0-1-gdb4482e+1
+10.0-13-gfea353b	1	pipe_base	10.0-2-gb12bcc3+2
+10.0-13-gfea353b	1	meas_base	tickets.DM-2306-g7e1f122edf
