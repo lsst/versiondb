@@ -2894,3 +2894,11 @@ tickets.DM-1576-g3651742b16	1	pex_config	10.0-3-g1bbe32c+1
 tickets.DM-1576-g3651742b16	1	pipe_base	10.0-2-gb12bcc3+5
 tickets.DM-1576-g3651742b16	1	afwdata	10.0+8
 tickets.DM-1576-g3651742b16	1	matplotlib	0.0.1+4
+10.0-4-g962ade1	8	afw	tickets.DM-2306-geec77da3d4
+10.0-4-g962ade1	8	meas_base	tickets.DM-2306-g9a6920b22b
+10.0-4-g962ade1	8	meas_deblender	10.0-3-g474698e+8
+10.0-4-g962ade1	8	numpy	0.0.1+4
+10.0-4-g962ade1	8	pex_config	10.0-3-g1bbe32c+1
+10.0-4-g962ade1	8	pipe_base	10.0-2-gb12bcc3+4
+10.0-4-g962ade1	8	afwdata	10.0+8
+10.0-4-g962ade1	8	matplotlib	0.0.1+4
