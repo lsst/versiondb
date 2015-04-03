@@ -3310,3 +3310,12 @@ tickets.DM-2471-g702c13c327	0	wcslib	4.14+7
 tickets.DM-2471-g702c13c327	0	astrometry_net	0.50.1+5
 tickets.DM-2471-g702c13c327	0	numpy	0.0.1+4
 tickets.DM-2471-g702c13c327	0	matplotlib	0.0.1+4
+tickets.DM-2471-g702c13c327	1	afw	tickets.DM-2471-g3937a7aff7
+tickets.DM-2471-g702c13c327	1	meas_algorithms	10.0-13-gfea353b+8
+tickets.DM-2471-g702c13c327	1	pex_logging	10.0-1-gdb4482e+1
+tickets.DM-2471-g702c13c327	1	pex_config	10.0-3-g1bbe32c+1
+tickets.DM-2471-g702c13c327	1	pipe_base	10.0-2-gb12bcc3+8
+tickets.DM-2471-g702c13c327	1	wcslib	4.14+7
+tickets.DM-2471-g702c13c327	1	astrometry_net	0.50.1+5
+tickets.DM-2471-g702c13c327	1	numpy	0.0.1+4
+tickets.DM-2471-g702c13c327	1	matplotlib	0.0.1+4
