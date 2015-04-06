@@ -1564,3 +1564,8 @@ u.swinbank.DM-2307-g61fbe37a6b	1	pipe_base	10.0-2-gb12bcc3+11
 u.swinbank.DM-2307-g61fbe37a6b	1	daf_base	10.0-3-g3f149c2+1
 u.swinbank.DM-2307-g61fbe37a6b	1	pex_config	10.0-3-g1bbe32c+1
 u.swinbank.DM-2307-g61fbe37a6b	1	coadd_utils	10.0+110
+tickets.DM-2306-g6a5c517a7d	0	afw	tickets.DM-2306-geec77da3d4
+tickets.DM-2306-g6a5c517a7d	0	pipe_base	10.0-2-gb12bcc3+4
+tickets.DM-2306-g6a5c517a7d	0	daf_base	10.0-3-g3f149c2+1
+tickets.DM-2306-g6a5c517a7d	0	pex_config	10.0-3-g1bbe32c+1
+tickets.DM-2306-g6a5c517a7d	0	coadd_utils	10.0+103
