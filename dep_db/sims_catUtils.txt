@@ -5758,3 +5758,14 @@ master-g2ff74334b7	36	python	0.0.2-1-g259ae70
 master-g2ff74334b7	36	pymssql	2.0.0+4
 master-g2ff74334b7	36	GalSim	1.2.lsst2+3
 master-g2ff74334b7	36	obs_lsstSim	10.0-2-gc584ed1+21
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	utils	10.0-2-g65c9fa1+1
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	sims_catalogs_measures	1.0.0-22-g29e7031+2
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	sims_catalogs_generation	feature.SIM-1046-refactor-photometric-uncertainty-gca14b38961
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	sims_coordUtils	1.0.0-60-g27688ba+13
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	sims_photUtils	feature.SIM-1046-refactor-photometric-uncertainty-g92c3f80279
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	sims_data	master-gdac76d2d31
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	palpy	1.6+1
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	python	0.0.2-1-g259ae70
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	pymssql	2.0.0+4
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	GalSim	1.2.lsst2+3
+feature.SIM-1046-refactor-photometric-uncertainty-gbb75e9988d	0	obs_lsstSim	10.0-2-gc584ed1+16
