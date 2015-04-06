@@ -1618,3 +1618,9 @@ u.swinbank.DM-2307-g29a9e598c9	0	matplotlib	0.0.1+4
 10.0-2-g0125fa7	18	shapelet	10.0+102
 10.0-2-g0125fa7	18	pipe_tasks	10.0-10-gb9fdf38+7
 10.0-2-g0125fa7	18	matplotlib	0.0.1+4
+u.swinbank.DM-2307-g29a9e598c9	1	afw	u.swinbank.DM-2307-g055bb63e9d
+u.swinbank.DM-2307-g29a9e598c9	1	meas_algorithms	10.0-13-gfea353b+14
+u.swinbank.DM-2307-g29a9e598c9	1	meas_base	u.swinbank.DM-2307-gf3280d1cc4
+u.swinbank.DM-2307-g29a9e598c9	1	shapelet	10.0+101
+u.swinbank.DM-2307-g29a9e598c9	1	pipe_tasks	tickets.DM-2306-g80d5b953cb+3
+u.swinbank.DM-2307-g29a9e598c9	1	matplotlib	0.0.1+4
