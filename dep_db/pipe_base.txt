@@ -1384,3 +1384,9 @@ master-gb12bcc32c7	11	obs_test	master-g0bfce498d9+43
 10.0-2-gb12bcc3	13	utils	10.0-2-g65c9fa1+1
 10.0-2-gb12bcc3	13	afw	10.0-35-gc8cbcbf
 10.0-2-gb12bcc3	13	obs_test	10.0-2-g0bfce49+13
+10.0-2-gb12bcc3	14	daf_persistence	10.0+28
+10.0-2-gb12bcc3	14	pex_logging	10.0-1-gdb4482e+1
+10.0-2-gb12bcc3	14	pex_config	10.0-3-g1bbe32c+1
+10.0-2-gb12bcc3	14	utils	10.0-2-g65c9fa1+1
+10.0-2-gb12bcc3	14	afw	tickets.DM-2306-g592d523522
+10.0-2-gb12bcc3	14	obs_test	10.0-2-g0bfce49+14

@@ -1589,3 +1589,8 @@ tickets.DM-2306-g36fb890e8c	0	pipe_base	10.0-2-gb12bcc3+4
 tickets.DM-2306-g36fb890e8c	0	daf_base	10.0-3-g3f149c2+1
 tickets.DM-2306-g36fb890e8c	0	pex_config	10.0-3-g1bbe32c+1
 tickets.DM-2306-g36fb890e8c	0	coadd_utils	10.0+103
+tickets.DM-2306-g39d2b46de9	0	afw	tickets.DM-2306-g592d523522
+tickets.DM-2306-g39d2b46de9	0	pipe_base	10.0-2-gb12bcc3+14
+tickets.DM-2306-g39d2b46de9	0	daf_base	10.0-3-g3f149c2+1
+tickets.DM-2306-g39d2b46de9	0	pex_config	10.0-3-g1bbe32c+1
+tickets.DM-2306-g39d2b46de9	0	coadd_utils	10.0+113
