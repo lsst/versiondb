@@ -1629,3 +1629,8 @@ tickets.DM-2307-g8d6a7c1e21	0	coadd_utils	10.0+116
 10.0-25-g5bd0c61	5	daf_base	10.0-3-g3f149c2+2
 10.0-25-g5bd0c61	5	pex_config	10.0-3-g1bbe32c+2
 10.0-25-g5bd0c61	5	coadd_utils	10.0+120
+10.0-25-g5bd0c61	6	afw	tickets.DM-2418-g18bc44b89f
+10.0-25-g5bd0c61	6	pipe_base	10.0-2-gb12bcc3+22
+10.0-25-g5bd0c61	6	daf_base	10.0-3-g3f149c2+3
+10.0-25-g5bd0c61	6	pex_config	10.0-3-g1bbe32c+3
+10.0-25-g5bd0c61	6	coadd_utils	10.0+121
