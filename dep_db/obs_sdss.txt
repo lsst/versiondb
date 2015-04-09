@@ -3388,3 +3388,10 @@ tickets.DM-1576-g4aab34585a	4	pipe_tasks	tickets.DM-1576-gcad3bddc91
 10.0-7-gebcd384	38	meas_astrom	tickets.DM-2201-gf57bede3b2
 10.0-7-gebcd384	38	mysqlpython	1.2.3+15
 10.0-7-gebcd384	38	pipe_tasks	10.0-11-gf303ae8+11
+10.0-7-gebcd384	39	pex_policy	10.0-1-g0f53050+5
+10.0-7-gebcd384	39	daf_butlerUtils	10.0+115
+10.0-7-gebcd384	39	afw	tickets.DM-2201-g853c5734ee+1
+10.0-7-gebcd384	39	meas_algorithms	tickets.DM-2201-g3caa2d28a9+1
+10.0-7-gebcd384	39	meas_astrom	tickets.DM-2201-gf57bede3b2+1
+10.0-7-gebcd384	39	mysqlpython	1.2.3+15
+10.0-7-gebcd384	39	pipe_tasks	10.0-11-gf303ae8+12

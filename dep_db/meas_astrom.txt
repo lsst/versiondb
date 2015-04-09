@@ -3526,3 +3526,12 @@ tickets.DM-2201-gf57bede3b2	0	wcslib	4.14+7
 tickets.DM-2201-gf57bede3b2	0	astrometry_net	0.50.1+5
 tickets.DM-2201-gf57bede3b2	0	numpy	0.0.1+4
 tickets.DM-2201-gf57bede3b2	0	matplotlib	0.0.1+4
+tickets.DM-2201-gf57bede3b2	1	afw	tickets.DM-2201-g853c5734ee+1
+tickets.DM-2201-gf57bede3b2	1	meas_algorithms	tickets.DM-2201-g3caa2d28a9+1
+tickets.DM-2201-gf57bede3b2	1	pex_logging	10.0-1-gdb4482e+5
+tickets.DM-2201-gf57bede3b2	1	pex_config	10.0-3-g1bbe32c+5
+tickets.DM-2201-gf57bede3b2	1	pipe_base	10.0-2-gb12bcc3+24
+tickets.DM-2201-gf57bede3b2	1	wcslib	4.14+7
+tickets.DM-2201-gf57bede3b2	1	astrometry_net	0.50.1+5
+tickets.DM-2201-gf57bede3b2	1	numpy	0.0.1+4
+tickets.DM-2201-gf57bede3b2	1	matplotlib	0.0.1+4
