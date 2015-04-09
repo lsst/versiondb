@@ -1451,3 +1451,9 @@ master-gb03937bc9e	34	ctrl_provenance	10.0+53
 10.0-1-gb03937b	9	daf_persistence	10.0+28
 10.0-1-gb03937b	9	ctrl_events	10.0-4-gca5cb1e
 10.0-1-gb03937b	9	ctrl_provenance	10.0+60
+10.0-1-gb03937b	10	cat	10.0-3-g18f8571+7
+10.0-1-gb03937b	10	utils	tickets.DM-2418-g242bd9d2be
+10.0-1-gb03937b	10	pex_policy	10.0-1-g0f53050+2
+10.0-1-gb03937b	10	daf_persistence	10.0+29
+10.0-1-gb03937b	10	ctrl_events	10.0-4-gca5cb1e+1
+10.0-1-gb03937b	10	ctrl_provenance	10.0+61

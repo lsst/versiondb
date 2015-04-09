@@ -268,3 +268,6 @@ feature.SIM-1046-refactor-photometric-uncertainty-gca14b38961	0	sims_utils	maste
 1.0.0-79-gdc26377	0	utils	10.0-2-g65c9fa1+1
 1.0.0-79-gdc26377	0	python	0.0.2-1-g259ae70
 1.0.0-79-gdc26377	0	sims_utils	master-ge8900fd7e3+11
+1.0.0-79-gdc26377	1	utils	tickets.DM-2418-g242bd9d2be
+1.0.0-79-gdc26377	1	python	0.0.2-1-g259ae70
+1.0.0-79-gdc26377	1	sims_utils	master-ge8900fd7e3+12
