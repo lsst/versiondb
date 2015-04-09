@@ -1104,3 +1104,14 @@ master-g18f8571762	14	pex_exceptions	10.0+9
 10.0-3-g18f8571	4	daf_persistence	10.0+28
 10.0-3-g18f8571	4	utils	10.0-2-g65c9fa1+1
 10.0-3-g18f8571	4	pex_exceptions	10.0+11
+10.0-3-g18f8571	5	python	0.0.2-1-g259ae70
+10.0-3-g18f8571	5	mysqlclient	5.1.73.lsst1
+10.0-3-g18f8571	5	mysqlpython	1.2.3+15
+10.0-3-g18f8571	5	db	1.0.5-11-gef6fad7+5
+10.0-3-g18f8571	5	log	u.ktl.removeUtils-ga24c7fbc25
+10.0-3-g18f8571	5	boost	1.55.0.1.lsst2+2
+10.0-3-g18f8571	5	pex_policy	10.0-1-g0f53050+1
+10.0-3-g18f8571	5	daf_base	10.0-3-g3f149c2+1
+10.0-3-g18f8571	5	daf_persistence	10.0+28
+10.0-3-g18f8571	5	utils	10.0-2-g65c9fa1+1
+10.0-3-g18f8571	5	pex_exceptions	10.0+11
