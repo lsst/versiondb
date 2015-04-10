@@ -3477,3 +3477,12 @@ feature.SIM-1038-adjust-selectstarsed.py-selectgalaxysed.py-g95e6f1a9ec	0	pyfits
 1.0.0-77-g82a337b	8	python	0.0.2-1-g259ae70
 1.0.0-77-g82a337b	8	throughputs	master-ga98b3deed1
 1.0.0-77-g82a337b	8	pyfits	3.2.4.lsst1+2
+1.0.0-77-g82a337b	9	utils	tickets.DM-2201-g195539899a
+1.0.0-77-g82a337b	9	sims_catalogs_measures	1.0.0-22-g29e7031+10
+1.0.0-77-g82a337b	9	sims_catalogs_generation	1.0.0-79-gdc26377+7
+1.0.0-77-g82a337b	9	sims_sed_library	2014.10.06
+1.0.0-77-g82a337b	9	sims_dustmaps	2014.09.23-1-g9b0d0a9
+1.0.0-77-g82a337b	9	sims_coordUtils	1.0.0-60-g27688ba+32
+1.0.0-77-g82a337b	9	python	0.0.2-1-g259ae70
+1.0.0-77-g82a337b	9	throughputs	master-ga98b3deed1
+1.0.0-77-g82a337b	9	pyfits	3.2.4.lsst1+2
