@@ -4120,3 +4120,12 @@ master-gc584ed14e8	9	mysqlpython	1.2.3+14
 10.0-2-gc584ed1	50	ip_isr	10.0-2-gcb4bc6c+3
 10.0-2-gc584ed1	50	pipe_tasks	10.0-11-gf303ae8+21
 10.0-2-gc584ed1	50	mysqlpython	1.2.3+15
+10.0-2-gc584ed1	51	daf_base	10.0-4-g027f45f+3
+10.0-2-gc584ed1	51	pex_policy	10.0-1-g0f53050+12
+10.0-2-gc584ed1	51	afw	tickets.DM-2307-g5246d0e648+1
+10.0-2-gc584ed1	51	daf_persistence	10.0+39
+10.0-2-gc584ed1	51	daf_butlerUtils	10.0+125
+10.0-2-gc584ed1	51	meas_algorithms	10.0-14-g35b5ff9+4
+10.0-2-gc584ed1	51	ip_isr	10.0-2-gcb4bc6c+4
+10.0-2-gc584ed1	51	pipe_tasks	10.0-11-gf303ae8+22
+10.0-2-gc584ed1	51	mysqlpython	1.2.3+15
