@@ -221,3 +221,7 @@ u.ktl.removeUtils-g933a522c82	0	sconsUtils	10.0-3-g54c983f
 1.1.2	20	log4cxx	0.10.0.lsst2
 1.1.2	20	utils	10.0-3-g164cf85
 1.1.2	20	sconsUtils	10.0-3-g54c983f
+1.1.2	21	boost	1.55.0.1.lsst2+2
+1.1.2	21	log4cxx	0.10.0.lsst2
+1.1.2	21	utils	tickets.DM-2418-g6559e97b8e
+1.1.2	21	sconsUtils	10.0-3-g54c983f
