@@ -1774,3 +1774,9 @@ tickets.DM-2201-g1db1654077	4	meas_base	tickets.DM-2201-g213d64e901+4
 tickets.DM-2201-g1db1654077	4	shapelet	tickets.DM-2201-gec9026c8aa+4
 tickets.DM-2201-g1db1654077	4	pipe_tasks	10.0-11-gf303ae8+16
 tickets.DM-2201-g1db1654077	4	matplotlib	0.0.1+4
+tickets.DM-2307-g29a9e598c9	1	afw	tickets.DM-2307-g5246d0e648
+tickets.DM-2307-g29a9e598c9	1	meas_algorithms	10.0-13-gfea353b+26
+tickets.DM-2307-g29a9e598c9	1	meas_base	tickets.DM-2307-geebdcd1bf8
+tickets.DM-2307-g29a9e598c9	1	shapelet	10.0-2-g6f676fc+11
+tickets.DM-2307-g29a9e598c9	1	pipe_tasks	10.0-11-gf303ae8+17
+tickets.DM-2307-g29a9e598c9	1	matplotlib	0.0.1+4
