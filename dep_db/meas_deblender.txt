@@ -1498,3 +1498,7 @@ tickets.DM-2201-g3d5d922365	4	matplotlib	0.0.1+4
 10.0-4-gc4fccf3	0	afw	tickets.DM-2418-gb4915a7e59
 10.0-4-gc4fccf3	0	meas_algorithms	10.0-14-g35b5ff9
 10.0-4-gc4fccf3	0	matplotlib	0.0.1+4
+10.0-4-gc4fccf3	1	utils	10.0-3-g164cf85
+10.0-4-gc4fccf3	1	afw	10.0-37-g98f37dc
+10.0-4-gc4fccf3	1	meas_algorithms	10.0-14-g35b5ff9+1
+10.0-4-gc4fccf3	1	matplotlib	0.0.1+4
