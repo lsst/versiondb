@@ -6286,3 +6286,14 @@ feature.SIM-952-realistic-galsim-psf-gd1f5e2213d	0	python	0.0.2-1-g259ae70
 feature.SIM-952-realistic-galsim-psf-gd1f5e2213d	0	pymssql	2.0.0+4
 feature.SIM-952-realistic-galsim-psf-gd1f5e2213d	0	GalSim	1.2.lsst2+3
 feature.SIM-952-realistic-galsim-psf-gd1f5e2213d	0	obs_lsstSim	10.0-2-gc584ed1+57
+master-ga73ae7d369	1	utils	10.0-4-g86f66b5
+master-ga73ae7d369	1	sims_catalogs_measures	1.0.0-22-g29e7031+17
+master-ga73ae7d369	1	sims_catalogs_generation	1.0.0-80-g68b78a5
+master-ga73ae7d369	1	sims_coordUtils	1.0.0-61-g60e429c+1
+master-ga73ae7d369	1	sims_photUtils	1.0.0-77-g82a337b+21
+master-ga73ae7d369	1	sims_data	master-gdac76d2d31
+master-ga73ae7d369	1	palpy	1.6+1
+master-ga73ae7d369	1	python	0.0.2-1-g259ae70
+master-ga73ae7d369	1	pymssql	2.0.0+4
+master-ga73ae7d369	1	GalSim	1.2.lsst2+3
+master-ga73ae7d369	1	obs_lsstSim	10.0-2-gc584ed1+60
