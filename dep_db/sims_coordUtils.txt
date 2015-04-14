@@ -2602,3 +2602,11 @@ feature.SIM-90-use-palpy-gf40ba4460a	1	throughputs	master-ga98b3deed1
 feature.SIM-90-use-palpy-gf40ba4460a	1	palpy	1.6+1
 feature.SIM-90-use-palpy-gf40ba4460a	1	pyfits	3.2.4.lsst1+2
 feature.SIM-90-use-palpy-gf40ba4460a	1	afw	10.0-39-g9cf08d8
+feature.SIM-90-use-palpy-gf40ba4460a	2	sims_catalogs_measures	1.0.0-22-g29e7031+16
+feature.SIM-90-use-palpy-gf40ba4460a	2	utils	10.0-4-g86f66b5
+feature.SIM-90-use-palpy-gf40ba4460a	2	base	10.0-1-g548d41d+1
+feature.SIM-90-use-palpy-gf40ba4460a	2	python	0.0.2-1-g259ae70
+feature.SIM-90-use-palpy-gf40ba4460a	2	throughputs	master-ga98b3deed1
+feature.SIM-90-use-palpy-gf40ba4460a	2	palpy	1.6+1
+feature.SIM-90-use-palpy-gf40ba4460a	2	pyfits	3.2.4.lsst1+2
+feature.SIM-90-use-palpy-gf40ba4460a	2	afw	10.0-39-g9cf08d8
