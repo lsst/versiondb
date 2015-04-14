@@ -1421,3 +1421,13 @@ u.srp.DM-1342-g88e43c606f	0	doxygen	1.8.5
 10.0-4-gca5cb1e	11	pex_exceptions	10.0+11
 10.0-4-gca5cb1e	11	swig	3.0.2.lsst1
 10.0-4-gca5cb1e	11	doxygen	1.8.5
+u.srp.DM-1342-ga7816362b6	0	boost	1.55.0.1.lsst2+2
+u.srp.DM-1342-ga7816362b6	0	activemqcpp	3.5.0+15
+u.srp.DM-1342-ga7816362b6	0	utils	10.0-4-g86f66b5
+u.srp.DM-1342-ga7816362b6	0	base	10.0-1-g548d41d+1
+u.srp.DM-1342-ga7816362b6	0	daf_base	10.0-4-g027f45f+3
+u.srp.DM-1342-ga7816362b6	0	pex_exceptions	10.0+11
+u.srp.DM-1342-ga7816362b6	0	log4cxx	0.10.0.lsst2
+u.srp.DM-1342-ga7816362b6	0	log	1.1.2+22
+u.srp.DM-1342-ga7816362b6	0	swig	3.0.2.lsst1
+u.srp.DM-1342-ga7816362b6	0	doxygen	1.8.5
