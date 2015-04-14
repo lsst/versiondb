@@ -1546,3 +1546,9 @@ tickets.DM-1759-ga4c8c51f5b	0	obs_test	10.0-2-g0bfce49+36
 10.0-2-gb12bcc3	39	utils	10.0-4-g86f66b5
 10.0-2-gb12bcc3	39	afw	tickets.DM-1197-g3fe36c37f9+1
 10.0-2-gb12bcc3	39	obs_test	10.0-3-gfc6a288+1
+10.0-2-gb12bcc3	40	daf_persistence	10.0+39
+10.0-2-gb12bcc3	40	pex_logging	10.0-1-gdb4482e+12
+10.0-2-gb12bcc3	40	pex_config	10.0-3-g1bbe32c+12
+10.0-2-gb12bcc3	40	utils	10.0-4-g86f66b5
+10.0-2-gb12bcc3	40	afw	tickets.DM-1197-g8196a1baa9
+10.0-2-gb12bcc3	40	obs_test	10.0-3-gfc6a288+2
