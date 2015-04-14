@@ -6264,3 +6264,14 @@ feature.SIM-90-use-palpy-gcf4e272f4e	0	python	0.0.2-1-g259ae70
 feature.SIM-90-use-palpy-gcf4e272f4e	0	pymssql	2.0.0+4
 feature.SIM-90-use-palpy-gcf4e272f4e	0	GalSim	1.2.lsst2+3
 feature.SIM-90-use-palpy-gcf4e272f4e	0	obs_lsstSim	10.0-2-gc584ed1+57
+master-ga73ae7d369	0	utils	10.0-4-g86f66b5
+master-ga73ae7d369	0	sims_catalogs_measures	1.0.0-22-g29e7031+17
+master-ga73ae7d369	0	sims_catalogs_generation	1.0.0-80-g68b78a5
+master-ga73ae7d369	0	sims_coordUtils	1.0.0-61-g60e429c
+master-ga73ae7d369	0	sims_photUtils	1.0.0-77-g82a337b+20
+master-ga73ae7d369	0	sims_data	master-gdac76d2d31
+master-ga73ae7d369	0	palpy	1.6+1
+master-ga73ae7d369	0	python	0.0.2-1-g259ae70
+master-ga73ae7d369	0	pymssql	2.0.0+4
+master-ga73ae7d369	0	GalSim	1.2.lsst2+3
+master-ga73ae7d369	0	obs_lsstSim	10.0-2-gc584ed1+57
