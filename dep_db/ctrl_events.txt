@@ -1441,3 +1441,13 @@ u.srp.DM-1342-ga7816362b6	0	doxygen	1.8.5
 10.0-5-g4344db1	0	log	1.1.2+22
 10.0-5-g4344db1	0	swig	3.0.2.lsst1
 10.0-5-g4344db1	0	doxygen	1.8.5
+10.0-5-g4344db1	1	boost	1.55.0.1.lsst2+2
+10.0-5-g4344db1	1	activemqcpp	3.5.0+15
+10.0-5-g4344db1	1	utils	10.0-4-g86f66b5+1
+10.0-5-g4344db1	1	base	10.0-2-gcade0e8
+10.0-5-g4344db1	1	daf_base	10.0-4-g027f45f+4
+10.0-5-g4344db1	1	pex_exceptions	10.0+12
+10.0-5-g4344db1	1	log4cxx	0.10.0.lsst2
+10.0-5-g4344db1	1	log	1.1.2+23
+10.0-5-g4344db1	1	swig	3.0.2.lsst1
+10.0-5-g4344db1	1	doxygen	1.8.5
