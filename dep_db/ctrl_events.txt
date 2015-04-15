@@ -1451,3 +1451,13 @@ u.srp.DM-1342-ga7816362b6	0	doxygen	1.8.5
 10.0-5-g4344db1	1	log	1.1.2+23
 10.0-5-g4344db1	1	swig	3.0.2.lsst1
 10.0-5-g4344db1	1	doxygen	1.8.5
+tickets.DM-2546-g4e9f409071	0	boost	1.55.0.1.lsst2+2
+tickets.DM-2546-g4e9f409071	0	activemqcpp	3.5.0+15
+tickets.DM-2546-g4e9f409071	0	utils	10.0-4-g86f66b5+1
+tickets.DM-2546-g4e9f409071	0	base	10.0-2-gcade0e8
+tickets.DM-2546-g4e9f409071	0	daf_base	10.0-4-g027f45f+4
+tickets.DM-2546-g4e9f409071	0	pex_exceptions	10.0+12
+tickets.DM-2546-g4e9f409071	0	log4cxx	0.10.0.lsst2
+tickets.DM-2546-g4e9f409071	0	log	1.1.2+23
+tickets.DM-2546-g4e9f409071	0	swig	3.0.2.lsst1
+tickets.DM-2546-g4e9f409071	0	doxygen	1.8.5
