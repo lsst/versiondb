@@ -1570,3 +1570,9 @@ tickets.DM-1759-ga4c8c51f5b	0	obs_test	10.0-2-g0bfce49+36
 10.0-2-gb12bcc3	43	utils	10.0-4-g86f66b5+1
 10.0-2-gb12bcc3	43	afw	u.lauren.DM-1943-gecdc57edbd
 10.0-2-gb12bcc3	43	obs_test	10.0-3-gfc6a288+5
+tickets.DM-2550-gb12bcc32c7	0	daf_persistence	10.0+41
+tickets.DM-2550-gb12bcc32c7	0	pex_logging	10.0-1-gdb4482e+14
+tickets.DM-2550-gb12bcc32c7	0	pex_config	10.0-3-g1bbe32c+14
+tickets.DM-2550-gb12bcc32c7	0	utils	10.0-4-g86f66b5+2
+tickets.DM-2550-gb12bcc32c7	0	afw	10.0-40-g4349866+2
+tickets.DM-2550-gb12bcc32c7	0	obs_test	10.0-3-gfc6a288+6
