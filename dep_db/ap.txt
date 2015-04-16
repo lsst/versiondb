@@ -3535,3 +3535,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	215	pipe_base	tickets.DM-2550-gb12bcc32c7
 10.0	215	meas_algorithms	10.0-14-g35b5ff9+15
 10.0	215	doxygen	1.8.5
+10.0	216	boost	1.55.0.1.lsst2+2
+10.0	216	numpy	0.0.1+4
+10.0	216	mysqlclient	5.1.73.lsst1
+10.0	216	afw	10.0-40-g4349866+2
+10.0	216	geom	10.0+8
+10.0	216	skypix	10.0+132
+10.0	216	pipe_base	10.0-2-gb12bcc3+44
+10.0	216	meas_algorithms	10.0-14-g35b5ff9+16
+10.0	216	doxygen	1.8.5
