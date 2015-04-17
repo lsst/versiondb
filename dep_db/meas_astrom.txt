@@ -3850,3 +3850,12 @@ tickets.DM-2188-ged649ff66f	0	matplotlib	0.0.1+4
 10.0-11-g3947115	0	astrometry_net	0.50.1+5
 10.0-11-g3947115	0	numpy	0.0.1+4
 10.0-11-g3947115	0	matplotlib	0.0.1+4
+10.0-11-g3947115	1	afw	u.lauren.DM-1943-g9868340b0c
+10.0-11-g3947115	1	meas_algorithms	u.lauren.DM-1943-g3ecbffc73d
+10.0-11-g3947115	1	pex_logging	10.0-1-gdb4482e+14
+10.0-11-g3947115	1	pex_config	10.0-3-g1bbe32c+14
+10.0-11-g3947115	1	pipe_base	10.0-2-gb12bcc3+45
+10.0-11-g3947115	1	wcslib	4.14+7
+10.0-11-g3947115	1	astrometry_net	0.50.1+5
+10.0-11-g3947115	1	numpy	0.0.1+4
+10.0-11-g3947115	1	matplotlib	0.0.1+4
