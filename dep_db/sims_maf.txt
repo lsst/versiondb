@@ -6430,3 +6430,15 @@ master-g69e699da69	0	obs_lsstSim	10.0-2-gc584ed1+13
 0.2.2-1-g369030e	10	sims_dustmaps	2014.09.23-1-g9b0d0a9
 0.2.2-1-g369030e	10	healpy	1.8.1+5
 0.2.2-1-g369030e	10	obs_lsstSim	10.0-2-gc584ed1+91
+0.2.2-1-g369030e	11	base	10.0-5-g766159b
+0.2.2-1-g369030e	11	numpy	0.0.1+4
+0.2.2-1-g369030e	11	matplotlib	0.0.1+4
+0.2.2-1-g369030e	11	pyephem	3.7.5.1.lsst1
+0.2.2-1-g369030e	11	palpy	1.6+1
+0.2.2-1-g369030e	11	pex_config	10.0-3-g1bbe32c+14
+0.2.2-1-g369030e	11	sims_catalogs_generation	1.0.0-80-g68b78a5+2
+0.2.2-1-g369030e	11	sims_photUtils	bugfix.SIM-1088-calcm5-bug-when-multiplying-throughputs-gab7c6d889a
+0.2.2-1-g369030e	11	sims_coordUtils	1.0.0-61-g60e429c+9
+0.2.2-1-g369030e	11	sims_dustmaps	2014.09.23-1-g9b0d0a9
+0.2.2-1-g369030e	11	healpy	1.8.1+5
+0.2.2-1-g369030e	11	obs_lsstSim	10.0-2-gc584ed1+89

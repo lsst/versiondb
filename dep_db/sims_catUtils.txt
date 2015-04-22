@@ -6671,3 +6671,14 @@ master-ge02f8abeb4	32	python	0.0.2-1-g259ae70
 master-ge02f8abeb4	32	pymssql	2.0.0+4
 master-ge02f8abeb4	32	GalSim	1.2.lsst2+3
 master-ge02f8abeb4	32	obs_lsstSim	10.0-2-gc584ed1+91
+master-ge02f8abeb4	33	utils	10.0-4-g86f66b5+2
+master-ge02f8abeb4	33	sims_catalogs_measures	1.0.0-22-g29e7031+19
+master-ge02f8abeb4	33	sims_catalogs_generation	1.0.0-80-g68b78a5+2
+master-ge02f8abeb4	33	sims_coordUtils	1.0.0-61-g60e429c+9
+master-ge02f8abeb4	33	sims_photUtils	bugfix.SIM-1088-calcm5-bug-when-multiplying-throughputs-gab7c6d889a
+master-ge02f8abeb4	33	sims_data	master-gdac76d2d31
+master-ge02f8abeb4	33	palpy	1.6+1
+master-ge02f8abeb4	33	python	0.0.2-1-g259ae70
+master-ge02f8abeb4	33	pymssql	2.0.0+4
+master-ge02f8abeb4	33	GalSim	1.2.lsst2+3
+master-ge02f8abeb4	33	obs_lsstSim	10.0-2-gc584ed1+89
