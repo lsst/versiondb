@@ -1618,3 +1618,9 @@ tickets.DM-2550-g3675208ddd	0	obs_test	10.0-3-gfc6a288+6
 10.0	12	utils	10.0+4
 10.0	12	afw	10.0+5
 10.0	12	obs_test	10.0+36
+10.0-3-g5b46d21	3	daf_persistence	10.0+41
+10.0-3-g5b46d21	3	pex_logging	10.0-1-gdb4482e+14
+10.0-3-g5b46d21	3	pex_config	10.0-3-g1bbe32c+14
+10.0-3-g5b46d21	3	utils	10.0-4-g86f66b5+2
+10.0-3-g5b46d21	3	afw	10.0-41-gee3012e
+10.0-3-g5b46d21	3	obs_test	tickets.DM-2191-g0c56142f7a

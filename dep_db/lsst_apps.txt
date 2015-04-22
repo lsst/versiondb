@@ -3708,3 +3708,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0-2-gee8e208	23	obs_lsstSim	10.0-2-gc584ed1+89
 10.0-2-gee8e208	23	obs_sdss	10.0-7-gebcd384+87
 10.0-2-gee8e208	23	obs_test	10.0-3-gfc6a288+9
+10.0-2-gee8e208	24	lsst_libs	10.0+53
+10.0-2-gee8e208	24	meas_deblender	10.0-6-g88c55f7+1
+10.0-2-gee8e208	24	meas_modelfit	10.0-4-g01bdad5+33
+10.0-2-gee8e208	24	pipe_tasks	tickets.DM-2191-g12dc559285
+10.0-2-gee8e208	24	obs_lsstSim	10.0-2-gc584ed1+90
+10.0-2-gee8e208	24	obs_sdss	10.0-7-gebcd384+88
+10.0-2-gee8e208	24	obs_test	tickets.DM-2191-g0c56142f7a
