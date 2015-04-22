@@ -3687,3 +3687,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0-2-gee8e208	20	obs_lsstSim	10.0-2-gc584ed1+86
 10.0-2-gee8e208	20	obs_sdss	10.0-7-gebcd384+84
 10.0-2-gee8e208	20	obs_test	10.0-3-gfc6a288+9
+10.0-2-gee8e208	21	lsst_libs	10.0+53
+10.0-2-gee8e208	21	meas_deblender	10.0-5-g554edb6+3
+10.0-2-gee8e208	21	meas_modelfit	10.0-4-g01bdad5+30
+10.0-2-gee8e208	21	pipe_tasks	u.swinbank.DM-2191-g900b86dfde
+10.0-2-gee8e208	21	obs_lsstSim	10.0-2-gc584ed1+87
+10.0-2-gee8e208	21	obs_sdss	10.0-7-gebcd384+85
+10.0-2-gee8e208	21	obs_test	10.0-3-gfc6a288+9
