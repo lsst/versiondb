@@ -6550,3 +6550,15 @@ master-g69e699da69	0	obs_lsstSim	10.0-2-gc584ed1+13
 0.2.3-1-ga7f9025	0	sims_dustmaps	2014.09.23-1-g9b0d0a9
 0.2.3-1-ga7f9025	0	healpy	1.8.1+5
 0.2.3-1-ga7f9025	0	obs_lsstSim	10.0-2-gc584ed1+92
+0.2.3-1-ga7f9025	1	base	10.0-5-g766159b
+0.2.3-1-ga7f9025	1	numpy	0.0.1+4
+0.2.3-1-ga7f9025	1	matplotlib	0.0.1+4
+0.2.3-1-ga7f9025	1	pyephem	3.7.5.1.lsst1
+0.2.3-1-ga7f9025	1	palpy	1.6+1
+0.2.3-1-ga7f9025	1	pex_config	10.0-3-g1bbe32c+14
+0.2.3-1-ga7f9025	1	sims_catalogs_generation	1.0.0-80-g68b78a5+2
+0.2.3-1-ga7f9025	1	sims_photUtils	1.0.0-79-g4c590e5
+0.2.3-1-ga7f9025	1	sims_coordUtils	1.0.0-61-g60e429c+9
+0.2.3-1-ga7f9025	1	sims_dustmaps	2014.09.23-1-g9b0d0a9
+0.2.3-1-ga7f9025	1	healpy	1.8.1+5
+0.2.3-1-ga7f9025	1	obs_lsstSim	10.0-2-gc584ed1+95
