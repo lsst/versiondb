@@ -1572,3 +1572,13 @@ tickets.DM-2546-g7ba230a4b7	0	doxygen	1.8.5
 10.0	5	daf_persistence	10.0+42
 10.0	5	swig	3.0.2.lsst1
 10.0	5	doxygen	1.8.5
+10.0-6-g462a451	3	boost	1.55.0.1.lsst2+2
+10.0-6-g462a451	3	activemqcpp	3.5.0+15
+10.0-6-g462a451	3	utils	10.0-4-g86f66b5+2
+10.0-6-g462a451	3	base	10.0-5-g766159b
+10.0-6-g462a451	3	daf_base	10.0-4-g027f45f+5
+10.0-6-g462a451	3	pex_exceptions	10.0+13
+10.0-6-g462a451	3	log4cxx	0.10.0.lsst2-1-gaae52b5
+10.0-6-g462a451	3	log	1.1.2-1-gc4f2389
+10.0-6-g462a451	3	swig	3.0.2.lsst1
+10.0-6-g462a451	3	doxygen	1.8.5
