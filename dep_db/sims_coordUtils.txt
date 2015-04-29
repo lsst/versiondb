@@ -2770,3 +2770,11 @@ feature.SIM-90-use-palpy-gf40ba4460a	2	afw	10.0-39-g9cf08d8
 1.0.0-61-g60e429c	19	palpy	1.6+1
 1.0.0-61-g60e429c	19	pyfits	3.2.4.lsst1+2
 1.0.0-61-g60e429c	19	afw	tickets.DM-2599-g48f29f36ab
+1.0.0-61-g60e429c	20	sims_catalogs_measures	1.0.0-22-g29e7031+21
+1.0.0-61-g60e429c	20	utils	tickets.DM-2635-g7a646c581a
+1.0.0-61-g60e429c	20	base	10.0-5-g766159b
+1.0.0-61-g60e429c	20	python	0.0.2-1-g259ae70
+1.0.0-61-g60e429c	20	throughputs	master-ga98b3deed1
+1.0.0-61-g60e429c	20	palpy	1.6+1
+1.0.0-61-g60e429c	20	pyfits	3.2.4.lsst1+2
+1.0.0-61-g60e429c	20	afw	tickets.DM-2635-g7cbb2bb9eb

@@ -1684,3 +1684,9 @@ tickets.DM-2550-g3675208ddd	0	obs_test	10.0-3-gfc6a288+6
 10.0-3-g5b46d21	13	utils	10.0-4-g86f66b5+2
 10.0-3-g5b46d21	13	afw	tickets.DM-2599-g48f29f36ab
 10.0-3-g5b46d21	13	obs_test	10.0-3-gfc6a288+18
+10.0-3-g5b46d21	14	daf_persistence	10.0+44
+10.0-3-g5b46d21	14	pex_logging	10.0-2-g5228db0+1
+10.0-3-g5b46d21	14	pex_config	10.0-3-g1bbe32c+15
+10.0-3-g5b46d21	14	utils	tickets.DM-2635-g7a646c581a
+10.0-3-g5b46d21	14	afw	tickets.DM-2635-g7cbb2bb9eb
+10.0-3-g5b46d21	14	obs_test	10.0-3-gfc6a288+19
