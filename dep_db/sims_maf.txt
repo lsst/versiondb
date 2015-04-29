@@ -6766,3 +6766,15 @@ master-g69e699da69	0	obs_lsstSim	10.0-2-gc584ed1+13
 0.2.3-1-g99f43e3	10	sims_dustmaps	2014.09.23-1-g9b0d0a9
 0.2.3-1-g99f43e3	10	healpy	1.8.1+5
 0.2.3-1-g99f43e3	10	obs_lsstSim	10.0-3-g2f4471b+6
+0.2.3-1-g99f43e3	11	base	10.0-5-g766159b
+0.2.3-1-g99f43e3	11	numpy	0.0.1+4
+0.2.3-1-g99f43e3	11	matplotlib	0.0.1+4
+0.2.3-1-g99f43e3	11	pyephem	3.7.5.1.lsst1
+0.2.3-1-g99f43e3	11	palpy	1.6+1
+0.2.3-1-g99f43e3	11	pex_config	10.0-3-g1bbe32c+16
+0.2.3-1-g99f43e3	11	sims_catalogs_generation	1.0.0-80-g68b78a5+5
+0.2.3-1-g99f43e3	11	sims_photUtils	1.0.0-79-g4c590e5+16
+0.2.3-1-g99f43e3	11	sims_coordUtils	feature.SIM-1102-speed-up-findchipname-gdbe0ce4743
+0.2.3-1-g99f43e3	11	sims_dustmaps	2014.09.23-1-g9b0d0a9
+0.2.3-1-g99f43e3	11	healpy	1.8.1+5
+0.2.3-1-g99f43e3	11	obs_lsstSim	10.0-3-g2f4471b+6
