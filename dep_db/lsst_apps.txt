@@ -3855,3 +3855,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.0-2-gee8e208	44	obs_lsstSim	10.0-3-g2f4471b+5
 10.0-2-gee8e208	44	obs_sdss	10.0-7-gebcd384+108
 10.0-2-gee8e208	44	obs_test	10.0-3-gfc6a288+23
+10.0-2-gee8e208	45	lsst_libs	10.0+57
+10.0-2-gee8e208	45	meas_deblender	10.0-6-g88c55f7+18
+10.0-2-gee8e208	45	meas_modelfit	10.0-4-g01bdad5+54
+10.0-2-gee8e208	45	pipe_tasks	10.0-13-g080cf7c+6
+10.0-2-gee8e208	45	obs_lsstSim	10.0-3-g2f4471b+6
+10.0-2-gee8e208	45	obs_sdss	10.0-7-gebcd384+109
+10.0-2-gee8e208	45	obs_test	10.0-3-gfc6a288+24
