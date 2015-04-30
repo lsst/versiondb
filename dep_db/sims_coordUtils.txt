@@ -2826,3 +2826,11 @@ feature.SIM-1102-speed-up-findchipname-gdbe0ce4743	0	throughputs	master-ga98b3de
 feature.SIM-1102-speed-up-findchipname-gdbe0ce4743	0	palpy	1.6+1
 feature.SIM-1102-speed-up-findchipname-gdbe0ce4743	0	pyfits	3.2.4.lsst1+2
 feature.SIM-1102-speed-up-findchipname-gdbe0ce4743	0	afw	10.0-46-gf18c623
+1.0.0-61-g60e429c	26	sims_catalogs_measures	1.0.0-22-g29e7031+23
+1.0.0-61-g60e429c	26	utils	10.0-5-g82883c7+1
+1.0.0-61-g60e429c	26	base	tickets.DM-2435-ga445737c1f
+1.0.0-61-g60e429c	26	python	0.0.2-1-g259ae70
+1.0.0-61-g60e429c	26	throughputs	master-ga98b3deed1
+1.0.0-61-g60e429c	26	palpy	1.6+1
+1.0.0-61-g60e429c	26	pyfits	3.2.4.lsst1+2
+1.0.0-61-g60e429c	26	afw	tickets.DM-2435-g6891c1fae6
