@@ -6814,3 +6814,15 @@ master-g69e699da69	0	obs_lsstSim	10.0-2-gc584ed1+13
 0.2.3-2-g1ec231a	1	sims_dustmaps	2014.09.23-1-g9b0d0a9
 0.2.3-2-g1ec231a	1	healpy	1.8.1+5
 0.2.3-2-g1ec231a	1	obs_lsstSim	10.0-3-g2f4471b+8
+0.2.3-2-g1ec231a	2	base	10.0-6-g8080078
+0.2.3-2-g1ec231a	2	numpy	0.0.1+4
+0.2.3-2-g1ec231a	2	matplotlib	0.0.1+4
+0.2.3-2-g1ec231a	2	pyephem	3.7.5.1.lsst1
+0.2.3-2-g1ec231a	2	palpy	1.6+1
+0.2.3-2-g1ec231a	2	pex_config	10.0-3-g1bbe32c+18
+0.2.3-2-g1ec231a	2	sims_catalogs_generation	1.0.0-80-g68b78a5+7
+0.2.3-2-g1ec231a	2	sims_photUtils	feature.SIM-125-galsim-noise-g119a5fe928
+0.2.3-2-g1ec231a	2	sims_coordUtils	1.0.0-61-g60e429c+27
+0.2.3-2-g1ec231a	2	sims_dustmaps	2014.09.23-1-g9b0d0a9
+0.2.3-2-g1ec231a	2	healpy	1.8.1+5
+0.2.3-2-g1ec231a	2	obs_lsstSim	10.0-3-g2f4471b+8
