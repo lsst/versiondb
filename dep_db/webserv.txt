@@ -1588,3 +1588,9 @@ master-g284ca1f586	99	mysqlpython	1.2.3+14
 0.1.0-1-g284ca1f	130	imgserv	master-g59a20ea21e+63
 0.1.0-1-g284ca1f	130	metaserv	0.1.0-8-g5742a16+15
 0.1.0-1-g284ca1f	130	mysqlpython	1.2.3+15
+0.2.0	0	db	1.0.6
+0.2.0	0	flask	0.10.1+7
+0.2.0	0	dbserv	0.2.0
+0.2.0	0	imgserv	0.2.0
+0.2.0	0	metaserv	0.2.0
+0.2.0	0	mysqlpython	1.2.3+15
