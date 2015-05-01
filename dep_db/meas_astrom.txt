@@ -4111,3 +4111,12 @@ tickets.DM-2188-ged649ff66f	0	matplotlib	0.0.1+4
 10.0-12-g4904429	18	astrometry_net	0.50.1+5
 10.0-12-g4904429	18	numpy	0.0.1+4
 10.0-12-g4904429	18	matplotlib	0.0.1+4
+tickets.DM-2511-g355a06067b	0	afw	10.0-47-g8c09fcc
+tickets.DM-2511-g355a06067b	0	meas_algorithms	tickets.DM-2511-gcea39d1e21
+tickets.DM-2511-g355a06067b	0	pex_logging	10.0-2-g5228db0+4
+tickets.DM-2511-g355a06067b	0	pex_config	10.0-3-g1bbe32c+18
+tickets.DM-2511-g355a06067b	0	pipe_base	10.0-3-g5b46d21+21
+tickets.DM-2511-g355a06067b	0	wcslib	4.14+7
+tickets.DM-2511-g355a06067b	0	astrometry_net	0.50.1+5
+tickets.DM-2511-g355a06067b	0	numpy	0.0.1+4
+tickets.DM-2511-g355a06067b	0	matplotlib	0.0.1+4
