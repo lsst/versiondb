@@ -4705,3 +4705,12 @@ tickets.DM-1299-g81d084fd70	0	mysqlpython	1.2.3+15
 10.0-3-g2f4471b	9	ip_isr	10.0-3-g14174d3+9
 10.0-3-g2f4471b	9	pipe_tasks	10.0-13-g080cf7c+9
 10.0-3-g2f4471b	9	mysqlpython	1.2.3+15
+10.0-3-g2f4471b	10	daf_base	10.0-4-g027f45f+9
+10.0-3-g2f4471b	10	pex_policy	10.0-1-g0f53050+18
+10.0-3-g2f4471b	10	afw	10.0-47-g8c09fcc
+10.0-3-g2f4471b	10	daf_persistence	10.0+47
+10.0-3-g2f4471b	10	daf_butlerUtils	10.0+154
+10.0-3-g2f4471b	10	meas_algorithms	10.0-18-gd91c143+18
+10.0-3-g2f4471b	10	ip_isr	tickets.DM-1151-g4e182ec802
+10.0-3-g2f4471b	10	pipe_tasks	10.0-13-g080cf7c+10
+10.0-3-g2f4471b	10	mysqlpython	1.2.3+15
