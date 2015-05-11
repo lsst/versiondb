@@ -3895,3 +3895,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	255	pipe_base	10.0-3-g5b46d21+23
 10.0	255	meas_algorithms	10.0-18-gd91c143+20
 10.0	255	doxygen	1.8.5
+10.0	256	boost	1.55.0.1.lsst2+2
+10.0	256	numpy	0.0.1+4
+10.0	256	mysqlclient	5.1.73.lsst1
+10.0	256	afw	10.0-48-gce19365+1
+10.0	256	geom	10.0+8
+10.0	256	skypix	10.0+156
+10.0	256	pipe_base	10.0-3-g5b46d21+24
+10.0	256	meas_algorithms	10.0-18-gd91c143+21
+10.0	256	doxygen	1.8.5
