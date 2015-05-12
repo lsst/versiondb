@@ -7166,3 +7166,14 @@ master-g50aac4e5b8	13	obs_lsstSim	10.0-3-g2f4471b+17
 10.1	0	pymssql	2.0.0+4
 10.1	0	GalSim	1.2.lsst2+3
 10.1	0	obs_lsstSim	10.1
+10.1-1-g50aac4e	0	utils	10.1-1-g82883c7
+10.1-1-g50aac4e	0	sims_catalogs_measures	10.1+1
+10.1-1-g50aac4e	0	sims_catalogs_generation	10.1+1
+10.1-1-g50aac4e	0	sims_coordUtils	10.1-1-ged94f81
+10.1-1-g50aac4e	0	sims_photUtils	1.0.0-81-g0c80041+6
+10.1-1-g50aac4e	0	sims_data	10.1
+10.1-1-g50aac4e	0	palpy	1.6+1
+10.1-1-g50aac4e	0	python	0.0.2-1-g259ae70
+10.1-1-g50aac4e	0	pymssql	2.0.0+4
+10.1-1-g50aac4e	0	GalSim	1.2.lsst2+3
+10.1-1-g50aac4e	0	obs_lsstSim	10.1-1-g2f4471b

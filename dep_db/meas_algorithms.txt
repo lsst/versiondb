@@ -1720,3 +1720,7 @@ tickets.DM-2511-gca81d9512d	0	meas_base	10.0-29-g04250b3+19
 10.1	0	pex_logging	10.1
 10.1	0	pipe_base	10.1
 10.1	0	meas_base	10.1
+10.1-3-gd91c143	0	afw	10.1-8-gce19365
+10.1-3-gd91c143	0	pex_logging	10.1-1-g5228db0
+10.1-3-gd91c143	0	pipe_base	10.1+1
+10.1-3-gd91c143	0	meas_base	10.1-1-g04250b3

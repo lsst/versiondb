@@ -1888,3 +1888,10 @@ master-gc54cf9771d	0	pyfits	master-g08519beb22
 10.1	0	afw	10.1
 10.1	0	skypix	10.1
 10.1	0	pyfits	3.2.4.lsst1+2
+10.0	159	daf_base	10.1+1
+10.0	159	pex_logging	10.1-1-g5228db0
+10.0	159	pex_policy	10.1-1-g3cba4e3
+10.0	159	daf_persistence	10.1-1-g6edbc00
+10.0	159	afw	10.1-8-gce19365
+10.0	159	skypix	10.0+158
+10.0	159	pyfits	3.2.4.lsst1+2
