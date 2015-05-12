@@ -3999,3 +3999,12 @@ feature.SIM-966-create-alternate-magnorm-method-g8f42a099ce	0	pyfits	3.2.4.lsst1
 1.0.0-81-g0c80041	4	python	0.0.2-1-g259ae70
 1.0.0-81-g0c80041	4	throughputs	master-ga98b3deed1
 1.0.0-81-g0c80041	4	pyfits	3.2.4.lsst1+2
+1.0.0-81-g0c80041	5	utils	10.1
+1.0.0-81-g0c80041	5	sims_catalogs_measures	10.1
+1.0.0-81-g0c80041	5	sims_catalogs_generation	10.1
+1.0.0-81-g0c80041	5	sims_sed_library	2014.10.06
+1.0.0-81-g0c80041	5	sims_dustmaps	10.1
+1.0.0-81-g0c80041	5	sims_coordUtils	10.1
+1.0.0-81-g0c80041	5	python	0.0.2-1-g259ae70
+1.0.0-81-g0c80041	5	throughputs	master-ga98b3deed1
+1.0.0-81-g0c80041	5	pyfits	3.2.4.lsst1+2

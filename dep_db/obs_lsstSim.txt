@@ -4777,3 +4777,12 @@ tickets.DM-1299-g81d084fd70	0	mysqlpython	1.2.3+15
 10.0-3-g2f4471b	17	ip_isr	10.0-4-g19f7783+4
 10.0-3-g2f4471b	17	pipe_tasks	u.lauren.DM-2737-g1df8e6f3e9
 10.0-3-g2f4471b	17	mysqlpython	1.2.3+15
+10.1	0	daf_base	10.1
+10.1	0	pex_policy	10.1
+10.1	0	afw	10.1
+10.1	0	daf_persistence	10.1
+10.1	0	daf_butlerUtils	10.1
+10.1	0	meas_algorithms	10.1
+10.1	0	ip_isr	10.1
+10.1	0	pipe_tasks	10.1
+10.1	0	mysqlpython	1.2.3+15
