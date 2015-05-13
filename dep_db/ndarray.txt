@@ -355,3 +355,10 @@ master-g7408a83a3a	6	fftw	3.3.3
 10.1	1	base	10.1-1-g8080078
 10.1	1	swig	3.0.2.lsst1
 10.1	1	fftw	3.3.3
+10.1	2	boost	1.55.0.1.lsst2+3
+10.1	2	python	0.0.3
+10.1	2	numpy	0.0.1+5
+10.1	2	eigen	3.2.0
+10.1	2	base	10.1+1
+10.1	2	swig	3.0.2.lsst1
+10.1	2	fftw	3.3.3

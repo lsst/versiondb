@@ -4813,3 +4813,12 @@ tickets.DM-1299-g81d084fd70	0	mysqlpython	1.2.3+15
 10.1-1-g2f4471b	2	ip_isr	10.1-2-g19f7783+2
 10.1-1-g2f4471b	2	pipe_tasks	10.1-1-g080cf7c+2
 10.1-1-g2f4471b	2	mysqlpython	1.2.3+15
+10.1	1	daf_base	10.1+2
+10.1	1	pex_policy	10.1+1
+10.1	1	afw	10.1+1
+10.1	1	daf_persistence	10.1+1
+10.1	1	daf_butlerUtils	10.1+1
+10.1	1	meas_algorithms	10.1+1
+10.1	1	ip_isr	10.1+1
+10.1	1	pipe_tasks	10.1+1
+10.1	1	mysqlpython	1.2.3+16

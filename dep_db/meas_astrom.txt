@@ -4201,3 +4201,12 @@ tickets.DM-2511-g763c488648	0	matplotlib	0.0.1+4
 10.1-1-g4904429	2	astrometry_net	0.50.1+5
 10.1-1-g4904429	2	numpy	0.0.1+4
 10.1-1-g4904429	2	matplotlib	0.0.1+4
+10.1	1	afw	10.1+1
+10.1	1	meas_algorithms	10.1+1
+10.1	1	pex_logging	10.1+1
+10.1	1	pex_config	10.1+2
+10.1	1	pipe_base	10.1+4
+10.1	1	wcslib	4.14+7
+10.1	1	astrometry_net	0.50.1+6
+10.1	1	numpy	0.0.1+5
+10.1	1	matplotlib	0.0.1+5
