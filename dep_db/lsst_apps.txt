@@ -3953,3 +3953,10 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.1	1	obs_lsstSim	10.1-1-g2f4471b
 10.1	1	obs_sdss	10.1+1
 10.1	1	obs_test	10.1+1
+10.1	2	lsst_libs	10.0+63
+10.1	2	meas_deblender	10.1-2-g88c55f7+1
+10.1	2	meas_modelfit	10.1+2
+10.1	2	pipe_tasks	10.1-1-g080cf7c+1
+10.1	2	obs_lsstSim	10.1-1-g2f4471b+1
+10.1	2	obs_sdss	10.1+2
+10.1	2	obs_test	10.1+2

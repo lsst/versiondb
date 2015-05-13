@@ -1768,3 +1768,9 @@ tickets.DM-2550-g3675208ddd	0	obs_test	10.0-3-gfc6a288+6
 10.1	1	utils	10.1-1-g82883c7
 10.1	1	afw	10.1-8-gce19365
 10.1	1	obs_test	10.1+1
+10.1	2	daf_persistence	10.1-1-g6edbc00
+10.1	2	pex_logging	10.1-1-g5228db0
+10.1	2	pex_config	10.1+1
+10.1	2	utils	10.1-1-g82883c7
+10.1	2	afw	u.swinbank.footprint-perf-g7d19f7f047
+10.1	2	obs_test	10.1+2

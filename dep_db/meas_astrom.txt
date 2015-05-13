@@ -4183,3 +4183,12 @@ tickets.DM-2511-g763c488648	0	matplotlib	0.0.1+4
 10.1-1-g4904429	0	astrometry_net	0.50.1+5
 10.1-1-g4904429	0	numpy	0.0.1+4
 10.1-1-g4904429	0	matplotlib	0.0.1+4
+10.1-1-g4904429	1	afw	u.swinbank.footprint-perf-g7d19f7f047
+10.1-1-g4904429	1	meas_algorithms	10.1-3-gd91c143+1
+10.1-1-g4904429	1	pex_logging	10.1-1-g5228db0
+10.1-1-g4904429	1	pex_config	10.1+1
+10.1-1-g4904429	1	pipe_base	10.1+2
+10.1-1-g4904429	1	wcslib	4.14+7
+10.1-1-g4904429	1	astrometry_net	0.50.1+5
+10.1-1-g4904429	1	numpy	0.0.1+4
+10.1-1-g4904429	1	matplotlib	0.0.1+4

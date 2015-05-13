@@ -3983,3 +3983,10 @@ tickets.DM-1576-g4aab34585a	4	pipe_tasks	tickets.DM-1576-gcad3bddc91
 10.1	1	meas_astrom	10.1-1-g4904429
 10.1	1	mysqlpython	1.2.3+15
 10.1	1	pipe_tasks	10.1-1-g080cf7c
+10.1	2	pex_policy	10.1-1-g3cba4e3
+10.1	2	daf_butlerUtils	10.0+160
+10.1	2	afw	u.swinbank.footprint-perf-g7d19f7f047
+10.1	2	meas_algorithms	10.1-3-gd91c143+1
+10.1	2	meas_astrom	10.1-1-g4904429+1
+10.1	2	mysqlpython	1.2.3+15
+10.1	2	pipe_tasks	10.1-1-g080cf7c+1

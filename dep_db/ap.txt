@@ -3931,3 +3931,12 @@ master-g60f1e072bb	1	doxygen	1.8.5
 10.0	258	pipe_base	10.1+1
 10.0	258	meas_algorithms	10.1-3-gd91c143
 10.0	258	doxygen	1.8.5
+10.0	259	boost	1.55.0.1.lsst2+2
+10.0	259	numpy	0.0.1+4
+10.0	259	mysqlclient	5.1.73.lsst1
+10.0	259	afw	u.swinbank.footprint-perf-g7d19f7f047
+10.0	259	geom	10.0+10
+10.0	259	skypix	10.0+159
+10.0	259	pipe_base	10.1+2
+10.0	259	meas_algorithms	10.1-3-gd91c143+1
+10.0	259	doxygen	1.8.5
