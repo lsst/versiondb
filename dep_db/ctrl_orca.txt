@@ -1692,3 +1692,9 @@ master-gb03937bc9e	34	ctrl_provenance	10.0+53
 10.1	1	daf_persistence	10.1-1-g6edbc00
 10.1	1	ctrl_events	10.1+1
 10.1	1	ctrl_provenance	10.0+89
+10.1	2	cat	10.1+2
+10.1	2	utils	10.1-1-g82883c7
+10.1	2	pex_policy	10.1-1-g3cba4e3
+10.1	2	daf_persistence	10.1-1-g6edbc00
+10.1	2	ctrl_events	10.1+2
+10.1	2	ctrl_provenance	10.0+90

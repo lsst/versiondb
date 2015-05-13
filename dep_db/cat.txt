@@ -1455,3 +1455,14 @@ master-g18f8571762	14	pex_exceptions	10.0+9
 10.1	1	daf_persistence	10.1-1-g6edbc00
 10.1	1	utils	10.1-1-g82883c7
 10.1	1	pex_exceptions	10.0+17
+10.1	2	python	0.0.2-1-g259ae70
+10.1	2	mysqlclient	5.1.73.lsst1
+10.1	2	mysqlpython	1.2.3+15
+10.1	2	db	10.1+2
+10.1	2	log	1.1.2-1-gc4f2389+9
+10.1	2	boost	1.55.0.1.lsst2+2
+10.1	2	pex_policy	10.1-1-g3cba4e3
+10.1	2	daf_base	10.1+1
+10.1	2	daf_persistence	10.1-1-g6edbc00
+10.1	2	utils	10.1-1-g82883c7
+10.1	2	pex_exceptions	10.0+17
