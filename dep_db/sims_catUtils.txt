@@ -7353,3 +7353,14 @@ master-g50aac4e5b8	13	obs_lsstSim	10.0-3-g2f4471b+17
 10.1-1-g50aac4e	15	pymssql	2.0.0+5
 10.1-1-g50aac4e	15	GalSim	1.2.lsst2+4
 10.1-1-g50aac4e	15	obs_lsstSim	10.1-1-g2f4471b+13
+10.1-1-g50aac4e	16	utils	10.1-1-g82883c7+1
+10.1-1-g50aac4e	16	sims_catalogs_measures	10.1+3
+10.1-1-g50aac4e	16	sims_catalogs_generation	10.1+3
+10.1-1-g50aac4e	16	sims_coordUtils	10.1-1-ged94f81+6
+10.1-1-g50aac4e	16	sims_photUtils	feature.SIM-1034-Change-naming-gc32f65b8a3+1
+10.1-1-g50aac4e	16	sims_data	10.1
+10.1-1-g50aac4e	16	palpy	1.6+2
+10.1-1-g50aac4e	16	python	0.0.3
+10.1-1-g50aac4e	16	pymssql	2.0.0+5
+10.1-1-g50aac4e	16	GalSim	1.2.lsst2+4
+10.1-1-g50aac4e	16	obs_lsstSim	10.1-1-g2f4471b+12
