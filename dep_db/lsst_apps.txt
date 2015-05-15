@@ -4067,3 +4067,11 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.1-1-g6629608	1	obs_sdss	10.1+16
 10.1-1-g6629608	1	obs_test	10.1+8
 10.1-1-g6629608	1	display_ds9	master-g7711006fd9
+10.1-1-g6629608	2	lsst_libs	10.0+64
+10.1-1-g6629608	2	meas_deblender	10.1-2-g88c55f7+6
+10.1-1-g6629608	2	meas_modelfit	10.1+17
+10.1-1-g6629608	2	pipe_tasks	10.1-2-g3ba3d8c+5
+10.1-1-g6629608	2	obs_lsstSim	10.1-1-g2f4471b+15
+10.1-1-g6629608	2	obs_sdss	10.1+17
+10.1-1-g6629608	2	obs_test	10.1+8
+10.1-1-g6629608	2	display_ds9	master-g7711006fd9
