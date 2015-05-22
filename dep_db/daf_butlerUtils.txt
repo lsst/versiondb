@@ -1958,3 +1958,11 @@ w.2015.22	0	pyfits	3.2.4.lsst1+3
 10.0	166	afw	u.lauren.DM-2778-g1c2eed8280
 10.0	166	skypix	10.0+165
 10.0	166	pyfits	3.2.4.lsst1+3
+tickets.DM-2636-g1ed87bc6ad	0	daf_base	10.1+3
+tickets.DM-2636-g1ed87bc6ad	0	pex_logging	10.1-1-g5228db0+1
+tickets.DM-2636-g1ed87bc6ad	0	pex_policy	10.1-1-g3cba4e3+1
+tickets.DM-2636-g1ed87bc6ad	0	daf_persistence	10.1-1-g6edbc00+1
+tickets.DM-2636-g1ed87bc6ad	0	afw	tickets.DM-2636-g6af83d9a22
+tickets.DM-2636-g1ed87bc6ad	0	skypix	10.0+166
+tickets.DM-2636-g1ed87bc6ad	0	pyfits	3.2.4.lsst1+3
+tickets.DM-2636-g1ed87bc6ad	0	utils	10.1-1-g82883c7+1

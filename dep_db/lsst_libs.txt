@@ -506,3 +506,7 @@ w.2015.22	0	lsst_thirdparty	w.2015.22
 w.2015.22	0	daf_persistence	w.2015.22
 w.2015.22	0	pex_config	w.2015.22
 w.2015.22	0	ndarray	w.2015.22
+10.0	65	lsst_thirdparty	10.1+1
+10.0	65	daf_persistence	10.1-1-g6edbc00+1
+10.0	65	pex_config	tickets.DM-2636-g64dd4a304c
+10.0	65	ndarray	10.1+3
