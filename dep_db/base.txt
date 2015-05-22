@@ -206,3 +206,7 @@ tickets.DM-2435-ga445737c1f	0	doxygen	1.8.5
 10.1-1-g8080078	1	sconsUtils	10.1+1
 10.1-1-g8080078	1	swig	3.0.2.lsst1
 10.1-1-g8080078	1	doxygen	1.8.5
+w.2015.22	0	boost	1.55.0.1.lsst2+3
+w.2015.22	0	sconsUtils	w.2015.22
+w.2015.22	0	swig	3.0.2.lsst1
+w.2015.22	0	doxygen	1.8.5

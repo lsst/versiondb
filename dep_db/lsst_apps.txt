@@ -4107,3 +4107,11 @@ master-g63be2d204b	61	obs_test	master-g937d36d91b
 10.1-1-g6629608	6	obs_sdss	10.1+21
 10.1-1-g6629608	6	obs_test	10.1+8
 10.1-1-g6629608	6	display_ds9	master-g7711006fd9
+w.2015.22	0	lsst_libs	w.2015.22
+w.2015.22	0	meas_deblender	w.2015.22
+w.2015.22	0	meas_modelfit	w.2015.22
+w.2015.22	0	pipe_tasks	w.2015.22
+w.2015.22	0	obs_lsstSim	w.2015.22
+w.2015.22	0	obs_sdss	w.2015.22
+w.2015.22	0	obs_test	w.2015.22
+w.2015.22	0	display_ds9	w.2015.22

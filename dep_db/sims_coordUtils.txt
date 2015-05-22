@@ -2962,3 +2962,11 @@ feature.SIM-1102-speed-up-findchipname-gdbe0ce4743	0	afw	10.0-46-gf18c623
 10.1-1-ged94f81	6	palpy	1.6+2
 10.1-1-ged94f81	6	pyfits	3.2.4.lsst1+3
 10.1-1-ged94f81	6	afw	10.1-10-gf6a3296
+10.1-1-ged94f81	7	sims_catalogs_measures	10.1+4
+10.1-1-ged94f81	7	utils	w.2015.22
+10.1-1-ged94f81	7	base	w.2015.22
+10.1-1-ged94f81	7	python	0.0.3
+10.1-1-ged94f81	7	throughputs	master-ga98b3deed1
+10.1-1-ged94f81	7	palpy	1.6+2
+10.1-1-ged94f81	7	pyfits	3.2.4.lsst1+3
+10.1-1-ged94f81	7	afw	w.2015.22
