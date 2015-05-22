@@ -4123,3 +4123,11 @@ w.2015.22	0	display_ds9	w.2015.22
 10.1-1-g6629608	7	obs_sdss	tickets.DM-1578-g3679a7e159
 10.1-1-g6629608	7	obs_test	10.1+8
 10.1-1-g6629608	7	display_ds9	master-g7711006fd9
+10.1-1-g6629608	8	lsst_libs	10.0+64
+10.1-1-g6629608	8	meas_deblender	10.1-2-g88c55f7+7
+10.1-1-g6629608	8	meas_modelfit	10.1+23
+10.1-1-g6629608	8	pipe_tasks	10.1-2-g3ba3d8c+10
+10.1-1-g6629608	8	obs_lsstSim	10.1-1-g2f4471b+21
+10.1-1-g6629608	8	obs_sdss	10.1+22
+10.1-1-g6629608	8	obs_test	10.1+9
+10.1-1-g6629608	8	display_ds9	master-g7711006fd9+1
