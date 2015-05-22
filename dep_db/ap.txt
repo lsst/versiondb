@@ -4021,3 +4021,12 @@ w.2015.22	0	doxygen	1.8.5
 10.0	266	pipe_base	tickets.DM-2636-g2b4cdc09f3
 10.0	266	meas_algorithms	tickets.DM-2636-gc534666a55
 10.0	266	doxygen	1.8.5
+10.0	267	boost	1.55.0.1.lsst2+3
+10.0	267	numpy	0.0.1+5
+10.0	267	mysqlclient	5.1.73.lsst1
+10.0	267	afw	tickets.DM-2636-g5cdd408203
+10.0	267	geom	10.0+11
+10.0	267	skypix	10.0+167
+10.0	267	pipe_base	tickets.DM-2636-g2b4cdc09f3+1
+10.0	267	meas_algorithms	tickets.DM-2636-gc534666a55+1
+10.0	267	doxygen	1.8.5

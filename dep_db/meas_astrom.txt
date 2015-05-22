@@ -4382,3 +4382,13 @@ tickets.DM-2636-gfb1ced3566	0	wcslib	4.14+7
 tickets.DM-2636-gfb1ced3566	0	astrometry_net	0.50.1+6
 tickets.DM-2636-gfb1ced3566	0	numpy	0.0.1+5
 tickets.DM-2636-gfb1ced3566	0	matplotlib	0.0.1+5
+tickets.DM-2636-gfb1ced3566	1	afw	tickets.DM-2636-g5cdd408203
+tickets.DM-2636-gfb1ced3566	1	meas_algorithms	tickets.DM-2636-gc534666a55+1
+tickets.DM-2636-gfb1ced3566	1	pex_logging	10.1-1-g5228db0+1
+tickets.DM-2636-gfb1ced3566	1	pex_config	tickets.DM-2636-g64dd4a304c
+tickets.DM-2636-gfb1ced3566	1	pipe_base	tickets.DM-2636-g2b4cdc09f3+1
+tickets.DM-2636-gfb1ced3566	1	utils	10.1-1-g82883c7+1
+tickets.DM-2636-gfb1ced3566	1	wcslib	4.14+7
+tickets.DM-2636-gfb1ced3566	1	astrometry_net	0.50.1+6
+tickets.DM-2636-gfb1ced3566	1	numpy	0.0.1+5
+tickets.DM-2636-gfb1ced3566	1	matplotlib	0.0.1+5
