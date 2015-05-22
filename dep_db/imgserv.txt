@@ -3159,3 +3159,13 @@ w.2015.22	0	flask	0.10.1+8
 w.2015.22	0	obs_sdss	w.2015.22
 w.2015.22	0	mysqlpython	1.2.3+16
 w.2015.22	0	sconsUtils	w.2015.22
+0.2.0	32	afw	10.1-10-gf6a3296
+0.2.0	32	base	10.1-1-g8080078+1
+0.2.0	32	boost	1.55.0.1.lsst2+3
+0.2.0	32	cat	10.1+4
+0.2.0	32	daf_base	10.1+3
+0.2.0	32	db	10.1+4
+0.2.0	32	flask	0.10.1+8
+0.2.0	32	obs_sdss	tickets.DM-1578-g3679a7e159
+0.2.0	32	mysqlpython	1.2.3+16
+0.2.0	32	sconsUtils	10.1+1
