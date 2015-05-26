@@ -4207,3 +4207,11 @@ tickets.DM-2789-g2129fffe6c	0	pipe_tasks	10.1-2-g3ba3d8c+13
 10.1	30	meas_astrom	10.1-10-g89e7312+6
 10.1	30	mysqlpython	1.2.3+16
 10.1	30	pipe_tasks	10.1-2-g3ba3d8c+14
+tickets.DM-2636-g7200c0c7a6	0	pex_policy	tickets.DM-2636-ga03a626ca1
+tickets.DM-2636-g7200c0c7a6	0	daf_butlerUtils	tickets.DM-2636-g2d18dc896f
+tickets.DM-2636-g7200c0c7a6	0	afw	tickets.DM-2636-ga182c7a0e6
+tickets.DM-2636-g7200c0c7a6	0	meas_algorithms	tickets.DM-2636-g21af0bb557
+tickets.DM-2636-g7200c0c7a6	0	meas_astrom	tickets.DM-2636-g409e07b34f
+tickets.DM-2636-g7200c0c7a6	0	mysqlpython	1.2.3+16
+tickets.DM-2636-g7200c0c7a6	0	pipe_tasks	tickets.DM-2636-gc04ce29dcb+2
+tickets.DM-2636-g7200c0c7a6	0	utils	tickets.DM-2636-g9aa8276e3f

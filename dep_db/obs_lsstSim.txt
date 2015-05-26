@@ -5083,3 +5083,13 @@ tickets.DM-2789-ga6d74c1c6a	0	mysqlpython	1.2.3+16
 10.1-1-g2f4471b	29	ip_isr	10.1-2-g19f7783+14
 10.1-1-g2f4471b	29	pipe_tasks	10.1-2-g3ba3d8c+14
 10.1-1-g2f4471b	29	mysqlpython	1.2.3+16
+tickets.DM-2636-ga73c008750	0	daf_base	10.1+4
+tickets.DM-2636-ga73c008750	0	pex_policy	tickets.DM-2636-ga03a626ca1
+tickets.DM-2636-ga73c008750	0	afw	tickets.DM-2636-ga182c7a0e6
+tickets.DM-2636-ga73c008750	0	daf_persistence	10.1-1-g6edbc00+2
+tickets.DM-2636-ga73c008750	0	daf_butlerUtils	tickets.DM-2636-g2d18dc896f
+tickets.DM-2636-ga73c008750	0	meas_algorithms	tickets.DM-2636-g21af0bb557
+tickets.DM-2636-ga73c008750	0	ip_isr	10.1-2-g19f7783+15
+tickets.DM-2636-ga73c008750	0	pipe_tasks	tickets.DM-2636-gc04ce29dcb+2
+tickets.DM-2636-ga73c008750	0	mysqlpython	1.2.3+16
+tickets.DM-2636-ga73c008750	0	utils	tickets.DM-2636-g9aa8276e3f

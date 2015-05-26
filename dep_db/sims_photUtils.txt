@@ -4179,3 +4179,12 @@ feature.SIM-1034-change-naming-of-matching-methods-g7dbd65262b	0	pyfits	3.2.4.ls
 1.0.0-81-g0c80041	18	python	0.0.3
 1.0.0-81-g0c80041	18	throughputs	master-ga98b3deed1
 1.0.0-81-g0c80041	18	pyfits	3.2.4.lsst1+3
+1.0.0-81-g0c80041	19	utils	tickets.DM-2636-g9aa8276e3f
+1.0.0-81-g0c80041	19	sims_catalogs_measures	10.1+5
+1.0.0-81-g0c80041	19	sims_catalogs_generation	10.1+5
+1.0.0-81-g0c80041	19	sims_sed_library	2014.10.06
+1.0.0-81-g0c80041	19	sims_dustmaps	10.1
+1.0.0-81-g0c80041	19	sims_coordUtils	10.1-1-ged94f81+12
+1.0.0-81-g0c80041	19	python	0.0.3
+1.0.0-81-g0c80041	19	throughputs	master-ga98b3deed1
+1.0.0-81-g0c80041	19	pyfits	3.2.4.lsst1+3

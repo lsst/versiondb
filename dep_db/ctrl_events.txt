@@ -1702,3 +1702,13 @@ w.2015.22	0	log4cxx	0.10.0.lsst3
 w.2015.22	0	log	w.2015.22
 w.2015.22	0	swig	3.0.2.lsst1
 w.2015.22	0	doxygen	1.8.5
+10.1	5	boost	1.55.0.1.lsst2+3
+10.1	5	activemqcpp	10.1
+10.1	5	utils	tickets.DM-2636-g9aa8276e3f
+10.1	5	base	10.1-1-g8080078+1
+10.1	5	daf_base	10.1+4
+10.1	5	pex_exceptions	10.0+18
+10.1	5	log4cxx	0.10.0.lsst3
+10.1	5	log	1.1.2-1-gc4f2389+12
+10.1	5	swig	3.0.2.lsst1
+10.1	5	doxygen	1.8.5

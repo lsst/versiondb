@@ -295,3 +295,6 @@ tickets.DM-2701-g615041f999	0	pex_policy	10.0-2-g3cba4e3
 w.2015.22	0	mysqlclient	5.1.73.lsst1
 w.2015.22	0	pex_logging	w.2015.22
 w.2015.22	0	pex_policy	w.2015.22
+10.1-1-g6edbc00	2	mysqlclient	5.1.73.lsst1
+10.1-1-g6edbc00	2	pex_logging	10.1-1-g5228db0+2
+10.1-1-g6edbc00	2	pex_policy	tickets.DM-2636-ga03a626ca1
