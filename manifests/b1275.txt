@@ -1,0 +1,5 @@
+# product                 SHA1                                      Version                       
+BUILD=b1275
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+freetds                   5f87568fce874850d8a87f140a29aa7fc82bc7c9  bugfix.SIM-1167.compile_pymssql_with_cython_0_22-g5f87568fce 
+pymssql                   e6c527678bde8970c6f7da759986c80a6eb38d0f  bugfix.SIM-1167.compile_pymssql_with_cython_0_22-ge6c527678b python,freetds
