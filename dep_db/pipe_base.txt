@@ -1840,3 +1840,9 @@ tickets.DM-2636-g2b4cdc09f3	1	obs_test	tickets.DM-2636-g010db3182d+1
 10.1	10	utils	10.1-1-g82883c7+1
 10.1	10	afw	10.1-10-gf6a3296
 10.1	10	obs_test	tickets.DM-2191-gf5ff5b4a07
+tickets.DM-2382-gc055106ec6	0	daf_persistence	10.1-1-g6edbc00+1
+tickets.DM-2382-gc055106ec6	0	pex_logging	10.1-1-g5228db0+1
+tickets.DM-2382-gc055106ec6	0	pex_config	10.1+3
+tickets.DM-2382-gc055106ec6	0	utils	10.1-1-g82883c7+1
+tickets.DM-2382-gc055106ec6	0	afw	10.1-10-gf6a3296
+tickets.DM-2382-gc055106ec6	0	obs_test	10.1+8
