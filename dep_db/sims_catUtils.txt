@@ -7695,3 +7695,14 @@ feature.SIM-1092-ge199d9d8f4	0	pymssql	2.0.0+5
 feature.SIM-1092-ge199d9d8f4	0	daf_persistence	10.1-1-g6edbc00+1
 feature.SIM-1092-ge199d9d8f4	0	GalSim	1.2.lsst2+4
 feature.SIM-1092-ge199d9d8f4	0	obs_lsstSim	10.1-2-g1fa0209
+10.1-1-g50aac4e	46	utils	10.1-1-g82883c7+1
+10.1-1-g50aac4e	46	sims_catalogs_measures	10.1+3
+10.1-1-g50aac4e	46	sims_catalogs_generation	10.1+3
+10.1-1-g50aac4e	46	sims_coordUtils	10.1-1-ged94f81+15
+10.1-1-g50aac4e	46	sims_photUtils	1.0.0-81-g0c80041+21
+10.1-1-g50aac4e	46	sims_data	10.1
+10.1-1-g50aac4e	46	palpy	1.6+2
+10.1-1-g50aac4e	46	python	0.0.3
+10.1-1-g50aac4e	46	pymssql	2.0.0+5
+10.1-1-g50aac4e	46	GalSim	1.2.lsst2+4
+10.1-1-g50aac4e	46	obs_lsstSim	10.1-2-g1fa0209+2
