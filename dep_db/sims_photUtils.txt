@@ -4251,3 +4251,12 @@ feature.SIM-1092-g282893a603	2	sims_coordUtils	feature.SIM-1092-gb476697253
 feature.SIM-1092-g282893a603	2	python	0.0.3
 feature.SIM-1092-g282893a603	2	throughputs	master-ga98b3deed1
 feature.SIM-1092-g282893a603	2	pyfits	3.2.4.lsst1+3
+1.0.0-82-g231dac8	0	utils	10.1-1-g82883c7+1
+1.0.0-82-g231dac8	0	sims_catalogs_measures	10.1+3
+1.0.0-82-g231dac8	0	sims_catalogs_generation	10.1+3
+1.0.0-82-g231dac8	0	sims_sed_library	2014.10.06
+1.0.0-82-g231dac8	0	sims_dustmaps	10.1
+1.0.0-82-g231dac8	0	sims_coordUtils	10.1-1-ged94f81+16
+1.0.0-82-g231dac8	0	python	0.0.3
+1.0.0-82-g231dac8	0	throughputs	master-ga98b3deed1
+1.0.0-82-g231dac8	0	pyfits	3.2.4.lsst1+3
