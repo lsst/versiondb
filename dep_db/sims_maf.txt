@@ -7678,3 +7678,15 @@ feature.SIMS-1131-create-benchmarks-gb7cafd1377	0	obs_lsstSim	10.0-3-g2f4471b+14
 1.0.2	36	sims_dustmaps	10.1
 1.0.2	36	healpy	1.8.1+6
 1.0.2	36	obs_lsstSim	10.1-2-g1fa0209
+1.0.2	37	base	10.1-1-g8080078+1
+1.0.2	37	numpy	0.0.1+5
+1.0.2	37	matplotlib	0.0.1+5
+1.0.2	37	pyephem	3.7.5.1.lsst1
+1.0.2	37	palpy	1.6+2
+1.0.2	37	pex_config	tickets.DM-2636-g0d6ed0e7aa
+1.0.2	37	sims_catalogs_generation	10.1+5
+1.0.2	37	sims_photUtils	1.0.0-81-g0c80041+19
+1.0.2	37	sims_coordUtils	10.1-1-ged94f81+12
+1.0.2	37	sims_dustmaps	10.1
+1.0.2	37	healpy	1.8.1+6
+1.0.2	37	obs_lsstSim	tickets.DM-2636-ga73c008750+1

@@ -7661,3 +7661,14 @@ master-g50aac4e5b8	13	obs_lsstSim	10.0-3-g2f4471b+17
 10.1-1-g50aac4e	43	pymssql	2.0.0+5
 10.1-1-g50aac4e	43	GalSim	1.2.lsst2+4
 10.1-1-g50aac4e	43	obs_lsstSim	10.1-2-g1fa0209
+10.1-1-g50aac4e	44	utils	tickets.DM-2636-g9aa8276e3f
+10.1-1-g50aac4e	44	sims_catalogs_measures	10.1+5
+10.1-1-g50aac4e	44	sims_catalogs_generation	10.1+5
+10.1-1-g50aac4e	44	sims_coordUtils	10.1-1-ged94f81+12
+10.1-1-g50aac4e	44	sims_photUtils	1.0.0-81-g0c80041+19
+10.1-1-g50aac4e	44	sims_data	10.1
+10.1-1-g50aac4e	44	palpy	1.6+2
+10.1-1-g50aac4e	44	python	0.0.3
+10.1-1-g50aac4e	44	pymssql	2.0.0+5
+10.1-1-g50aac4e	44	GalSim	1.2.lsst2+4
+10.1-1-g50aac4e	44	obs_lsstSim	tickets.DM-2636-ga73c008750+1

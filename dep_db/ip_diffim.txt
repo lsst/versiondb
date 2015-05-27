@@ -3793,3 +3793,12 @@ tickets.DM-2636-g5733990f2f	0	matplotlib	0.0.1+5
 10.1-1-gf9e7dbf	13	pipe_base	10.1-2-g137251c
 10.1-1-gf9e7dbf	13	afwdata	10.0+11
 10.1-1-gf9e7dbf	13	matplotlib	0.0.1+5
+tickets.DM-2636-g5733990f2f	1	afw	tickets.DM-2636-ga182c7a0e6
+tickets.DM-2636-g5733990f2f	1	meas_base	10.1-1-g04250b3+18
+tickets.DM-2636-g5733990f2f	1	meas_deblender	10.1-2-g88c55f7+18
+tickets.DM-2636-g5733990f2f	1	numpy	0.0.1+5
+tickets.DM-2636-g5733990f2f	1	pex_config	tickets.DM-2636-g0d6ed0e7aa
+tickets.DM-2636-g5733990f2f	1	pipe_base	tickets.DM-2636-g2b4cdc09f3+3
+tickets.DM-2636-g5733990f2f	1	utils	tickets.DM-2636-g9aa8276e3f
+tickets.DM-2636-g5733990f2f	1	afwdata	10.0+11
+tickets.DM-2636-g5733990f2f	1	matplotlib	0.0.1+5
