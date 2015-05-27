@@ -3834,3 +3834,11 @@ tickets.DM-2636-g5733990f2f	1	matplotlib	0.0.1+5
 10.1-1-gf9e7dbf	17	pipe_base	10.1-2-g137251c+4
 10.1-1-gf9e7dbf	17	afwdata	10.0+11
 10.1-1-gf9e7dbf	17	matplotlib	0.0.1+5
+10.1-1-gf9e7dbf	18	afw	10.1-11-ga83d557
+10.1-1-gf9e7dbf	18	meas_base	10.1-1-g04250b3+23
+10.1-1-gf9e7dbf	18	meas_deblender	10.1-2-g88c55f7+23
+10.1-1-gf9e7dbf	18	numpy	0.0.1+5
+10.1-1-gf9e7dbf	18	pex_config	10.1+3
+10.1-1-gf9e7dbf	18	pipe_base	10.1-2-g137251c+5
+10.1-1-gf9e7dbf	18	afwdata	10.0+11
+10.1-1-gf9e7dbf	18	matplotlib	0.0.1+5
