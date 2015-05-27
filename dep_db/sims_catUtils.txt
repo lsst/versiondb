@@ -7728,3 +7728,14 @@ feature.SIM-1092-ge199d9d8f4	0	obs_lsstSim	10.1-2-g1fa0209
 10.1-1-g50aac4e	48	pymssql	2.1.1
 10.1-1-g50aac4e	48	GalSim	1.2.lsst2+4
 10.1-1-g50aac4e	48	obs_lsstSim	10.1-2-g1fa0209+3
+10.1-1-g50aac4e	49	utils	w.2015.22
+10.1-1-g50aac4e	49	sims_catalogs_measures	10.1+4
+10.1-1-g50aac4e	49	sims_catalogs_generation	10.1+4
+10.1-1-g50aac4e	49	sims_coordUtils	10.1-1-ged94f81+7
+10.1-1-g50aac4e	49	sims_photUtils	1.0.0-81-g0c80041+14
+10.1-1-g50aac4e	49	sims_data	10.1
+10.1-1-g50aac4e	49	palpy	1.6+2
+10.1-1-g50aac4e	49	python	0.0.3
+10.1-1-g50aac4e	49	pymssql	2.1.1
+10.1-1-g50aac4e	49	GalSim	1.2.lsst2+4
+10.1-1-g50aac4e	49	obs_lsstSim	w.2015.22
