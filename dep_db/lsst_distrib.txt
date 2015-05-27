@@ -4819,3 +4819,10 @@ w.2015.22	0	testing_endtoend	w.2015.22
 10.0	423	ctrl_platform_lsst	10.0+135
 10.0	423	datarel	tickets.DM-2636-g1428d435b5+1
 10.0	423	testing_endtoend	tickets.DM-2636-g8cdb4ec4a6
+10.0	424	lsst	10.1-1-g84e9557
+10.0	424	lsst_apps	10.1-1-g6629608+23
+10.0	424	ctrl_execute	10.0+133
+10.0	424	ctrl_platform_gordon	10.0+133
+10.0	424	ctrl_platform_lsst	10.0+133
+10.0	424	datarel	10.1+37
+10.0	424	testing_endtoend	10.0+132
