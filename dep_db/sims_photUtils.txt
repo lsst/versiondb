@@ -4242,3 +4242,12 @@ feature.SIM-1034-change-naming-of-matching-methods-g7dbd65262b	1	sims_coordUtils
 feature.SIM-1034-change-naming-of-matching-methods-g7dbd65262b	1	python	0.0.3
 feature.SIM-1034-change-naming-of-matching-methods-g7dbd65262b	1	throughputs	master-ga98b3deed1
 feature.SIM-1034-change-naming-of-matching-methods-g7dbd65262b	1	pyfits	3.2.4.lsst1+3
+feature.SIM-1092-g282893a603	2	utils	10.1-1-g82883c7+1
+feature.SIM-1092-g282893a603	2	sims_catalogs_measures	feature.SIM-1092-g5773ffade7+1
+feature.SIM-1092-g282893a603	2	sims_catalogs_generation	feature.SIM-1092-gea863f7a68
+feature.SIM-1092-g282893a603	2	sims_sed_library	2014.10.06
+feature.SIM-1092-g282893a603	2	sims_dustmaps	10.1
+feature.SIM-1092-g282893a603	2	sims_coordUtils	feature.SIM-1092-gb476697253
+feature.SIM-1092-g282893a603	2	python	0.0.3
+feature.SIM-1092-g282893a603	2	throughputs	master-ga98b3deed1
+feature.SIM-1092-g282893a603	2	pyfits	3.2.4.lsst1+3
