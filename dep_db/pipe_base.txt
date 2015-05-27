@@ -1900,3 +1900,9 @@ tickets.DM-2636-g2b4cdc09f3	3	obs_test	tickets.DM-2636-ga71a9fd3c4+1
 10.1-2-g137251c	2	utils	10.1-1-g82883c7+1
 10.1-2-g137251c	2	afw	tickets.DM-2787-gca6bfc5f93
 10.1-2-g137251c	2	obs_test	10.1-1-gb1d421f+2
+10.1-2-g137251c	3	daf_persistence	10.1-1-g6edbc00+1
+10.1-2-g137251c	3	pex_logging	10.1-1-g5228db0+1
+10.1-2-g137251c	3	pex_config	10.1+3
+10.1-2-g137251c	3	utils	10.1-1-g82883c7+1
+10.1-2-g137251c	3	afw	10.1-11-ga83d557
+10.1-2-g137251c	3	obs_test	10.1-1-gb1d421f+3
