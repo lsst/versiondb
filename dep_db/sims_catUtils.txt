@@ -7927,3 +7927,15 @@ feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	0	pymssql	2.1.1
 feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	0	daf_persistence	10.1-1-g6edbc00+1
 feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	0	GalSim	1.2.lsst2+4
 feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	0	obs_lsstSim	10.1-2-g1fa0209+3
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	utils	10.1-1-g82883c7+1
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	sims_catalogs_measures	feature.SIM-1103.rewrite_obs_metadata-gcdc9fbb182
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	sims_catalogs_generation	feature.SIM-1103.rewrite_obs_metadata-ga82c28f211
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	sims_coordUtils	feature.SIM-1103.rewrite_obs_metadata-ge82ce38bde
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	sims_photUtils	feature.SIM-1103.rewrite_obs_metadata-g04cfb1b878
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	sims_data	10.1
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	palpy	1.6+2
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	python	0.0.3
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	pymssql	2.1.1
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	daf_persistence	10.1-1-g6edbc00+1
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	GalSim	1.2.lsst2+4
+feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	obs_lsstSim	10.1-2-g1fa0209+3
