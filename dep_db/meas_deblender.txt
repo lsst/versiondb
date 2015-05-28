@@ -1862,3 +1862,7 @@ tickets.DM-1766-g125eb6278d	0	utils	10.1-1-g82883c7+1
 tickets.DM-1766-g125eb6278d	0	afw	tickets.DM-1766-gba5fe2410f
 tickets.DM-1766-g125eb6278d	0	meas_algorithms	tickets.DM-1766-gce67d2309f
 tickets.DM-1766-g125eb6278d	0	matplotlib	0.0.1+5
+tickets.DM-1766-g125eb6278d	1	utils	10.1-1-g82883c7+1
+tickets.DM-1766-g125eb6278d	1	afw	tickets.DM-1766-g9ff211a6c7
+tickets.DM-1766-g125eb6278d	1	meas_algorithms	tickets.DM-1766-gce67d2309f+1
+tickets.DM-1766-g125eb6278d	1	matplotlib	0.0.1+5
