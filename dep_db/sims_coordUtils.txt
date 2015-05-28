@@ -3066,3 +3066,11 @@ feature.SIM-1092-gb476697253	0	afw	10.1-11-ga83d557
 10.1-2-g58cf0fc	0	palpy	1.6+2
 10.1-2-g58cf0fc	0	pyfits	3.2.4.lsst1+3
 10.1-2-g58cf0fc	0	afw	10.1-11-ga83d557
+10.1-2-g58cf0fc	1	sims_catalogs_measures	feature.SIM-1151.rewrite_variability_mixin-geda7a2d41c
+10.1-2-g58cf0fc	1	utils	10.1-1-g82883c7+1
+10.1-2-g58cf0fc	1	base	10.1-1-g8080078+1
+10.1-2-g58cf0fc	1	python	0.0.3
+10.1-2-g58cf0fc	1	throughputs	master-ga98b3deed1
+10.1-2-g58cf0fc	1	palpy	1.6+2
+10.1-2-g58cf0fc	1	pyfits	3.2.4.lsst1+3
+10.1-2-g58cf0fc	1	afw	10.1-11-ga83d557
