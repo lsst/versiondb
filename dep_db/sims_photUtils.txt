@@ -4278,3 +4278,12 @@ feature.SIM-1151.rewrite_variability_mixin-g36292a6831	0	sims_coordUtils	10.1-2-
 feature.SIM-1151.rewrite_variability_mixin-g36292a6831	0	python	0.0.3
 feature.SIM-1151.rewrite_variability_mixin-g36292a6831	0	throughputs	master-ga98b3deed1
 feature.SIM-1151.rewrite_variability_mixin-g36292a6831	0	pyfits	3.2.4.lsst1+3
+1.0.0-83-g6d44622	1	utils	10.1-1-g82883c7+1
+1.0.0-83-g6d44622	1	sims_catalogs_measures	10.1-1-g9e6c68f+1
+1.0.0-83-g6d44622	1	sims_catalogs_generation	u.yusra.SIM-1092-g162d48f1f6
+1.0.0-83-g6d44622	1	sims_sed_library	2014.10.06
+1.0.0-83-g6d44622	1	sims_dustmaps	10.1
+1.0.0-83-g6d44622	1	sims_coordUtils	10.1-2-g58cf0fc+2
+1.0.0-83-g6d44622	1	python	0.0.3
+1.0.0-83-g6d44622	1	throughputs	master-ga98b3deed1
+1.0.0-83-g6d44622	1	pyfits	3.2.4.lsst1+3

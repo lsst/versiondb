@@ -7831,3 +7831,15 @@ feature.SIM-1151.rewrite_variability_mixin-gf2fcb3c26d	0	pymssql	2.1.1
 feature.SIM-1151.rewrite_variability_mixin-gf2fcb3c26d	0	daf_persistence	10.1-1-g6edbc00+1
 feature.SIM-1151.rewrite_variability_mixin-gf2fcb3c26d	0	GalSim	1.2.lsst2+4
 feature.SIM-1151.rewrite_variability_mixin-gf2fcb3c26d	0	obs_lsstSim	10.1-2-g1fa0209+3
+10.1-2-ga1d368f	1	utils	10.1-1-g82883c7+1
+10.1-2-ga1d368f	1	sims_catalogs_measures	10.1-1-g9e6c68f+1
+10.1-2-ga1d368f	1	sims_catalogs_generation	u.yusra.SIM-1092-g162d48f1f6
+10.1-2-ga1d368f	1	sims_coordUtils	10.1-2-g58cf0fc+2
+10.1-2-ga1d368f	1	sims_photUtils	1.0.0-83-g6d44622+1
+10.1-2-ga1d368f	1	sims_data	10.1
+10.1-2-ga1d368f	1	palpy	1.6+2
+10.1-2-ga1d368f	1	python	0.0.3
+10.1-2-ga1d368f	1	pymssql	2.1.1
+10.1-2-ga1d368f	1	daf_persistence	10.1-1-g6edbc00+1
+10.1-2-ga1d368f	1	GalSim	1.2.lsst2+4
+10.1-2-ga1d368f	1	obs_lsstSim	10.1-2-g1fa0209+3
