@@ -7963,3 +7963,15 @@ feature.SIM-1103.rewrite_obs_metadata-g6f66e6fa9d	1	obs_lsstSim	10.1-2-g1fa0209+
 10.1-3-g2738698	2	daf_persistence	10.1-1-g6edbc00+1
 10.1-3-g2738698	2	GalSim	1.2.lsst2+4
 10.1-3-g2738698	2	obs_lsstSim	10.1-3-g6bbdbcc+1
+10.1-3-g2738698	3	utils	10.1-1-g82883c7+1
+10.1-3-g2738698	3	sims_catalogs_measures	10.1-2-g30de0e0
+10.1-3-g2738698	3	sims_catalogs_generation	10.1-3-gcb13097
+10.1-3-g2738698	3	sims_coordUtils	10.1-2-g58cf0fc+8
+10.1-3-g2738698	3	sims_photUtils	bugfix.SIM-1169.igm_unittest_failure-g7f0810dfd6
+10.1-3-g2738698	3	sims_data	10.1
+10.1-3-g2738698	3	palpy	1.6+2
+10.1-3-g2738698	3	python	0.0.3
+10.1-3-g2738698	3	pymssql	2.1.1
+10.1-3-g2738698	3	daf_persistence	10.1-1-g6edbc00+1
+10.1-3-g2738698	3	GalSim	1.2.lsst2+4
+10.1-3-g2738698	3	obs_lsstSim	10.1-3-g6bbdbcc+1

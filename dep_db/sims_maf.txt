@@ -7966,3 +7966,15 @@ u.yusra.SIM-1092-g3a5335941a	3	obs_lsstSim	10.1-2-g1fa0209+3
 1.0.2-1-ge04b242	11	sims_dustmaps	10.1
 1.0.2-1-ge04b242	11	healpy	1.8.1+6
 1.0.2-1-ge04b242	11	obs_lsstSim	10.1-3-g6bbdbcc+1
+1.0.2-1-ge04b242	12	base	10.1-1-g8080078+1
+1.0.2-1-ge04b242	12	numpy	0.0.1+5
+1.0.2-1-ge04b242	12	matplotlib	0.0.1+5
+1.0.2-1-ge04b242	12	pyephem	3.7.5.1.lsst1
+1.0.2-1-ge04b242	12	palpy	1.6+2
+1.0.2-1-ge04b242	12	pex_config	10.1+3
+1.0.2-1-ge04b242	12	sims_catalogs_generation	10.1-3-gcb13097
+1.0.2-1-ge04b242	12	sims_photUtils	bugfix.SIM-1169.igm_unittest_failure-g7f0810dfd6
+1.0.2-1-ge04b242	12	sims_coordUtils	10.1-2-g58cf0fc+8
+1.0.2-1-ge04b242	12	sims_dustmaps	10.1
+1.0.2-1-ge04b242	12	healpy	1.8.1+6
+1.0.2-1-ge04b242	12	obs_lsstSim	10.1-3-g6bbdbcc+1
