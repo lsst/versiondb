@@ -3138,3 +3138,11 @@ feature.SIM-1103.rewrite_obs_metadata-ge82ce38bde	0	throughputs	master-ga98b3dee
 feature.SIM-1103.rewrite_obs_metadata-ge82ce38bde	0	palpy	1.6+2
 feature.SIM-1103.rewrite_obs_metadata-ge82ce38bde	0	pyfits	3.2.4.lsst1+3
 feature.SIM-1103.rewrite_obs_metadata-ge82ce38bde	0	afw	10.1-11-ga83d557
+10.1-2-g58cf0fc	9	sims_catalogs_measures	10.1-2-g30de0e0
+10.1-2-g58cf0fc	9	utils	10.1-1-g82883c7+1
+10.1-2-g58cf0fc	9	base	10.1-1-g8080078+1
+10.1-2-g58cf0fc	9	python	0.0.3
+10.1-2-g58cf0fc	9	throughputs	master-ga98b3deed1
+10.1-2-g58cf0fc	9	palpy	1.6+2
+10.1-2-g58cf0fc	9	pyfits	3.2.4.lsst1+3
+10.1-2-g58cf0fc	9	afw	tickets.DM-1766-gd40052c3d9
