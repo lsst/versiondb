@@ -5247,3 +5247,12 @@ tickets.DM-2636-ga73c008750	1	utils	tickets.DM-2636-g9aa8276e3f
 10.1-3-g6bbdbcc	2	ip_isr	10.1-2-g19f7783+29
 10.1-3-g6bbdbcc	2	pipe_tasks	10.1-3-g6f9b711+12
 10.1-3-g6bbdbcc	2	mysqlpython	1.2.3+17
+10.1-3-g6bbdbcc	3	daf_base	10.1+3
+10.1-3-g6bbdbcc	3	pex_policy	10.1-1-g3cba4e3+1
+10.1-3-g6bbdbcc	3	afw	10.1-11-ga83d557+1
+10.1-3-g6bbdbcc	3	daf_persistence	10.1-1-g6edbc00+3
+10.1-3-g6bbdbcc	3	daf_butlerUtils	10.1-1-g0eaea0b+8
+10.1-3-g6bbdbcc	3	meas_algorithms	10.1-3-gd91c143+21
+10.1-3-g6bbdbcc	3	ip_isr	10.1-2-g19f7783+30
+10.1-3-g6bbdbcc	3	pipe_tasks	tickets.DM-2191-g9e17cba28a
+10.1-3-g6bbdbcc	3	mysqlpython	1.2.3+17
