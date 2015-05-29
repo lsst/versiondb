@@ -1059,3 +1059,6 @@ tickets.DM-2636-g8cdb4ec4a6	0	obs_lsstSim	tickets.DM-2636-ga73c008750+1
 tickets.DM-2636-g8cdb4ec4a6	0	obs_sdss	tickets.DM-2636-g7200c0c7a6+1
 tickets.DM-2636-g8cdb4ec4a6	0	ctrl_orca	10.1+5
 tickets.DM-2636-g8cdb4ec4a6	0	mysqlpython	1.2.3+16
+10.0	133	daf_persistence	10.1-1-g6edbc00+3
+10.0	133	ctrl_orca	10.1+6
+10.0	133	mysqlpython	1.2.3+17
