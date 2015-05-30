@@ -301,3 +301,6 @@ w.2015.22	0	pex_policy	w.2015.22
 10.1-1-g6edbc00	3	mysqlclient	5.1.73.lsst1-1-gb8bcc43
 10.1-1-g6edbc00	3	pex_logging	10.1-1-g5228db0+1
 10.1-1-g6edbc00	3	pex_policy	10.1-1-g3cba4e3+1
+10.1-1-g6edbc00	4	mysqlclient	5.1.73.lsst1-1-gb8bcc43
+10.1-1-g6edbc00	4	pex_logging	tickets.DM-2776-g9af5af73bd
+10.1-1-g6edbc00	4	pex_policy	10.1-1-g3cba4e3+1
