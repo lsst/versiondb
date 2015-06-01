@@ -307,3 +307,6 @@ w.2015.22	0	pex_policy	w.2015.22
 w.2015.22	1	mysqlclient	5.1.73.lsst1-1-gb8bcc43
 w.2015.22	1	pex_logging	w.2015.22
 w.2015.22	1	pex_policy	w.2015.22
+10.1-1-g6edbc00	5	mysqlclient	5.1.73.lsst1-1-gb8bcc43
+10.1-1-g6edbc00	5	pex_logging	10.1-2-gf538462
+10.1-1-g6edbc00	5	pex_policy	10.1-1-g3cba4e3+1
