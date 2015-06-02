@@ -1303,3 +1303,8 @@ tickets.DM-2312-g5439d6fe2b	1	utils	10.1-1-g82883c7+1
 10.1-2-g5a9faf9	0	numpy	0.0.1+5
 10.1-2-g5a9faf9	0	skypix	10.0+183
 10.1-2-g5a9faf9	0	utils	10.1-1-g82883c7+1
+tickets.DM-2191-g42dac719bb	1	daf_base	10.1-1-g5e95c60
+tickets.DM-2191-g42dac719bb	1	daf_butlerUtils	10.1-1-g0eaea0b+14
+tickets.DM-2191-g42dac719bb	1	pex_policy	10.1-1-g3cba4e3+3
+tickets.DM-2191-g42dac719bb	1	daf_persistence	10.1-1-g6edbc00+7
+tickets.DM-2191-g42dac719bb	1	pex_config	10.1+5
