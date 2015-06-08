@@ -4043,3 +4043,11 @@ tickets.DM-2636-g48e8530382	0	pipe_base	tickets.DM-2636-g1255416482
 tickets.DM-2636-g48e8530382	0	utils	tickets.DM-2636-g9aa8276e3f
 tickets.DM-2636-g48e8530382	0	afwdata	10.0+11
 tickets.DM-2636-g48e8530382	0	matplotlib	0.0.1+5
+10.1-2-gb562c8d	13	afw	10.1-11-ga83d557+5
+10.1-2-gb562c8d	13	meas_base	10.1-2-g91ee624+4
+10.1-2-gb562c8d	13	meas_deblender	10.1-2-g88c55f7+44
+10.1-2-gb562c8d	13	numpy	0.0.1+5
+10.1-2-gb562c8d	13	pex_config	10.1+5
+10.1-2-gb562c8d	13	pipe_base	10.1-2-g137251c+25
+10.1-2-gb562c8d	13	afwdata	10.0+11
+10.1-2-gb562c8d	13	matplotlib	0.0.1+5
