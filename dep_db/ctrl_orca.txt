@@ -1770,3 +1770,9 @@ w.2015.22	0	ctrl_provenance	w.2015.22
 10.1	13	daf_persistence	10.1-1-g6edbc00+8
 10.1	13	ctrl_events	10.1+10
 10.1	13	ctrl_provenance	10.0+100
+10.1	14	cat	10.1+14
+10.1	14	utils	tickets.DM-2636-g9aa8276e3f
+10.1	14	pex_policy	tickets.DM-2636-ga03a626ca1+1
+10.1	14	daf_persistence	10.1-1-g6edbc00+9
+10.1	14	ctrl_events	10.1+11
+10.1	14	ctrl_provenance	10.0+101

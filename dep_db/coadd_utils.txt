@@ -1370,3 +1370,8 @@ w.2015.22	1	afwdata	10.0+12
 10.1	40	pipe_base	10.1-2-g137251c+24
 10.1	40	pex_config	10.1+6
 10.1	40	afwdata	10.0+13
+tickets.DM-2636-g62d66293eb	2	afw	tickets.DM-2636-ged95653aae
+tickets.DM-2636-g62d66293eb	2	pipe_base	tickets.DM-2636-g1255416482
+tickets.DM-2636-g62d66293eb	2	pex_config	tickets.DM-2636-g0d6ed0e7aa+1
+tickets.DM-2636-g62d66293eb	2	utils	tickets.DM-2636-g9aa8276e3f
+tickets.DM-2636-g62d66293eb	2	afwdata	10.0+11

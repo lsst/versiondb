@@ -1083,3 +1083,12 @@ tickets.DM-2636-g8cdb4ec4a6	0	mysqlpython	1.2.3+16
 10.0	140	daf_persistence	10.1-1-g6edbc00+8
 10.0	140	ctrl_orca	10.1+13
 10.0	140	mysqlpython	1.2.3+17
+tickets.DM-2636-g99513ca18f	0	sconsUtils	10.1+1
+tickets.DM-2636-g99513ca18f	0	utils	tickets.DM-2636-g9aa8276e3f
+tickets.DM-2636-g99513ca18f	0	daf_persistence	10.1-1-g6edbc00+9
+tickets.DM-2636-g99513ca18f	0	afw	tickets.DM-2636-ged95653aae
+tickets.DM-2636-g99513ca18f	0	afwdata	10.0+11
+tickets.DM-2636-g99513ca18f	0	obs_lsstSim	tickets.DM-2636-gfa78436bba
+tickets.DM-2636-g99513ca18f	0	obs_sdss	tickets.DM-2636-gcb1d00eac3
+tickets.DM-2636-g99513ca18f	0	ctrl_orca	10.1+14
+tickets.DM-2636-g99513ca18f	0	mysqlpython	1.2.3+17

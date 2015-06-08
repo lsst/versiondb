@@ -416,3 +416,7 @@ feature.SIM-1103.rewrite_obs_metadata-ga82c28f211	1	daf_persistence	10.1-1-g6edb
 10.1-4-gb9a83a2	6	python	0.0.3
 10.1-4-gb9a83a2	6	sims_utils	master-g966c16afcf+14
 10.1-4-gb9a83a2	6	daf_persistence	10.1-1-g6edbc00+8
+10.1-4-gb9a83a2	7	utils	tickets.DM-2636-g9aa8276e3f
+10.1-4-gb9a83a2	7	python	0.0.3
+10.1-4-gb9a83a2	7	sims_utils	master-g966c16afcf+13
+10.1-4-gb9a83a2	7	daf_persistence	10.1-1-g6edbc00+9

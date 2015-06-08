@@ -5673,3 +5673,12 @@ tickets.DM-2636-g1428d435b5	1	scisql	0.3.4+6
 10.1	73	matplotlib	0.0.1+5
 10.1	73	cat	10.1+13
 10.1	73	scisql	0.3.4+7
+tickets.DM-2636-g1428d435b5	2	ap	10.0+305
+tickets.DM-2636-g1428d435b5	2	ctrl_orca	10.1+14
+tickets.DM-2636-g1428d435b5	2	pipe_tasks	tickets.DM-2636-g916c250f7e
+tickets.DM-2636-g1428d435b5	2	utils	tickets.DM-2636-g9aa8276e3f
+tickets.DM-2636-g1428d435b5	2	obs_lsstSim	tickets.DM-2636-gfa78436bba
+tickets.DM-2636-g1428d435b5	2	astrometry_net_data	10.0+11
+tickets.DM-2636-g1428d435b5	2	matplotlib	0.0.1+5
+tickets.DM-2636-g1428d435b5	2	cat	10.1+14
+tickets.DM-2636-g1428d435b5	2	scisql	0.3.4+7
