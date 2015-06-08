@@ -2159,3 +2159,8 @@ tickets.DM-2875-ga73ab23d84	0	coadd_utils	10.1+38
 10.1-2-g91ee624	0	daf_base	10.1-1-g5e95c60
 10.1-2-g91ee624	0	pex_config	10.1+5
 10.1-2-g91ee624	0	coadd_utils	10.1+38
+10.1-2-g91ee624	1	afw	10.1-11-ga83d557+5
+10.1-2-g91ee624	1	pipe_base	10.1-2-g137251c+23
+10.1-2-g91ee624	1	daf_base	10.1-1-g5e95c60
+10.1-2-g91ee624	1	pex_config	10.1+5
+10.1-2-g91ee624	1	coadd_utils	10.1+39
