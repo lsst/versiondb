@@ -3743,3 +3743,15 @@ w.2015.22	0	sconsUtils	w.2015.22
 0.3.0	17	mysqlpython	1.2.3+17
 0.3.0	17	sconsUtils	10.1+1
 0.3.0	17	skymap	10.0+183
+0.3.0	18	afw	10.1-11-ga83d557+6
+0.3.0	18	base	10.1-1-g8080078+2
+0.3.0	18	boost	1.55.0.1.lsst2+3
+0.3.0	18	cat	10.1+13
+0.3.0	18	daf_base	10.1-1-g5e95c60+1
+0.3.0	18	db	10.1+9
+0.3.0	18	flask	0.10.1+8
+0.3.0	18	log	1.1.2-3-gef26d3c+1
+0.3.0	18	obs_sdss	10.1-2-ga68e699+33
+0.3.0	18	mysqlpython	1.2.3+17
+0.3.0	18	sconsUtils	tickets.DM-2770-g40bc3183f0
+0.3.0	18	skymap	10.0+184

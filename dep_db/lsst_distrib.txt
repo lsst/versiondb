@@ -5078,3 +5078,10 @@ w.2015.22	0	testing_endtoend	w.2015.22
 10.0	460	ctrl_platform_lsst	10.0+142
 10.0	460	datarel	10.1+72
 10.0	460	testing_endtoend	10.0+139
+10.0	461	lsst	10.1-1-g84e9557+1
+10.0	461	lsst_apps	10.1-2-g6e14418
+10.0	461	ctrl_execute	10.0+142
+10.0	461	ctrl_platform_gordon	10.0+143
+10.0	461	ctrl_platform_lsst	10.0+143
+10.0	461	datarel	10.1+73
+10.0	461	testing_endtoend	10.0+140
