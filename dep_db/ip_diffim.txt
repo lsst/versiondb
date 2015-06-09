@@ -4078,3 +4078,12 @@ tickets.DM-2636-g48e8530382	0	matplotlib	0.0.1+5
 10.1-3-g16ef3cf	2	utils	10.1-2-gd2f4a67+2
 10.1-3-g16ef3cf	2	afwdata	10.0+14
 10.1-3-g16ef3cf	2	matplotlib	0.0.1+5
+10.1-3-g16ef3cf	3	afw	10.1-13-g0df5753+2
+10.1-3-g16ef3cf	3	meas_base	10.1-2-g91ee624+8
+10.1-3-g16ef3cf	3	meas_deblender	10.1-2-g88c55f7+48
+10.1-3-g16ef3cf	3	numpy	0.0.1+5
+10.1-3-g16ef3cf	3	pex_config	10.1-1-g4b4ae59+3
+10.1-3-g16ef3cf	3	pipe_base	10.1-3-g18c2ba7+3
+10.1-3-g16ef3cf	3	utils	10.1-2-gd2f4a67+3
+10.1-3-g16ef3cf	3	afwdata	10.0+15
+10.1-3-g16ef3cf	3	matplotlib	0.0.1+5
