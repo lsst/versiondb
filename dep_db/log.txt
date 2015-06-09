@@ -321,3 +321,7 @@ w.2015.22	0	sconsUtils	w.2015.22
 1.1.2-3-gef26d3c	2	log4cxx	0.10.0.lsst3
 1.1.2-3-gef26d3c	2	utils	tickets.DM-2636-g9aa8276e3f
 1.1.2-3-gef26d3c	2	sconsUtils	10.1+1
+1.1.2-3-gef26d3c	3	boost	1.55.0.1.lsst2+3
+1.1.2-3-gef26d3c	3	log4cxx	0.10.0.lsst3
+1.1.2-3-gef26d3c	3	utils	10.1-2-gd2f4a67
+1.1.2-3-gef26d3c	3	sconsUtils	tickets.DM-2770-g40bc3183f0

@@ -1776,3 +1776,9 @@ w.2015.22	0	ctrl_provenance	w.2015.22
 10.1	14	daf_persistence	10.1-1-g6edbc00+9
 10.1	14	ctrl_events	10.1+11
 10.1	14	ctrl_provenance	10.0+101
+10.1	15	cat	10.1+15
+10.1	15	utils	10.1-2-gd2f4a67
+10.1	15	pex_policy	10.1-2-g6cb1d70
+10.1	15	daf_persistence	10.1-1-g6edbc00+10
+10.1	15	ctrl_events	10.1+12
+10.1	15	ctrl_provenance	10.0+102
