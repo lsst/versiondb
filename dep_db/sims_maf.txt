@@ -8362,3 +8362,15 @@ feature.SIM-1103.rewrite_obs_metadata-g464c455c9a	0	obs_lsstSim	10.1-3-g6bbdbcc+
 1.0.2-2-g4994776	28	sims_dustmaps	10.1
 1.0.2-2-g4994776	28	healpy	1.8.1+6
 1.0.2-2-g4994776	28	obs_lsstSim	10.1-4-g032036b
+1.0.2-2-g4994776	29	base	10.1-1-g8080078+1
+1.0.2-2-g4994776	29	numpy	0.0.1+5
+1.0.2-2-g4994776	29	matplotlib	0.0.1+5
+1.0.2-2-g4994776	29	pyephem	3.7.5.1.lsst1
+1.0.2-2-g4994776	29	palpy	1.6+2
+1.0.2-2-g4994776	29	pex_config	10.1-1-g4b4ae59+1
+1.0.2-2-g4994776	29	sims_catalogs_generation	10.1-4-gb9a83a2+9
+1.0.2-2-g4994776	29	sims_photUtils	1.0.0-87-gc98075f+4
+1.0.2-2-g4994776	29	sims_coordUtils	10.1-3-g280658b+11
+1.0.2-2-g4994776	29	sims_dustmaps	10.1
+1.0.2-2-g4994776	29	healpy	1.8.1+6
+1.0.2-2-g4994776	29	obs_lsstSim	10.1-4-g032036b+1

@@ -5106,3 +5106,10 @@ w.2015.22	0	testing_endtoend	w.2015.22
 10.0	464	ctrl_platform_lsst	10.0+145
 10.0	464	datarel	10.1-1-ge58accb
 10.0	464	testing_endtoend	10.1-1-g76900ff
+10.0	465	lsst	10.1-1-g84e9557
+10.0	465	lsst_apps	10.1-2-g6e14418+4
+10.0	465	ctrl_execute	10.1-1-gdebe58e+1
+10.0	465	ctrl_platform_gordon	10.0+146
+10.0	465	ctrl_platform_lsst	10.0+146
+10.0	465	datarel	10.1-1-ge58accb+1
+10.0	465	testing_endtoend	10.1-1-g76900ff+1
