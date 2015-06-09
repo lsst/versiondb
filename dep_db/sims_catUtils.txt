@@ -8431,3 +8431,15 @@ bugfix.SIM-1162.fix_noise_units-g6d83518f06	0	obs_lsstSim	10.1-3-g6bbdbcc+11
 10.1-6-g7346353	20	daf_persistence	10.1-1-g6edbc00+12
 10.1-6-g7346353	20	GalSim	1.2.lsst2+4
 10.1-6-g7346353	20	obs_lsstSim	10.1-4-g032036b+5
+10.1-6-g7346353	21	utils	10.1-2-gd2f4a67+4
+10.1-6-g7346353	21	sims_catalogs_measures	10.1-3-ga1b9e0a+12
+10.1-6-g7346353	21	sims_catalogs_generation	10.1-4-gb9a83a2+12
+10.1-6-g7346353	21	sims_coordUtils	10.1-3-g280658b+14
+10.1-6-g7346353	21	sims_photUtils	1.0.0-87-gc98075f+7
+10.1-6-g7346353	21	sims_data	10.1
+10.1-6-g7346353	21	palpy	1.6+2
+10.1-6-g7346353	21	python	0.0.3
+10.1-6-g7346353	21	pymssql	2.1.1
+10.1-6-g7346353	21	daf_persistence	10.1-1-g6edbc00+14
+10.1-6-g7346353	21	GalSim	1.2.lsst2+4
+10.1-6-g7346353	21	obs_lsstSim	10.1-4-g032036b+6

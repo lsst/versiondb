@@ -425,3 +425,8 @@ w.2015.22	0	sconsUtils	w.2015.22
 10.1	14	mysqlclient	5.1.73.lsst1-1-gb8bcc43
 10.1	14	mysqlpython	1.2.3+17
 10.1	14	sconsUtils	10.1-1-g49d4c5e+1
+10.1	15	log	1.1.2-3-gef26d3c+7
+10.1	15	python	0.0.3
+10.1	15	mysqlclient	5.1.73.lsst1-1-gb8bcc43
+10.1	15	mysqlpython	1.2.3+17
+10.1	15	sconsUtils	tickets.DM-2909-g919343cb6b
