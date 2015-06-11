@@ -3306,3 +3306,11 @@ feature.SIM-1103.rewrite_obs_metadata-ge82ce38bde	1	afw	10.1-11-ga83d557+1
 10.1-3-g280658b	17	palpy	1.6+2
 10.1-3-g280658b	17	pyfits	3.2.4.lsst1+3
 10.1-3-g280658b	17	afw	tickets.DM-2599-g48f29f36ab+1
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	sims_catalogs_measures	10.1-3-ga1b9e0a+15
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	utils	10.1-2-gd2f4a67+5
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	base	10.1-1-g8080078+6
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	python	0.0.3
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	throughputs	master-ga98b3deed1
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	palpy	1.6+2
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	pyfits	3.2.4.lsst1+3
+feature.SIM-1150.redesign_astrometry_api-g576299702b	0	afw	10.1-13-g0df5753+4
