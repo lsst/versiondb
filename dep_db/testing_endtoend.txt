@@ -1209,3 +1209,12 @@ tickets.DM-2636-g99513ca18f	0	mysqlpython	1.2.3+17
 10.1-1-g76900ff	12	obs_sdss	10.1-3-gdae9ea3+12
 10.1-1-g76900ff	12	ctrl_orca	10.1+20
 10.1-1-g76900ff	12	mysqlpython	1.2.3+17
+10.1-1-g76900ff	13	sconsUtils	10.1-2-g02d2974
+10.1-1-g76900ff	13	utils	10.1-2-gd2f4a67+5
+10.1-1-g76900ff	13	daf_persistence	10.1-1-g6edbc00+15
+10.1-1-g76900ff	13	afw	u.lauren.DM-2778-gcc6f7dc67c
+10.1-1-g76900ff	13	afwdata	10.0+17
+10.1-1-g76900ff	13	obs_lsstSim	10.1-4-g032036b+13
+10.1-1-g76900ff	13	obs_sdss	10.1-3-gdae9ea3+13
+10.1-1-g76900ff	13	ctrl_orca	10.1+20
+10.1-1-g76900ff	13	mysqlpython	1.2.3+17
