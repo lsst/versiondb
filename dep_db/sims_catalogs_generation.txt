@@ -460,3 +460,7 @@ feature.SIM-1150.redesign_astrometry_api-g0d357fc1a2	0	daf_persistence	10.1-1-g6
 10.1-5-g1d82acf	1	python	0.0.3
 10.1-5-g1d82acf	1	sims_utils	master-gcf2f67e94c+1
 10.1-5-g1d82acf	1	daf_persistence	10.1-1-g6edbc00+15
+10.1-5-g1d82acf	2	utils	10.1-2-gd2f4a67+8
+10.1-5-g1d82acf	2	python	0.0.3
+10.1-5-g1d82acf	2	sims_utils	master-gcf2f67e94c+2
+10.1-5-g1d82acf	2	daf_persistence	10.1-1-g6edbc00+18

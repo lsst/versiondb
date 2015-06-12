@@ -4648,3 +4648,10 @@ tickets.DM-2895-g8fcdc6b0d4	0	display_ds9	master-g7711006fd9+19
 10.1-2-g6e14418	17	obs_sdss	10.1-3-gdae9ea3+14
 10.1-2-g6e14418	17	obs_test	10.1-4-g461b62d+10
 10.1-2-g6e14418	17	display_ds9	master-g7711006fd9+32
+10.1-2-g6e14418	18	meas_deblender	10.1-2-g88c55f7+57
+10.1-2-g6e14418	18	meas_modelfit	10.1+84
+10.1-2-g6e14418	18	pipe_tasks	10.1-6-g955c0e9+14
+10.1-2-g6e14418	18	obs_lsstSim	10.1-4-g032036b+15
+10.1-2-g6e14418	18	obs_sdss	10.1-3-gdae9ea3+15
+10.1-2-g6e14418	18	obs_test	10.1-4-g461b62d+12
+10.1-2-g6e14418	18	display_ds9	master-g7711006fd9+34
