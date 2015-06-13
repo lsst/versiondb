@@ -8647,3 +8647,15 @@ feature.SIM-1101.PhotometricParameters-g2f20772c3f	0	obs_lsstSim	10.1-4-g032036b
 10.1-8-gd42118e	7	daf_persistence	10.1-1-g6edbc00+18
 10.1-8-gd42118e	7	GalSim	1.2.lsst2+4
 10.1-8-gd42118e	7	obs_lsstSim	10.1-4-g032036b+20
+10.1-8-gd42118e	8	utils	10.1-2-gd2f4a67+9
+10.1-8-gd42118e	8	sims_catalogs_measures	10.1-3-ga1b9e0a+19
+10.1-8-gd42118e	8	sims_catalogs_generation	10.1-5-g1d82acf+3
+10.1-8-gd42118e	8	sims_coordUtils	10.1-4-g4e9645a+9
+10.1-8-gd42118e	8	sims_photUtils	1.0.0-89-ge910137+7
+10.1-8-gd42118e	8	sims_data	10.1
+10.1-8-gd42118e	8	palpy	1.6+2
+10.1-8-gd42118e	8	python	0.0.3
+10.1-8-gd42118e	8	pymssql	2.1.1
+10.1-8-gd42118e	8	daf_persistence	10.1-1-g6edbc00+19
+10.1-8-gd42118e	8	GalSim	1.2.lsst2+4
+10.1-8-gd42118e	8	obs_lsstSim	10.1-4-g032036b+21
