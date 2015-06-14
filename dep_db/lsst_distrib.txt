@@ -5281,3 +5281,8 @@ w.2015.22	0	testing_endtoend	w.2015.22
 10.0	489	ctrl_platform_lsst	10.0+155
 10.0	489	datarel	10.1-1-ge58accb+25
 10.0	489	testing_endtoend	10.1-1-g76900ff+25
+tickets.DM-2928-g0af166e6c5	0	lsst	10.1-1-g84e9557+10
+tickets.DM-2928-g0af166e6c5	0	lsst_apps	10.1-2-g6e14418+28
+tickets.DM-2928-g0af166e6c5	0	ctrl_execute	10.1-1-gdebe58e+10
+tickets.DM-2928-g0af166e6c5	0	ctrl_platform_gordon	10.0+155
+tickets.DM-2928-g0af166e6c5	0	ctrl_platform_lsst	10.0+155
