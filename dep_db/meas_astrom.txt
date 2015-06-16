@@ -4991,3 +4991,13 @@ tickets.DM-2193-g4d166a35fd	1	matplotlib	0.0.1+5
 10.1-13-gf699aaf	1	astrometry_net	0.50.1+6
 10.1-13-gf699aaf	1	numpy	0.0.1+5
 10.1-13-gf699aaf	1	matplotlib	0.0.1+5
+10.1-13-gf699aaf	2	afw	tickets.DM-2849-g6f8d1b9edb
+10.1-13-gf699aaf	2	meas_algorithms	tickets.DM-2849-g6014690515
+10.1-13-gf699aaf	2	pex_logging	10.1-2-gf538462+17
+10.1-13-gf699aaf	2	pex_config	10.1-1-g4b4ae59+12
+10.1-13-gf699aaf	2	pipe_base	10.1-3-g18c2ba7+22
+10.1-13-gf699aaf	2	utils	10.1-2-gd2f4a67+12
+10.1-13-gf699aaf	2	wcslib	4.14+7
+10.1-13-gf699aaf	2	astrometry_net	0.50.1+6
+10.1-13-gf699aaf	2	numpy	0.0.1+5
+10.1-13-gf699aaf	2	matplotlib	0.0.1+5
