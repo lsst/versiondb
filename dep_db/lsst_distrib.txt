@@ -5370,3 +5370,10 @@ tickets.DM-2928-g0af166e6c5	0	ctrl_platform_lsst	10.0+155
 10.0	501	ctrl_platform_lsst	10.0+158
 10.0	501	datarel	10.1-1-ge58accb+35
 10.0	501	testing_endtoend	10.1-1-g76900ff+35
+10.0	502	lsst	10.1-1-g84e9557+13
+10.0	502	lsst_apps	10.1-2-g6e14418+41
+10.0	502	ctrl_execute	10.1-1-gdebe58e+13
+10.0	502	ctrl_platform_gordon	10.0+158
+10.0	502	ctrl_platform_lsst	10.0+158
+10.0	502	datarel	10.1-1-ge58accb+36
+10.0	502	testing_endtoend	10.1-1-g76900ff+36
