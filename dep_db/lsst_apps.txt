@@ -4802,3 +4802,10 @@ tickets.DM-2895-g8fcdc6b0d4	0	display_ds9	master-g7711006fd9+19
 10.1-2-g6e14418	39	obs_sdss	10.1-3-gdae9ea3+34
 10.1-2-g6e14418	39	obs_test	10.1-4-g461b62d+25
 10.1-2-g6e14418	39	display_ds9	master-ge386afe10b+1
+10.1-2-g6e14418	40	meas_deblender	10.1-2-g88c55f7+71
+10.1-2-g6e14418	40	meas_modelfit	10.1+104
+10.1-2-g6e14418	40	pipe_tasks	u.lauren.DM-2778-g93c1a5e303
+10.1-2-g6e14418	40	obs_lsstSim	10.1-4-g032036b+35
+10.1-2-g6e14418	40	obs_sdss	10.1-3-gdae9ea3+35
+10.1-2-g6e14418	40	obs_test	10.1-4-g461b62d+26
+10.1-2-g6e14418	40	display_ds9	master-ge386afe10b+2
