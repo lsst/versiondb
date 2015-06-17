@@ -4633,3 +4633,12 @@ w.2015.22	0	doxygen	1.8.5
 10.0	334	pipe_base	10.1-3-g18c2ba7+27
 10.0	334	meas_algorithms	10.1-6-g827ab11
 10.0	334	doxygen	1.8.5
+10.0	335	boost	1.55.0.1.lsst2+3
+10.0	335	numpy	0.0.1+5
+10.0	335	mysqlclient	5.1.73.lsst1-1-gb8bcc43
+10.0	335	afw	tickets.DM-832-g12b64c17e3
+10.0	335	geom	10.0+24
+10.0	335	skypix	10.0+214
+10.0	335	pipe_base	10.1-3-g18c2ba7+28
+10.0	335	meas_algorithms	10.1-6-g827ab11+1
+10.0	335	doxygen	1.8.5
