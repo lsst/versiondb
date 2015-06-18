@@ -8902,3 +8902,15 @@ feature.SIM-1150.redesign_astrometry_api-gd6eba7d2da	0	obs_lsstSim	10.1-4-g03203
 1.0.2-3-g7962f0f	33	sims_dustmaps	10.1
 1.0.2-3-g7962f0f	33	healpy	1.8.1+6
 1.0.2-3-g7962f0f	33	obs_lsstSim	w.2015.22+2
+1.0.2-3-g7962f0f	34	base	10.1-1-g8080078+14
+1.0.2-3-g7962f0f	34	numpy	0.0.1+5
+1.0.2-3-g7962f0f	34	matplotlib	0.0.1+5
+1.0.2-3-g7962f0f	34	pyephem	3.7.5.1.lsst1
+1.0.2-3-g7962f0f	34	palpy	1.6+2
+1.0.2-3-g7962f0f	34	pex_config	10.1-1-g4b4ae59+13
+1.0.2-3-g7962f0f	34	sims_catalogs_generation	10.1-7-g5af4450
+1.0.2-3-g7962f0f	34	sims_photUtils	1.0.0-89-ge910137+23
+1.0.2-3-g7962f0f	34	sims_coordUtils	10.1-4-g4e9645a+25
+1.0.2-3-g7962f0f	34	sims_dustmaps	10.1
+1.0.2-3-g7962f0f	34	healpy	1.8.1+6
+1.0.2-3-g7962f0f	34	obs_lsstSim	10.1-4-g032036b+39
