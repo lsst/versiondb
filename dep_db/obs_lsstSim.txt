@@ -5882,3 +5882,13 @@ w.2015.22	2	mysqlpython	1.2.3+17
 10.1-4-g032036b	39	pipe_tasks	10.1-9-g441ae3d+3
 10.1-4-g032036b	39	mysqlpython	1.2.3+17
 10.1-4-g032036b	39	utils	10.1-2-gd2f4a67+13
+10.1-4-g032036b	40	daf_base	tickets.DM-2943-ga202832348
+10.1-4-g032036b	40	pex_policy	10.1-2-g6cb1d70+14
+10.1-4-g032036b	40	afw	10.1-21-gdb7132b+1
+10.1-4-g032036b	40	daf_persistence	10.1-1-g6edbc00+24
+10.1-4-g032036b	40	daf_butlerUtils	10.1-3-g302a9ed+30
+10.1-4-g032036b	40	meas_algorithms	10.1-7-g3a4e9d5+2
+10.1-4-g032036b	40	ip_isr	10.1-3-g60126f8+20
+10.1-4-g032036b	40	pipe_tasks	10.1-9-g441ae3d+4
+10.1-4-g032036b	40	mysqlpython	1.2.3+17
+10.1-4-g032036b	40	utils	10.1-2-gd2f4a67+13
