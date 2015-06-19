@@ -8947,3 +8947,15 @@ feature.SIM-1182.customizable_galsim-g699fb84a76	0	obs_lsstSim	10.1-4-g032036b+3
 10.1-10-gb4cd5b3	4	daf_persistence	10.1-1-g6edbc00+25
 10.1-10-gb4cd5b3	4	GalSim	1.2.lsst2+7
 10.1-10-gb4cd5b3	4	obs_lsstSim	10.1-4-g032036b+41
+10.1-10-gb4cd5b3	5	utils	10.1-2-gd2f4a67+13
+10.1-10-gb4cd5b3	5	sims_catalogs_measures	10.1-3-ga1b9e0a+31
+10.1-10-gb4cd5b3	5	sims_catalogs_generation	10.1-7-g5af4450+3
+10.1-10-gb4cd5b3	5	sims_coordUtils	10.1-4-g4e9645a+27
+10.1-10-gb4cd5b3	5	sims_photUtils	1.0.0-89-ge910137+25
+10.1-10-gb4cd5b3	5	sims_data	10.1
+10.1-10-gb4cd5b3	5	palpy	1.6+2
+10.1-10-gb4cd5b3	5	python	0.0.3
+10.1-10-gb4cd5b3	5	pymssql	2.1.1
+10.1-10-gb4cd5b3	5	daf_persistence	10.1-1-g6edbc00+25
+10.1-10-gb4cd5b3	5	GalSim	1.2.lsst2+7
+10.1-10-gb4cd5b3	5	obs_lsstSim	10.1-4-g032036b+42
