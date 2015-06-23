@@ -2150,3 +2150,7 @@ tickets.DM-1766-gcc13bf54de	0	matplotlib	0.0.1+5
 10.1-4-gc4924a8	1	afw	10.1-24-gaa93fc9
 10.1-4-gc4924a8	1	meas_algorithms	10.1-8-g1c04b5a+1
 10.1-4-gc4924a8	1	matplotlib	0.0.1+5
+10.1-4-gc4924a8	2	utils	10.1-2-gd2f4a67+13
+10.1-4-gc4924a8	2	afw	tickets.DM-2967-g748e9cc90d
+10.1-4-gc4924a8	2	meas_algorithms	10.1-8-g1c04b5a+2
+10.1-4-gc4924a8	2	matplotlib	0.0.1+5
