@@ -4928,3 +4928,10 @@ tickets.DM-2895-g8fcdc6b0d4	0	display_ds9	master-g7711006fd9+19
 10.1-2-g6e14418	57	obs_sdss	u.lauren.DM-1945-gb9b919c815
 10.1-2-g6e14418	57	obs_test	10.1-4-g461b62d+35
 10.1-2-g6e14418	57	display_ds9	master-ge386afe10b+11
+10.1-2-g6e14418	58	meas_deblender	10.1-3-g06f81fc
+10.1-2-g6e14418	58	meas_modelfit	10.1+122
+10.1-2-g6e14418	58	pipe_tasks	10.1-10-g021b214+3
+10.1-2-g6e14418	58	obs_lsstSim	10.1-5-g61f9500
+10.1-2-g6e14418	58	obs_sdss	10.1-4-gcaf47d0
+10.1-2-g6e14418	58	obs_test	10.1-4-g461b62d+35
+10.1-2-g6e14418	58	display_ds9	master-ge386afe10b+11
