@@ -3578,3 +3578,11 @@ feature.SIM-1150.redesign_astrometry_api-g576299702b	0	afw	10.1-13-g0df5753+4
 10.1-4-g4e9645a	31	palpy	1.6+2
 10.1-4-g4e9645a	31	pyfits	3.2.4.lsst1+3
 10.1-4-g4e9645a	31	afw	10.1-22-g2fb0be3
+10.1-4-g4e9645a	32	sims_catalogs_measures	10.1-3-ga1b9e0a+31
+10.1-4-g4e9645a	32	utils	10.1-2-gd2f4a67+13
+10.1-4-g4e9645a	32	base	10.1-1-g8080078+14
+10.1-4-g4e9645a	32	python	0.0.3
+10.1-4-g4e9645a	32	throughputs	master-ga98b3deed1
+10.1-4-g4e9645a	32	palpy	1.6+2
+10.1-4-g4e9645a	32	pyfits	3.2.4.lsst1+3
+10.1-4-g4e9645a	32	afw	tickets.DM-1766-g2de8da0c62
