@@ -9283,3 +9283,15 @@ bugfix.SIM-1214.cosmologicalDimming-g50dc4ea233	0	obs_lsstSim	10.1-5-g61f9500+5
 10.1-11-g5b0cb00	6	daf_persistence	10.1-1-g6edbc00+25
 10.1-11-g5b0cb00	6	GalSim	1.2.lsst2+7
 10.1-11-g5b0cb00	6	obs_lsstSim	10.1-5-g61f9500+11
+10.1-11-g5b0cb00	7	utils	10.1-2-gd2f4a67+13
+10.1-11-g5b0cb00	7	sims_catalogs_measures	10.1-3-ga1b9e0a+31
+10.1-11-g5b0cb00	7	sims_catalogs_generation	10.1-7-g5af4450+3
+10.1-11-g5b0cb00	7	sims_coordUtils	10.1-4-g4e9645a+41
+10.1-11-g5b0cb00	7	sims_photUtils	1.0.0-91-gb986f67+7
+10.1-11-g5b0cb00	7	sims_data	10.1
+10.1-11-g5b0cb00	7	palpy	1.6+2
+10.1-11-g5b0cb00	7	python	0.0.3
+10.1-11-g5b0cb00	7	pymssql	2.1.1
+10.1-11-g5b0cb00	7	daf_persistence	10.1-1-g6edbc00+25
+10.1-11-g5b0cb00	7	GalSim	1.2.lsst2+7
+10.1-11-g5b0cb00	7	obs_lsstSim	10.1-5-g61f9500+12
