@@ -9478,3 +9478,15 @@ feature.SIM-1150.redesign_astrometry_api-gd6eba7d2da	0	obs_lsstSim	10.1-4-g03203
 1.0.2-10-g3a28b45	3	sims_dustmaps	10.1
 1.0.2-10-g3a28b45	3	healpy	1.8.1+6
 1.0.2-10-g3a28b45	3	obs_lsstSim	10.1-5-g61f9500+18
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	base	10.1-1-g8080078+16
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	numpy	0.0.1+5
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	matplotlib	0.0.1+5
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	pyephem	3.7.5.1.lsst1
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	palpy	1.6+2
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	pex_config	10.1-1-g4b4ae59+18
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	sims_catalogs_generation	10.1-7-g5af4450+6
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	sims_photUtils	1.0.0-92-g76d04b8+5
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	sims_coordUtils	10.1-4-g4e9645a+45
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	sims_dustmaps	10.1
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	healpy	1.8.1+6
+bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	obs_lsstSim	10.1-5-g61f9500+18
