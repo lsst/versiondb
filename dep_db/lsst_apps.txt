@@ -5061,3 +5061,10 @@ tickets.DM-2895-g8fcdc6b0d4	0	display_ds9	master-g7711006fd9+19
 10.1-2-g6e14418	76	obs_sdss	10.1-6-g89a9769+5
 10.1-2-g6e14418	76	obs_test	10.1-4-g461b62d+49
 10.1-2-g6e14418	76	display_ds9	master-ge386afe10b+25
+10.1-2-g6e14418	77	meas_deblender	10.1-4-gc4924a8+13
+10.1-2-g6e14418	77	meas_modelfit	10.1-1-g7ea83af+16
+10.1-2-g6e14418	77	pipe_tasks	tickets.DM-3106-g16d7d17a04
+10.1-2-g6e14418	77	obs_lsstSim	10.1-5-g61f9500+19
+10.1-2-g6e14418	77	obs_sdss	10.1-6-g89a9769+6
+10.1-2-g6e14418	77	obs_test	10.1-4-g461b62d+50
+10.1-2-g6e14418	77	display_ds9	master-ge386afe10b+26
