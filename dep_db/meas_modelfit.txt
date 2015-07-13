@@ -3178,3 +3178,9 @@ tickets.DM-3106-g59c53897eb	0	matplotlib	0.0.1+5
 10.1-1-g7ea83af	23	shapelet	10.1+83
 10.1-1-g7ea83af	23	pipe_tasks	10.1-14-g9d092eb+3
 10.1-1-g7ea83af	23	matplotlib	0.0.1+5
+tickets.DM-3106-g59c53897eb	1	afw	tickets.DM-3106-gc184a3962b+1
+tickets.DM-3106-g59c53897eb	1	meas_algorithms	tickets.DM-3108-g813136827d
+tickets.DM-3106-g59c53897eb	1	meas_base	tickets.DM-3108-gcbee09fb97
+tickets.DM-3106-g59c53897eb	1	shapelet	10.1+84
+tickets.DM-3106-g59c53897eb	1	pipe_tasks	tickets.DM-3108-gc603b03681
+tickets.DM-3106-g59c53897eb	1	matplotlib	0.0.1+5

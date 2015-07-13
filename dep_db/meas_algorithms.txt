@@ -2262,3 +2262,8 @@ tickets.DM-3106-g000e73e26e	2	utils	10.1-2-gd2f4a67+15
 10.1-8-g1c04b5a	16	pipe_base	10.1-4-g6ba0cc7
 10.1-8-g1c04b5a	16	meas_base	10.1-4-g4112851+15
 10.1-8-g1c04b5a	16	utils	10.1-2-gd2f4a67+16
+tickets.DM-3108-g813136827d	0	afw	tickets.DM-3106-gc184a3962b+1
+tickets.DM-3108-g813136827d	0	pex_logging	10.1-2-gf538462+24
+tickets.DM-3108-g813136827d	0	pipe_base	10.1-4-g6ba0cc7+1
+tickets.DM-3108-g813136827d	0	meas_base	tickets.DM-3108-gcbee09fb97
+tickets.DM-3108-g813136827d	0	utils	10.1-2-gd2f4a67+16
