@@ -2272,3 +2272,8 @@ tickets.DM-3108-g813136827d	0	utils	10.1-2-gd2f4a67+16
 10.1-9-g4dec486	0	pipe_base	10.1-4-g6ba0cc7
 10.1-9-g4dec486	0	meas_base	10.1-4-g4112851+15
 10.1-9-g4dec486	0	utils	10.1-2-gd2f4a67+16
+10.1-9-g4dec486	1	afw	tickets.DM-3137-g60792caf6c
+10.1-9-g4dec486	1	pex_logging	10.1-2-gf538462+24
+10.1-9-g4dec486	1	pipe_base	10.1-4-g6ba0cc7+2
+10.1-9-g4dec486	1	meas_base	10.1-4-g4112851+16
+10.1-9-g4dec486	1	utils	10.1-2-gd2f4a67+16
