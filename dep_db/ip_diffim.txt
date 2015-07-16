@@ -4716,3 +4716,12 @@ tickets.DM-3136-gf90d64588b	1	matplotlib	0.0.1+5
 10.1-5-gca89817	22	utils	10.1-2-gd2f4a67+16
 10.1-5-gca89817	22	afwdata	10.0+29
 10.1-5-gca89817	22	matplotlib	0.0.1+5
+tickets.DM-3136-gf90d64588b	2	afw	tickets.DM-3136-ga81137e0fe
+tickets.DM-3136-gf90d64588b	2	meas_base	tickets.DM-3136-gd159044a35+1
+tickets.DM-3136-gf90d64588b	2	meas_deblender	10.1-4-gc4924a8+27
+tickets.DM-3136-gf90d64588b	2	numpy	0.0.1+5
+tickets.DM-3136-gf90d64588b	2	pex_config	10.1-1-g4b4ae59+19
+tickets.DM-3136-gf90d64588b	2	pipe_base	10.1-4-g6ba0cc7+5
+tickets.DM-3136-gf90d64588b	2	utils	10.1-2-gd2f4a67+16
+tickets.DM-3136-gf90d64588b	2	afwdata	10.0+29
+tickets.DM-3136-gf90d64588b	2	matplotlib	0.0.1+5
