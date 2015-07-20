@@ -9669,3 +9669,14 @@ feature.SIM-1231.createSNRmodule-g48f58efdba	0	obs_lsstSim	10.1-5-g61f9500+9
 10.1-13-g87604ac	30	pymssql	2.1.1
 10.1-13-g87604ac	30	daf_persistence	10.1-1-g6edbc00+29
 10.1-13-g87604ac	30	obs_lsstSim	10.1-5-g61f9500+41
+10.1-13-g87604ac	31	utils	10.1-2-gd2f4a67+16
+10.1-13-g87604ac	31	sims_catalogs_measures	10.1-3-ga1b9e0a+35
+10.1-13-g87604ac	31	sims_catalogs_generation	10.1-7-g5af4450+7
+10.1-13-g87604ac	31	sims_coordUtils	10.1-4-g4e9645a+52
+10.1-13-g87604ac	31	sims_photUtils	1.0.0-92-g76d04b8+12
+10.1-13-g87604ac	31	sims_data	10.1
+10.1-13-g87604ac	31	palpy	1.6+2
+10.1-13-g87604ac	31	python	0.0.3
+10.1-13-g87604ac	31	pymssql	2.1.1
+10.1-13-g87604ac	31	daf_persistence	10.1-1-g6edbc00+29
+10.1-13-g87604ac	31	obs_lsstSim	10.1-5-g61f9500+42
