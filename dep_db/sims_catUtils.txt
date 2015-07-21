@@ -9691,3 +9691,14 @@ feature.SIM-1231.createSNRmodule-g48f58efdba	0	obs_lsstSim	10.1-5-g61f9500+9
 10.1-13-g87604ac	32	pymssql	2.1.1
 10.1-13-g87604ac	32	daf_persistence	10.1-1-g6edbc00+29
 10.1-13-g87604ac	32	obs_lsstSim	10.1-5-g61f9500+43
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	utils	10.1-2-gd2f4a67+16
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	sims_catalogs_measures	feature.SIM-1230.separate_utils_and_mixins-gb1c02fee92
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	sims_catalogs_generation	feature.SIM-1230.separate_utils_and_mixins-g6e9a49c707
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	sims_coordUtils	feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	sims_photUtils	feature.SIM-1230.separate_utils_and_mixins-g50f1c2792e
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	sims_data	10.1
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	palpy	1.6+2
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	python	0.0.3
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	pymssql	2.1.1
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	daf_persistence	10.1-1-g6edbc00+29
+feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	obs_lsstSim	10.1-5-g61f9500+43

@@ -3770,3 +3770,11 @@ feature.SIM-1150.redesign_astrometry_api-g576299702b	0	afw	10.1-13-g0df5753+4
 10.1-4-g4e9645a	55	palpy	1.6+2
 10.1-4-g4e9645a	55	pyfits	3.2.4.lsst1+3
 10.1-4-g4e9645a	55	afw	10.1-29-g7809e3c
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	sims_utils	feature.SIM-1230.separate_utils_and_mixins-g0950e656ed
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	utils	10.1-2-gd2f4a67+16
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	base	10.1-1-g8080078+17
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	python	0.0.3
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	throughputs	master-ga98b3deed1
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	palpy	1.6+2
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	pyfits	3.2.4.lsst1+3
+feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	afw	10.1-29-g7809e3c

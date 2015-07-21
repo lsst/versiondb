@@ -106,3 +106,6 @@ master-ged354657a3	31	obs_lsstSim	10.1-5-g61f9500+42
 master-ged354657a3	32	GalSim	1.2.lsst2+7
 master-ged354657a3	32	sims_catUtils	10.1-13-g87604ac+32
 master-ged354657a3	32	obs_lsstSim	10.1-5-g61f9500+43
+feature.SIM-1230.separate_utils_and_mixins-g6bd4581513	0	GalSim	1.2.lsst2+7
+feature.SIM-1230.separate_utils_and_mixins-g6bd4581513	0	sims_catUtils	feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0
+feature.SIM-1230.separate_utils_and_mixins-g6bd4581513	0	obs_lsstSim	10.1-5-g61f9500+43

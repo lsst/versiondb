@@ -9874,3 +9874,15 @@ bugfix.SIM-1229-stackers-with-no-data-g0b22057bff	0	obs_lsstSim	10.1-5-g61f9500+
 1.1.1-3-g6aee9bb	15	sims_coordUtils	10.1-4-g4e9645a+55
 1.1.1-3-g6aee9bb	15	sims_dustmaps	10.1
 1.1.1-3-g6aee9bb	15	obs_lsstSim	10.1-5-g61f9500+43
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	base	10.1-1-g8080078+17
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	numpy	0.0.1+5
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	matplotlib	0.0.1+5
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	pyephem	3.7.5.1.lsst1
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	palpy	1.6+2
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	pymssql	2.1.1
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	healpy	1.8.1+6
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	sims_catalogs_generation	feature.SIM-1230.separate_utils_and_mixins-g6e9a49c707
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	sims_photUtils	feature.SIM-1230.separate_utils_and_mixins-g50f1c2792e
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	sims_coordUtils	feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	sims_dustmaps	10.1
+feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	obs_lsstSim	10.1-5-g61f9500+43
