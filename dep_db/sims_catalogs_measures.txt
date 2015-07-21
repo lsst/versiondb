@@ -702,3 +702,7 @@ feature.SIM-1103.rewrite_obs_metadata-gcdc9fbb182	1	sims_catalogs_generation	fea
 feature.SIM-1230.separate_utils_and_mixins-gb1c02fee92	0	utils	10.1-2-gd2f4a67+16
 feature.SIM-1230.separate_utils_and_mixins-gb1c02fee92	0	python	0.0.3
 feature.SIM-1230.separate_utils_and_mixins-gb1c02fee92	0	sims_catalogs_generation	feature.SIM-1230.separate_utils_and_mixins-g6e9a49c707
+10.1-4-g66d1849	0	utils	10.1-2-gd2f4a67+16
+10.1-4-g66d1849	0	python	0.0.3
+10.1-4-g66d1849	0	sims_utils	master-g665d0b5956
+10.1-4-g66d1849	0	sims_catalogs_generation	10.1-8-gf2361ec

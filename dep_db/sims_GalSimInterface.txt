@@ -109,3 +109,10 @@ master-ged354657a3	32	obs_lsstSim	10.1-5-g61f9500+43
 feature.SIM-1230.separate_utils_and_mixins-g6bd4581513	0	GalSim	1.2.lsst2+7
 feature.SIM-1230.separate_utils_and_mixins-g6bd4581513	0	sims_catUtils	feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0
 feature.SIM-1230.separate_utils_and_mixins-g6bd4581513	0	obs_lsstSim	10.1-5-g61f9500+43
+master-g7b5f72c12c	0	GalSim	1.2.lsst2+7
+master-g7b5f72c12c	0	sims_utils	master-g665d0b5956
+master-g7b5f72c12c	0	sims_coordUtils	10.1-5-g13c08b1
+master-g7b5f72c12c	0	sims_catalogs_generation	10.1-8-gf2361ec
+master-g7b5f72c12c	0	sims_catalogs_measures	10.1-4-g66d1849
+master-g7b5f72c12c	0	sims_catUtils	10.1-14-g630110f
+master-g7b5f72c12c	0	obs_lsstSim	10.1-5-g61f9500+43
