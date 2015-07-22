@@ -116,3 +116,10 @@ master-g7b5f72c12c	0	sims_catalogs_generation	10.1-8-gf2361ec
 master-g7b5f72c12c	0	sims_catalogs_measures	10.1-4-g66d1849
 master-g7b5f72c12c	0	sims_catUtils	10.1-14-g630110f
 master-g7b5f72c12c	0	obs_lsstSim	10.1-5-g61f9500+43
+master-g7b5f72c12c	1	GalSim	1.2.lsst2+7
+master-g7b5f72c12c	1	sims_utils	master-g665d0b5956
+master-g7b5f72c12c	1	sims_coordUtils	10.1-5-g13c08b1+1
+master-g7b5f72c12c	1	sims_catalogs_generation	10.1-8-gf2361ec
+master-g7b5f72c12c	1	sims_catalogs_measures	10.1-4-g66d1849
+master-g7b5f72c12c	1	sims_catUtils	10.1-14-g630110f+1
+master-g7b5f72c12c	1	obs_lsstSim	10.1-5-g61f9500+44
