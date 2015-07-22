@@ -151,3 +151,10 @@ master-g7b5f72c12c	5	sims_catalogs_generation	10.1-8-gf2361ec+1
 master-g7b5f72c12c	5	sims_catalogs_measures	10.1-4-g66d1849+1
 master-g7b5f72c12c	5	sims_catUtils	10.1-14-g630110f+5
 master-g7b5f72c12c	5	obs_lsstSim	w.2015.22+2
+sims.w.2015.30	0	GalSim	1.2.lsst2+8
+sims.w.2015.30	0	sims_utils	sims.w.2015.30
+sims.w.2015.30	0	sims_coordUtils	sims.w.2015.30
+sims.w.2015.30	0	sims_catalogs_generation	sims.w.2015.30
+sims.w.2015.30	0	sims_catalogs_measures	sims.w.2015.30
+sims.w.2015.30	0	sims_catUtils	sims.w.2015.30
+sims.w.2015.30	0	obs_lsstSim	w.2015.30

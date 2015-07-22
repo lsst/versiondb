@@ -3810,3 +3810,11 @@ feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	afw	10.1-29-g7809e3c
 10.1-5-g13c08b1	3	palpy	1.6+2
 10.1-5-g13c08b1	3	pyfits	3.2.4.lsst1+3
 10.1-5-g13c08b1	3	afw	w.2015.22+2
+sims.w.2015.30	0	sims_utils	sims.w.2015.30
+sims.w.2015.30	0	utils	w.2015.30
+sims.w.2015.30	0	base	w.2015.30
+sims.w.2015.30	0	python	0.0.3
+sims.w.2015.30	0	throughputs	sims.w.2015.30
+sims.w.2015.30	0	palpy	1.6+2
+sims.w.2015.30	0	pyfits	3.2.4.lsst1+3
+sims.w.2015.30	0	afw	w.2015.30

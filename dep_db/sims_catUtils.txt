@@ -9774,3 +9774,15 @@ feature.SIM-1230.separate_utils_and_mixins-gc62ec23ca0	0	obs_lsstSim	10.1-5-g61f
 10.1-14-g630110f	5	pymssql	2.1.1
 10.1-14-g630110f	5	daf_persistence	w.2015.22+2
 10.1-14-g630110f	5	obs_lsstSim	w.2015.22+2
+sims.w.2015.30	0	utils	w.2015.30
+sims.w.2015.30	0	sims_utils	sims.w.2015.30
+sims.w.2015.30	0	sims_catalogs_measures	sims.w.2015.30
+sims.w.2015.30	0	sims_catalogs_generation	sims.w.2015.30
+sims.w.2015.30	0	sims_coordUtils	sims.w.2015.30
+sims.w.2015.30	0	sims_photUtils	sims.w.2015.30
+sims.w.2015.30	0	sims_data	sims.w.2015.30
+sims.w.2015.30	0	palpy	1.6+2
+sims.w.2015.30	0	python	0.0.3
+sims.w.2015.30	0	pymssql	2.1.1
+sims.w.2015.30	0	daf_persistence	w.2015.30
+sims.w.2015.30	0	obs_lsstSim	w.2015.30

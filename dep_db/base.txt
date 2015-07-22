@@ -278,3 +278,7 @@ w.2015.22	1	doxygen	1.8.5
 10.1-1-g8080078	17	sconsUtils	10.1-6-g3ff3088
 10.1-1-g8080078	17	swig	3.0.2.lsst1
 10.1-1-g8080078	17	doxygen	1.8.5
+w.2015.30	0	boost	1.55.0.1.lsst2+3
+w.2015.30	0	sconsUtils	w.2015.30
+w.2015.30	0	swig	3.0.2.lsst1
+w.2015.30	0	doxygen	1.8.5

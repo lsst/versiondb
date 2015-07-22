@@ -544,3 +544,7 @@ feature.SIM-1230.separate_utils_and_mixins-g6e9a49c707	0	daf_persistence	10.1-1-
 10.1-8-gf2361ec	1	python	0.0.3
 10.1-8-gf2361ec	1	sims_utils	master-g665d0b5956+1
 10.1-8-gf2361ec	1	daf_persistence	w.2015.22+2
+sims.w.2015.30	0	utils	w.2015.30
+sims.w.2015.30	0	python	0.0.3
+sims.w.2015.30	0	sims_utils	sims.w.2015.30
+sims.w.2015.30	0	daf_persistence	w.2015.30
