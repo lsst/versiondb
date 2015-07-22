@@ -5282,3 +5282,11 @@ tickets.DM-3114-g825c34236a	0	utils	10.1-2-gd2f4a67+16
 10.1-6-g89a9769	30	mysqlpython	1.2.3+17
 10.1-6-g89a9769	30	pipe_tasks	tickets.DM-3106-g9c0c871347+2
 10.1-6-g89a9769	30	utils	10.1-2-gd2f4a67+16
+10.1-6-g89a9769	31	pex_policy	10.1-2-g6cb1d70+19
+10.1-6-g89a9769	31	daf_butlerUtils	10.1-3-g302a9ed+60
+10.1-6-g89a9769	31	afw	tickets.DM-3106-g6ac537b45a
+10.1-6-g89a9769	31	meas_algorithms	tickets.DM-3106-g000e73e26e+3
+10.1-6-g89a9769	31	meas_astrom	10.1-15-gb12bc2b+11
+10.1-6-g89a9769	31	mysqlpython	1.2.3+17
+10.1-6-g89a9769	31	pipe_tasks	tickets.DM-3106-g9c0c871347+3
+10.1-6-g89a9769	31	utils	10.1-2-gd2f4a67+16

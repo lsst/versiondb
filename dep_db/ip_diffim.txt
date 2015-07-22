@@ -4779,3 +4779,12 @@ tickets.DM-3106-g2260df8479	2	pipe_base	10.1-4-g6ba0cc7+7
 tickets.DM-3106-g2260df8479	2	utils	10.1-2-gd2f4a67+16
 tickets.DM-3106-g2260df8479	2	afwdata	10.0+29
 tickets.DM-3106-g2260df8479	2	matplotlib	0.0.1+5
+tickets.DM-3106-gfd87d4bf2b	0	afw	tickets.DM-3106-g6ac537b45a
+tickets.DM-3106-gfd87d4bf2b	0	meas_base	tickets.DM-3106-g96194bc2d4+2
+tickets.DM-3106-gfd87d4bf2b	0	meas_deblender	10.1-4-gc4924a8+32
+tickets.DM-3106-gfd87d4bf2b	0	numpy	0.0.1+5
+tickets.DM-3106-gfd87d4bf2b	0	pex_config	10.1-1-g4b4ae59+19
+tickets.DM-3106-gfd87d4bf2b	0	pipe_base	10.1-4-g6ba0cc7+7
+tickets.DM-3106-gfd87d4bf2b	0	utils	10.1-2-gd2f4a67+16
+tickets.DM-3106-gfd87d4bf2b	0	afwdata	10.0+29
+tickets.DM-3106-gfd87d4bf2b	0	matplotlib	0.0.1+5
