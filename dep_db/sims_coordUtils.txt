@@ -3794,3 +3794,11 @@ feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	afw	10.1-29-g7809e3c
 10.1-5-g13c08b1	1	palpy	1.6+2
 10.1-5-g13c08b1	1	pyfits	3.2.4.lsst1+3
 10.1-5-g13c08b1	1	afw	tickets.DM-3106-g6ac537b45a
+10.1-5-g13c08b1	2	sims_utils	master-g665d0b5956
+10.1-5-g13c08b1	2	utils	10.1-2-gd2f4a67+16
+10.1-5-g13c08b1	2	base	10.1-1-g8080078+17
+10.1-5-g13c08b1	2	python	0.0.3
+10.1-5-g13c08b1	2	throughputs	master-ga98b3deed1
+10.1-5-g13c08b1	2	palpy	1.6+2
+10.1-5-g13c08b1	2	pyfits	3.2.4.lsst1+3
+10.1-5-g13c08b1	2	afw	10.1-30-ga6edc06

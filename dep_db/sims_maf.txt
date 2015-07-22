@@ -9950,3 +9950,16 @@ feature.SIM-1230.separate_utils_and_mixins-g242540ac88	0	obs_lsstSim	10.1-5-g61f
 1.1.1-5-g0f14803	3	sims_coordUtils	10.1-5-g13c08b1+1
 1.1.1-5-g0f14803	3	sims_dustmaps	10.1
 1.1.1-5-g0f14803	3	obs_lsstSim	10.1-5-g61f9500+46
+1.1.1-5-g0f14803	4	base	10.1-1-g8080078+17
+1.1.1-5-g0f14803	4	numpy	0.0.1+5
+1.1.1-5-g0f14803	4	matplotlib	0.0.1+5
+1.1.1-5-g0f14803	4	pyephem	3.7.5.1.lsst1
+1.1.1-5-g0f14803	4	palpy	1.6+2
+1.1.1-5-g0f14803	4	pymssql	2.1.1
+1.1.1-5-g0f14803	4	healpy	1.8.1+6
+1.1.1-5-g0f14803	4	sims_utils	master-g665d0b5956
+1.1.1-5-g0f14803	4	sims_catalogs_generation	10.1-8-gf2361ec
+1.1.1-5-g0f14803	4	sims_photUtils	1.0.0-93-gc034e70
+1.1.1-5-g0f14803	4	sims_coordUtils	10.1-5-g13c08b1+2
+1.1.1-5-g0f14803	4	sims_dustmaps	10.1
+1.1.1-5-g0f14803	4	obs_lsstSim	10.1-5-g61f9500+47
