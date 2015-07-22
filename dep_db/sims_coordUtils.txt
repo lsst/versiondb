@@ -3802,3 +3802,11 @@ feature.SIM-1230.separate_utils_and_mixins-g9672e6a8e5	0	afw	10.1-29-g7809e3c
 10.1-5-g13c08b1	2	palpy	1.6+2
 10.1-5-g13c08b1	2	pyfits	3.2.4.lsst1+3
 10.1-5-g13c08b1	2	afw	10.1-30-ga6edc06
+10.1-5-g13c08b1	3	sims_utils	master-g665d0b5956+1
+10.1-5-g13c08b1	3	utils	w.2015.22+1
+10.1-5-g13c08b1	3	base	w.2015.22+1
+10.1-5-g13c08b1	3	python	0.0.3
+10.1-5-g13c08b1	3	throughputs	master-ga98b3deed1
+10.1-5-g13c08b1	3	palpy	1.6+2
+10.1-5-g13c08b1	3	pyfits	3.2.4.lsst1+3
+10.1-5-g13c08b1	3	afw	w.2015.22+2

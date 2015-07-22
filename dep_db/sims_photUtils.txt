@@ -5210,3 +5210,10 @@ feature.SIM-1230.separate_utils_and_mixins-g50f1c2792e	0	pyfits	3.2.4.lsst1+3
 1.0.0-93-gc034e70	0	python	0.0.3
 1.0.0-93-gc034e70	0	throughputs	master-ga98b3deed1
 1.0.0-93-gc034e70	0	pyfits	3.2.4.lsst1+3
+simsPhotUtils.test	0	utils	w.2015.22+1
+simsPhotUtils.test	0	sims_sed_library	2014.10.06
+simsPhotUtils.test	0	sims_dustmaps	10.1
+simsPhotUtils.test	0	sims_utils	master-g665d0b5956+1
+simsPhotUtils.test	0	python	0.0.3
+simsPhotUtils.test	0	throughputs	master-ga98b3deed1
+simsPhotUtils.test	0	pyfits	3.2.4.lsst1+3
