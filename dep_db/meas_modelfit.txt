@@ -3304,3 +3304,9 @@ tickets.DM-3106-g59c53897eb	4	matplotlib	0.0.1+5
 10.1-2-g387f02e	1	shapelet	10.1+92
 10.1-2-g387f02e	1	pipe_tasks	10.1-22-g5bea46f+1
 10.1-2-g387f02e	1	matplotlib	0.0.1+5
+10.1-2-g387f02e	2	afw	10.1-31-gfef3cbd
+10.1-2-g387f02e	2	meas_algorithms	10.1-11-g42d68ec+1
+10.1-2-g387f02e	2	meas_base	10.1-10-gd7ab949+1
+10.1-2-g387f02e	2	shapelet	10.1+92
+10.1-2-g387f02e	2	pipe_tasks	10.1-22-g5bea46f+2
+10.1-2-g387f02e	2	matplotlib	0.0.1+5

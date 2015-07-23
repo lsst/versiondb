@@ -10002,3 +10002,16 @@ sims.w.2015.30	0	obs_lsstSim	w.2015.30
 1.1.1-5-g0f14803	6	sims_coordUtils	10.1-5-g13c08b1+4
 1.1.1-5-g0f14803	6	sims_dustmaps	10.1
 1.1.1-5-g0f14803	6	obs_lsstSim	10.1-5-g61f9500+48
+1.1.1-5-g0f14803	7	base	10.1-1-g8080078+17
+1.1.1-5-g0f14803	7	numpy	0.0.1+5
+1.1.1-5-g0f14803	7	matplotlib	0.0.1+5
+1.1.1-5-g0f14803	7	pyephem	3.7.5.1.lsst1
+1.1.1-5-g0f14803	7	palpy	1.6+2
+1.1.1-5-g0f14803	7	pymssql	2.1.1
+1.1.1-5-g0f14803	7	healpy	1.8.1+6
+1.1.1-5-g0f14803	7	sims_utils	master-g665d0b5956
+1.1.1-5-g0f14803	7	sims_catalogs_generation	10.1-8-gf2361ec
+1.1.1-5-g0f14803	7	sims_photUtils	1.0.0-93-gc034e70
+1.1.1-5-g0f14803	7	sims_coordUtils	10.1-5-g13c08b1+4
+1.1.1-5-g0f14803	7	sims_dustmaps	10.1
+1.1.1-5-g0f14803	7	obs_lsstSim	10.1-5-g61f9500+49
