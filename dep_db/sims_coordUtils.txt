@@ -3818,3 +3818,11 @@ sims.w.2015.30	0	throughputs	sims.w.2015.30
 sims.w.2015.30	0	palpy	1.6+2
 sims.w.2015.30	0	pyfits	3.2.4.lsst1+3
 sims.w.2015.30	0	afw	w.2015.30
+10.1-5-g13c08b1	4	sims_utils	master-g665d0b5956
+10.1-5-g13c08b1	4	utils	10.1-2-gd2f4a67+16
+10.1-5-g13c08b1	4	base	10.1-1-g8080078+17
+10.1-5-g13c08b1	4	python	0.0.3
+10.1-5-g13c08b1	4	throughputs	master-ga98b3deed1
+10.1-5-g13c08b1	4	palpy	1.6+2
+10.1-5-g13c08b1	4	pyfits	3.2.4.lsst1+3
+10.1-5-g13c08b1	4	afw	10.1-31-gfef3cbd

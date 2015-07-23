@@ -6624,3 +6624,10 @@ sims.w.2015.30	0	sims_catalogs_generation	sims.w.2015.30
 sims.w.2015.30	0	sims_catalogs_measures	sims.w.2015.30
 sims.w.2015.30	0	sims_sed_library	sims.w.2015.30
 sims.w.2015.30	0	sims_dustmaps	sims.w.2015.30
+master-gac1855abae	52	sims_maf	1.1.1-5-g0f14803+6
+master-gac1855abae	52	sims_GalSimInterface	master-g7b5f72c12c+6
+master-gac1855abae	52	sims_catUtils	10.1-14-g630110f+6
+master-gac1855abae	52	sims_catalogs_generation	10.1-8-gf2361ec
+master-gac1855abae	52	sims_catalogs_measures	10.1-4-g66d1849
+master-gac1855abae	52	sims_sed_library	2014.10.06
+master-gac1855abae	52	sims_dustmaps	10.1
