@@ -60,3 +60,7 @@ release.3.3.x-g4865ed51ec	0	lsst	10.1-1-g84e9557+13
 3.3.1	2	mysqlpython	1.2.3+17
 3.3.1	2	palpy	1.6+2
 3.3.1	2	lsst	10.1-1-g84e9557+17
+bugfix.SIM-1271_conda_path_fix-ge9520c2dde	0	mysql	5.1.65.lsst2
+bugfix.SIM-1271_conda_path_fix-ge9520c2dde	0	mysqlpython	1.2.3+17
+bugfix.SIM-1271_conda_path_fix-ge9520c2dde	0	palpy	1.6+2
+bugfix.SIM-1271_conda_path_fix-ge9520c2dde	0	lsst	w.2015.30
