@@ -5660,3 +5660,13 @@ w.2015.30	1	matplotlib	0.0.1+5
 10.1-18-gec00fc6	1	astrometry_net	0.50.1+6
 10.1-18-gec00fc6	1	numpy	0.0.1+5
 10.1-18-gec00fc6	1	matplotlib	0.0.1+5
+10.1-18-gec00fc6	2	afw	10.1-32-g94a7370
+10.1-18-gec00fc6	2	meas_algorithms	tickets.DM-3182-gd57f7f942d
+10.1-18-gec00fc6	2	pex_logging	10.1-2-gf538462+26
+10.1-18-gec00fc6	2	pex_config	10.1-1-g4b4ae59+21
+10.1-18-gec00fc6	2	pipe_base	10.1-4-g6ba0cc7+12
+10.1-18-gec00fc6	2	utils	10.1-2-gd2f4a67+18
+10.1-18-gec00fc6	2	wcslib	4.14+7
+10.1-18-gec00fc6	2	astrometry_net	0.50.1+6
+10.1-18-gec00fc6	2	numpy	0.0.1+5
+10.1-18-gec00fc6	2	matplotlib	0.0.1+5
