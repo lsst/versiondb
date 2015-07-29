@@ -2382,3 +2382,8 @@ tickets.DM-3243-gb91a6b8137	0	pex_logging	10.1-2-gf538462+26
 tickets.DM-3243-gb91a6b8137	0	pipe_base	10.1-4-g6ba0cc7+13
 tickets.DM-3243-gb91a6b8137	0	meas_base	10.1-11-g4e9af75+1
 tickets.DM-3243-gb91a6b8137	0	utils	10.1-2-gd2f4a67+18
+10.1-12-g5042c5c	1	afw	10.1-32-g94a7370
+10.1-12-g5042c5c	1	pex_logging	10.1-2-gf538462+26
+10.1-12-g5042c5c	1	pipe_base	10.1-4-g6ba0cc7+12
+10.1-12-g5042c5c	1	meas_base	tickets.DM-3114-g9123f12126
+10.1-12-g5042c5c	1	utils	10.1-2-gd2f4a67+18

@@ -6612,3 +6612,13 @@ w.2015.30	1	utils	w.2015.30+1
 10.1-5-g61f9500	57	pipe_tasks	10.1-25-gc5aa7ad+1
 10.1-5-g61f9500	57	mysqlpython	1.2.3+17
 10.1-5-g61f9500	57	utils	10.1-2-gd2f4a67+18
+10.1-5-g61f9500	58	daf_base	10.1-3-g17d1f92+5
+10.1-5-g61f9500	58	pex_policy	10.1-2-g6cb1d70+21
+10.1-5-g61f9500	58	afw	10.1-32-g94a7370
+10.1-5-g61f9500	58	daf_persistence	10.1-1-g6edbc00+31
+10.1-5-g61f9500	58	daf_butlerUtils	10.1-3-g302a9ed+65
+10.1-5-g61f9500	58	meas_algorithms	10.1-12-g5042c5c+1
+10.1-5-g61f9500	58	ip_isr	10.1-3-g60126f8+76
+10.1-5-g61f9500	58	pipe_tasks	tickets.DM-3114-gc433be521a
+10.1-5-g61f9500	58	mysqlpython	1.2.3+17
+10.1-5-g61f9500	58	utils	10.1-2-gd2f4a67+18
