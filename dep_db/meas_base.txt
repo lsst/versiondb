@@ -2609,3 +2609,8 @@ tickets.DM-3182-gb6d951f3ea	0	coadd_utils	10.1-3-g78e15c3+6
 10.1-11-g4e9af75	0	daf_base	10.1-3-g17d1f92+5
 10.1-11-g4e9af75	0	pex_config	10.1-1-g4b4ae59+21
 10.1-11-g4e9af75	0	coadd_utils	10.1-3-g78e15c3+6
+10.1-11-g4e9af75	1	afw	tickets.DM-3243-gb42f37d30f
+10.1-11-g4e9af75	1	pipe_base	10.1-4-g6ba0cc7+13
+10.1-11-g4e9af75	1	daf_base	10.1-3-g17d1f92+5
+10.1-11-g4e9af75	1	pex_config	10.1-1-g4b4ae59+21
+10.1-11-g4e9af75	1	coadd_utils	10.1-3-g78e15c3+7

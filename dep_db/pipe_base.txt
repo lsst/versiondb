@@ -2470,3 +2470,9 @@ w.2015.30	1	obs_test	w.2015.30+1
 10.1-4-g6ba0cc7	12	utils	10.1-2-gd2f4a67+18
 10.1-4-g6ba0cc7	12	afw	10.1-32-g94a7370
 10.1-4-g6ba0cc7	12	obs_test	10.1-4-g461b62d+65
+10.1-4-g6ba0cc7	13	daf_persistence	10.1-1-g6edbc00+31
+10.1-4-g6ba0cc7	13	pex_logging	10.1-2-gf538462+26
+10.1-4-g6ba0cc7	13	pex_config	10.1-1-g4b4ae59+21
+10.1-4-g6ba0cc7	13	utils	10.1-2-gd2f4a67+18
+10.1-4-g6ba0cc7	13	afw	tickets.DM-3243-gb42f37d30f
+10.1-4-g6ba0cc7	13	obs_test	10.1-4-g461b62d+66
