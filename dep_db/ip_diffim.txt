@@ -4896,3 +4896,12 @@ tickets.DM-3182-g965c622e50	0	matplotlib	0.0.1+5
 10.1-8-gd1c1288	2	utils	10.1-2-gd2f4a67+18
 10.1-8-gd1c1288	2	afwdata	10.0+32
 10.1-8-gd1c1288	2	matplotlib	0.0.1+5
+10.1-8-gd1c1288	3	afw	tickets.DM-3243-gb42f37d30f
+10.1-8-gd1c1288	3	meas_base	10.1-11-g4e9af75+1
+10.1-8-gd1c1288	3	meas_deblender	10.1-4-gc4924a8+42
+10.1-8-gd1c1288	3	numpy	0.0.1+5
+10.1-8-gd1c1288	3	pex_config	10.1-1-g4b4ae59+21
+10.1-8-gd1c1288	3	pipe_base	10.1-4-g6ba0cc7+13
+10.1-8-gd1c1288	3	utils	10.1-2-gd2f4a67+18
+10.1-8-gd1c1288	3	afwdata	10.0+32
+10.1-8-gd1c1288	3	matplotlib	0.0.1+5
