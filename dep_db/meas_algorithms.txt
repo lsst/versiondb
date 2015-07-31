@@ -2412,3 +2412,8 @@ tickets.DM-3243-ge97a5d251a	0	utils	10.1-2-gd2f4a67+18
 10.1-14-g3f31528	0	pipe_base	10.1-4-g6ba0cc7+15
 10.1-14-g3f31528	0	meas_base	10.1-12-ge6126f6+2
 10.1-14-g3f31528	0	utils	10.1-2-gd2f4a67+18
+10.1-14-g3f31528	1	afw	10.1-33-g17a53c7
+10.1-14-g3f31528	1	pex_logging	10.1-2-gf538462+26
+10.1-14-g3f31528	1	pipe_base	10.1-4-g6ba0cc7+15
+10.1-14-g3f31528	1	meas_base	u.lauren.DM-1954-gbb7d00392c
+10.1-14-g3f31528	1	utils	10.1-2-gd2f4a67+18
