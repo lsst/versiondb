@@ -7,3 +7,12 @@ tickets.DM-2961-g6ff9fc837c	0	utils	10.1-2-gd2f4a67+18
 tickets.DM-2961-g6ff9fc837c	0	meas_base	10.1-15-gbaf1e45+1
 tickets.DM-2961-g6ff9fc837c	0	meas_algorithms	10.1-17-g7ac7aee+1
 tickets.DM-2961-g6ff9fc837c	0	psfex	tickets.DM-2961-g61fbe4ed69
+master-g2703b02be2	0	afw	10.1-37-gaedf466+2
+master-g2703b02be2	0	boost	1.55.0.1.lsst2+3
+master-g2703b02be2	0	daf_base	10.1-3-g17d1f92+5
+master-g2703b02be2	0	fftw	3.3.3-1-g8fdba61
+master-g2703b02be2	0	swig	3.0.2.lsst1
+master-g2703b02be2	0	utils	10.1-2-gd2f4a67+18
+master-g2703b02be2	0	meas_base	10.1-15-gbaf1e45+2
+master-g2703b02be2	0	meas_algorithms	10.1-17-g7ac7aee+2
+master-g2703b02be2	0	psfex	master-g5b753a1257

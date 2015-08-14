@@ -5566,3 +5566,11 @@ tickets.DM-2961-gc3a0f5c615	0	obs_sdss	10.1-8-g9b34481+19
 tickets.DM-2961-gc3a0f5c615	0	obs_test	10.1-4-g461b62d+74
 tickets.DM-2961-gc3a0f5c615	0	display_ds9	master-gdc0b65d264+3
 tickets.DM-2961-gc3a0f5c615	0	meas_extensions_psfex	tickets.DM-2961-g6ff9fc837c
+10.1-3-gc3ee848	0	meas_deblender	10.1-5-g53dd2fd+10
+10.1-3-gc3ee848	0	meas_modelfit	10.1-3-gc90be93+4
+10.1-3-gc3ee848	0	pipe_tasks	10.1-35-ga8dd78f+2
+10.1-3-gc3ee848	0	obs_lsstSim	10.1-5-g61f9500+90
+10.1-3-gc3ee848	0	obs_sdss	10.1-8-g9b34481+20
+10.1-3-gc3ee848	0	obs_test	10.1-4-g461b62d+75
+10.1-3-gc3ee848	0	display_ds9	master-gdc0b65d264+4
+10.1-3-gc3ee848	0	meas_extensions_psfex	master-g2703b02be2
