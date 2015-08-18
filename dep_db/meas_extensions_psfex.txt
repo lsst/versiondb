@@ -52,3 +52,12 @@ w.2015.33	0	utils	w.2015.33
 w.2015.33	0	meas_base	w.2015.33
 w.2015.33	0	meas_algorithms	w.2015.33
 w.2015.33	0	psfex	w.2015.33
+master-g3098fa5977	2	afw	10.1-39-gbd5191c
+master-g3098fa5977	2	boost	1.55.0.1.lsst2+3
+master-g3098fa5977	2	daf_base	10.1-3-g17d1f92+5
+master-g3098fa5977	2	fftw	3.3.3-1-g8fdba61
+master-g3098fa5977	2	swig	3.0.2.lsst1
+master-g3098fa5977	2	utils	10.1-2-gd2f4a67+18
+master-g3098fa5977	2	meas_base	10.1-17-g6dad7d4
+master-g3098fa5977	2	meas_algorithms	10.1-17-g7ac7aee+5
+master-g3098fa5977	2	psfex	master-g5b753a1257
