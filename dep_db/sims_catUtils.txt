@@ -10410,3 +10410,15 @@ sims.w.2015.30	0	obs_lsstSim	w.2015.30
 2.0	46	pymssql	2.1.1
 2.0	46	daf_persistence	10.1-1-g6edbc00+31
 2.0	46	obs_lsstSim	10.1-5-g61f9500+96
+2.0-2-g6804757	0	utils	10.1-2-gd2f4a67+18
+2.0-2-g6804757	0	sims_utils	2.0-1-g103d522
+2.0-2-g6804757	0	sims_catalogs_measures	2.0-2-gef33c62
+2.0-2-g6804757	0	sims_catalogs_generation	2.0+3
+2.0-2-g6804757	0	sims_coordUtils	2.0-1-g5ac8b49
+2.0-2-g6804757	0	sims_photUtils	2.0-2-gaef155b
+2.0-2-g6804757	0	sims_data	10.1
+2.0-2-g6804757	0	palpy	1.6+2
+2.0-2-g6804757	0	python	0.0.3
+2.0-2-g6804757	0	pymssql	2.1.1
+2.0-2-g6804757	0	daf_persistence	10.1-1-g6edbc00+31
+2.0-2-g6804757	0	obs_lsstSim	10.1-5-g61f9500+97
