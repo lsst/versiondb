@@ -1938,3 +1938,9 @@ w.2015.35	0	pex_policy	w.2015.35
 w.2015.35	0	daf_persistence	w.2015.35
 w.2015.35	0	ctrl_events	w.2015.35
 w.2015.35	0	ctrl_provenance	w.2015.35
+10.1	40	cat	10.1+39
+10.1	40	utils	10.1-2-gd2f4a67+19
+10.1	40	pex_policy	10.1-2-g6cb1d70+22
+10.1	40	daf_persistence	10.1-1-g6edbc00+32
+10.1	40	ctrl_events	10.1-1-gfd4a00a+7
+10.1	40	ctrl_provenance	10.0+126
