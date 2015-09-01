@@ -603,3 +603,12 @@ master-g7b5f72c12c	10	obs_lsstSim	10.1-5-g61f9500+52
 2.0.1	0	sims_catalogs_measures	2.0.1
 2.0.1	0	sims_catUtils	2.0.1
 2.0.1	0	obs_lsstSim	w.2015.33
+2.0.1	1	GalSim	1.2.lsst2+12
+2.0.1	1	meas_astrom	10.1-26-g3b042b9+2
+2.0.1	1	afw	10.1-41-g2cc2aaf+1
+2.0.1	1	sims_utils	2.0.1+1
+2.0.1	1	sims_coordUtils	2.0.1+1
+2.0.1	1	sims_catalogs_generation	2.0.1+1
+2.0.1	1	sims_catalogs_measures	2.0.1+1
+2.0.1	1	sims_catUtils	2.0.1+1
+2.0.1	1	obs_lsstSim	10.1-5-g61f9500+99
