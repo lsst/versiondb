@@ -1962,3 +1962,9 @@ w.2015.36	0	ctrl_provenance	w.2015.36
 10.1-1-g047f915	0	daf_persistence	10.1-1-g6edbc00+32
 10.1-1-g047f915	0	ctrl_events	10.1-1-gfd4a00a+8
 10.1-1-g047f915	0	ctrl_provenance	10.0+127
+10.1-1-g047f915	1	cat	10.1+41
+10.1-1-g047f915	1	utils	10.1-2-gd2f4a67+20
+10.1-1-g047f915	1	pex_policy	10.1-2-g6cb1d70+23
+10.1-1-g047f915	1	daf_persistence	10.1-1-g6edbc00+33
+10.1-1-g047f915	1	ctrl_events	10.1-1-gfd4a00a+9
+10.1-1-g047f915	1	ctrl_provenance	10.0+128
