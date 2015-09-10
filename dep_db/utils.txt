@@ -426,3 +426,7 @@ w.2015.36	0	numpy	0.0.1+5
 11.0.rc2	0	pex_exceptions	10.0+40
 11.0.rc2	0	boost	1.55.0.1.lsst2-1-g460b0a9
 11.0.rc2	0	numpy	0.0.1+5
+11.0.rc2	1	base	11.0.rc2
+11.0.rc2	1	pex_exceptions	11.0.rc2
+11.0.rc2	1	boost	1.55.0.1.lsst2-1-g460b0a9
+11.0.rc2	1	numpy	0.0.1+5

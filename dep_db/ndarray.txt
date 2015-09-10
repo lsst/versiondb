@@ -600,3 +600,10 @@ w.2015.36	0	fftw	w.2015.36
 10.1	29	base	11.0.rc2
 10.1	29	swig	3.0.2.lsst1
 10.1	29	fftw	u.darko.DM-326-g6d2b2eaa92
+11.0.rc2	0	boost	1.55.0.1.lsst2-1-g460b0a9
+11.0.rc2	0	python	0.0.3
+11.0.rc2	0	numpy	0.0.1+5
+11.0.rc2	0	eigen	3.2.0
+11.0.rc2	0	base	11.0.rc2
+11.0.rc2	0	swig	3.0.2.lsst1
+11.0.rc2	0	fftw	11.0.rc2
