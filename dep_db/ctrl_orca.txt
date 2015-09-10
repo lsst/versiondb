@@ -1974,3 +1974,9 @@ w.2015.36	0	ctrl_provenance	w.2015.36
 10.1-1-g047f915	2	daf_persistence	10.1-1-g6edbc00+34
 10.1-1-g047f915	2	ctrl_events	10.1-1-gfd4a00a+10
 10.1-1-g047f915	2	ctrl_provenance	10.0+129
+11.0.rc2	0	cat	10.1+43
+11.0.rc2	0	utils	11.0.rc2
+11.0.rc2	0	pex_policy	11.0.rc2
+11.0.rc2	0	daf_persistence	11.0.rc2
+11.0.rc2	0	ctrl_events	11.0.rc2
+11.0.rc2	0	ctrl_provenance	10.0+130
