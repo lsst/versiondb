@@ -502,3 +502,9 @@ w.2015.36	0	mysqlpython	1.2.3+17
 11.0.rc2	0	dax_imgserv	11.0.rc2
 11.0.rc2	0	dax_metaserv	11.0.rc2
 11.0.rc2	0	mysqlpython	1.2.3+17
+11.0.rc2	1	db	10.1+37
+11.0.rc2	1	flask	0.10.1+11
+11.0.rc2	1	dax_dbserv	11.0.rc2+1
+11.0.rc2	1	dax_imgserv	11.0.rc2+1
+11.0.rc2	1	dax_metaserv	11.0.rc2+1
+11.0.rc2	1	mysqlpython	1.2.3+18

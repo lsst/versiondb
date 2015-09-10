@@ -1980,3 +1980,9 @@ w.2015.36	0	ctrl_provenance	w.2015.36
 11.0.rc2	0	daf_persistence	11.0.rc2
 11.0.rc2	0	ctrl_events	11.0.rc2
 11.0.rc2	0	ctrl_provenance	10.0+130
+11.0.rc2	1	cat	10.1+44
+11.0.rc2	1	utils	11.0.rc2
+11.0.rc2	1	pex_policy	11.0.rc2
+11.0.rc2	1	daf_persistence	11.0.rc2+1
+11.0.rc2	1	ctrl_events	11.0.rc2+1
+11.0.rc2	1	ctrl_provenance	10.0+131

@@ -418,3 +418,6 @@ w.2015.36	0	pex_policy	w.2015.36
 11.0.rc2	0	mysqlclient	5.1.73.lsst1-1-gb8bcc43
 11.0.rc2	0	pex_logging	11.0.rc2
 11.0.rc2	0	pex_policy	11.0.rc2
+11.0.rc2	1	mysqlclient	u.darko.DM-326-g0fc7b5f02e
+11.0.rc2	1	pex_logging	11.0.rc2
+11.0.rc2	1	pex_policy	11.0.rc2

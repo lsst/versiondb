@@ -31,3 +31,6 @@ master-g7ed4f52a14	0	fftw	3.3.4
 11.0.rc2	0	gsl	1.16.lsst1
 11.0.rc2	0	sconsUtils	11.0.rc2
 11.0.rc2	0	fftw	11.0.rc2
+11.0.rc2	1	gsl	u.darko.DM-326-gf8ea60beb8
+11.0.rc2	1	sconsUtils	11.0.rc2
+11.0.rc2	1	fftw	u.darko.DM-326-g6d2b2eaa92
