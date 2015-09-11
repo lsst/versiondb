@@ -1992,3 +1992,9 @@ w.2015.36	0	ctrl_provenance	w.2015.36
 11.0.rc2	2	daf_persistence	11.0.rc2+2
 11.0.rc2	2	ctrl_events	11.0.rc2+2
 11.0.rc2	2	ctrl_provenance	11.0.rc2
+11.0.rc2	3	cat	10.1+45
+11.0.rc2	3	utils	11.0.rc2
+11.0.rc2	3	pex_policy	11.0.rc2
+11.0.rc2	3	daf_persistence	11.0.rc2+3
+11.0.rc2	3	ctrl_events	11.0.rc2+3
+11.0.rc2	3	ctrl_provenance	10.0+132

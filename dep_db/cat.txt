@@ -1983,3 +1983,14 @@ w.2015.36	0	pex_exceptions	w.2015.36
 11.0.rc2	0	daf_persistence	11.0.rc2+2
 11.0.rc2	0	utils	11.0.rc2+1
 11.0.rc2	0	pex_exceptions	11.0.rc2
+10.1	45	python	0.0.3
+10.1	45	mysqlclient	5.1.73.lsst2
+10.1	45	mysqlpython	1.2.3+19
+10.1	45	db	10.1+38
+10.1	45	log	11.0.rc2+2
+10.1	45	boost	1.55.0.1.lsst2-1-g460b0a9
+10.1	45	pex_policy	11.0.rc2
+10.1	45	daf_base	11.0.rc2
+10.1	45	daf_persistence	11.0.rc2+3
+10.1	45	utils	11.0.rc2
+10.1	45	pex_exceptions	10.0+40
