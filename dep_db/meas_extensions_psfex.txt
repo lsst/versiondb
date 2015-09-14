@@ -259,3 +259,12 @@ master-g92a2a2a0a0	5	psfex	master-g7ed4f52a14
 11.0.rc2	7	meas_base	11.0.rc2+7
 11.0.rc2	7	meas_algorithms	11.0.rc2-1-gc0593fd+4
 11.0.rc2	7	psfex	11.0.rc2+4
+11.0.rc2	8	afw	11.0.rc2-1-gf3aa81e+4
+11.0.rc2	8	boost	1.59.lsst1
+11.0.rc2	8	daf_base	11.0.rc2+3
+11.0.rc2	8	fftw	3.3.4.lsst1
+11.0.rc2	8	swig	3.0.2.lsst1
+11.0.rc2	8	utils	11.0.rc2+3
+11.0.rc2	8	meas_base	11.0.rc2+8
+11.0.rc2	8	meas_algorithms	tickets.DM-3815-intermittent-build-failure-gd7457c9d58
+11.0.rc2	8	psfex	11.0.rc2+4

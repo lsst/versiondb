@@ -1262,3 +1262,5 @@ w.2015.36	0	pipe_base	w.2015.36
 11.0.rc2	6	pipe_base	11.0.rc2+6
 11.0.rc2	7	meas_algorithms	11.0.rc2-1-gc0593fd+4
 11.0.rc2	7	pipe_base	11.0.rc2+7
+11.0.rc2	8	meas_algorithms	tickets.DM-3815-intermittent-build-failure-gd7457c9d58
+11.0.rc2	8	pipe_base	11.0.rc2+8

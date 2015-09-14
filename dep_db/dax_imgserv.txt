@@ -1078,3 +1078,15 @@ w.2015.36	0	skymap	w.2015.36
 11.0.rc2	7	mysqlpython	1.2.3+19
 11.0.rc2	7	sconsUtils	tickets.DM-3829-gecefb30ac6
 11.0.rc2	7	skymap	10.0+277
+11.0.rc2	8	afw	11.0.rc2-1-gf3aa81e+4
+11.0.rc2	8	base	11.0.rc2+2
+11.0.rc2	8	boost	1.59.lsst1
+11.0.rc2	8	cat	10.1+47
+11.0.rc2	8	daf_base	11.0.rc2+3
+11.0.rc2	8	db	10.1+40
+11.0.rc2	8	flask	0.10.1+11
+11.0.rc2	8	log	11.0.rc2+4
+11.0.rc2	8	obs_sdss	11.0.rc2+8
+11.0.rc2	8	mysqlpython	1.2.3+19
+11.0.rc2	8	sconsUtils	tickets.DM-3829-gecefb30ac6
+11.0.rc2	8	skymap	10.0+278
