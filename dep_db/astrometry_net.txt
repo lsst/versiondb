@@ -60,3 +60,7 @@ master-gdee887dc5d	0	numpy	0.0.1+2
 0.50.1	8	wcslib	4.14.lsst1
 0.50.1	8	gsl	1.16.lsst2
 0.50.1	8	numpy	0.0.1+5
+0.50.1	9	cfitsio	tickets.DM-3815-intermittent-build-failure-g221460d735
+0.50.1	9	wcslib	4.14.lsst1+1
+0.50.1	9	gsl	1.16.lsst2
+0.50.1	9	numpy	0.0.1+5

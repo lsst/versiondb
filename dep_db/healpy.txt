@@ -54,3 +54,7 @@
 1.8.1	8	pykg_config	1.2.0+5
 1.8.1	8	cfitsio	3360.lsst2
 1.8.1	8	pyfits	3.2.4.lsst1+3
+1.8.1	9	python	0.0.3
+1.8.1	9	pykg_config	1.2.0+5
+1.8.1	9	cfitsio	tickets.DM-3815-intermittent-build-failure-g221460d735
+1.8.1	9	pyfits	3.2.4.lsst1+3
