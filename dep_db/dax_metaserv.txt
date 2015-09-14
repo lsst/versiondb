@@ -93,3 +93,8 @@ w.2015.36	0	sconsUtils	w.2015.36
 11.0.rc2	4	anaconda	2.2.0
 11.0.rc2	4	mysqlpython	1.2.3+19
 11.0.rc2	4	sconsUtils	11.0.rc2
+11.0.rc2	5	db	10.1+40
+11.0.rc2	5	dax_webservcommon	11.0.rc2+1
+11.0.rc2	5	anaconda	2.2.0
+11.0.rc2	5	mysqlpython	1.2.3+19
+11.0.rc2	5	sconsUtils	tickets.DM-3829-gecefb30ac6
