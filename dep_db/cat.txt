@@ -2027,3 +2027,14 @@ w.2015.36	0	pex_exceptions	w.2015.36
 10.1	48	daf_persistence	11.0.rc2+6
 10.1	48	utils	11.0.rc2+4
 10.1	48	pex_exceptions	10.0+43
+10.1	49	python	0.0.3
+10.1	49	mysqlclient	5.1.73.lsst2
+10.1	49	mysqlpython	ticket.DM-2752-egg-error-g244f9305d1
+10.1	49	db	10.1+42
+10.1	49	log	11.0.rc2+6
+10.1	49	boost	1.59.lsst1
+10.1	49	pex_policy	11.0.rc2+5
+10.1	49	daf_base	11.0.rc2+5
+10.1	49	daf_persistence	11.0.rc2+7
+10.1	49	utils	11.0.rc2+5
+10.1	49	pex_exceptions	10.0+44

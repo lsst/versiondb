@@ -1102,3 +1102,15 @@ w.2015.36	0	skymap	w.2015.36
 11.0.rc2	9	mysqlpython	1.2.3+19
 11.0.rc2	9	sconsUtils	tickets.DM-3829-g08294776bf
 11.0.rc2	9	skymap	10.0+279
+11.0.rc2	10	afw	11.0.rc2-1-gf3aa81e+6
+11.0.rc2	10	base	11.0.rc2+4
+11.0.rc2	10	boost	1.59.lsst1
+11.0.rc2	10	cat	10.1+49
+11.0.rc2	10	daf_base	11.0.rc2+5
+11.0.rc2	10	db	10.1+42
+11.0.rc2	10	flask	0.10.1+11
+11.0.rc2	10	log	11.0.rc2+6
+11.0.rc2	10	obs_sdss	11.0.rc2+10
+11.0.rc2	10	mysqlpython	ticket.DM-2752-egg-error-g244f9305d1
+11.0.rc2	10	sconsUtils	tickets.DM-3829-ge8597a6f57
+11.0.rc2	10	skymap	10.0+280

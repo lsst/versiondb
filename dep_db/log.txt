@@ -457,3 +457,7 @@ w.2015.36	0	sconsUtils	w.2015.36
 11.0.rc2	5	log4cxx	0.10.0.lsst5
 11.0.rc2	5	base	11.0.rc2+3
 11.0.rc2	5	sconsUtils	tickets.DM-3829-g08294776bf
+11.0.rc2	6	boost	1.59.lsst1
+11.0.rc2	6	log4cxx	0.10.0.lsst5
+11.0.rc2	6	base	11.0.rc2+4
+11.0.rc2	6	sconsUtils	tickets.DM-3829-ge8597a6f57
