@@ -585,3 +585,8 @@ w.2015.36	0	sconsUtils	w.2015.36
 10.1	42	mysqlclient	5.1.73.lsst2
 10.1	42	mysqlpython	ticket.DM-2752-egg-error-g244f9305d1
 10.1	42	sconsUtils	tickets.DM-3829-ge8597a6f57
+11.0.rc2	1	log	11.0.rc2+7
+11.0.rc2	1	python	0.0.3
+11.0.rc2	1	mysqlclient	5.1.73.lsst2
+11.0.rc2	1	mysqlpython	1.2.3.lsst1
+11.0.rc2	1	sconsUtils	11.0.rc3

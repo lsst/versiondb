@@ -108,3 +108,8 @@ w.2015.36	0	sconsUtils	w.2015.36
 11.0.rc2	7	anaconda	2.2.0
 11.0.rc2	7	mysqlpython	ticket.DM-2752-egg-error-g244f9305d1
 11.0.rc2	7	sconsUtils	tickets.DM-3829-ge8597a6f57
+11.0.rc2	8	db	11.0.rc2+1
+11.0.rc2	8	dax_webservcommon	11.0.rc2+4
+11.0.rc2	8	anaconda	2.2.0
+11.0.rc2	8	mysqlpython	1.2.3.lsst1
+11.0.rc2	8	sconsUtils	11.0.rc3
