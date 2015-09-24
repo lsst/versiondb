@@ -2061,3 +2061,10 @@ w.2015.36	0	ctrl_provenance	w.2015.36
 11.0	0	daf_persistence	11.0
 11.0	0	ctrl_events	11.0
 11.0	0	ctrl_provenance	11.0
+11.0-1-g0f12d57	0	cat	10.1+53
+11.0-1-g0f12d57	0	utils	11.0-1-g47edd16
+11.0-1-g0f12d57	0	pex_policy	11.0+1
+11.0-1-g0f12d57	0	daf_persistence	11.0-1-g7418c06
+11.0-1-g0f12d57	0	ctrl_events	11.0-2-g68503cd
+11.0-1-g0f12d57	0	ctrl_provenance	10.0+140
+11.0-1-g0f12d57	0	log	11.0
