@@ -2637,3 +2637,8 @@ tickets.DM-3815-intermittent-build-failure-gd7457c9d58	0	utils	11.0.rc2+3
 11.0.rc2-2-gb8b8ce7	0	pipe_base	11.0.rc2+15
 11.0.rc2-2-gb8b8ce7	0	meas_base	11.0.rc2+15
 11.0.rc2-2-gb8b8ce7	0	utils	11.0.rc2-1-g47edd16
+11.0.rc2-2-gb8b8ce7	1	afw	11.0.rc2-2-g04d2804+3
+11.0.rc2-2-gb8b8ce7	1	pex_logging	11.0.rc2+8
+11.0.rc2-2-gb8b8ce7	1	pipe_base	11.0.rc2+16
+11.0.rc2-2-gb8b8ce7	1	meas_base	11.0.rc2+16
+11.0.rc2-2-gb8b8ce7	1	utils	11.0.rc2-1-g47edd16

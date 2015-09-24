@@ -1186,3 +1186,15 @@ w.2015.36	0	skymap	w.2015.36
 11.0.rc2-1-g59be5ef	2	mysqlpython	1.2.3.lsst1
 11.0.rc2-1-g59be5ef	2	sconsUtils	11.0.rc3
 11.0.rc2-1-g59be5ef	2	skymap	10.0+284
+11.0.rc2-4-g0d4b39a	0	afw	11.0.rc2-2-g04d2804+3
+11.0.rc2-4-g0d4b39a	0	base	11.0.rc2+5
+11.0.rc2-4-g0d4b39a	0	boost	1.59.lsst1
+11.0.rc2-4-g0d4b39a	0	cat	10.1+52
+11.0.rc2-4-g0d4b39a	0	daf_base	11.0.rc2+8
+11.0.rc2-4-g0d4b39a	0	db	11.0.rc2-1-g01aa897
+11.0.rc2-4-g0d4b39a	0	flask	0.10.1+11
+11.0.rc2-4-g0d4b39a	0	log	11.0.rc2+7
+11.0.rc2-4-g0d4b39a	0	obs_sdss	11.0.rc2+17
+11.0.rc2-4-g0d4b39a	0	mysqlpython	1.2.3.lsst1
+11.0.rc2-4-g0d4b39a	0	sconsUtils	11.0.rc3
+11.0.rc2-4-g0d4b39a	0	skymap	10.0+285
