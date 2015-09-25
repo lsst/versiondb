@@ -622,3 +622,9 @@ w.2015.36	0	mysqlpython	1.2.3+17
 11.0	1	dax_imgserv	11.0+1
 11.0	1	dax_metaserv	11.0
 11.0	1	mysqlpython	1.2.3.lsst1
+11.0-1-gb6dcf82	1	db	11.0-1-g01aa897
+11.0-1-gb6dcf82	1	flask	0.10.1+11
+11.0-1-gb6dcf82	1	dax_dbserv	11.0+1
+11.0-1-gb6dcf82	1	dax_imgserv	11.0-4-g0d4b39a+1
+11.0-1-gb6dcf82	1	dax_metaserv	11.0-1-g26026e2
+11.0-1-gb6dcf82	1	mysqlpython	1.2.3.lsst1
