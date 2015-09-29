@@ -1,0 +1,5 @@
+# product                 SHA1                                      Version                       
+BUILD=b1717
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+mysqlclient               d952a15a0bb27305f8fd003933f75dcb172bc38c  5.1.73.lsst2                             
+sqlalchemy                4433d71f5d120c5172177ba67d3cc92b96436861  1.0.8                                    python,mysqlclient
