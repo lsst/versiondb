@@ -2126,3 +2126,14 @@ w.2015.36	0	pex_exceptions	w.2015.36
 10.1	55	daf_persistence	11.0-1-g7418c06
 10.1	55	utils	11.0-1-g47edd16
 10.1	55	pex_exceptions	10.0+46
+10.1	56	python	0.0.3
+10.1	56	mysqlclient	5.1.73.lsst2
+10.1	56	mysqlpython	1.2.3.lsst1
+10.1	56	db	u.jbecla.dependencyOnSQLAlchemy-g2217d3adeb
+10.1	56	log	11.0
+10.1	56	boost	1.59.lsst1
+10.1	56	pex_policy	11.0+1
+10.1	56	daf_base	11.0+1
+10.1	56	daf_persistence	11.0-1-g7418c06
+10.1	56	utils	11.0-1-g47edd16
+10.1	56	pex_exceptions	10.0+46

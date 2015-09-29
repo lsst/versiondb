@@ -1282,3 +1282,15 @@ w.2015.36	0	skymap	w.2015.36
 11.0-4-g0d4b39a	4	mysqlpython	1.2.3.lsst1
 11.0-4-g0d4b39a	4	sconsUtils	11.0
 11.0-4-g0d4b39a	4	skymap	10.0+288
+11.0-4-g0d4b39a	5	afw	11.0-3-g10c6ae5+1
+11.0-4-g0d4b39a	5	base	11.0
+11.0-4-g0d4b39a	5	boost	1.59.lsst1
+11.0-4-g0d4b39a	5	cat	10.1+56
+11.0-4-g0d4b39a	5	daf_base	11.0+1
+11.0-4-g0d4b39a	5	db	u.jbecla.dependencyOnSQLAlchemy-g2217d3adeb
+11.0-4-g0d4b39a	5	flask	0.10.1+11
+11.0-4-g0d4b39a	5	log	11.0
+11.0-4-g0d4b39a	5	obs_sdss	11.0+5
+11.0-4-g0d4b39a	5	mysqlpython	1.2.3.lsst1
+11.0-4-g0d4b39a	5	sconsUtils	11.0
+11.0-4-g0d4b39a	5	skymap	10.0+288
