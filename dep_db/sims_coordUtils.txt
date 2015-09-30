@@ -4290,3 +4290,11 @@ sims_2.1.0	0	throughputs	master-ga98b3deed1
 sims_2.1.0	0	palpy	1.7.0
 sims_2.1.0	0	pyfits	3.2.4.lsst1+3
 sims_2.1.0	0	afw	11.0
+sims_2.1.0	1	sims_utils	sims_2.1.0+1
+sims_2.1.0	1	utils	w.2015.39
+sims_2.1.0	1	base	w.2015.39
+sims_2.1.0	1	python	0.0.3
+sims_2.1.0	1	throughputs	master-ga98b3deed1
+sims_2.1.0	1	palpy	1.7.0
+sims_2.1.0	1	pyfits	3.2.4.lsst1+3
+sims_2.1.0	1	afw	w.2015.39
