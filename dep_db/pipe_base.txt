@@ -2752,3 +2752,9 @@ w.2015.36	0	obs_test	w.2015.36
 11.0	4	utils	11.0+1
 11.0	4	afw	11.0+2
 11.0	4	obs_test	11.0+2
+11.0-1-g23d952c	2	daf_persistence	11.0-1-g7418c06+1
+11.0-1-g23d952c	2	pex_logging	11.0+3
+11.0-1-g23d952c	2	pex_config	11.0-1-ge0f5a32+1
+11.0-1-g23d952c	2	utils	11.0-1-g47edd16+1
+11.0-1-g23d952c	2	afw	11.0-3-g10c6ae5+2
+11.0-1-g23d952c	2	obs_test	11.0-1-gea04a6f+3
