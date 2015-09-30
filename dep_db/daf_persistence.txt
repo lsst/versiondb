@@ -459,3 +459,6 @@ w.2015.36	0	pex_policy	w.2015.36
 11.0-1-g7418c06	0	pex_logging	11.0+1
 11.0-1-g7418c06	0	pex_policy	11.0+1
 11.0-1-g7418c06	0	pyfits	3.2.4.lsst1+3
+11.0	1	mysqlclient	5.1.73.lsst2
+11.0	1	pex_logging	11.0+2
+11.0	1	pex_policy	11.0+2

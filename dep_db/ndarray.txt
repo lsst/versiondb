@@ -684,3 +684,10 @@ w.2015.36	0	fftw	w.2015.36
 11.0	1	base	11.0
 11.0	1	swig	3.0.2.lsst1
 11.0	1	fftw	3.3.4.lsst1
+11.0	2	boost	1.59.lsst1
+11.0	2	python	0.0.3
+11.0	2	numpy	0.0.1+5
+11.0	2	eigen	3.2.5
+11.0	2	base	11.0+1
+11.0	2	swig	3.0.2.lsst1
+11.0	2	fftw	3.3.4.lsst1
