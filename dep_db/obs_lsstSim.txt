@@ -7392,3 +7392,13 @@ w.2015.39	0	ip_isr	w.2015.39
 w.2015.39	0	pipe_tasks	w.2015.39
 w.2015.39	0	mysqlpython	1.2.3.lsst1
 w.2015.39	0	utils	w.2015.39
+11.0	9	daf_base	11.0+4
+11.0	9	pex_policy	11.0+4
+11.0	9	afw	11.0-4-gc5d5c1d
+11.0	9	daf_persistence	11.0-1-g7418c06+2
+11.0	9	daf_butlerUtils	11.0+7
+11.0	9	meas_algorithms	11.0-2-gb8b8ce7+5
+11.0	9	ip_isr	11.0+8
+11.0	9	pipe_tasks	11.0-4-g5e752b3
+11.0	9	mysqlpython	1.2.3.lsst1
+11.0	9	utils	11.0-1-g47edd16+2

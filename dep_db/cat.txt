@@ -2181,3 +2181,14 @@ w.2015.36	0	pex_exceptions	w.2015.36
 11.0-1-gac10e2c	0	daf_persistence	11.0-1-g7418c06
 11.0-1-gac10e2c	0	utils	11.0-1-g47edd16
 11.0-1-gac10e2c	0	pex_exceptions	10.0+46
+11.0-1-gac10e2c	1	python	0.0.3
+11.0-1-gac10e2c	1	mysqlclient	5.1.73.lsst2
+11.0-1-gac10e2c	1	mysqlpython	1.2.3.lsst1
+11.0-1-gac10e2c	1	db	1.1.0-2-gea74ebb+1
+11.0-1-gac10e2c	1	log	11.0+1
+11.0-1-gac10e2c	1	boost	1.59.lsst1-1-gca9a1ca
+11.0-1-gac10e2c	1	pex_policy	11.0+4
+11.0-1-gac10e2c	1	daf_base	11.0+4
+11.0-1-gac10e2c	1	daf_persistence	11.0-1-g7418c06+2
+11.0-1-gac10e2c	1	utils	11.0-1-g47edd16+2
+11.0-1-gac10e2c	1	pex_exceptions	10.0+48

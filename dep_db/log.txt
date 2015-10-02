@@ -473,3 +473,7 @@ w.2015.36	0	sconsUtils	w.2015.36
 1.1.0	0	log4cxx	0.10.0.lsst5
 1.1.0	0	utils	11.0-1-g47edd16
 1.1.0	0	sconsUtils	11.0
+11.0	1	boost	1.59.lsst1-1-gca9a1ca
+11.0	1	log4cxx	0.10.0.lsst5
+11.0	1	base	11.0+2
+11.0	1	sconsUtils	11.0
