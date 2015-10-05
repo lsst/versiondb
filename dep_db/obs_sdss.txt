@@ -5994,3 +5994,11 @@ w.2015.36	0	utils	w.2015.36
 11.0	7	mysqlpython	1.2.3.lsst1
 11.0	7	pipe_tasks	11.0-4-g5e752b3+1
 11.0	7	utils	11.0-1-g47edd16+3
+tickets.DM-3213-ge1ac6a531a	0	pex_policy	11.0+5
+tickets.DM-3213-ge1ac6a531a	0	daf_butlerUtils	11.0+8
+tickets.DM-3213-ge1ac6a531a	0	afw	11.0-4-gc5d5c1d+1
+tickets.DM-3213-ge1ac6a531a	0	meas_algorithms	11.0-2-gb8b8ce7+6
+tickets.DM-3213-ge1ac6a531a	0	meas_astrom	11.0-1-g60db491+6
+tickets.DM-3213-ge1ac6a531a	0	mysqlpython	1.2.3.lsst1
+tickets.DM-3213-ge1ac6a531a	0	pipe_tasks	tickets.DM-3213-gb5be80c1ac
+tickets.DM-3213-ge1ac6a531a	0	utils	11.0-1-g47edd16+3
