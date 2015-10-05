@@ -1008,3 +1008,12 @@ sims_2.1.0	1	obs_lsstSim	w.2015.39
 2.1.0	7	sims_catalogs_measures	2.0.1+26
 2.1.0	7	sims_catUtils	2.1.0-2-g3221499+2
 2.1.0	7	obs_lsstSim	11.0+11
+2.1.0	8	GalSim	1.2.lsst2-1-g6f8a81a+9
+2.1.0	8	meas_astrom	11.0-1-g60db491+7
+2.1.0	8	afw	11.0-4-gc5d5c1d+1
+2.1.0	8	sims_utils	2.1.0-1-g16f66ec+1
+2.1.0	8	sims_coordUtils	2.1.0+5
+2.1.0	8	sims_catalogs_generation	2.1.0+5
+2.1.0	8	sims_catalogs_measures	2.0.1+26
+2.1.0	8	sims_catUtils	2.1.0-2-g3221499+3
+2.1.0	8	obs_lsstSim	11.0+12
