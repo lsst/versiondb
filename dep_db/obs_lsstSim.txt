@@ -7452,3 +7452,13 @@ w.2015.39	0	utils	w.2015.39
 11.0	14	pipe_tasks	11.0-7-ge989783
 11.0	14	mysqlpython	1.2.3.lsst1
 11.0	14	utils	11.0-1-g47edd16+3
+11.0	15	daf_base	11.0+5
+11.0	15	pex_policy	11.0+5
+11.0	15	afw	11.0-4-gc5d5c1d+2
+11.0	15	daf_persistence	11.0-1-g7418c06+3
+11.0	15	daf_butlerUtils	11.0+9
+11.0	15	meas_algorithms	11.0-2-gb8b8ce7+8
+11.0	15	ip_isr	11.0+11
+11.0	15	pipe_tasks	11.0-7-ge989783+1
+11.0	15	mysqlpython	1.2.3.lsst1
+11.0	15	utils	11.0-1-g47edd16+3
