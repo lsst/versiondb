@@ -5508,3 +5508,12 @@ tickets.DM-3213-g22362471b9	0	matplotlib	0.0.1+5
 11.0-2-g5173cf5	0	utils	11.0-1-g47edd16+3
 11.0-2-g5173cf5	0	afwdata	10.0+43
 11.0-2-g5173cf5	0	matplotlib	0.0.1+5
+11.0-2-g5173cf5	1	afw	11.0-5-g97168e0+1
+11.0-2-g5173cf5	1	meas_base	11.0+13
+11.0-2-g5173cf5	1	meas_deblender	11.0+13
+11.0-2-g5173cf5	1	numpy	0.0.1+5
+11.0-2-g5173cf5	1	pex_config	11.0-3-g7c30143
+11.0-2-g5173cf5	1	pipe_base	11.0-2-g8218aaa+2
+11.0-2-g5173cf5	1	utils	11.0-1-g47edd16+3
+11.0-2-g5173cf5	1	afwdata	10.0+43
+11.0-2-g5173cf5	1	matplotlib	0.0.1+5
