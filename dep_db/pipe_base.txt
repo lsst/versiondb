@@ -2812,3 +2812,9 @@ w.2015.39	0	obs_test	w.2015.39
 11.0-2-g8218aaa	4	utils	11.0-1-g47edd16+3
 11.0-2-g8218aaa	4	afw	11.0-6-gd60b6b2
 11.0-2-g8218aaa	4	obs_test	11.0-3-g97ac873
+11.0-3-gd662c86	0	daf_persistence	11.0-1-g7418c06+3
+11.0-3-gd662c86	0	pex_logging	11.0+5
+11.0-3-gd662c86	0	pex_config	11.0-3-g7c30143
+11.0-3-gd662c86	0	utils	11.0-1-g47edd16+3
+11.0-3-gd662c86	0	afw	11.0-7-g974e250
+11.0-3-gd662c86	0	obs_test	11.0-3-g97ac873+1
