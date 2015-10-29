@@ -475,3 +475,12 @@ master-g92a2a2a0a0	5	psfex	master-g7ed4f52a14
 11.0-1-g1603aab	12	meas_base	11.0+17
 11.0-1-g1603aab	12	meas_algorithms	11.0-6-g9b84c61+1
 11.0-1-g1603aab	12	psfex	11.0
+11.0-1-g1603aab	13	afw	11.0-7-g974e250+1
+11.0-1-g1603aab	13	boost	1.59.lsst3
+11.0-1-g1603aab	13	daf_base	11.0+6
+11.0-1-g1603aab	13	fftw	3.3.4.lsst1
+11.0-1-g1603aab	13	swig	3.0.2.lsst1
+11.0-1-g1603aab	13	utils	11.0-1-g47edd16+4
+11.0-1-g1603aab	13	meas_base	11.0+18
+11.0-1-g1603aab	13	meas_algorithms	11.0-6-g9b84c61+2
+11.0-1-g1603aab	13	psfex	11.0
