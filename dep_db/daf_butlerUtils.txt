@@ -3168,3 +3168,11 @@ w.2015.39	0	utils	w.2015.39
 11.0-1-gd2eb1a6	1	skypix	10.0+300
 11.0-1-gd2eb1a6	1	pyfits	3.2.4.lsst1+3
 11.0-1-gd2eb1a6	1	utils	11.0-1-g47edd16+4
+11.0-1-gd2eb1a6	2	daf_base	11.0+7
+11.0-1-gd2eb1a6	2	pex_logging	11.0+7
+11.0-1-gd2eb1a6	2	pex_policy	11.0+7
+11.0-1-gd2eb1a6	2	daf_persistence	11.0-2-g56eb0a1+1
+11.0-1-gd2eb1a6	2	afw	11.0-8-g38426eb+2
+11.0-1-gd2eb1a6	2	skypix	10.0+301
+11.0-1-gd2eb1a6	2	pyfits	3.2.4.lsst1+3
+11.0-1-gd2eb1a6	2	utils	11.0-1-g47edd16+5

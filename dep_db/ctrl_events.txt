@@ -2302,3 +2302,13 @@ w.2015.36	0	doxygen	1.8.5
 11.0-1-g1c761bf	2	log	11.0-1-g0eed63c
 11.0-1-g1c761bf	2	swig	3.0.2.lsst1
 11.0-1-g1c761bf	2	doxygen	1.8.5
+11.0-1-g1c761bf	3	boost	1.59.lsst4
+11.0-1-g1c761bf	3	activemqcpp	3.5.0.lsst1
+11.0-1-g1c761bf	3	utils	11.0-1-g47edd16+5
+11.0-1-g1c761bf	3	base	11.0+5
+11.0-1-g1c761bf	3	daf_base	11.0+7
+11.0-1-g1c761bf	3	pex_exceptions	10.0+51
+11.0-1-g1c761bf	3	log4cxx	0.10.0.lsst5
+11.0-1-g1c761bf	3	log	11.0-1-g0eed63c+1
+11.0-1-g1c761bf	3	swig	3.0.2.lsst1
+11.0-1-g1c761bf	3	doxygen	1.8.5
