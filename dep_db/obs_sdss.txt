@@ -6138,3 +6138,11 @@ tickets.DM-3213-ge1ac6a531a	0	utils	11.0-1-g47edd16+3
 11.0-2-gbd6b254	5	mysqlpython	1.2.3.lsst1
 11.0-2-gbd6b254	5	pipe_tasks	11.0-14-ga314014+3
 11.0-2-gbd6b254	5	utils	11.0-1-g47edd16+5
+11.0-3-g1664b15	0	pex_policy	11.0+7
+11.0-3-g1664b15	0	daf_butlerUtils	11.0-1-gd2eb1a6+3
+11.0-3-g1664b15	0	afw	11.0-8-g38426eb+3
+11.0-3-g1664b15	0	meas_algorithms	11.0-6-g9b84c61+7
+11.0-3-g1664b15	0	meas_astrom	11.0-2-g3886147+8
+11.0-3-g1664b15	0	mysqlpython	1.2.3.lsst1
+11.0-3-g1664b15	0	pipe_tasks	11.0-14-ga314014+4
+11.0-3-g1664b15	0	utils	11.0-1-g47edd16+5
