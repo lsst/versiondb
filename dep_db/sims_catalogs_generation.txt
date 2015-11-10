@@ -766,3 +766,9 @@ sims_2.1.1	0	sims_utils	sims_2.1.1
 sims_2.1.1	0	daf_persistence	w.2015.39+1
 sims_2.1.1	0	mysqlpython	1.2.3.lsst1
 sims_2.1.1	0	pymssql	2.1.1+2
+sims_2.1.1	1	utils	w.2015.45
+sims_2.1.1	1	python	0.0.3
+sims_2.1.1	1	sims_utils	sims_2.1.1+1
+sims_2.1.1	1	daf_persistence	w.2015.45
+sims_2.1.1	1	mysqlpython	1.2.3.lsst1
+sims_2.1.1	1	pymssql	2.1.1+2

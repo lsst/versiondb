@@ -1260,3 +1260,12 @@ sims_2.1.1	0	sims_catalogs_generation	sims_2.1.1
 sims_2.1.1	0	sims_catalogs_measures	sims_2.1.1
 sims_2.1.1	0	sims_catUtils	sims_2.1.1
 sims_2.1.1	0	obs_lsstSim	w.2015.39+1
+sims_2.1.1	1	GalSim	1.2.lsst2-1-g6f8a81a+11
+sims_2.1.1	1	meas_astrom	w.2015.45
+sims_2.1.1	1	afw	w.2015.45
+sims_2.1.1	1	sims_utils	sims_2.1.1+1
+sims_2.1.1	1	sims_coordUtils	sims_2.1.1+1
+sims_2.1.1	1	sims_catalogs_generation	sims_2.1.1+1
+sims_2.1.1	1	sims_catalogs_measures	sims_2.1.1+1
+sims_2.1.1	1	sims_catUtils	sims_2.1.1+1
+sims_2.1.1	1	obs_lsstSim	w.2015.45
