@@ -1269,3 +1269,12 @@ sims_2.1.1	1	sims_catalogs_generation	sims_2.1.1+1
 sims_2.1.1	1	sims_catalogs_measures	sims_2.1.1+1
 sims_2.1.1	1	sims_catUtils	sims_2.1.1+1
 sims_2.1.1	1	obs_lsstSim	w.2015.45
+2.1.0	35	GalSim	1.2.lsst2-1-g6f8a81a+11
+2.1.0	35	meas_astrom	2015_10.0+3
+2.1.0	35	afw	2015_10.0-1-gebd97c3+1
+2.1.0	35	sims_utils	2.1.0-1-g16f66ec+6
+2.1.0	35	sims_coordUtils	2.1.0-1-g36f8ec1+12
+2.1.0	35	sims_catalogs_generation	2.1.0-3-g12691d6+6
+2.1.0	35	sims_catalogs_measures	2.1.0-1-g7c18b17+6
+2.1.0	35	sims_catUtils	2.1.0-9-gadfc725+2
+2.1.0	35	obs_lsstSim	2015_10.0+3
