@@ -5644,3 +5644,10 @@ sims_2.1.1	1	pyfits	3.2.4.lsst1+3
 2.1.0-5-ga0d32c2	1	python	0.0.3
 2.1.0-5-ga0d32c2	1	throughputs	master-ga98b3deed1
 2.1.0-5-ga0d32c2	1	pyfits	3.2.4.lsst1+3
+2.1.0-5-ga0d32c2	2	utils	2015_10.0-3-g530cd83+5
+2.1.0-5-ga0d32c2	2	sims_sed_library	2014.10.06
+2.1.0-5-ga0d32c2	2	sims_dustmaps	10.1-2-ged19211
+2.1.0-5-ga0d32c2	2	sims_utils	2.1.0-2-gcea7c0b+8
+2.1.0-5-ga0d32c2	2	python	0.0.3
+2.1.0-5-ga0d32c2	2	throughputs	master-ga98b3deed1
+2.1.0-5-ga0d32c2	2	pyfits	3.2.4.lsst1+3
