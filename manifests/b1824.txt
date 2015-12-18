@@ -1,0 +1,31 @@
+# product                 SHA1                                      Version                       
+BUILD=b1824
+libevent                  ab04e34f14107106ac2101d52a84488f0939590f  2.0.16.lsst2                             
+antlr                     d81cf0cd80e0ed4ab73314e1062ce2396bbd0a0e  2.7.7.lsst1                              
+swig                      ccf66d07ee20460f0eb3c396d8f04e5d5e249ee3  3.0.2.lsst1                              
+anaconda                  e5710d4eb30e184fb583fb3af902b04f2e9357ae  2.2.0                                    
+mysqlclient               28ca6d7f8b67d0b440b1034e774652fabee20039  5.1.73.lsst3                             
+xrootd                    6c932e9df25ee5823b3eb26b25728dec9293bacc  2015_11.0                                
+mysql                     53bfc1d7150c096b488b592a2b7e5cc62aa59494  5.1.65.lsst4                             
+doxygen                   16ba5fa702ef543facf1ab4530b6a436f20f8f8b  1.8.5                                    
+lua                       419130092c6420d68845b6f9d2c9873814523142  5.1.4.lsst1                              
+flask                     dc4832d6bcfd7fb4d720786c868f54e475134888  0.10.1+11                                anaconda
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+mysqlpython               ea628954dbfa80195e4bb9871727d873318148bd  1.2.3.lsst1+1                            python,mysqlclient
+boost                     c35def08ba3ff775c15721a6c36308ced24c264e  1.59.lsst5                               python
+apr                       ab7d232b5ebba00232956b802fe27ce1b67a7290  1.3.3.lsst3                              
+apr_util                  9f351ba46dae744bf39a79a61edbdda82f12a94a  1.3.4.lsst3                              apr
+sqlalchemy                99dbf578485dd39f2c4f0b278e967a158281143d  1.0.8.lsst2+1                            python,mysqlclient
+protobuf                  dbe97ed4c2d9363d541405f325c2304ebe90a7c5  2015_11.0                                python
+mysqlproxy                92bb7f61066b94abbb9d9e72f617dc55719cb34f  0.8.2+12                                 mysql,lua,libevent
+scisql                    f360984cafb5e8b3a90d4da45fad093ad079c938  0.3.4+12                                 mysql,mysqlpython,python
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5                                    python
+sconsUtils                9960fc2eba131d8822d28c14ffd73c2f55202217  2015_11.0-2-g9960fc2                     scons,doxygen
+log4cxx                   e820ae31346b4b1cf8c592e94d1ee6498213aa9b  0.10.0.lsst6                             apr,apr_util
+base                      1d153f6e6b3750a7caddc8c33561e3e5a833e329  2015_10.0-1-g1d153f6+9                   boost,sconsUtils,swig,doxygen
+log                       81df6757400ee9b028445684c80d78cee11066e7  2015_10.0-2-g81df675+7                   boost,log4cxx,base,sconsUtils
+partition                 ce8f91d8e9124c41b140047abbb4d67565e004c1  2015_11.0-1-gce8f91d                     boost,sconsUtils
+db                        2e9d3583cb79dadc048608cec26b334f0ebc3ba1  2015_10.0+13                             log,python,mysqlclient,mysqlpython,sconsUtils,sqlalchemy
+qserv                     ecdf4cc45cac340b708f74ca0b86a4d8f2e53d53  2015_11.0-7-gecdf4cc                     anaconda,antlr,boost,db,flask,log,log4cxx,lua,mysql,mysqlproxy,mysqlpython,partition,protobuf,scisql,swig,xrootd
+qserv_testdata            34aa14e65e4c38fa8128c30b6f08459921f82db5  2015_11.0-1-g34aa14e+5                   qserv,sconsUtils
+qserv_distrib             35cc638215f828d7db194adb2cdc790c6b308e37  1.0.0+473                                qserv,partition,qserv_testdata
