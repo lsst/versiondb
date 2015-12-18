@@ -1620,3 +1620,12 @@ sims_2.1.1	2	obs_lsstSim	w.2015.45
 2.1.0-2-geb1cbd3	19	sims_catalogs_measures	2.1.0-3-ge70e855+5
 2.1.0-2-geb1cbd3	19	sims_catUtils	2.1.0-15-gd711f58+6
 2.1.0-2-geb1cbd3	19	obs_lsstSim	w.2015.47
+sims_2.1.2	0	GalSim	1.2.lsst2-1-g6f8a81a+17
+sims_2.1.2	0	meas_astrom	w.2015.47
+sims_2.1.2	0	afw	w.2015.47
+sims_2.1.2	0	sims_utils	sims_2.1.2
+sims_2.1.2	0	sims_coordUtils	sims_2.1.2
+sims_2.1.2	0	sims_catalogs_generation	sims_2.1.2
+sims_2.1.2	0	sims_catalogs_measures	sims_2.1.2
+sims_2.1.2	0	sims_catUtils	sims_2.1.2
+sims_2.1.2	0	obs_lsstSim	w.2015.47
