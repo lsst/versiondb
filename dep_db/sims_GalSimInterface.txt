@@ -1647,3 +1647,12 @@ sims_2.1.2	0	obs_lsstSim	w.2015.47
 2.1.2	1	sims_catalogs_measures	2.1.2
 2.1.2	1	sims_catUtils	2.1.2+1
 2.1.2	1	obs_lsstSim	2015_10.0-2-g37fe777+27
+2.1.2	2	GalSim	1.2.lsst2-1-g6f8a81a+17
+2.1.2	2	meas_astrom	2015_10.0-4-g55835da+2
+2.1.2	2	afw	tickets.DM-3793-gfc38d6ae69
+2.1.2	2	sims_utils	2.1.2+1
+2.1.2	2	sims_coordUtils	2.1.2+2
+2.1.2	2	sims_catalogs_generation	2.1.2+1
+2.1.2	2	sims_catalogs_measures	2.1.2+1
+2.1.2	2	sims_catUtils	2.1.2+2
+2.1.2	2	obs_lsstSim	2015_10.0-2-g37fe777+28
