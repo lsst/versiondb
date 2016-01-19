@@ -1,0 +1,5 @@
+# product                 SHA1                                      Version                       
+BUILD=b1859
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+numpy                     e3014bbc3285368c8fb605a5225c1affc7fdd34f  0.0.1+5                                  python
+sncosmo                   cea177f1a926838438cbf71532a29c1ac6d500f7  1.2.0                                    python,numpy
