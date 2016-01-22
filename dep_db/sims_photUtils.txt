@@ -5791,3 +5791,10 @@ sims_2.1.3	0	pyfits	3.2.4.lsst2+1
 2.1.2-2-gecf83be	5	python	0.0.3
 2.1.2-2-gecf83be	5	throughputs	master-g3df0d76b78
 2.1.2-2-gecf83be	5	pyfits	3.2.4.lsst2+1
+sims_2.2.0	0	utils	w.2015.47+2
+sims_2.2.0	0	sims_sed_library	2016.01.12
+sims_2.2.0	0	sims_dustmaps	10.1-3-gffe99e1
+sims_2.2.0	0	sims_utils	sims_2.2.0
+sims_2.2.0	0	python	0.0.3
+sims_2.2.0	0	throughputs	master-g3df0d76b78
+sims_2.2.0	0	pyfits	3.2.4.lsst2+1
