@@ -781,3 +781,9 @@ u.jbecla.dependencyOnSQLAlchemy-g2217d3adeb	0	sqlalchemy	1.0.8
 2015_10.0	15	mysqlpython	1.2.3.lsst1+1
 2015_10.0	15	sconsUtils	2015_11.0-2-g9960fc2+1
 2015_10.0	15	sqlalchemy	1.0.8.lsst2+1
+2015_10.0	16	log	2015_10.0-2-g81df675+10
+2015_10.0	16	python	0.0.3
+2015_10.0	16	mysqlclient	5.1.73.lsst3
+2015_10.0	16	mysqlpython	1.2.3.lsst1+1
+2015_10.0	16	sconsUtils	2015_11.0-2-g9960fc2+2
+2015_10.0	16	sqlalchemy	1.0.8.lsst2+1
