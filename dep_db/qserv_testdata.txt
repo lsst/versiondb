@@ -941,3 +941,8 @@ master-g12982482a3	1	sconsUtils	tickets.DM-2909-g919343cb6b
 2015_11.0-4-geaf0567	0	qserv	tickets.DM-2993-remove-anaconda-dep-g8d072119a4
 2015_11.0-4-geaf0567	0	scons	2.3.5
 2015_11.0-4-geaf0567	0	sconsUtils	2015_11.0-2-g9960fc2+2
+2015_11.0-4-geaf0567	1	python	0.0.3
+2015_11.0-4-geaf0567	1	pyyaml	3.11.lsst1
+2015_11.0-4-geaf0567	1	qserv	tickets.DM-2993-remove-anaconda-dep-gd5da761e54
+2015_11.0-4-geaf0567	1	scons	2.3.5
+2015_11.0-4-geaf0567	1	sconsUtils	2015_11.0-2-g9960fc2+2
