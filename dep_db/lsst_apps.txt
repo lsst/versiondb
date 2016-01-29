@@ -6638,3 +6638,11 @@ w.2015.36	0	meas_extensions_psfex	w.2015.36
 11.0	92	obs_test	2015_10.0-3-gc4c7f1b+14
 11.0	92	display_ds9	2015_10.0+34
 11.0	92	meas_extensions_psfex	2015_10.0-2-gce306f0+37
+11.0	93	meas_deblender	2015_10.0-5-gba53c3b+11
+11.0	93	meas_modelfit	tickets.DM-4692-g594eaf942b+1
+11.0	93	pipe_tasks	tickets.DM-4692-ga888f22d09
+11.0	93	obs_lsstSim	tickets.DM-4692-gf5158ffc10+1
+11.0	93	obs_sdss	tickets.DM-4692-g2df13e59b0
+11.0	93	obs_test	tickets.DM-4692-g2abb849311
+11.0	93	display_ds9	2015_10.0+33
+11.0	93	meas_extensions_psfex	tickets.DM-4692-gb295c81202
