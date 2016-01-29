@@ -1971,3 +1971,12 @@ sims_2.2.0	0	obs_lsstSim	w.2015.47+2
 2.1.2-1-gcfff3db	20	sims_catalogs_measures	2.1.2-3-ga4c308f
 2.1.2-1-gcfff3db	20	sims_catUtils	2.1.2-7-g9f623c0+3
 2.1.2-1-gcfff3db	20	obs_lsstSim	tickets.DM-4692-gf5158ffc10+1
+sims_2.2.1	0	GalSim	1.2.lsst2-1-g6f8a81a+19
+sims_2.2.1	0	meas_astrom	2015_10.0-5-g7977c95+16
+sims_2.2.1	0	afw	2015_10.0-16-g53facc5+1
+sims_2.2.1	0	sims_utils	sims_2.2.1
+sims_2.2.1	0	sims_coordUtils	sims_2.2.1
+sims_2.2.1	0	sims_catalogs_generation	sims_2.2.1
+sims_2.2.1	0	sims_catalogs_measures	sims_2.2.1
+sims_2.2.1	0	sims_catUtils	sims_2.2.1
+sims_2.2.1	0	obs_lsstSim	2015_10.0-4-g17d213c+19

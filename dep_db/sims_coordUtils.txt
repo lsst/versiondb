@@ -4834,3 +4834,11 @@ sims_2.2.0	0	afw	w.2015.47+2
 2.1.2-1-g3ce4a30	11	palpy	1.7.0
 2.1.2-1-g3ce4a30	11	pyfits	3.2.4.lsst2+1
 2.1.2-1-g3ce4a30	11	afw	2015_10.0-16-g53facc5
+sims_2.2.1	0	sims_utils	sims_2.2.1
+sims_2.2.1	0	utils	2015_10.0-3-g530cd83+11
+sims_2.2.1	0	base	2015_10.0-2-g89e5401+2
+sims_2.2.1	0	python	0.0.3
+sims_2.2.1	0	throughputs	master-g3df0d76b78
+sims_2.2.1	0	palpy	1.7.0
+sims_2.2.1	0	pyfits	3.2.4.lsst2+1
+sims_2.2.1	0	afw	2015_10.0-16-g53facc5+1
