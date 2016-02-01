@@ -8382,3 +8382,13 @@ tickets.DM-4692-gff3829c861	0	ip_isr	2015_10.0-6-g00744f7+19
 tickets.DM-4692-gff3829c861	0	pipe_tasks	tickets.DM-4692-gb514a6b1f7
 tickets.DM-4692-gff3829c861	0	mysqlpython	1.2.3.lsst1+1
 tickets.DM-4692-gff3829c861	0	utils	2015_10.0-3-g530cd83+11
+2015_10.0-4-g17d213c	22	daf_base	2015_10.0-3-g4d32b56+11
+2015_10.0-4-g17d213c	22	pex_policy	2015_10.0-1-gd4eb80a+14
+2015_10.0-4-g17d213c	22	afw	2015_10.0-19-gb63f70c
+2015_10.0-4-g17d213c	22	daf_persistence	2015_10.0-7-g6dded3e+1
+2015_10.0-4-g17d213c	22	daf_butlerUtils	2015_10.0-6-g0709091+8
+2015_10.0-4-g17d213c	22	meas_algorithms	2015_10.0-7-gcf59a2d+6
+2015_10.0-4-g17d213c	22	ip_isr	2015_10.0-6-g00744f7+20
+2015_10.0-4-g17d213c	22	pipe_tasks	2015_10.0-18-g64dc8c1+5
+2015_10.0-4-g17d213c	22	mysqlpython	1.2.3.lsst1+1
+2015_10.0-4-g17d213c	22	utils	2015_10.0-3-g530cd83+11
