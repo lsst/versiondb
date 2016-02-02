@@ -1006,3 +1006,9 @@ sims_2.2.1	1	pymssql	2.1.1+3
 2.1.2-5-g483e49d	4	daf_persistence	2016_01.0
 2.1.2-5-g483e49d	4	mysqlpython	1.2.3.lsst1+1
 2.1.2-5-g483e49d	4	pymssql	2.1.1+3
+2.1.2-5-g483e49d	5	utils	2016_01.0
+2.1.2-5-g483e49d	5	python	0.0.3
+2.1.2-5-g483e49d	5	sims_utils	2.1.2-9-g6daf4ab+2
+2.1.2-5-g483e49d	5	daf_persistence	2016_01.0+1
+2.1.2-5-g483e49d	5	mysqlpython	1.2.3.lsst1+1
+2.1.2-5-g483e49d	5	pymssql	2.1.1+3

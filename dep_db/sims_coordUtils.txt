@@ -4898,3 +4898,11 @@ sims_2.2.1	1	afw	w.2015.47+3
 2.1.2-1-g3ce4a30	17	palpy	1.7.0
 2.1.2-1-g3ce4a30	17	pyfits	3.2.4.lsst2+1
 2.1.2-1-g3ce4a30	17	afw	2016_01.0+1
+2.1.2-1-g3ce4a30	18	sims_utils	2.1.2-9-g6daf4ab+2
+2.1.2-1-g3ce4a30	18	utils	2016_01.0
+2.1.2-1-g3ce4a30	18	base	2016_01.0
+2.1.2-1-g3ce4a30	18	python	0.0.3
+2.1.2-1-g3ce4a30	18	throughputs	master-g3df0d76b78
+2.1.2-1-g3ce4a30	18	palpy	1.7.0
+2.1.2-1-g3ce4a30	18	pyfits	3.4.0
+2.1.2-1-g3ce4a30	18	afw	tickets.DM-4692-gd8ad35cd96

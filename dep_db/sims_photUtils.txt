@@ -5868,3 +5868,10 @@ sims_2.2.1	1	pyfits	3.2.4.lsst2+1
 2.1.2-4-g65081c1	1	python	0.0.3
 2.1.2-4-g65081c1	1	throughputs	master-g3df0d76b78
 2.1.2-4-g65081c1	1	pyfits	3.2.4.lsst2+1
+2.1.2-4-g65081c1	2	utils	2016_01.0
+2.1.2-4-g65081c1	2	sims_sed_library	2016.01.26
+2.1.2-4-g65081c1	2	sims_maps	master-g751bbc2852
+2.1.2-4-g65081c1	2	sims_utils	2.1.2-9-g6daf4ab+2
+2.1.2-4-g65081c1	2	python	0.0.3
+2.1.2-4-g65081c1	2	throughputs	master-g3df0d76b78
+2.1.2-4-g65081c1	2	pyfits	3.4.0
