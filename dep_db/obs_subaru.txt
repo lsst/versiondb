@@ -28,3 +28,13 @@ tickets.DM-4692-g516ed41ac7	0	sconsUtils	2016_01.0
 tickets.DM-4692-g516ed41ac7	0	meas_modelfit	tickets.DM-4692-g594eaf942b+4
 tickets.DM-4692-g516ed41ac7	0	meas_extensions_psfex	tickets.DM-4692-g12d44f2179+1
 tickets.DM-4692-g516ed41ac7	0	testdata_subaru	master-gf9ba9abdbe
+5.0.0.1-60-ge4efae7	2	daf_persistence	2016_01.0-1-gf47bb69+2
+5.0.0.1-60-ge4efae7	2	daf_butlerUtils	2016_01.0+6
+5.0.0.1-60-ge4efae7	2	skypix	10.0+349
+5.0.0.1-60-ge4efae7	2	pipe_tasks	2016_01.0-1-gdcc9f3e+1
+5.0.0.1-60-ge4efae7	2	meas_astrom	2016_01.0+6
+5.0.0.1-60-ge4efae7	2	pyfits	3.4.0
+5.0.0.1-60-ge4efae7	2	sconsUtils	2016_01.0
+5.0.0.1-60-ge4efae7	2	meas_modelfit	2016_01.0+7
+5.0.0.1-60-ge4efae7	2	meas_extensions_psfex	2016_01.0+6
+5.0.0.1-60-ge4efae7	2	testdata_subaru	master-gf9ba9abdbe
