@@ -6794,3 +6794,11 @@ tickets.DM-4692-g33ea54ee2a	0	utils	2016_01.0
 2016_01.0	6	mysqlpython	1.2.3.lsst1-1-g120147b
 2016_01.0	6	pipe_tasks	2016_01.0-1-gdcc9f3e
 2016_01.0	6	utils	2016_01.0
+tickets.DM-4692-g5c4161c59f	0	pex_policy	2016_01.0
+tickets.DM-4692-g5c4161c59f	0	daf_butlerUtils	tickets.DM-4692-g048b33c50e+3
+tickets.DM-4692-g5c4161c59f	0	afw	tickets.DM-4692-gd8ad35cd96+1
+tickets.DM-4692-g5c4161c59f	0	meas_algorithms	tickets.DM-4692-g3d073a93d7+1
+tickets.DM-4692-g5c4161c59f	0	meas_astrom	tickets.DM-4692-gbbf15418e6+1
+tickets.DM-4692-g5c4161c59f	0	mysqlpython	1.2.3.lsst1-1-g120147b+1
+tickets.DM-4692-g5c4161c59f	0	pipe_tasks	tickets.DM-4692-g41bd0f3147
+tickets.DM-4692-g5c4161c59f	0	utils	2016_01.0

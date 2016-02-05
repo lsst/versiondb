@@ -7270,3 +7270,13 @@ tickets.DM-4692-gbbf15418e6	0	matplotlib	0.0.1+5
 2016_01.0	5	astrometry_net	0.50.lsst2+5
 2016_01.0	5	numpy	0.0.1+5
 2016_01.0	5	matplotlib	0.0.1+5
+tickets.DM-4692-gbbf15418e6	1	afw	tickets.DM-4692-gd8ad35cd96+1
+tickets.DM-4692-gbbf15418e6	1	meas_algorithms	tickets.DM-4692-g3d073a93d7+1
+tickets.DM-4692-gbbf15418e6	1	pex_logging	2016_01.0
+tickets.DM-4692-gbbf15418e6	1	pex_config	2016_01.0
+tickets.DM-4692-gbbf15418e6	1	pipe_base	2016_01.0+7
+tickets.DM-4692-gbbf15418e6	1	utils	2016_01.0
+tickets.DM-4692-gbbf15418e6	1	wcslib	5.13.lsst1
+tickets.DM-4692-gbbf15418e6	1	astrometry_net	0.50.lsst2+5
+tickets.DM-4692-gbbf15418e6	1	numpy	0.0.1+5
+tickets.DM-4692-gbbf15418e6	1	matplotlib	0.0.1+5

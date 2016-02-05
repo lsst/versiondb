@@ -1123,3 +1123,12 @@ tickets.DM-4692-g12d44f2179	0	psfex	2016_01.0
 2016_01.0	5	meas_base	2016_01.0+6
 2016_01.0	5	meas_algorithms	2016_01.0+5
 2016_01.0	5	psfex	2016_01.0
+tickets.DM-4692-g12d44f2179	1	afw	tickets.DM-4692-gd8ad35cd96+1
+tickets.DM-4692-g12d44f2179	1	boost	1.59.lsst5
+tickets.DM-4692-g12d44f2179	1	daf_base	2016_01.0
+tickets.DM-4692-g12d44f2179	1	fftw	3.3.4.lsst2
+tickets.DM-4692-g12d44f2179	1	swig	3.0.2.lsst1
+tickets.DM-4692-g12d44f2179	1	utils	2016_01.0
+tickets.DM-4692-g12d44f2179	1	meas_base	2016_01.0-1-gbf42d02
+tickets.DM-4692-g12d44f2179	1	meas_algorithms	tickets.DM-4692-g3d073a93d7+1
+tickets.DM-4692-g12d44f2179	1	psfex	2016_01.0
