@@ -915,3 +915,10 @@ w.2015.47	2	fftw	3.3.4.lsst2
 10.1	60	base	2016_01.0
 10.1	60	swig	3.0.2.lsst1
 10.1	60	fftw	3.3.4.lsst2
+w.2016.06	0	boost	1.59.lsst5
+w.2016.06	0	python	0.0.3
+w.2016.06	0	numpy	0.0.2
+w.2016.06	0	eigen	3.2.5
+w.2016.06	0	base	w.2016.06
+w.2016.06	0	swig	3.0.2.lsst1
+w.2016.06	0	fftw	3.3.4.lsst2

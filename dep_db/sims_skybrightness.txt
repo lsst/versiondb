@@ -38,3 +38,13 @@ master-gecbd6c4f72	1	utils	2016_01.0+2
 master-gecbd6c4f72	1	throughputs	master-g3df0d76b78
 master-gecbd6c4f72	1	sims_skybrightness_data	master-g4de0affb75
 master-gecbd6c4f72	1	healpy	1.8.1+17
+master-gecbd6c4f72	2	base	w.2016.06
+master-gecbd6c4f72	2	numpy	0.0.2
+master-gecbd6c4f72	2	matplotlib	0.0.2
+master-gecbd6c4f72	2	pyephem	3.7.5.1.lsst1
+master-gecbd6c4f72	2	sims_utils	sims_2.2.2+1
+master-gecbd6c4f72	2	sims_photUtils	sims_2.2.2+1
+master-gecbd6c4f72	2	utils	w.2016.06
+master-gecbd6c4f72	2	throughputs	master-g3df0d76b78
+master-gecbd6c4f72	2	sims_skybrightness_data	master-g4de0affb75+1
+master-gecbd6c4f72	2	healpy	1.8.1+17

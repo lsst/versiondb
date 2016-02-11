@@ -638,3 +638,8 @@ w.2015.47	2	pyfits	3.2.4.lsst2+1
 2016_01.0-1-gf47bb69	3	pex_policy	2016_01.0+2
 2016_01.0-1-gf47bb69	3	pyfits	3.4.0+1
 2016_01.0-1-gf47bb69	3	pyyaml	3.11.lsst1
+w.2016.06	0	mariadbclient	10.1.11
+w.2016.06	0	pex_logging	w.2016.06
+w.2016.06	0	pex_policy	w.2016.06
+w.2016.06	0	pyfits	3.4.0+1
+w.2016.06	0	pyyaml	3.11.lsst1
