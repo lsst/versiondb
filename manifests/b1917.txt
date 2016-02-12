@@ -1,0 +1,59 @@
+# product                 SHA1                                      Version                       
+BUILD=b1917
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+minuit2                   e83c6b8218d25fa750e0c087765272dd824bc2be  5.28.00.lsst2                            
+eigen                     bcf3cce95b97958ebe793e7c918b89d021099eb8  3.2.5                                    
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+swig                      ccf66d07ee20460f0eb3c396d8f04e5d5e249ee3  3.0.2.lsst1                              
+mariadbclient             6b951e5c04d494fb3586f1e0ffe08779a42fce7c  10.1.11                                  
+pyyaml                    cb5cda908acb5a4fe493b618f9519bb26f7b1275  3.11.lsst1                               python
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1                               cfitsio
+boost                     c35def08ba3ff775c15721a6c36308ced24c264e  1.59.lsst5                               python
+xpa                       eb35b1105c2a44557af660104f2807e2b28255dd  2.1.15.lsst3                             
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5                                    python
+python_d2to1              586f194556b75d7eb29bf6cba3026170b866dc44  0.2.12                                   
+sconsUtils                98762fb2d962014e5636e94dbe79afd08843681f  2016_01.0                                scons,doxygen
+mysqlpython               120147b0169a7fbf5a32690ca53bc846311b719a  1.2.3.lsst1-1-g120147b+1                 python,mariadbclient
+numpy                     4e70653b6b68a9a5d163932472b6fdf48b708a63  0.0.2                                    python
+gsl                       a5b7ea77e0be9d4f91e1a71ec7b08db0bdbf6e58  1.16.lsst3                               
+astrometry_net            b6cc49b464f56c8e02f424676a0363f37b6f43ae  0.50.lsst2+6                             cfitsio,wcslib,gsl,numpy
+matplotlib                e49e23a949f741e58439684a965c869dea134c8a  0.0.2                                    python,numpy
+base                      89e5401b42a1fdce7cf6f8796da03511db782469  2016_01.0                                boost,sconsUtils,swig,doxygen
+afwdata                   5f41616c3e012c71aab395c67e5bba3e1ed9ee34  2016_01.0                                sconsUtils
+pex_exceptions            f7aee88cd35e30f87a091e07a99bed40bab34afd  2016_01.0                                base,boost,swig
+ndarray                   7408a83a3aa3df1509bb22d61aa4438c65cef2b6  10.1+60                                  boost,python,numpy,eigen,base,swig,fftw
+psfex                     eb1eb6777f0e263a159a05c00c0b66a739f86688  2016_01.0                                gsl,sconsUtils,fftw
+stsci_distutils           b22a065217b3e28dda1172891e13839c6a3bfea9  0.3.7-1-gb22a065                         python_d2to1
+geom                      e36792e6e9d9e1dba9c850006c7d1175100e0ab0  10.0+50                                  sconsUtils
+astrometry_net_data       eaffc02df2119a5f17862630057df8974f07ca23  10.0+61                                  sconsUtils
+utils                     530cd83c0916ae82157906237b04ad344f22a511  2016_01.0+2                              base,pex_exceptions,boost,numpy
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+1                                  numpy,python_d2to1,stsci_distutils
+daf_base                  4d32b56ba316a872288517d9faf9d676246207d1  2016_01.0+2                              utils,pex_exceptions,numpy
+pex_policy                d4eb80a89c30a3d2af2eb88ac9574f3021eb376b  2016_01.0+2                              daf_base,utils
+pex_logging               f6c85b33d781995bc25ead6a4d770b72833bf949  2016_01.0+2                              pex_exceptions,daf_base
+pex_config                c006da14142fe5fa50c14ec0f573a24e072b78b0  2016_01.0+2                              daf_base,pex_policy,numpy,utils
+daf_persistence           f47bb696efae101409a05d21718311d89e887b10  2016_01.0-1-gf47bb69+3                   mariadbclient,pex_logging,pex_policy,pyfits,pyyaml
+afw                       8d39582be0ce940a131b72c0af406d19b3be514e  2016_01.0-3-g8d39582                     daf_base,daf_persistence,pex_config,ndarray,cfitsio,wcslib,numpy,minuit2,eigen,gsl,fftw,utils,pyfits,matplotlib,afwdata
+skypix                    1157bf09aee6dda8cdefede4395220da4b46d0fe  10.0+351                                 utils,pex_policy,geom,afw
+daf_butlerUtils           0709091ed9f0ca4395dc362141d26d04ef3a5efe  2016_01.0+8                              daf_base,pex_logging,pex_policy,daf_persistence,afw,skypix,pyfits,utils
+shapelet                  7c5d3496dec840c63da6861babc71f5308df1cba  2016_01.0+10                             afw
+display_ds9               ef1a7a9b7e0ac6729ed3cc4f4df9282ebc8385cd  2015_10.0+47                             afw,xpa
+obs_test                  c4c7f1bfc0e2b8de91be71a4318faffcde800580  2016_01.0+8                              afw,daf_base,daf_butlerUtils,pex_config,pex_policy,numpy,skypix,utils
+skymap                    65a3ccfae175082e455155f906e3fee8be35ec96  2016_01.0+10                             numpy,afw
+pipe_base                 417e839d92829d7a9eae60d31faf284c0196898b  2016_01.0+10                             daf_persistence,pex_logging,pex_config,utils,afw,obs_test
+coadd_utils               74d0a1857bb330342c907563fe3173ffa0079590  2016_01.0+10                             afw,pipe_base,pex_config,utils,afwdata
+coadd_chisquared          470bb2dc72f78eeb44309f9f9d9cfedee163bde2  2016_01.0+10                             coadd_utils,afwdata
+meas_base                 8096694842ce8a7274ce1125d9ca387a3f5bfa38  2016_01.0-5-g8096694                     afw,pipe_base,daf_base,pex_config,coadd_utils,geom
+meas_algorithms           cf59a2d5f1e4a21af131c1ae2aa701b73de59e9d  2016_01.0+9                              afw,pex_logging,pipe_base,meas_base,utils
+ip_isr                    6949c456b08eb6de471e5963f7187dbc25b420f4  2016_01.0-2-g6949c45+1                   meas_algorithms,pipe_base
+meas_extensions_psfex     ce306f05c04b326a3014e4fcee729ebaa1265bc4  2016_01.0+9                              afw,boost,daf_base,fftw,swig,utils,meas_base,meas_algorithms,psfex
+meas_deblender            ba53c3bfe0288cd0f4f43b4870c2e951308a9dab  2016_01.0+11                             utils,afw,meas_algorithms,matplotlib
+ip_diffim                 238c6618c0cacdc09beea12cb4e5c4a030814682  2016_01.0+9                              afw,meas_base,meas_deblender,numpy,pex_config,pipe_base,utils,afwdata,matplotlib
+meas_astrom               7977c95f86ea482c4415a1d72aa89cf22a416040  2016_01.0+9                              afw,meas_algorithms,pex_logging,pex_config,pipe_base,utils,wcslib,astrometry_net,numpy,matplotlib
+pipe_tasks                027f8e14db6ba245a447c003d0cee94f15cb0273  2016_01.0-4-g027f8e1+1                   pipe_base,pex_config,utils,afw,meas_base,meas_algorithms,meas_astrom,meas_deblender,astrometry_net_data,ip_isr,ip_diffim,coadd_utils,coadd_chisquared,skymap,geom,obs_test,matplotlib
+obs_sdss                  d6502fc21b7558d4d279cfd1778fd4ee1c691fd7  2016_01.0+11                             pex_policy,daf_butlerUtils,afw,meas_algorithms,meas_astrom,mysqlpython,pipe_tasks,utils
+obs_lsstSim               17d213c3f9cbfd9eb5a717fdad935a1a79d50009  2016_01.0+11                             daf_base,pex_policy,afw,daf_persistence,daf_butlerUtils,meas_algorithms,ip_isr,pipe_tasks,mysqlpython,utils
+meas_modelfit             06851638b8dad75f61c31ef772f1935f7dc00e58  2016_01.0-1-g0685163+1                   afw,meas_algorithms,meas_base,shapelet,pipe_tasks,matplotlib
+lsst_apps                 c3ee848effcb3d9dc6ef3abaa5a842b0c7cb15e8  11.0+110                                 meas_deblender,meas_modelfit,pipe_tasks,obs_lsstSim,obs_sdss,obs_test,display_ds9,meas_extensions_psfex
