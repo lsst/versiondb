@@ -3256,3 +3256,9 @@ w.2016.06	0	pex_config	w.2016.06
 w.2016.06	0	utils	w.2016.06
 w.2016.06	0	afw	w.2016.06
 w.2016.06	0	obs_test	w.2016.06
+2016_01.0	11	daf_persistence	2016_01.0-1-gf47bb69+3
+2016_01.0	11	pex_logging	2016_01.0+2
+2016_01.0	11	pex_config	2016_01.0+2
+2016_01.0	11	utils	2016_01.0+2
+2016_01.0	11	afw	tickets.DM-4692-gbd37545645
+2016_01.0	11	obs_test	tickets.DM-4692-g1533aee20f+2
