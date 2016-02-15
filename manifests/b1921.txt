@@ -1,0 +1,12 @@
+# product                 SHA1                                      Version                       
+BUILD=b1921
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5                                    python
+mysql                     53bfc1d7150c096b488b592a2b7e5cc62aa59494  5.1.65.lsst4                             
+sconsUtils                25da0c78d79f93e0cfd653c9890516f2b97513e7  w.2015.47+2                              scons,doxygen
+palpy                     82966ee8f8fee0e410c05551db509c21f4a4b58e  1.7.0                                    python
+mariadbclient             6b951e5c04d494fb3586f1e0ffe08779a42fce7c  10.1.11                                  
+lsst                      bfc0c69dddcd20d73158f20fa9864efba3534c90  w.2015.47                                sconsUtils
+mysqlpython               120147b0169a7fbf5a32690ca53bc846311b719a  1.2.3.lsst1-1-g120147b+1                 python,mariadbclient
+sims_operations           6ce56fd8011a25625224531886e6a7eb01f665ee  3.3.7                                    mysql,mysqlpython,palpy,lsst
