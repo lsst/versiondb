@@ -1,0 +1,6 @@
+# product                 SHA1                                      Version                       
+BUILD=b1923
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5                                    python
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+sconsUtils                98762fb2d962014e5636e94dbe79afd08843681f  2016_01.0                                scons,doxygen
