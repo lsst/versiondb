@@ -381,3 +381,11 @@ w.2015.36	0	sconsUtils	w.2015.36
 2016_01	6	scons	2.3.5
 2016_01	6	sconsUtils	2016_01.0
 2016_01	6	sqlalchemy	2015_10.0-1-gaf5a1cb
+2016_01	7	dax_webservcommon	2016_01.0+1
+2016_01	7	db	2016_01-2-g079dcf8+4
+2016_01	7	flask	0.10.1-1-gcdb2e41
+2016_01	7	mysqlpython	1.2.3.lsst1-1-g120147b+1
+2016_01	7	python	0.0.3
+2016_01	7	scons	2.3.5
+2016_01	7	sconsUtils	2016_01.0-1-gac715ca
+2016_01	7	sqlalchemy	2015_10.0-1-gaf5a1cb
