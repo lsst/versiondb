@@ -13356,3 +13356,16 @@ sims_2.2.2	1	obs_lsstSim	w.2016.06
 2.1.3-16-gcf1c898	8	sims_coordUtils	2.1.2-1-g3ce4a30+32
 2.1.3-16-gcf1c898	8	sims_maps	master-g77011b90b0
 2.1.3-16-gcf1c898	8	obs_lsstSim	2016_01.0+19
+2.1.3-16-gcf1c898	9	base	2016_01.0+3
+2.1.3-16-gcf1c898	9	numpy	0.0.2
+2.1.3-16-gcf1c898	9	matplotlib	0.0.2
+2.1.3-16-gcf1c898	9	pyephem	3.7.5.1.lsst1
+2.1.3-16-gcf1c898	9	palpy	1.7.0
+2.1.3-16-gcf1c898	9	pymssql	2.1.1+3
+2.1.3-16-gcf1c898	9	healpy	1.8.1-2-gd4cac0b
+2.1.3-16-gcf1c898	9	sims_utils	2.1.2-10-g7a0cc36+3
+2.1.3-16-gcf1c898	9	sims_catalogs_generation	2.1.2-5-g483e49d+14
+2.1.3-16-gcf1c898	9	sims_photUtils	2.1.2-4-g65081c1+8
+2.1.3-16-gcf1c898	9	sims_coordUtils	2.1.2-1-g3ce4a30+33
+2.1.3-16-gcf1c898	9	sims_maps	master-g77011b90b0
+2.1.3-16-gcf1c898	9	obs_lsstSim	2016_01.0-1-gc9da0d7
