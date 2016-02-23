@@ -1119,3 +1119,8 @@ tickets.DM-4983-missing-deps-gfcb9c0c70d	0	numpy	0.0.2
 tickets.DM-4983-missing-deps-gfcb9c0c70d	0	scons	2.3.5
 tickets.DM-4983-missing-deps-gfcb9c0c70d	0	sconsUtils	2016_01.0-2-g147868e
 tickets.DM-4983-missing-deps-gfcb9c0c70d	0	afwdata	2016_01.0+2
+tickets.DM-4983-missing-deps-gfcb9c0c70d	1	coadd_utils	tickets.DM-4983-missing-deps-g082a61aa9f+1
+tickets.DM-4983-missing-deps-gfcb9c0c70d	1	numpy	0.0.2
+tickets.DM-4983-missing-deps-gfcb9c0c70d	1	scons	2.3.5
+tickets.DM-4983-missing-deps-gfcb9c0c70d	1	sconsUtils	2016_01.0-2-g147868e
+tickets.DM-4983-missing-deps-gfcb9c0c70d	1	afwdata	2016_01.0+2

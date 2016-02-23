@@ -670,3 +670,10 @@ tickets.DM-4983-missing-deps-gd55d315377	0	pyfits	3.4.0+1
 tickets.DM-4983-missing-deps-gd55d315377	0	pyyaml	3.11.lsst1
 tickets.DM-4983-missing-deps-gd55d315377	0	scons	2.3.5
 tickets.DM-4983-missing-deps-gd55d315377	0	sconsUtils	2016_01.0-2-g147868e
+tickets.DM-4983-missing-deps-gd55d315377	1	mariadbclient	tickets.DM-4983-el5-compat-fixed-gc18c8727a8
+tickets.DM-4983-missing-deps-gd55d315377	1	pex_logging	2016_01.0+4
+tickets.DM-4983-missing-deps-gd55d315377	1	pex_policy	2016_01.0+4
+tickets.DM-4983-missing-deps-gd55d315377	1	pyfits	3.4.0+1
+tickets.DM-4983-missing-deps-gd55d315377	1	pyyaml	3.11.lsst1
+tickets.DM-4983-missing-deps-gd55d315377	1	scons	2.3.5
+tickets.DM-4983-missing-deps-gd55d315377	1	sconsUtils	2016_01.0-2-g147868e

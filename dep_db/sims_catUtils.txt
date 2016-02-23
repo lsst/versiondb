@@ -12793,3 +12793,16 @@ sims_2.2.2	1	obs_lsstSim	w.2016.06
 2.1.2-11-g8b475c1	13	daf_persistence	tickets.DM-4983-missing-deps-gd55d315377
 2.1.2-11-g8b475c1	13	sncosmo	1.2.0+1
 2.1.2-11-g8b475c1	13	obs_lsstSim	2016_01.0-1-gc9da0d7+1
+2.1.2-11-g8b475c1	14	utils	2016_01.0+4
+2.1.2-11-g8b475c1	14	sims_utils	2.1.2-10-g7a0cc36+4
+2.1.2-11-g8b475c1	14	sims_catalogs_measures	2.1.2-3-ga4c308f+14
+2.1.2-11-g8b475c1	14	sims_catalogs_generation	tickets.DM-4983-missing-deps-ga6c8ad4ac0+1
+2.1.2-11-g8b475c1	14	sims_coordUtils	2.1.2-1-g3ce4a30+35
+2.1.2-11-g8b475c1	14	sims_photUtils	2.1.2-4-g65081c1+9
+2.1.2-11-g8b475c1	14	sims_data	10.1
+2.1.2-11-g8b475c1	14	palpy	tickets.DM-4983-missing-deps-g04608c3618
+2.1.2-11-g8b475c1	14	python	0.0.3
+2.1.2-11-g8b475c1	14	pymssql	2.1.1+3
+2.1.2-11-g8b475c1	14	daf_persistence	tickets.DM-4983-missing-deps-gd55d315377+1
+2.1.2-11-g8b475c1	14	sncosmo	1.2.0+1
+2.1.2-11-g8b475c1	14	obs_lsstSim	2016_01.0-1-gc9da0d7+2

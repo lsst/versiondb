@@ -7440,3 +7440,13 @@ tickets.DM-4692-ge622804f06	0	matplotlib	0.0.2
 2016_01.0-2-g4f8ae4a	1	astrometry_net	0.50.lsst2+6
 2016_01.0-2-g4f8ae4a	1	numpy	0.0.2
 2016_01.0-2-g4f8ae4a	1	matplotlib	0.0.2
+2016_01.0-2-g4f8ae4a	2	afw	2016_01.0-5-gce64d60+3
+2016_01.0-2-g4f8ae4a	2	meas_algorithms	tickets.DM-4983-missing-deps-g58506e27b3+1
+2016_01.0-2-g4f8ae4a	2	pex_logging	2016_01.0+4
+2016_01.0-2-g4f8ae4a	2	pex_config	2016_01.0+4
+2016_01.0-2-g4f8ae4a	2	pipe_base	2016_01.0+19
+2016_01.0-2-g4f8ae4a	2	utils	2016_01.0+4
+2016_01.0-2-g4f8ae4a	2	wcslib	5.13.lsst1
+2016_01.0-2-g4f8ae4a	2	astrometry_net	0.50.lsst2+6
+2016_01.0-2-g4f8ae4a	2	numpy	0.0.2
+2016_01.0-2-g4f8ae4a	2	matplotlib	0.0.2

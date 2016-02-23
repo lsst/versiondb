@@ -3009,3 +3009,10 @@ tickets.DM-4983-missing-deps-g8d270a5577	0	scons	2.3.5
 tickets.DM-4983-missing-deps-g8d270a5577	0	sconsUtils	2016_01.0-2-g147868e
 tickets.DM-4983-missing-deps-g8d270a5577	0	utils	2016_01.0+4
 tickets.DM-4983-missing-deps-g8d270a5577	0	matplotlib	0.0.2
+tickets.DM-4983-missing-deps-g8d270a5577	1	afw	2016_01.0-5-gce64d60+3
+tickets.DM-4983-missing-deps-g8d270a5577	1	meas_algorithms	tickets.DM-4983-missing-deps-g58506e27b3+1
+tickets.DM-4983-missing-deps-g8d270a5577	1	numpy	0.0.2
+tickets.DM-4983-missing-deps-g8d270a5577	1	scons	2.3.5
+tickets.DM-4983-missing-deps-g8d270a5577	1	sconsUtils	2016_01.0-2-g147868e
+tickets.DM-4983-missing-deps-g8d270a5577	1	utils	2016_01.0+4
+tickets.DM-4983-missing-deps-g8d270a5577	1	matplotlib	0.0.2

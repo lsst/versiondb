@@ -36,3 +36,5 @@ ticket.DM-2752-egg-error-g244f9305d1	0	mysqlclient	5.1.73.lsst2
 1.2.3.lsst1-1-g120147b	1	mariadbclient	10.1.11
 1.2.3.lsst1-1-g120147b	2	python	0.0.3
 1.2.3.lsst1-1-g120147b	2	mariadbclient	10.1.11-1-g70e9499
+1.2.3.lsst1-1-g120147b	3	python	0.0.3
+1.2.3.lsst1-1-g120147b	3	mariadbclient	tickets.DM-4983-el5-compat-fixed-gc18c8727a8

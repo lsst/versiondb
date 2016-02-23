@@ -3460,3 +3460,12 @@ tickets.DM-4983-missing-deps-g97a883ef52	0	pex_config	2016_01.0+4
 tickets.DM-4983-missing-deps-g97a883ef52	0	pipe_base	2016_01.0+18
 tickets.DM-4983-missing-deps-g97a883ef52	0	scons	2.3.5
 tickets.DM-4983-missing-deps-g97a883ef52	0	sconsUtils	2016_01.0-2-g147868e
+tickets.DM-4983-missing-deps-g97a883ef52	1	afw	2016_01.0-5-gce64d60+3
+tickets.DM-4983-missing-deps-g97a883ef52	1	coadd_utils	tickets.DM-4983-missing-deps-g082a61aa9f+1
+tickets.DM-4983-missing-deps-g97a883ef52	1	daf_base	2016_01.0+4
+tickets.DM-4983-missing-deps-g97a883ef52	1	geom	10.0+52
+tickets.DM-4983-missing-deps-g97a883ef52	1	numpy	0.0.2
+tickets.DM-4983-missing-deps-g97a883ef52	1	pex_config	2016_01.0+4
+tickets.DM-4983-missing-deps-g97a883ef52	1	pipe_base	2016_01.0+19
+tickets.DM-4983-missing-deps-g97a883ef52	1	scons	2.3.5
+tickets.DM-4983-missing-deps-g97a883ef52	1	sconsUtils	2016_01.0-2-g147868e
