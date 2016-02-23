@@ -2448,3 +2448,11 @@ w.2016.06	0	afwdata	w.2016.06
 2016_01.0-1-gf617eb1	5	pex_config	2016_01.0+4
 2016_01.0-1-gf617eb1	5	utils	2016_01.0+4
 2016_01.0-1-gf617eb1	5	afwdata	2016_01.0+2
+tickets.DM-4983-missing-deps-g082a61aa9f	0	afw	2016_01.0-5-gce64d60+2
+tickets.DM-4983-missing-deps-g082a61aa9f	0	numpy	0.0.2
+tickets.DM-4983-missing-deps-g082a61aa9f	0	pex_config	2016_01.0+4
+tickets.DM-4983-missing-deps-g082a61aa9f	0	pipe_base	2016_01.0+18
+tickets.DM-4983-missing-deps-g082a61aa9f	0	scons	2.3.5
+tickets.DM-4983-missing-deps-g082a61aa9f	0	sconsUtils	2016_01.0-2-g147868e
+tickets.DM-4983-missing-deps-g082a61aa9f	0	utils	2016_01.0+4
+tickets.DM-4983-missing-deps-g082a61aa9f	0	afwdata	2016_01.0+2

@@ -483,3 +483,7 @@ w.2015.36	0	afw	w.2015.36
 2016_01.0	15	afw	2016_01.0-4-g41e9b81+3
 2016_01.0	16	afw	2016_01.0-5-gce64d60
 2016_01.0	17	afw	2016_01.0-5-gce64d60+1
+tickets.DM-4983-missing-deps-ge4a185bfd0	0	afw	2016_01.0-5-gce64d60+2
+tickets.DM-4983-missing-deps-ge4a185bfd0	0	numpy	0.0.2
+tickets.DM-4983-missing-deps-ge4a185bfd0	0	scons	2.3.5
+tickets.DM-4983-missing-deps-ge4a185bfd0	0	sconsUtils	2016_01.0-2-g147868e

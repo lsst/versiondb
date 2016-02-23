@@ -1514,3 +1514,8 @@ w.2016.06	0	pipe_base	w.2016.06
 2016_01.0-2-g6949c45	10	pipe_base	2016_01.0+16
 2016_01.0-2-g6949c45	11	meas_algorithms	2016_01.0-1-g6f565c2+6
 2016_01.0-2-g6949c45	11	pipe_base	2016_01.0+17
+tickets.DM-4983-missing-deps-g6ba7c6dc68	0	meas_algorithms	tickets.DM-4983-missing-deps-g58506e27b3
+tickets.DM-4983-missing-deps-g6ba7c6dc68	0	numpy	0.0.2
+tickets.DM-4983-missing-deps-g6ba7c6dc68	0	pipe_base	2016_01.0+18
+tickets.DM-4983-missing-deps-g6ba7c6dc68	0	scons	2.3.5
+tickets.DM-4983-missing-deps-g6ba7c6dc68	0	sconsUtils	2016_01.0-2-g147868e

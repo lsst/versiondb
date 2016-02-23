@@ -6435,3 +6435,12 @@ tickets.DM-4692-gcfb53c053a	0	matplotlib	0.0.2
 2016_01.0	18	utils	2016_01.0+4
 2016_01.0	18	afwdata	2016_01.0+2
 2016_01.0	18	matplotlib	0.0.2
+2016_01.0	19	afw	2016_01.0-5-gce64d60+2
+2016_01.0	19	meas_base	tickets.DM-4983-missing-deps-g97a883ef52
+2016_01.0	19	meas_deblender	tickets.DM-4983-missing-deps-g8d270a5577
+2016_01.0	19	numpy	0.0.2
+2016_01.0	19	pex_config	2016_01.0+4
+2016_01.0	19	pipe_base	2016_01.0+18
+2016_01.0	19	utils	2016_01.0+4
+2016_01.0	19	afwdata	2016_01.0+2
+2016_01.0	19	matplotlib	0.0.2

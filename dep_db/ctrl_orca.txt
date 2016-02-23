@@ -2495,3 +2495,10 @@ w.2015.36	0	ctrl_provenance	w.2015.36
 2016_01.0	15	ctrl_events	2016_01.0+7
 2016_01.0	15	ctrl_provenance	2016_01.0+15
 2016_01.0	15	log	2016_01.0-2-gcec7bb8
+2016_01.0	16	cat	2016_01.0-3-g7ce2ae3+6
+2016_01.0	16	utils	2016_01.0+4
+2016_01.0	16	pex_policy	2016_01.0+4
+2016_01.0	16	daf_persistence	tickets.DM-4983-missing-deps-gd55d315377
+2016_01.0	16	ctrl_events	2016_01.0+7
+2016_01.0	16	ctrl_provenance	2016_01.0+16
+2016_01.0	16	log	2016_01.0-2-gcec7bb8
