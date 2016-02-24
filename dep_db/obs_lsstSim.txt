@@ -8662,3 +8662,13 @@ tickets.DM-4692-g072275f809	1	utils	2016_01.0+2
 2016_01.0-1-gc9da0d7	2	pipe_tasks	2016_01.0-8-g428dafe+3
 2016_01.0-1-gc9da0d7	2	mysqlpython	1.2.3.lsst1-1-g120147b+3
 2016_01.0-1-gc9da0d7	2	utils	2016_01.0+4
+2016_01.0-1-gc9da0d7	3	daf_base	2016_01.0+4
+2016_01.0-1-gc9da0d7	3	pex_policy	2016_01.0+4
+2016_01.0-1-gc9da0d7	3	afw	2016_01.0-5-gce64d60+4
+2016_01.0-1-gc9da0d7	3	daf_persistence	2016_01.0-2-g3878625+3
+2016_01.0-1-gc9da0d7	3	daf_butlerUtils	2016_01.0+17
+2016_01.0-1-gc9da0d7	3	meas_algorithms	2016_01.0-1-g6f565c2+7
+2016_01.0-1-gc9da0d7	3	ip_isr	2016_01.0-2-g6949c45+12
+2016_01.0-1-gc9da0d7	3	pipe_tasks	2016_01.0-8-g428dafe+4
+2016_01.0-1-gc9da0d7	3	mysqlpython	1.2.3.lsst1-1-g120147b+4
+2016_01.0-1-gc9da0d7	3	utils	2016_01.0+4

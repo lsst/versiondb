@@ -1092,3 +1092,9 @@ tickets.DM-4983-missing-deps-ga6c8ad4ac0	1	python	0.0.3
 tickets.DM-4983-missing-deps-ga6c8ad4ac0	1	sims_utils	2.1.2-10-g7a0cc36+4
 tickets.DM-4983-missing-deps-ga6c8ad4ac0	1	sqlalchemy	2015_10.0-1-gaf5a1cb
 tickets.DM-4983-missing-deps-ga6c8ad4ac0	1	utils	2016_01.0+4
+2.1.2-5-g483e49d	15	utils	2016_01.0+4
+2.1.2-5-g483e49d	15	python	0.0.3
+2.1.2-5-g483e49d	15	sims_utils	2.1.2-10-g7a0cc36+3
+2.1.2-5-g483e49d	15	daf_persistence	2016_01.0-2-g3878625+3
+2.1.2-5-g483e49d	15	mysqlpython	1.2.3.lsst1-1-g120147b+4
+2.1.2-5-g483e49d	15	pymssql	2.1.1+3

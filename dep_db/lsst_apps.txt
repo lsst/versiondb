@@ -6894,3 +6894,11 @@ w.2015.36	0	meas_extensions_psfex	w.2015.36
 11.0	122	obs_test	2016_01.0+16
 11.0	122	display_ds9	2015_10.0+56
 11.0	122	meas_extensions_psfex	tickets.DM-4983-missing-deps-g0c90ddb489+1
+11.0	123	meas_deblender	2016_01.0-1-gd419d73
+11.0	123	meas_modelfit	2016_01.0-1-g0685163+11
+11.0	123	pipe_tasks	2016_01.0-8-g428dafe+4
+11.0	123	obs_lsstSim	2016_01.0-1-gc9da0d7+3
+11.0	123	obs_sdss	2016_01.0-1-g5af599f+3
+11.0	123	obs_test	2016_01.0+17
+11.0	123	display_ds9	2015_10.0+57
+11.0	123	meas_extensions_psfex	2016_01.0+19
