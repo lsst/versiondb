@@ -3024,3 +3024,7 @@ tickets.DM-4983-missing-deps-g8d270a5577	1	matplotlib	0.0.2
 2016_01.0-1-gd419d73	1	afw	2016_01.0-7-g4c24a3f
 2016_01.0-1-gd419d73	1	meas_algorithms	2016_01.0-1-g6f565c2+8
 2016_01.0-1-gd419d73	1	matplotlib	0.0.2
+2016_01.0-1-gd419d73	2	utils	2016_01.0+4
+2016_01.0-1-gd419d73	2	afw	2016_01.0-7-g4c24a3f+1
+2016_01.0-1-gd419d73	2	meas_algorithms	2016_01.0-2-ge40065d
+2016_01.0-1-gd419d73	2	matplotlib	0.0.2

@@ -461,3 +461,8 @@ sims_2.2.2	1	healpy	1.8.1+17
 2.1.2-10-g7a0cc36	4	palpy	tickets.DM-4983-missing-deps-g04608c3618
 2.1.2-10-g7a0cc36	4	sims_data	10.1
 2.1.2-10-g7a0cc36	4	healpy	1.8.1-2-gd4cac0b
+2.1.2-11-g356d81c	0	utils	2016_01.0+4
+2.1.2-11-g356d81c	0	python	0.0.3
+2.1.2-11-g356d81c	0	palpy	1.7.0
+2.1.2-11-g356d81c	0	sims_data	10.1
+2.1.2-11-g356d81c	0	healpy	1.8.1-2-gd4cac0b
