@@ -1130,3 +1130,8 @@ tickets.DM-4983-missing-deps-gfcb9c0c70d	1	afwdata	2016_01.0+2
 2016_01.0	20	afwdata	2016_01.0+2
 2016_01.0	21	coadd_utils	2016_01.0-1-gf617eb1+8
 2016_01.0	21	afwdata	2016_01.0+2
+2016_01.0-1-gf871d2e	0	coadd_utils	2016_01.0-2-gdbbfd04
+2016_01.0-1-gf871d2e	0	numpy	0.0.2
+2016_01.0-1-gf871d2e	0	scons	2.3.5
+2016_01.0-1-gf871d2e	0	sconsUtils	2016_01.0-2-g147868e
+2016_01.0-1-gf871d2e	0	afwdata	2016_01.0+2
