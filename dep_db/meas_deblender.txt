@@ -3091,3 +3091,10 @@ tickets.DM-4983-missing-deps-g8d270a5577	1	matplotlib	0.0.2
 2016_01.0-2-ge05c4ff	8	sconsUtils	2016_01.0-3-g216a387
 2016_01.0-2-ge05c4ff	8	utils	2016_01.0+5
 2016_01.0-2-ge05c4ff	8	matplotlib	0.0.2
+2016_01.0-2-ge05c4ff	9	afw	2.2016.10-2-gd96fab6+2
+2016_01.0-2-ge05c4ff	9	meas_algorithms	2016_01.0-5-g71e3fa6+3
+2016_01.0-2-ge05c4ff	9	numpy	0.0.2
+2016_01.0-2-ge05c4ff	9	scons	2.3.5
+2016_01.0-2-ge05c4ff	9	sconsUtils	2016_01.0-3-g216a387
+2016_01.0-2-ge05c4ff	9	utils	2016_01.0+5
+2016_01.0-2-ge05c4ff	9	matplotlib	0.0.2
