@@ -1441,3 +1441,15 @@ tickets.DM-4983-missing-deps-g0c90ddb489	1	utils	2016_01.0+4
 2016_01.0-3-g7cd28ef	4	sconsUtils	2016_01.0-4-g49bc714
 2016_01.0-3-g7cd28ef	4	swig	3.0.2.lsst1
 2016_01.0-3-g7cd28ef	4	utils	2016_01.0+6
+2016_01.0-3-g7cd28ef	5	afw	2.2016.10-4-gc7cb7e6
+2016_01.0-3-g7cd28ef	5	boost	1.59.lsst5
+2016_01.0-3-g7cd28ef	5	daf_base	2016_01.0+6
+2016_01.0-3-g7cd28ef	5	fftw	3.3.4.lsst2
+2016_01.0-3-g7cd28ef	5	meas_algorithms	2016_01.0-5-g71e3fa6+5
+2016_01.0-3-g7cd28ef	5	meas_base	2016_01.0-12-gf26bc28
+2016_01.0-3-g7cd28ef	5	numpy	0.0.2
+2016_01.0-3-g7cd28ef	5	psfex	2016_01.0+4
+2016_01.0-3-g7cd28ef	5	scons	2.3.5
+2016_01.0-3-g7cd28ef	5	sconsUtils	2016_01.0-4-g49bc714
+2016_01.0-3-g7cd28ef	5	swig	3.0.2.lsst1
+2016_01.0-3-g7cd28ef	5	utils	2016_01.0+6
