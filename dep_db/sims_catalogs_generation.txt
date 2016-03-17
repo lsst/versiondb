@@ -1160,3 +1160,10 @@ tickets.DM-4983-missing-deps-ga6c8ad4ac0	1	utils	2016_01.0+4
 2.1.2-6-gdcfd1fd	7	sims_utils	2.1.2-11-g356d81c+4
 2.1.2-6-gdcfd1fd	7	sqlalchemy	2015_10.0-1-gaf5a1cb
 2.1.2-6-gdcfd1fd	7	utils	2016_01.0+6
+2.1.2-6-gdcfd1fd	8	daf_persistence	2016_01.0-6-g27ca0e9
+2.1.2-6-gdcfd1fd	8	mysqlpython	1.2.3.lsst1-1-g120147b+4
+2.1.2-6-gdcfd1fd	8	pymssql	2.1.1+3
+2.1.2-6-gdcfd1fd	8	python	0.0.3
+2.1.2-6-gdcfd1fd	8	sims_utils	2.1.2-11-g356d81c+4
+2.1.2-6-gdcfd1fd	8	sqlalchemy	2015_10.0-1-gaf5a1cb
+2.1.2-6-gdcfd1fd	8	utils	2016_01.0+6
