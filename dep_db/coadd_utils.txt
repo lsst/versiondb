@@ -2583,3 +2583,11 @@ tickets.DM-4983-missing-deps-g082a61aa9f	1	afwdata	2016_01.0+2
 2016_01.0-2-gdbbfd04	12	sconsUtils	2016_01.0-4-g49bc714
 2016_01.0-2-gdbbfd04	12	utils	2016_01.0+6
 2016_01.0-2-gdbbfd04	12	afwdata	2016_01.0+4
+2016_01.0-2-gdbbfd04	13	afw	2.2016.10-5-geb3ea75
+2016_01.0-2-gdbbfd04	13	numpy	0.0.2
+2016_01.0-2-gdbbfd04	13	pex_config	2016_01.0+6
+2016_01.0-2-gdbbfd04	13	pipe_base	2016_01.0-6-g7751869+2
+2016_01.0-2-gdbbfd04	13	scons	2.3.5
+2016_01.0-2-gdbbfd04	13	sconsUtils	2016_01.0-4-g49bc714
+2016_01.0-2-gdbbfd04	13	utils	2016_01.0+6
+2016_01.0-2-gdbbfd04	13	afwdata	2016_01.0+4

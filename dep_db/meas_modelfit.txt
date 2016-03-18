@@ -4717,3 +4717,12 @@ tickets.DM-4983-missing-deps-g62562e81ef	1	matplotlib	0.0.2
 2016_01.0-4-gdef2b87	9	sconsUtils	2016_01.0-4-g49bc714
 2016_01.0-4-gdef2b87	9	shapelet	2016_01.0-2-ge2d22eb+2
 2016_01.0-4-gdef2b87	9	matplotlib	0.0.2
+2016_01.0-4-gdef2b87	10	afw	2.2016.10-5-geb3ea75
+2016_01.0-4-gdef2b87	10	meas_algorithms	2016_01.0-6-g198e25f+1
+2016_01.0-4-gdef2b87	10	meas_base	2016_01.0-12-gf26bc28+2
+2016_01.0-4-gdef2b87	10	numpy	0.0.2
+2016_01.0-4-gdef2b87	10	pipe_tasks	2016_01.0-24-gd2dc4f1+1
+2016_01.0-4-gdef2b87	10	scons	2.3.5
+2016_01.0-4-gdef2b87	10	sconsUtils	2016_01.0-4-g49bc714
+2016_01.0-4-gdef2b87	10	shapelet	2016_01.0-2-ge2d22eb+3
+2016_01.0-4-gdef2b87	10	matplotlib	0.0.2
