@@ -1,0 +1,21 @@
+# product                 SHA1                                      Version                       
+BUILD=b1973
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+python                    259ae7060d5430926998615a42cf4b4c117a449e  0.0.3                                    
+swig                      ccf66d07ee20460f0eb3c396d8f04e5d5e249ee3  3.0.2.lsst1                              
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+pykg_config               c4dd3b426d8c89d1abccbd64ed5e3e3ea4209f2f  1.2.0+5                                  python
+boost                     c35def08ba3ff775c15721a6c36308ced24c264e  1.59.lsst5                               python
+sims_data                 dac76d2d31a18efd420080cf729efcfc59b66910  10.1                                     
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5                                    python
+python_d2to1              be638fbf6609db5ac7ab904d3c76eaaa1f55df3b  0.2.12.lsst1                             
+sconsUtils                49bc7145b815e9bea8081a49115136c2f4041cdc  2016_01.0-4-g49bc714                     scons,doxygen
+numpy                     4e70653b6b68a9a5d163932472b6fdf48b708a63  0.0.2                                    python
+stsci_distutils           b22a065217b3e28dda1172891e13839c6a3bfea9  0.3.7-1-gb22a065+1                       python_d2to1
+base                      89e5401b42a1fdce7cf6f8796da03511db782469  2016_01.0+5                              boost,sconsUtils,swig,doxygen
+pex_exceptions            f7aee88cd35e30f87a091e07a99bed40bab34afd  2016_01.0+5                              base,boost,swig
+palpy                     733f88b7b6af36261a0833ad7c04c076d872d90b  1.7.0.lsst1-1-g733f88b                   numpy,python
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+2                                  numpy,python_d2to1,stsci_distutils
+healpy                    d4cac0b74d707cc97b912fa01d6d2c0d9c9eb947  1.8.1-2-gd4cac0b+1                       python,numpy,pykg_config,cfitsio,pyfits
+utils                     530cd83c0916ae82157906237b04ad344f22a511  2016_01.0+6                              base,pex_exceptions,boost,numpy
+sims_utils                356d81c779b6241c741d6a3e5bae1133b473badb  2.1.2-11-g356d81c+4                      utils,python,palpy,sims_data,healpy
