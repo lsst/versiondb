@@ -2662,3 +2662,13 @@ tickets.DM-4421-gc612e54eb7	0	doxygen	1.8.5
 2016_01.0-2-g4ef4baf	2	log	2016_01.0-4-g03cea0f+2
 2016_01.0-2-g4ef4baf	2	swig	3.0.2.lsst1
 2016_01.0-2-g4ef4baf	2	doxygen	1.8.5.lsst1
+w.2016.12	0	boost	1.59.lsst5
+w.2016.12	0	activemqcpp	3.9.0.lsst2+3
+w.2016.12	0	utils	w.2016.12
+w.2016.12	0	base	w.2016.12
+w.2016.12	0	daf_base	w.2016.12
+w.2016.12	0	pex_exceptions	w.2016.12
+w.2016.12	0	log4cxx	0.10.0.lsst6+1
+w.2016.12	0	log	w.2016.12
+w.2016.12	0	swig	3.0.2.lsst1
+w.2016.12	0	doxygen	1.8.5.lsst1
