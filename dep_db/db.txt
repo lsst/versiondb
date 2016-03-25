@@ -919,3 +919,9 @@ w.2016.12	0	mariadbclient	10.1.11-2-gd04d8b7
 w.2016.12	0	mysqlpython	1.2.3.lsst1-1-g120147b+4
 w.2016.12	0	sconsUtils	w.2016.12
 w.2016.12	0	sqlalchemy	2015_10.0-1-gaf5a1cb
+2016_02	3	log	2016_01.0-4-g03cea0f+2
+2016_02	3	python	0.0.3
+2016_02	3	mariadbclient	10.1.11-3-g2ac29f1
+2016_02	3	mysqlpython	1.2.3.lsst1-1-g120147b+5
+2016_02	3	sconsUtils	2016_01.0-4-g49bc714
+2016_02	3	sqlalchemy	2015_10.0-1-gaf5a1cb
