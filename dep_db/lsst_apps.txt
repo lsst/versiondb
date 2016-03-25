@@ -7118,3 +7118,11 @@ w.2016.12	0	meas_extensions_psfex	w.2016.12
 11.0	149	obs_test	2016_01.0-2-g3a2deb8+10
 11.0	149	display_ds9	2015_10.0+73
 11.0	149	meas_extensions_psfex	2016_01.0-3-g7cd28ef+11
+w.2016.12	1	meas_deblender	w.2016.12+1
+w.2016.12	1	meas_modelfit	w.2016.12+1
+w.2016.12	1	pipe_tasks	w.2016.12+1
+w.2016.12	1	obs_lsstSim	w.2016.12+1
+w.2016.12	1	obs_sdss	w.2016.12+1
+w.2016.12	1	obs_test	w.2016.12+1
+w.2016.12	1	display_ds9	w.2016.12+1
+w.2016.12	1	meas_extensions_psfex	w.2016.12+1

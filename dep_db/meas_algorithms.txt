@@ -3479,3 +3479,17 @@ w.2016.12	0	utils	w.2016.12
 2016_01.0-6-g198e25f	4	scons	2.3.5
 2016_01.0-6-g198e25f	4	sconsUtils	2016_01.0-4-g49bc714
 2016_01.0-6-g198e25f	4	utils	2016_01.0+6
+w.2016.12	1	daf_base	w.2016.12
+w.2016.12	1	daf_persistence	w.2016.12+1
+w.2016.12	1	afw	w.2016.12+1
+w.2016.12	1	meas_base	w.2016.12+1
+w.2016.12	1	minuit2	5.28.00.lsst2-1-gdae2fb7
+w.2016.12	1	numpy	0.0.2
+w.2016.12	1	pex_config	w.2016.12
+w.2016.12	1	pex_exceptions	w.2016.12
+w.2016.12	1	pex_logging	w.2016.12
+w.2016.12	1	pex_policy	w.2016.12
+w.2016.12	1	pipe_base	w.2016.12+1
+w.2016.12	1	scons	2.3.5
+w.2016.12	1	sconsUtils	w.2016.12
+w.2016.12	1	utils	w.2016.12
