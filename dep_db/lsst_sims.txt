@@ -9018,3 +9018,12 @@ master-ga3712cd25b	50	sims_catalogs_measures	2.1.2-3-ga4c308f+28
 master-ga3712cd25b	50	sims_sed_library	2016.01.26
 master-ga3712cd25b	50	sims_maps	master-g77011b90b0
 master-ga3712cd25b	50	sims_skybrightness	master-ga613f46e2e+2
+sims_2.2.3	1	sims_maf	sims_2.2.3+1
+sims_2.2.3	1	sims_GalSimInterface	sims_2.2.3+1
+sims_2.2.3	1	sncosmo	1.2.0+1
+sims_2.2.3	1	sims_catUtils	sims_2.2.3+1
+sims_2.2.3	1	sims_catalogs_generation	sims_2.2.3+1
+sims_2.2.3	1	sims_catalogs_measures	sims_2.2.3+1
+sims_2.2.3	1	sims_sed_library	sims_2.2.3
+sims_2.2.3	1	sims_maps	master-g77011b90b0
+sims_2.2.3	1	sims_skybrightness	sims_2.2.3

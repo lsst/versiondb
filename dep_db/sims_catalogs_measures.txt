@@ -1198,3 +1198,7 @@ sims_2.2.3	0	sims_catalogs_generation	sims_2.2.3
 2.1.2-3-ga4c308f	28	python	0.0.3
 2.1.2-3-ga4c308f	28	sims_utils	2.1.2-11-g356d81c+5
 2.1.2-3-ga4c308f	28	sims_catalogs_generation	2.1.2-6-gdcfd1fd+11
+sims_2.2.3	1	utils	w.2016.12
+sims_2.2.3	1	python	0.0.3
+sims_2.2.3	1	sims_utils	sims_2.2.3
+sims_2.2.3	1	sims_catalogs_generation	sims_2.2.3+1
