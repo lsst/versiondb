@@ -518,3 +518,13 @@ w.2016.12	0	testdata_subaru	w.2016.12
 5.0.0.1-80-gf1c5ce1	11	meas_modelfit	2016_01.0-5-g6161eff
 5.0.0.1-80-gf1c5ce1	11	meas_extensions_psfex	2016_01.0-4-g848ff2c
 5.0.0.1-80-gf1c5ce1	11	testdata_subaru	master-gf9ba9abdbe
+5.0.0.1-81-g6cd1b06	0	daf_persistence	2016_01.0-7-g3484020+2
+5.0.0.1-81-g6cd1b06	0	daf_butlerUtils	2016_01.0-4-g325729a+6
+5.0.0.1-81-g6cd1b06	0	skypix	10.0+379
+5.0.0.1-81-g6cd1b06	0	pipe_tasks	2016_01.0-28-g79a91b6
+5.0.0.1-81-g6cd1b06	0	meas_astrom	2016_01.0-5-g9d7ea32+1
+5.0.0.1-81-g6cd1b06	0	pyfits	3.4.0+2
+5.0.0.1-81-g6cd1b06	0	sconsUtils	2016_01.0-4-g49bc714
+5.0.0.1-81-g6cd1b06	0	meas_modelfit	2016_01.0-5-g6161eff+1
+5.0.0.1-81-g6cd1b06	0	meas_extensions_psfex	2016_01.0-4-g848ff2c+1
+5.0.0.1-81-g6cd1b06	0	testdata_subaru	master-gf9ba9abdbe
