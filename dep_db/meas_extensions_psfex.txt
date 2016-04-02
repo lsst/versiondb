@@ -1597,3 +1597,15 @@ w.2016.12	1	utils	w.2016.12
 2016_01.0-4-g848ff2c	1	sconsUtils	2016_01.0-4-g49bc714
 2016_01.0-4-g848ff2c	1	swig	3.0.2.lsst1
 2016_01.0-4-g848ff2c	1	utils	2016_01.0+6
+2016_01.0-5-ga9febcd	0	afw	2.2016.10-8-g2cef314+1
+2016_01.0-5-ga9febcd	0	boost	1.59.lsst5
+2016_01.0-5-ga9febcd	0	daf_base	2016_01.0+6
+2016_01.0-5-ga9febcd	0	fftw	3.3.4.lsst2
+2016_01.0-5-ga9febcd	0	meas_algorithms	2016_01.0-8-g252b6e6
+2016_01.0-5-ga9febcd	0	meas_base	2016_01.0-14-g095ee0a
+2016_01.0-5-ga9febcd	0	numpy	0.0.2
+2016_01.0-5-ga9febcd	0	psfex	2016_01.0+4
+2016_01.0-5-ga9febcd	0	scons	2.3.5
+2016_01.0-5-ga9febcd	0	sconsUtils	2016_01.0-4-g49bc714
+2016_01.0-5-ga9febcd	0	swig	3.0.2.lsst1
+2016_01.0-5-ga9febcd	0	utils	2016_01.0+6
