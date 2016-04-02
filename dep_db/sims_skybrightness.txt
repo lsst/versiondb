@@ -208,3 +208,13 @@ master-ga613f46e2e	2	utils	w.2016.12
 master-ga613f46e2e	2	throughputs	master-g7632edaa9e
 master-ga613f46e2e	2	sims_skybrightness_data	master-g24cb0577f9+1
 master-ga613f46e2e	2	healpy	1.8.1-2-gd4cac0b+1
+master-ga613f46e2e	3	base	w.2016.12
+master-ga613f46e2e	3	numpy	0.0.2
+master-ga613f46e2e	3	matplotlib	0.0.2
+master-ga613f46e2e	3	pyephem	3.7.5.1.lsst1
+master-ga613f46e2e	3	sims_utils	sims_2.2.4
+master-ga613f46e2e	3	sims_photUtils	sims_2.2.4
+master-ga613f46e2e	3	utils	w.2016.12
+master-ga613f46e2e	3	throughputs	sims_2.2.4
+master-ga613f46e2e	3	sims_skybrightness_data	master-g24cb0577f9+1
+master-ga613f46e2e	3	healpy	1.8.1-2-gd4cac0b+1

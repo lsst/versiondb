@@ -2637,3 +2637,12 @@ sims_2.2.3	1	obs_lsstSim	w.2016.12+1
 2.1.2-6-gd505011	27	sims_catalogs_measures	2.1.2-3-ga4c308f+30
 2.1.2-6-gd505011	27	sims_catUtils	2.1.2-12-gb2a5b28+25
 2.1.2-6-gd505011	27	obs_lsstSim	2016_01.0-4-g55c0221
+sims_2.2.4	0	galsim	1.3.2
+sims_2.2.4	0	meas_astrom	w.2016.12+1
+sims_2.2.4	0	afw	w.2016.12+1
+sims_2.2.4	0	sims_utils	sims_2.2.4
+sims_2.2.4	0	sims_coordUtils	sims_2.2.4
+sims_2.2.4	0	sims_catalogs_generation	sims_2.2.4
+sims_2.2.4	0	sims_catalogs_measures	sims_2.2.4
+sims_2.2.4	0	sims_catUtils	sims_2.2.4
+sims_2.2.4	0	obs_lsstSim	w.2016.12+1
