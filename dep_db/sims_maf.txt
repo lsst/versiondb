@@ -13963,3 +13963,15 @@ sims_2.2.4	2	sims_photUtils	sims_2.2.4+2
 sims_2.2.4	2	sims_coordUtils	sims_2.2.4+2
 sims_2.2.4	2	sims_maps	sims_2.2.4
 sims_2.2.4	2	obs_lsstSim	w.2016.15
+sims_2.2.4maf	1	base	w.2016.15
+sims_2.2.4maf	1	numpy	0.0.2
+sims_2.2.4maf	1	matplotlib	0.0.2
+sims_2.2.4maf	1	pyephem	3.7.5.1.lsst1
+sims_2.2.4maf	1	palpy	1.7.0.lsst1-1-g733f88b
+sims_2.2.4maf	1	healpy	1.8.1-2-gd4cac0b+1
+sims_2.2.4maf	1	sims_utils	sims_2.2.4+2
+sims_2.2.4maf	1	sims_catalogs_generation	sims_2.2.4+2
+sims_2.2.4maf	1	sims_photUtils	sims_2.2.4+2
+sims_2.2.4maf	1	sims_coordUtils	sims_2.2.4+2
+sims_2.2.4maf	1	sims_maps	sims_2.2.4
+sims_2.2.4maf	1	obs_lsstSim	w.2016.15
