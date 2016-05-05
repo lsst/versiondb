@@ -13612,3 +13612,16 @@ sims_2.2.4	2	obs_lsstSim	w.2016.15
 2.1.2-12-gb2a5b28	46	daf_persistence	2016_01.0-8-geb625e2+3
 2.1.2-12-gb2a5b28	46	sncosmo	1.2.0+1
 2.1.2-12-gb2a5b28	46	obs_lsstSim	2016_01.0-17-ga843838+7
+2.1.2-12-gb2a5b28	47	utils	2016_01.0-2-g97a6e33
+2.1.2-12-gb2a5b28	47	sims_utils	2.1.2-13-gce6506f+2
+2.1.2-12-gb2a5b28	47	sims_catalogs_measures	2.1.2-3-ga4c308f+37
+2.1.2-12-gb2a5b28	47	sims_catalogs_generation	2.1.2-6-gdcfd1fd+20
+2.1.2-12-gb2a5b28	47	sims_coordUtils	2.1.2-1-g3ce4a30+69
+2.1.2-12-gb2a5b28	47	sims_photUtils	2.1.2-7-g36b7669+2
+2.1.2-12-gb2a5b28	47	sims_data	10.1
+2.1.2-12-gb2a5b28	47	palpy	1.7.0.lsst1-1-g733f88b
+2.1.2-12-gb2a5b28	47	python	0.0.3
+2.1.2-12-gb2a5b28	47	pymssql	2.1.1+3
+2.1.2-12-gb2a5b28	47	daf_persistence	2016_01.0-9-ga3a0b07
+2.1.2-12-gb2a5b28	47	sncosmo	1.2.0+1
+2.1.2-12-gb2a5b28	47	obs_lsstSim	2016_01.0-18-g234cbbf
