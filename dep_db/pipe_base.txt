@@ -3520,3 +3520,9 @@ tickets.DM-5979-g30e4c9caef	0	pex_config	2016_01.0-1-g6fbf654+4
 tickets.DM-5979-g30e4c9caef	0	utils	2016_01.0-2-g97a6e33
 tickets.DM-5979-g30e4c9caef	0	afw	2.2016.10-14-g48615cd
 tickets.DM-5979-g30e4c9caef	0	obs_test	2016_01.0-3-gafa6dd0+10
+tickets.DM-5979-g30e4c9caef	1	daf_persistence	2016_01.0-9-ga3a0b07+1
+tickets.DM-5979-g30e4c9caef	1	pex_logging	2016_01.0-2-g2d05c3d+1
+tickets.DM-5979-g30e4c9caef	1	pex_config	2016_01.0-1-g6fbf654+5
+tickets.DM-5979-g30e4c9caef	1	utils	tickets.DM-5979-gb0c192f91d
+tickets.DM-5979-g30e4c9caef	1	afw	2.2016.10-14-g48615cd+1
+tickets.DM-5979-g30e4c9caef	1	obs_test	2016_01.0-3-gafa6dd0+11
