@@ -7646,3 +7646,12 @@ w.2016.12	0	obs_subaru	w.2016.12
 2016_01.0-3-g4a80fc8	2	obs_subaru	5.0.0.1-91-g46eff20
 2016_01.0-3-g4a80fc8	2	meas_extensions_shapeHSM	7.1.1.0-13-g84a11d9+2
 2016_01.0-3-g4a80fc8	2	pipe_drivers	master-g0e1c766f8c+2
+2016_01.0-3-g4a80fc8	3	lsst	2016_01.0-10-g80ea1a1+1
+2016_01.0-3-g4a80fc8	3	lsst_apps	2016_01.0-1-gd7afef2+14
+2016_01.0-3-g4a80fc8	3	ctrl_execute	2016_01.0+45
+2016_01.0-3-g4a80fc8	3	ctrl_platform_gordon	11.0+92
+2016_01.0-3-g4a80fc8	3	ctrl_platform_lsst	11.0+92
+2016_01.0-3-g4a80fc8	3	datarel	2016_01.0+85
+2016_01.0-3-g4a80fc8	3	obs_subaru	5.0.0.1-91-g46eff20+1
+2016_01.0-3-g4a80fc8	3	meas_extensions_shapeHSM	7.1.1.0-13-g84a11d9+3
+2016_01.0-3-g4a80fc8	3	pipe_drivers	master-g0e1c766f8c+3
