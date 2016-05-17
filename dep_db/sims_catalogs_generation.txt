@@ -1314,3 +1314,10 @@ sims_2.2.4	2	utils	w.2016.15
 2.1.2-6-gdcfd1fd	24	sims_utils	2.1.2-13-gce6506f+5
 2.1.2-6-gdcfd1fd	24	sqlalchemy	1.0.8.lsst3
 2.1.2-6-gdcfd1fd	24	utils	2016_01.0-5-gf0ccc9b
+2.1.2-6-gdcfd1fd	25	daf_persistence	2016_01.0-9-ga3a0b07+9
+2.1.2-6-gdcfd1fd	25	mysqlpython	1.2.3.lsst2
+2.1.2-6-gdcfd1fd	25	pymssql	2.1.1+3
+2.1.2-6-gdcfd1fd	25	python	0.0.3
+2.1.2-6-gdcfd1fd	25	sims_utils	2.1.2-13-gce6506f+6
+2.1.2-6-gdcfd1fd	25	sqlalchemy	1.0.8.lsst3
+2.1.2-6-gdcfd1fd	25	utils	2016_01.0-5-gf0ccc9b+1
