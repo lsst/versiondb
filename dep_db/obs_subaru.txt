@@ -881,3 +881,14 @@ w.2016.12	0	testdata_subaru	w.2016.12
 5.0.0.1-93-g7999a64	0	meas_extensions_psfex	2016_01.0-9-g4f7ae9c+2
 5.0.0.1-93-g7999a64	0	meas_extensions_shapeHSM	7.1.1.0-13-g84a11d9+10
 5.0.0.1-93-g7999a64	0	testdata_subaru	master-g2098685e18
+12.0.rc1	0	daf_persistence	12.0.rc1-1-gc553c11
+12.0.rc1	0	daf_butlerUtils	12.0.rc1
+12.0.rc1	0	skypix	10.0+401
+12.0.rc1	0	pipe_tasks	12.0.rc1
+12.0.rc1	0	meas_astrom	12.0.rc1-1-g7e592f1
+12.0.rc1	0	pyfits	3.4.0+3
+12.0.rc1	0	sconsUtils	12.0.rc1
+12.0.rc1	0	meas_modelfit	12.0.rc1
+12.0.rc1	0	meas_extensions_psfex	12.0.rc1
+12.0.rc1	0	meas_extensions_shapeHSM	12.0.rc1
+12.0.rc1	0	testdata_subaru	12.0.rc1

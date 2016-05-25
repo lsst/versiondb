@@ -160,3 +160,12 @@ master-gc06b201c33	7	meas_base	2016_01.0-25-g9b5ae8a+2
 master-gc06b201c33	7	utils	2016_01.0-5-gf0ccc9b+1
 master-gc06b201c33	7	pex_config	2016_01.0-1-g6fbf654+11
 master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
+12.0.rc1	0	scons	2.3.5
+12.0.rc1	0	sconsUtils	12.0.rc1
+12.0.rc1	0	base	12.0.rc1
+12.0.rc1	0	numpy	0.0.2
+12.0.rc1	0	afw	12.0.rc1-1-g5f62289
+12.0.rc1	0	meas_base	12.0.rc1
+12.0.rc1	0	utils	12.0.rc1
+12.0.rc1	0	pex_config	12.0.rc1
+12.0.rc1	0	pex_exceptions	12.0.rc1
