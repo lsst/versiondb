@@ -3634,3 +3634,9 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 12.0.rc1	0	utils	12.0.rc1
 12.0.rc1	0	afw	12.0.rc1-1-g5f62289
 12.0.rc1	0	obs_test	12.0.rc1
+12.0.rc1	1	daf_persistence	12.0.rc1-1-gc553c11
+12.0.rc1	1	pex_logging	12.0.rc1
+12.0.rc1	1	pex_config	12.0.rc1
+12.0.rc1	1	utils	12.0.rc1
+12.0.rc1	1	afw	12.0.rc1-3-g0f8c499
+12.0.rc1	1	obs_test	12.0.rc1+1
