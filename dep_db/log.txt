@@ -641,3 +641,7 @@ w.2016.12	0	sconsUtils	w.2016.12
 12.0.rc1	0	log4cxx	0.10.0.lsst6+1
 12.0.rc1	0	base	12.0.rc1
 12.0.rc1	0	sconsUtils	12.0.rc1
+12.0.rc1	1	boost	12.0.rc1+1
+12.0.rc1	1	log4cxx	0.10.0.lsst6+1
+12.0.rc1	1	base	12.0.rc1+1
+12.0.rc1	1	sconsUtils	12.0.rc1+1

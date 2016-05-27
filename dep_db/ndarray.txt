@@ -1020,3 +1020,10 @@ w.2016.15	0	fftw	3.3.4.lsst2
 12.0.rc1	0	base	12.0.rc1
 12.0.rc1	0	swig	3.0.2.lsst1
 12.0.rc1	0	fftw	3.3.4.lsst2
+12.0.rc1	1	boost	12.0.rc1+1
+12.0.rc1	1	python	0.0.4
+12.0.rc1	1	numpy	0.0.2+1
+12.0.rc1	1	eigen	3.2.5.lsst1
+12.0.rc1	1	base	12.0.rc1+1
+12.0.rc1	1	swig	3.0.2.lsst1
+12.0.rc1	1	fftw	3.3.4.lsst2
