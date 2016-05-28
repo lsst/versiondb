@@ -3034,3 +3034,13 @@ sims_2.2.4	2	obs_lsstSim	w.2016.15
 12.0.rc1	0	sims_catalogs_measures	12.0.rc1
 12.0.rc1	0	sims_catUtils	12.0.rc1
 12.0.rc1	0	obs_lsstSim	12.0.rc1+3
+12.0.rc1	1	galsim	1.3.2.lsst2
+12.0.rc1	1	astropy	0.0.1.lsst2
+12.0.rc1	1	meas_astrom	12.0.rc1+1
+12.0.rc1	1	afw	12.0.rc1+1
+12.0.rc1	1	sims_utils	12.0.rc1+1
+12.0.rc1	1	sims_coordUtils	12.0.rc1+1
+12.0.rc1	1	sims_catalogs_generation	12.0.rc1+1
+12.0.rc1	1	sims_catalogs_measures	12.0.rc1+1
+12.0.rc1	1	sims_catUtils	12.0.rc1+1
+12.0.rc1	1	obs_lsstSim	12.0.rc1+5

@@ -7781,3 +7781,12 @@ w.2016.12	0	obs_subaru	w.2016.12
 12.0.rc1	4	obs_subaru	12.0.rc1+4
 12.0.rc1	4	meas_extensions_shapeHSM	12.0.rc1+3
 12.0.rc1	4	pipe_drivers	12.0.rc1+4
+12.0.rc1	5	lsst	12.0.rc1+1
+12.0.rc1	5	lsst_apps	12.0.rc1+5
+12.0.rc1	5	ctrl_execute	12.0.rc1+1
+12.0.rc1	5	ctrl_platform_gordon	12.0.rc1
+12.0.rc1	5	ctrl_platform_lsst	12.0.rc1
+12.0.rc1	5	datarel	12.0.rc1+5
+12.0.rc1	5	obs_subaru	12.0.rc1+5
+12.0.rc1	5	meas_extensions_shapeHSM	12.0.rc1+4
+12.0.rc1	5	pipe_drivers	12.0.rc1+5
