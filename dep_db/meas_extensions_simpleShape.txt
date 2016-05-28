@@ -187,3 +187,12 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 12.0.rc1	2	utils	12.0.rc1+1
 12.0.rc1	2	pex_config	12.0.rc1+1
 12.0.rc1	2	pex_exceptions	12.0.rc1+1
+12.0.rc1	3	scons	2.3.5+1
+12.0.rc1	3	sconsUtils	12.0.rc1+1
+12.0.rc1	3	base	12.0.rc1+1
+12.0.rc1	3	numpy	0.0.2+1
+12.0.rc1	3	afw	12.0.rc1-4-g2ae257e
+12.0.rc1	3	meas_base	12.0.rc1+3
+12.0.rc1	3	utils	12.0.rc1+1
+12.0.rc1	3	pex_config	12.0.rc1+1
+12.0.rc1	3	pex_exceptions	12.0.rc1+1

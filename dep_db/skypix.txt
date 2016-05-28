@@ -2170,3 +2170,7 @@ w.2016.15	0	afw	w.2016.15
 12.0.rc1	0	pex_policy	12.0.rc1+1
 12.0.rc1	0	geom	12.0.rc1
 12.0.rc1	0	afw	12.0.rc1
+10.0	403	utils	12.0.rc1+1
+10.0	403	pex_policy	12.0.rc1+1
+10.0	403	geom	10.0+60
+10.0	403	afw	12.0.rc1-4-g2ae257e

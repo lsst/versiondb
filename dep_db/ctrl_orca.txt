@@ -2733,3 +2733,10 @@ w.2016.12	0	log	w.2016.12
 12.0.rc1	1	ctrl_events	12.0.rc1
 12.0.rc1	1	ctrl_provenance	12.0.rc1+1
 12.0.rc1	1	log	12.0.rc1+1
+12.0.rc1	2	cat	12.0.rc1+2
+12.0.rc1	2	utils	12.0.rc1+1
+12.0.rc1	2	pex_policy	12.0.rc1+1
+12.0.rc1	2	daf_persistence	12.0.rc1-1-gc553c11+1
+12.0.rc1	2	ctrl_events	12.0.rc1-1-gda6b721+1
+12.0.rc1	2	ctrl_provenance	12.0.rc1+2
+12.0.rc1	2	log	12.0.rc1+1

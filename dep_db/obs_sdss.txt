@@ -7506,3 +7506,11 @@ w.2016.15	0	utils	w.2016.15
 12.0.rc1	3	mysqlpython	1.2.3.lsst2+1
 12.0.rc1	3	pipe_tasks	12.0.rc1+3
 12.0.rc1	3	utils	12.0.rc1+1
+12.0.rc1	4	pex_policy	12.0.rc1+1
+12.0.rc1	4	daf_butlerUtils	12.0.rc1+3
+12.0.rc1	4	afw	12.0.rc1-4-g2ae257e
+12.0.rc1	4	meas_algorithms	12.0.rc1-1-ge5e48e2+2
+12.0.rc1	4	meas_astrom	12.0.rc1-1-g7e592f1+2
+12.0.rc1	4	mysqlpython	1.2.3.lsst2+1
+12.0.rc1	4	pipe_tasks	12.0.rc1+4
+12.0.rc1	4	utils	12.0.rc1+1
