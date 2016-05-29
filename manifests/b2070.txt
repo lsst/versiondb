@@ -1,0 +1,134 @@
+# product                 SHA1                                      Version                       
+BUILD=b2070
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+throughputs               7632edaa9e93d06576e34a065ea4622de8cc48d0  12.0.rc1                                 
+eigen                     70497dd3005d70ff8b3e7e665e4ea9ed04ebb1a9  3.2.5.lsst1                              
+antlr                     d81cf0cd80e0ed4ab73314e1062ce2396bbd0a0e  2.7.7.lsst1                              
+mariadbclient             2ac29f107c13408dea0dc8003012259eb4b269ed  10.1.11.lsst2                            
+pyephem                   2fa459bf78ce024ea022dfdeba525a395984f205  3.7.5.1.lsst1                            
+lua                       419130092c6420d68845b6f9d2c9873814523142  5.1.4.lsst1                              
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1                               cfitsio
+xpa                       eb35b1105c2a44557af660104f2807e2b28255dd  2.1.15.lsst3                             
+sims_skybrightness_data   1cb9a9a3832d672ce092318be8601624d1718601  12.0.rc1                                 
+testdata_subaru           2098685e18f8505f499d17d3c4921cb918f8623d  12.0.rc1                                 
+python_d2to1              be638fbf6609db5ac7ab904d3c76eaaa1f55df3b  0.2.12.lsst1                             
+mpich                     aeebd6bccdaf6fa848d6a3ccd7be8c882a3038ea  3.2                                      
+sims_sed_library          56a7d82e67353ae13f8551edf93f6f98c6e8827b  12.0.rc1                                 
+freetds                   158005830bde34bde7db91bbf1b812d67012f9e6  0.91.112.lsst2                           
+stsci_distutils           4bba6935c89f769e59cec6780a68ba8509fccfb0  0.3.7.lsst1                              python_d2to1
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+minuit2                   dae2fb72f087c8d6dd1c4e0cfe8a828920f3412e  5.34.14                                  
+python                    490fc9d6a300a54788dce02c10a96f82ef9e1e5e  0.0.4                                    
+swig                      ccf66d07ee20460f0eb3c396d8f04e5d5e249ee3  3.0.2.lsst1                              
+mpi                       6f350834c9ad5859cb069326232a27cdc6cfe17d  0.0.1+1                                  mpich
+xrootd                    5f6a5d06db488e44bee6fe1104d4d9e4d5357c70  12.0.rc1                                 
+astropy                   47e80e26de26053521c607df82a3a4512572362b  0.0.1.lsst2                              python
+libevent                  ab04e34f14107106ac2101d52a84488f0939590f  2.0.16.lsst2                             
+pymssql                   02c450b095cda9e17f5425d9d05c4483169d95fc  2.1.1+4                                  python,freetds
+mariadb                   fe7e7b24e7db405979d8827a650cdf4e8a22ec26  10.1.11.lsst2                            
+pyyaml                    cb5cda908acb5a4fe493b618f9519bb26f7b1275  3.11.lsst1+1                             python
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+boost                     41d5ba29a6bdc6a68f4b6a8dbf82aa0176eee3f4  12.0.rc1+1                               python
+sims_data                 dac76d2d31a18efd420080cf729efcfc59b66910  10.1                                     
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2016_01.0+1                              python
+mysqlpython               120147b0169a7fbf5a32690ca53bc846311b719a  1.2.3.lsst2+1                            python,mariadbclient
+activemqcpp               44a13ddf9c71f92da39be477522e24f994e84c92  3.9.0.lsst2+3                            apr,doxygen
+gsl                       a5b7ea77e0be9d4f91e1a71ec7b08db0bdbf6e58  1.16.lsst3                               
+pykg_config               c4dd3b426d8c89d1abccbd64ed5e3e3ea4209f2f  1.2.0+6                                  python
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+1                                  python
+mysqlproxy                eea091aa8b895efbb59d5c041f9b4c67b045b5fa  0.8.5+12                                 libevent,lua,mariadb
+mpi4py                    7bd49cfdef82e5b48667c3c94f14ed315b9673a2  1.3.1.lsst2+1                            python,mpi
+scisql                    452e5282e775b5a00153c8b6462da7a8ca2009ad  0.3.5+13                                 mariadb,mysqlpython,python
+flask                     cdb2e41bf97dccb0a2b57c6368b27d3d5cc27460  0.10.1.lsst2                             python
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5+1                                  python
+sconsUtils                e052bd8966c0e773d00001850c3f1bcabaa65d4d  12.0.rc1+1                               scons,doxygen
+numpy                     4e70653b6b68a9a5d163932472b6fdf48b708a63  0.0.2+1                                  python
+astrometry_net            ae735ff9e7de1768877c77075049f1b66ced0300  0.50.lsst3+1                             cfitsio,wcslib,gsl,numpy
+sncosmo                   f0bda14b689df4450dc1bf1abfca3e639afb1a11  12.0.rc1+1                               python,numpy,astropy
+afwdata                   5f41616c3e012c71aab395c67e5bba3e1ed9ee34  12.0.rc1+1                               sconsUtils
+palpy                     733f88b7b6af36261a0833ad7c04c076d872d90b  1.7.0.lsst2                              numpy,python
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+4                                  numpy,python_d2to1,stsci_distutils
+psfex                     eb1eb6777f0e263a159a05c00c0b66a739f86688  12.0.rc1+1                               gsl,sconsUtils,fftw
+tmv                       873defe1a7d897bba1d443737e273f56c4412815  0.73+1                                   scons
+healpy                    d4cac0b74d707cc97b912fa01d6d2c0d9c9eb947  1.8.1.lsst2+1                            python,numpy,pykg_config,cfitsio,pyfits
+lsst                      80ea1a1ae607f5b7fdf5d1866ee50de7b399be0a  12.0.rc1+1                               sconsUtils
+geom                      e36792e6e9d9e1dba9c850006c7d1175100e0ab0  10.0+60                                  sconsUtils
+log4cxx                   e820ae31346b4b1cf8c592e94d1ee6498213aa9b  0.10.0.lsst6+1                           apr,apr_util
+sqlalchemy                af5a1cb44943d13994e80302426225e7069d8ed6  1.0.8.lsst3+1                            python
+protobuf                  dbe97ed4c2d9363d541405f325c2304ebe90a7c5  12.0.rc1                                 python
+matplotlib                e49e23a949f741e58439684a965c869dea134c8a  0.0.2+1                                  python,numpy
+base                      e73d374441f497b1d652796b0eb4ff692424752b  12.0.rc1-1-ge73d374                      boost,sconsUtils,swig,doxygen
+sphgeom                   e1016e6e5ab0cbdf3cb5ac22b3da22f5edfa3789  12.0.rc1+2                               base,sconsUtils,swig,doxygen
+ndarray                   4d828c719cd8ff4e2d50a60d03cb259304108b8d  12.0.rc1+2                               boost,python,numpy,eigen,base,swig,fftw
+partition                 d312b5f730ab4b6ddb8ee09d90d855270118f00b  12.0.rc1+1                               boost,sconsUtils
+esutil                    f7abc5adc9104c37a88dd7aa1d950873f1a8193a  0.5.3+1                                  python,numpy
+scipy                     aedd72728b314c7adcb2bc108d85b02a75efc322  0.0.1.lsst1+1                            python,numpy
+astrometry_net_data       eaffc02df2119a5f17862630057df8974f07ca23  10.0+74                                  sconsUtils
+dax_webservcommon         29f49bca873b8a563bcf5ea660731fd3007ecbe4  2016_01.0-1-g29f49bc+6                   python,scons,sconsUtils
+galsim                    7bce59124626086b2660e4e9f3a95c82f8f0017b  1.3.2.lsst2                              numpy,pyfits,boost,fftw,tmv,astropy
+pex_exceptions            fde6942edd7cc692bd0de09b2eb28bb9a356a296  12.0.rc1+2                               base,boost,swig
+log                       03cea0f729b8a1f793048251aaca29e1af206e0a  12.0.rc1+2                               boost,log4cxx,base,sconsUtils
+lmfit                     0239b733156600f9ce4602ec7a1a266ee14856b0  0.9.3+2                                  python,numpy,scipy
+db                        079dcf89e86b9accffe449c5ffcec5ae7daf039a  12.0.rc1+2                               log,python,mariadbclient,mysqlpython,sconsUtils,sqlalchemy
+dax_dbserv                172dcd16e0ec79efbd6a331206102c2ffcce1e22  2016_03+10                               dax_webservcommon,db,flask,log,mysqlpython,python,scons,sconsUtils,sqlalchemy
+dax_metaserv              5234aa38b2a2fb46986bf20fcad50dd69796eed6  2016_03+10                               dax_webservcommon,db,flask,mysqlpython,python,scons,sconsUtils,sqlalchemy
+utils                     f0ccc9b86f3d2f3682c4f93ec931d678d7e847a3  12.0.rc1+2                               base,pex_exceptions,boost,numpy,python_psutil
+sims_maps                 f92a6bcd0e1afefc5812929bf395ef935d05fef7  12.0.rc1+1                               python,utils
+daf_base                  22b9da8630f916534122997975326acd5275ff08  12.0.rc1-1-g22b9da8                      utils,pex_exceptions,numpy
+qserv                     eadfe7db903ddb4cec167b3ec23af8642cb6df92  12.0.rc1-2-geadfe7d+2                    antlr,boost,db,doxygen,flask,log,log4cxx,lua,mariadb,mysqlproxy,mysqlpython,partition,protobuf,python,requests,scisql,scons,sphgeom,sqlalchemy,swig,xrootd
+sims_utils                ce6506fe67f3c80dda5287ba087c61dd6e5a4356  12.0.rc1+3                               utils,python,palpy,sims_data,healpy
+qserv_testdata            f23ac01765543b002d73da6d5e52f800bcb04273  12.0.rc1+3                               python,pyyaml,qserv,scons,sconsUtils
+pex_policy                9f41d6ce7b767b36b610cd19fd8a4b1ce7780368  12.0.rc1+2                               daf_base,utils
+pex_logging               1a9be9b21c7368a697f2e52b7d91b0cb5aae28e0  12.0.rc1+2                               pex_exceptions,daf_base,utils
+ctrl_events               da6b7210df4f2857ba2190131ae1e9abe1b0dfc1  12.0.rc1-1-gda6b721+2                    boost,activemqcpp,utils,base,daf_base,pex_exceptions,log4cxx,log,swig,doxygen
+pex_config                6fbf65447270f8a73482d77cb2f05195c92d6946  12.0.rc1+2                               daf_base,pex_policy,numpy,utils
+sims_photUtils            93241d18c1ba495f8d87cf00a87e51084a28a0db  12.0.rc1+3                               utils,sims_sed_library,sims_maps,sims_utils,python,throughputs,pyfits,astropy
+qserv_distrib             35cc638215f828d7db194adb2cdc790c6b308e37  1.0.0+565                                qserv,partition,qserv_testdata
+daf_persistence           c553c11b7d5542a739fec1fe85ce8c878dc166c6  12.0.rc1-1-gc553c11+2                    mariadbclient,pex_logging,pex_policy,pyfits,pyyaml
+cat                       7ce2ae36d5403f6c063e5ebce53d9554aa5e81cd  12.0.rc1+3                               python,mariadbclient,mysqlpython,db,log,boost,pex_policy,daf_base,daf_persistence,utils,pex_exceptions
+sims_skybrightness        fbaa6dc17ab8d9dec7e3ea38ed3edc2841db9731  12.0.rc1+3                               base,numpy,matplotlib,pyephem,sims_utils,sims_photUtils,utils,throughputs,sims_skybrightness_data,healpy
+ctrl_provenance           ef242a4068eca3c6131760869447c075c3993753  12.0.rc1+3                               cat,pex_policy,pex_logging
+sims_catalogs_generation  dcfd1fdd27694ad803f20a694d01130dd5fe0a9f  12.0.rc1+3                               daf_persistence,mysqlpython,pymssql,python,sims_utils,sqlalchemy,utils
+afw                       935394568ce74d3a6133b630a82789b3027331a1  12.0.rc1-6-g9353945                      daf_base,daf_persistence,pex_config,ndarray,cfitsio,wcslib,numpy,minuit2,eigen,gsl,fftw,utils,astropy,pyfits,matplotlib,afwdata
+sims_catalogs_measures    a4c308f42782e67a2d885cd7bf65e7aa457ecf83  12.0.rc1+3                               utils,python,sims_utils,sims_catalogs_generation
+sims_coordUtils           3ce4a30483889d98566a13398908421b4bb4ddbc  12.0.rc1+3                               sims_utils,utils,base,python,throughputs,palpy,pyfits,afw
+ctrl_orca                 4f54dabfedeb686ca6cfb8a4af81a857a4f02528  12.0.rc1+3                               cat,utils,pex_policy,daf_persistence,ctrl_events,ctrl_provenance,log
+display_ds9               ef1a7a9b7e0ac6729ed3cc4f4df9282ebc8385cd  12.0.rc1+6                               afw,xpa
+ctrl_execute              4ff36707c8deb86ffe0eda9283342fb4bd0d9e58  12.0.rc1+3                               ctrl_orca,pex_config,utils
+ctrl_platform_lsst        e2704ccbb1a39dc2d4f3c51eb969ee7f71891d10  11.0+97                                  ctrl_execute
+skypix                    1157bf09aee6dda8cdefede4395220da4b46d0fe  10.0+405                                 utils,pex_policy,geom,afw
+shapelet                  e125eae648d2afcadf4efa182abb86e83ead70b9  12.0.rc1-1-ge125eae                      afw,numpy,scons,sconsUtils
+skymap                    101aa9ada597bd5600579e5aa71bf03042454f4e  12.0.rc1+6                               numpy,afw
+daf_butlerUtils           18e962e698f2344c5851baf993ec62ab97219fd5  12.0.rc1+6                               daf_base,pex_logging,pex_policy,daf_persistence,afw,skypix,pyfits,utils
+obs_test                  04e99d37a3b692a8f6f13b04b31e9918c9fb1630  12.0.rc1+6                               afw,daf_base,daf_butlerUtils,pex_config,pex_policy,numpy,skypix,utils
+ctrl_platform_gordon      950df44ac2f0417f070990fb41d017233a5ad47d  11.0+97                                  ctrl_execute
+pipe_base                 bdeabf26f22d45bc587e3792a7e3b60e4f121c32  12.0.rc1+6                               daf_persistence,pex_logging,pex_config,utils,afw,obs_test
+ctrl_pool                 faf42d3ee287ee901ea9a019807066b7df0c8515  12.0.rc1+6                               daf_persistence,pipe_base,mpi4py
+coadd_utils               dbbfd04a8a97292b4bcf83e594ac03d230871e47  12.0.rc1+6                               afw,numpy,pex_config,pipe_base,scons,sconsUtils,utils,afwdata
+coadd_chisquared          f871d2e19cb11ad3cdaabc3f5ffe5565a9ca5dd2  12.0.rc1+6                               coadd_utils,numpy,scons,sconsUtils,afwdata
+meas_base                 9b5ae8a384a3aa9768c8793b3eedc59d8b633c11  12.0.rc1+6                               afw,coadd_utils,daf_base,geom,numpy,pex_config,pipe_base,scons,sconsUtils
+meas_extensions_simpleShape 6a3db40e895f7ff8994b6db00866397cf2dc330c  12.0.rc1-1-g6a3db40                      scons,sconsUtils,base,numpy,afw,meas_base,utils,pex_config,pex_exceptions
+meas_algorithms           4c6a666e844748be45aa72959207154ee8130fc1  12.0.rc1-2-g4c6a666                      daf_base,daf_persistence,afw,meas_base,minuit2,numpy,pex_config,pex_exceptions,pex_logging,pex_policy,pipe_base,scons,sconsUtils,utils
+ip_isr                    395f45557033baba5bc72ad42483856f98251aca  12.0.rc1+6                               meas_algorithms,numpy,pipe_base,scons,sconsUtils
+meas_extensions_shapeHSM  84a11d9992d58cfaa86f02f18bef9b8618f78e2e  12.0.rc1+6                               meas_base,meas_algorithms,galsim,afw,daf_base,numpy,pex_exceptions,pex_logging,sconsUtils,utils
+meas_deblender            98803489591cb47d8fa0a4a44824cee7a4af03b4  12.0.rc1+6                               afw,meas_algorithms,numpy,scons,sconsUtils,utils,matplotlib
+ip_diffim                 d47fa8402bdd3744f439962f976f27085d078d8e  12.0.rc1+7                               afw,daf_base,daf_persistence,meas_algorithms,meas_base,meas_deblender,minuit2,numpy,pex_config,pex_logging,pex_policy,pipe_base,utils,lmfit,afwdata,matplotlib
+meas_extensions_psfex     4f7ae9c901eac3bef8c58ffcf2bfdc37ebe211f7  12.0.rc1+6                               afw,boost,daf_base,fftw,meas_algorithms,meas_base,numpy,psfex,scons,sconsUtils,swig,utils
+meas_astrom               7e592f1c0d421ff7eab4273e8a230e8fc9e76e1f  12.0.rc1-1-g7e592f1+4                    afw,meas_algorithms,pex_logging,pex_config,pipe_base,utils,wcslib,astrometry_net,numpy,matplotlib
+pipe_tasks                7bf2411292f1e76c4d5144877cdda6487fffd8d1  12.0.rc1+7                               pipe_base,pex_config,utils,esutil,afw,meas_base,meas_algorithms,meas_astrom,meas_deblender,astrometry_net_data,ip_isr,ip_diffim,coadd_utils,coadd_chisquared,skymap,geom,obs_test,matplotlib
+obs_sdss                  7954042843e580aaeecdaf3cd922e66e9f8cd95a  12.0.rc1+7                               pex_policy,daf_butlerUtils,afw,meas_algorithms,meas_astrom,mysqlpython,pipe_tasks,utils
+pipe_drivers              5cd3f853bf82541fdeebef6947f01626ce4e29df  12.0.rc1+7                               ctrl_pool,afw,pex_exceptions,geom,pex_config,pipe_base,pipe_tasks
+obs_lsstSim               7fe338fa8a5df7621f0f7657778bce72200f391d  12.0.rc1+7                               daf_base,pex_policy,afw,daf_persistence,daf_butlerUtils,meas_algorithms,ip_isr,pipe_tasks,mysqlpython,utils
+sims_maf                  0014a0384982ea75d7a3d000df8d89bb8dc8089b  12.0.rc1+3                               base,numpy,matplotlib,pyephem,palpy,healpy,sims_utils,sims_catalogs_generation,sims_photUtils,sims_coordUtils,sims_maps,obs_lsstSim
+datarel                   63a66a4a48e71a50ac8b56eac5ee0d1a6c2347a3  12.0.rc1+7                               ctrl_orca,pipe_tasks,utils,obs_lsstSim,astrometry_net_data,matplotlib,cat,scisql
+sims_catUtils             8b252d2e9e3e7a315735ca8438dc3abd38701f15  12.0.rc1+3                               utils,sims_utils,sims_catalogs_measures,sims_catalogs_generation,sims_coordUtils,sims_photUtils,sims_data,palpy,python,pymssql,daf_persistence,sncosmo,astropy,obs_lsstSim
+dax_imgserv               d86b19161f2a750db036c7e71a966e7fbc440e17  2016_01+91                               afw,base,boost,cat,daf_base,db,doxygen,flask,log,mysqlpython,obs_sdss,scons,sconsUtils,skymap,sqlalchemy
+meas_modelfit             e40f846d410cebfcc3dcdf4535ee21c877dd9494  12.0.rc1-3-ge40f846                      afw,meas_algorithms,meas_base,numpy,pipe_tasks,scons,sconsUtils,shapelet,matplotlib
+obs_subaru                7999a644f4375c76eccd91bfdd39a0b357ac6acd  12.0.rc1+7                               daf_persistence,daf_butlerUtils,skypix,pipe_tasks,meas_astrom,pyfits,sconsUtils,meas_modelfit,meas_extensions_psfex,meas_extensions_shapeHSM,testdata_subaru
+sims_GalSimInterface      e20c88b1329041df095aba9af3608c8e1440a8be  12.0.rc1+3                               galsim,astropy,meas_astrom,afw,sims_utils,sims_coordUtils,sims_catalogs_generation,sims_catalogs_measures,sims_catUtils,obs_lsstSim
+dax_webserv               ac1ea996b3a488ded2cd4d53eaca6bb83d116fa7  2016_03+32                               db,flask,dax_dbserv,dax_imgserv,dax_metaserv,mysqlpython
+lsst_apps                 d7afef2d9a291b490dfb6cd37680acd420918619  12.0.rc1+7                               meas_deblender,meas_modelfit,pipe_tasks,obs_lsstSim,obs_sdss,obs_test,meas_extensions_simpleShape,display_ds9,meas_extensions_psfex
+lsst_distrib              4a80fc89e6f643cb80287bb08529c22786be0a0a  12.0.rc1+7                               lsst,lsst_apps,ctrl_execute,ctrl_platform_gordon,ctrl_platform_lsst,datarel,obs_subaru,meas_extensions_shapeHSM,pipe_drivers
+lsst_sims                 a3712cd25b4a32be0e6543c6c5f39969ca98661f  12.0.rc1+3                               sims_maf,sims_GalSimInterface,sncosmo,sims_catUtils,sims_catalogs_generation,sims_catalogs_measures,sims_sed_library,sims_maps,sims_skybrightness
