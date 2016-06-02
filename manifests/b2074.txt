@@ -1,0 +1,14 @@
+# product                 SHA1                                      Version                       
+BUILD=b2074
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+python                    490fc9d6a300a54788dce02c10a96f82ef9e1e5e  0.0.4                                    
+numpy                     4e70653b6b68a9a5d163932472b6fdf48b708a63  0.0.2+1                                  python
+swig                      ccf66d07ee20460f0eb3c396d8f04e5d5e249ee3  3.0.2.lsst1                              
+boost                     41d5ba29a6bdc6a68f4b6a8dbf82aa0176eee3f4  12.0.rc1+1                               python
+scons                     159b9a213dee398d4d353cc1fcca05d77047a3f8  2.3.5+1                                  python
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+1                                  python
+sconsUtils                e052bd8966c0e773d00001850c3f1bcabaa65d4d  12.0.rc1+1                               scons,doxygen
+base                      e73d374441f497b1d652796b0eb4ff692424752b  12.0.rc1-1-ge73d374                      boost,sconsUtils,swig,doxygen
+pex_exceptions            fde6942edd7cc692bd0de09b2eb28bb9a356a296  12.0.rc1+2                               base,boost,swig
+utils                     621a93859cfe38a2bd0ad7a9883a89b3374c40cd  12.0.rc1-1-g621a938                      base,pex_exceptions,boost,numpy,python_psutil
+deploy_testing_distrib    2bf14e484e64bfb184610892a4ea8c199687dae4  master-g2bf14e484e                       sconsUtils,base,utils
