@@ -3997,3 +3997,17 @@ w.2016.15	0	utils	w.2016.15
 12.0.rc1-6-g8e57d7e	0	scons	2.3.5+1
 12.0.rc1-6-g8e57d7e	0	sconsUtils	12.0.rc1+1
 12.0.rc1-6-g8e57d7e	0	utils	12.0.rc1+2
+12.0.rc1-6-g8e57d7e	1	daf_base	12.0.rc1-1-g22b9da8+1
+12.0.rc1-6-g8e57d7e	1	daf_persistence	12.0.rc1-1-gc553c11+3
+12.0.rc1-6-g8e57d7e	1	afw	12.0.rc1-10-ga4754ad
+12.0.rc1-6-g8e57d7e	1	meas_base	12.0.rc1+8
+12.0.rc1-6-g8e57d7e	1	minuit2	5.34.14
+12.0.rc1-6-g8e57d7e	1	numpy	0.0.2+1
+12.0.rc1-6-g8e57d7e	1	pex_config	12.0.rc1-1-gc153103+1
+12.0.rc1-6-g8e57d7e	1	pex_exceptions	12.0.rc1+2
+12.0.rc1-6-g8e57d7e	1	pex_logging	12.0.rc1+3
+12.0.rc1-6-g8e57d7e	1	pex_policy	12.0.rc1-1-g298db87
+12.0.rc1-6-g8e57d7e	1	pipe_base	12.0.rc1+8
+12.0.rc1-6-g8e57d7e	1	scons	2.3.5+1
+12.0.rc1-6-g8e57d7e	1	sconsUtils	12.0.rc1+1
+12.0.rc1-6-g8e57d7e	1	utils	12.0.rc1-1-g621a938
