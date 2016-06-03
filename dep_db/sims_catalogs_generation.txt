@@ -1370,3 +1370,10 @@ sims_2.2.4	2	utils	w.2016.15
 12.0.rc1	3	sims_utils	12.0.rc1+3
 12.0.rc1	3	sqlalchemy	1.0.8.lsst3+1
 12.0.rc1	3	utils	12.0.rc1+2
+12.0.rc1	4	daf_persistence	12.0.rc1-1-gc553c11+4
+12.0.rc1	4	mysqlpython	1.2.3.lsst2+1
+12.0.rc1	4	pymssql	2.1.1+4
+12.0.rc1	4	python	0.0.4
+12.0.rc1	4	sims_utils	12.0.rc1+4
+12.0.rc1	4	sqlalchemy	1.0.8.lsst3+1
+12.0.rc1	4	utils	12.0.rc1-2-gbf6fe2f
