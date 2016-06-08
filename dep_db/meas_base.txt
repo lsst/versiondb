@@ -3991,3 +3991,12 @@ w.2016.15	0	sconsUtils	w.2016.15
 12.0.rc1	10	pipe_base	12.0.rc1-1-g832266b
 12.0.rc1	10	scons	2.5.0.lsst1
 12.0.rc1	10	sconsUtils	12.0.rc1-1-g08b90fd
+12.0.rc1	11	afw	12.0.rc1-11-gf7cf9bf
+12.0.rc1	11	coadd_utils	12.0.rc1-1-g2dfa1ca+4
+12.0.rc1	11	daf_base	12.0.rc1-1-g22b9da8+4
+12.0.rc1	11	geom	10.0+61
+12.0.rc1	11	numpy	0.0.2+1
+12.0.rc1	11	pex_config	12.0.rc1-1-gc153103+4
+12.0.rc1	11	pipe_base	12.0.rc1-1-g832266b+1
+12.0.rc1	11	scons	2.5.0.lsst1
+12.0.rc1	11	sconsUtils	12.0.rc1-1-g08b90fd
