@@ -9630,3 +9630,13 @@ master-ga3712cd25b	99	sims_skybrightness	master-gfbaa6dc17a+1
 12.0.rc1	12	sims_sed_library	12.0.rc1
 12.0.rc1	12	sims_maps	12.0.rc1+5
 12.0.rc1	12	sims_skybrightness	12.0.rc1+7
+sims_2.2.5	0	sims_maf	sims_2.2.5
+sims_2.2.5	0	sims_GalSimInterface	12.0.rc1+12
+sims_2.2.5	0	sims_catUtils	12.0.rc1+12
+sims_2.2.5	0	sims_catalogs_generation	sims_2.2.5
+sims_2.2.5	0	sims_catalogs_measures	sims_2.2.5
+sims_2.2.5	0	sims_sed_library	sims_2.2.5
+sims_2.2.5	0	sims_maps	12.0.rc1+5
+sims_2.2.5	0	sims_skybrightness	12.0.rc1+8
+sims_2.2.5	0	sncosmo	sims_2.2.5
+sims_2.2.5	0	oorb	master-gc49fa55874
