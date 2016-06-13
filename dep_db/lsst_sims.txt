@@ -9660,3 +9660,13 @@ sims_2.2.5	1	oorb	sims_2.2.5
 12.0.rc1-1-g9cfdb91	0	sims_skybrightness	12.0.rc1+7
 12.0.rc1-1-g9cfdb91	0	sncosmo	12.0.rc1+1
 12.0.rc1-1-g9cfdb91	0	oorb	lsst-dev-g3e8962a19a
+12.0.rc1-1-g9cfdb91	1	sims_maf	12.0.rc1-2-gf39d6f2+1
+12.0.rc1-1-g9cfdb91	1	sims_GalSimInterface	12.0.rc1+13
+12.0.rc1-1-g9cfdb91	1	sims_catUtils	12.0.rc1+13
+12.0.rc1-1-g9cfdb91	1	sims_catalogs_generation	12.0.rc1+8
+12.0.rc1-1-g9cfdb91	1	sims_catalogs_measures	12.0.rc1+8
+12.0.rc1-1-g9cfdb91	1	sims_sed_library	12.0.rc1
+12.0.rc1-1-g9cfdb91	1	sims_maps	12.0.rc1+5
+12.0.rc1-1-g9cfdb91	1	sims_skybrightness	12.0.rc1+7
+12.0.rc1-1-g9cfdb91	1	sncosmo	12.0.rc1+1
+12.0.rc1-1-g9cfdb91	1	oorb	lsst-dev-g3e8962a19a
