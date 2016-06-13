@@ -14038,3 +14038,17 @@ sims_2.2.4	2	obs_lsstSim	w.2016.15
 12.0.rc1	13	sncosmo	12.0.rc1+1
 12.0.rc1	13	astropy	0.0.1.lsst2
 12.0.rc1	13	obs_lsstSim	12.0.rc1-1-g5ca2c31+4
+12.0.rc1	14	utils	12.0.rc1-2-gbf6fe2f+3
+12.0.rc1	14	sims_utils	12.0.rc1+8
+12.0.rc1	14	sims_catalogs_measures	sims_2.2.5
+12.0.rc1	14	sims_catalogs_generation	sims_2.2.5
+12.0.rc1	14	sims_coordUtils	sims_2.2.5+1
+12.0.rc1	14	sims_photUtils	12.0.rc1+8
+12.0.rc1	14	sims_data	sims_2.2.5
+12.0.rc1	14	palpy	1.7.0.lsst2
+12.0.rc1	14	python	0.0.4
+12.0.rc1	14	pymssql	2.1.1+4
+12.0.rc1	14	daf_persistence	12.0.rc1-1-gc553c11+8
+12.0.rc1	14	sncosmo	sims_2.2.5
+12.0.rc1	14	astropy	0.0.1.lsst2
+12.0.rc1	14	obs_lsstSim	12.0.rc1-2-g80ec5c9
