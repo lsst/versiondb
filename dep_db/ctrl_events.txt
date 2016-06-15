@@ -2872,3 +2872,13 @@ w.2016.12	0	doxygen	1.8.5.lsst1
 12.0.rc1-1-gda6b721	7	log	12.0.rc1+7
 12.0.rc1-1-gda6b721	7	swig	3.0.2.lsst1
 12.0.rc1-1-gda6b721	7	doxygen	1.8.5.lsst1
+12.0	0	boost	1.60+1
+12.0	0	activemqcpp	3.9.0.lsst2+3
+12.0	0	utils	12.0
+12.0	0	base	12.0
+12.0	0	daf_base	12.0
+12.0	0	pex_exceptions	12.0
+12.0	0	log4cxx	0.10.0.lsst6+1
+12.0	0	log	12.0
+12.0	0	swig	3.0.2.lsst1
+12.0	0	doxygen	1.8.5.lsst1
