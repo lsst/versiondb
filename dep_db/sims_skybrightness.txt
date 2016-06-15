@@ -518,3 +518,13 @@ master-gfbaa6dc17a	1	healpy	1.8.1.lsst2+1
 12.0.rc1	9	throughputs	sims_2.2.5
 12.0.rc1	9	sims_skybrightness_data	sims_2.2.5
 12.0.rc1	9	healpy	1.8.1.lsst2+1
+12.0	0	base	12.0
+12.0	0	numpy	0.0.2+1
+12.0	0	matplotlib	0.0.2+1
+12.0	0	pyephem	3.7.5.1.lsst1
+12.0	0	sims_utils	12.0
+12.0	0	sims_photUtils	12.0
+12.0	0	utils	12.0
+12.0	0	throughputs	12.0
+12.0	0	sims_skybrightness_data	12.0
+12.0	0	healpy	1.8.1.lsst2+1
