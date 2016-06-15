@@ -9722,3 +9722,14 @@ sims_2.2.5	5	sims_skybrightness	12.0.rc1+9
 sims_2.2.5	5	sncosmo	sims_2.2.5
 sims_2.2.5	5	oorb	sims_2.2.5+1
 sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
+12.0.rc1-2-g273be78	0	sims_maf	12.0.rc1-2-gf39d6f2+3
+12.0.rc1-2-g273be78	0	sims_GalSimInterface	12.0.rc1+17
+12.0.rc1-2-g273be78	0	sims_catUtils	12.0.rc1+17
+12.0.rc1-2-g273be78	0	sims_catalogs_generation	12.0.rc1+8
+12.0.rc1-2-g273be78	0	sims_catalogs_measures	12.0.rc1+8
+12.0.rc1-2-g273be78	0	sims_sed_library	12.0.rc1
+12.0.rc1-2-g273be78	0	sims_maps	12.0.rc1+5
+12.0.rc1-2-g273be78	0	sims_skybrightness	12.0.rc1+7
+12.0.rc1-2-g273be78	0	sncosmo	12.0.rc1+1
+12.0.rc1-2-g273be78	0	oorb	lsst-dev-ge8e11ebee9
+12.0.rc1-2-g273be78	0	sims_movingObjects	master-gb2d12b192c
