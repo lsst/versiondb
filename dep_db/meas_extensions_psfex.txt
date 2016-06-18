@@ -2149,3 +2149,15 @@ w.2016.15	0	utils	w.2016.15
 12.0-2-gfd657aa	1	sconsUtils	12.0-1-g08b90fd
 12.0-2-gfd657aa	1	swig	3.0.2.lsst1
 12.0-2-gfd657aa	1	utils	12.0-2-gbf6fe2f
+12.0-2-gfd657aa	2	afw	12.0-13-g52f1810+2
+12.0-2-gfd657aa	2	boost	1.60+1
+12.0-2-gfd657aa	2	daf_base	12.0-1-g22b9da8
+12.0-2-gfd657aa	2	fftw	3.3.4.lsst2
+12.0-2-gfd657aa	2	meas_algorithms	12.0-10-gd056c2d+2
+12.0-2-gfd657aa	2	meas_base	12.0-1-g4393b5d+2
+12.0-2-gfd657aa	2	numpy	0.0.2+1
+12.0-2-gfd657aa	2	psfex	12.0+1
+12.0-2-gfd657aa	2	scons	2.5.0.lsst1
+12.0-2-gfd657aa	2	sconsUtils	12.0-1-g08b90fd
+12.0-2-gfd657aa	2	swig	3.0.2.lsst1
+12.0-2-gfd657aa	2	utils	12.0-2-gbf6fe2f
