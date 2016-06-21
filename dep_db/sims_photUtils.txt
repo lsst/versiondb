@@ -6233,3 +6233,11 @@ sims_2.2.4	2	pyfits	3.4.0+2
 12.0	1	throughputs	12.0
 12.0	1	pyfits	3.4.0+4
 12.0	1	astropy	0.0.1.lsst2
+sims_2.2.6	0	utils	12.0
+sims_2.2.6	0	sims_sed_library	12.0
+sims_2.2.6	0	sims_maps	12.0
+sims_2.2.6	0	sims_utils	sims_2.2.6
+sims_2.2.6	0	python	0.0.4
+sims_2.2.6	0	throughputs	12.0
+sims_2.2.6	0	pyfits	3.4.0+4
+sims_2.2.6	0	astropy	0.0.1.lsst2

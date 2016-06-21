@@ -1334,3 +1334,7 @@ sims_2.2.5	1	sims_catalogs_generation	sims_2.2.5+1
 12.0	1	python	0.0.4
 12.0	1	sims_utils	12.0+1
 12.0	1	sims_catalogs_generation	12.0+1
+sims_2.2.6	0	utils	12.0
+sims_2.2.6	0	python	0.0.4
+sims_2.2.6	0	sims_utils	sims_2.2.6
+sims_2.2.6	0	sims_catalogs_generation	sims_2.2.6
