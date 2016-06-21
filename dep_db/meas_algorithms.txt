@@ -4235,3 +4235,17 @@ w.2016.15	0	utils	w.2016.15
 12.0-11-g4c6fca1	0	scons	2.5.0.lsst1
 12.0-11-g4c6fca1	0	sconsUtils	12.0-1-g08b90fd
 12.0-11-g4c6fca1	0	utils	12.0-2-gbf6fe2f
+12.0	1	daf_base	12.0
+12.0	1	daf_persistence	12.0
+12.0	1	afw	12.0+1
+12.0	1	meas_base	12.0+1
+12.0	1	minuit2	5.34.14
+12.0	1	numpy	0.0.2+1
+12.0	1	pex_config	12.0
+12.0	1	pex_exceptions	12.0
+12.0	1	pex_logging	12.0
+12.0	1	pex_policy	12.0
+12.0	1	pipe_base	12.0+1
+12.0	1	scons	2.5.0.lsst1
+12.0	1	sconsUtils	12.0
+12.0	1	utils	12.0
