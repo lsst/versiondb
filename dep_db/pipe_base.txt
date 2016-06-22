@@ -3772,3 +3772,9 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 12.0	1	utils	12.0
 12.0	1	afw	12.0+1
 12.0	1	obs_test	12.0+1
+12.0-5-g6728465	3	daf_persistence	12.0-1-gc553c11
+12.0-5-g6728465	3	pex_logging	12.0+1
+12.0-5-g6728465	3	pex_config	12.0-1-gc153103
+12.0-5-g6728465	3	utils	12.0-2-gbf6fe2f
+12.0-5-g6728465	3	afw	12.0-13-g52f1810+2
+12.0-5-g6728465	3	obs_test	12.0-1-g2c57481+3
