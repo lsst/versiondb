@@ -3023,3 +3023,11 @@ w.2016.15	0	afwdata	w.2016.15
 12.0-1-g2dfa1ca	3	sconsUtils	12.0-1-g08b90fd
 12.0-1-g2dfa1ca	3	utils	12.0-2-gbf6fe2f
 12.0-1-g2dfa1ca	3	afwdata	12.0+1
+12.0	2	afw	12.0+2
+12.0	2	numpy	0.0.2+1
+12.0	2	pex_config	12.0
+12.0	2	pipe_base	12.0+2
+12.0	2	scons	2.5.0.lsst1
+12.0	2	sconsUtils	12.0
+12.0	2	utils	12.0
+12.0	2	afwdata	12.0
