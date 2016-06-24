@@ -1,0 +1,30 @@
+# product                 SHA1                                      Version                       
+BUILD=b2109
+antlr                     d81cf0cd80e0ed4ab73314e1062ce2396bbd0a0e  2.7.7.lsst1                              
+swig                      ccf66d07ee20460f0eb3c396d8f04e5d5e249ee3  3.0.2.lsst1                              
+xrootd                    be55bc10be452d1c617034bbafea71eb6d6abda5  master-gbe55bc10be                       
+libevent                  ab04e34f14107106ac2101d52a84488f0939590f  2.0.16.lsst2                             
+mariadb                   fe7e7b24e7db405979d8827a650cdf4e8a22ec26  10.1.11.lsst2                            
+mariadbclient             a3cbbea09f2ba4d2a6064595ba8d300c478cab0f  10.1.11.lsst3                            
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+lua                       419130092c6420d68845b6f9d2c9873814523142  5.1.4.lsst1                              
+python                    490fc9d6a300a54788dce02c10a96f82ef9e1e5e  0.0.4                                    
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2016_01.0+1                              python
+mysqlpython               120147b0169a7fbf5a32690ca53bc846311b719a  1.2.3.lsst2+2                            python,mariadbclient
+boost                     41d5ba29a6bdc6a68f4b6a8dbf82aa0176eee3f4  1.60+1                                   python
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+sqlalchemy                af5a1cb44943d13994e80302426225e7069d8ed6  1.0.8.lsst3+1                            python
+protobuf                  dbe97ed4c2d9363d541405f325c2304ebe90a7c5  12.0                                     python
+mysqlproxy                eea091aa8b895efbb59d5c041f9b4c67b045b5fa  0.8.5+12                                 libevent,lua,mariadb
+scisql                    452e5282e775b5a00153c8b6462da7a8ca2009ad  0.3.5+14                                 mariadb,mysqlpython,python
+flask                     cdb2e41bf97dccb0a2b57c6368b27d3d5cc27460  0.10.1.lsst2                             python
+scons                     a1bfec512fe62de9a6bfcbac82bf0e4c82d3f692  2.5.0.lsst1                              python
+sconsUtils                08b90fd15e9815a782d1ff6c304a527540ba53a4  12.0-1-g08b90fd                          scons,doxygen
+log4cxx                   e820ae31346b4b1cf8c592e94d1ee6498213aa9b  0.10.0.lsst6+1                           apr,apr_util
+base                      0d328d33754d14a41647d96f8a3673826336f37a  12.0-4-g0d328d3                          boost,sconsUtils,swig,doxygen
+sphgeom                   b2b4dc477cc3fc0170c4138e83e2284524c3e106  12.0-1-gb2b4dc4+1                        base,sconsUtils,swig,doxygen
+log                       03cea0f729b8a1f793048251aaca29e1af206e0a  12.0+2                                   boost,log4cxx,base,sconsUtils
+partition                 a39d2fe1dc101cc784aa29f83249a881e02bf660  12.0+1                                   boost,sconsUtils
+db                        079dcf89e86b9accffe449c5ffcec5ae7daf039a  12.0+3                                   log,python,mariadbclient,mysqlpython,sconsUtils,sqlalchemy
+qserv                     7734d715ea2113b9066067330b41c318aa7f9865  12.0-11-g7734d71+1                       antlr,boost,db,doxygen,flask,log,log4cxx,lua,mariadb,mysqlproxy,mysqlpython,partition,protobuf,python,requests,scisql,scons,sphgeom,sqlalchemy,swig,xrootd
