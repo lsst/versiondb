@@ -8055,3 +8055,13 @@ w.2016.12	0	obs_subaru	w.2016.12
 12.0-1-g51ba4ca	8	meas_extensions_shapeHSM	12.0+8
 12.0-1-g51ba4ca	8	meas_extensions_photometryKron	7.3.1.0-11-ge8fca6f+17
 12.0-1-g51ba4ca	8	pipe_drivers	12.0-1-g2a631c1+1
+12.0-1-g51ba4ca	9	lsst	12.0.rc1-2-g4137827+3
+12.0-1-g51ba4ca	9	lsst_apps	12.0+10
+12.0-1-g51ba4ca	9	ctrl_execute	12.0+4
+12.0-1-g51ba4ca	9	ctrl_platform_gordon	11.0+109
+12.0-1-g51ba4ca	9	ctrl_platform_lsst	11.0+109
+12.0-1-g51ba4ca	9	datarel	12.0+10
+12.0-1-g51ba4ca	9	obs_subaru	12.0-5-gfb460ef+7
+12.0-1-g51ba4ca	9	meas_extensions_shapeHSM	12.0+8
+12.0-1-g51ba4ca	9	meas_extensions_photometryKron	7.3.1.0-12-g1d18982
+12.0-1-g51ba4ca	9	pipe_drivers	12.0-1-g2a631c1+2
