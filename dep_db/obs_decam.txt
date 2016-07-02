@@ -37,3 +37,16 @@ master-g0830f9a772	2	pex_policy	12.0-1-g298db87+1
 master-g0830f9a772	2	ip_isr	12.0-2-g2c36c5e+7
 master-g0830f9a772	2	mysqlpython	1.2.3.lsst2+2
 master-g0830f9a772	2	testdata_decam	master-g569f198947
+master-gac0ccbc081	0	utils	12.0-2-gbf6fe2f+1
+master-gac0ccbc081	0	daf_persistence	12.0-1-gc553c11+1
+master-gac0ccbc081	0	daf_butlerUtils	12.0-4-gcd812fe
+master-gac0ccbc081	0	afw	12.0-15-g6157ae3
+master-gac0ccbc081	0	meas_algorithms	12.0-12-g6585b2f+1
+master-gac0ccbc081	0	pipe_tasks	12.0-14-gb2665e4
+master-gac0ccbc081	0	pipe_base	12.0-5-g6728465+6
+master-gac0ccbc081	0	pex_exceptions	12.0+2
+master-gac0ccbc081	0	pex_config	12.0-2-g55cb508
+master-gac0ccbc081	0	pex_policy	12.0-1-g298db87+1
+master-gac0ccbc081	0	ip_isr	12.0-3-g29f8c14
+master-gac0ccbc081	0	mysqlpython	1.2.3.lsst2+2
+master-gac0ccbc081	0	testdata_decam	master-g569f198947
