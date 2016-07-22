@@ -693,3 +693,7 @@ u.hfc.DM-6521-R-g2a0337813e	0	sconsUtils	12.0-1-g08b90fd
 12.0-2-g6dd1a72	0	log4cxx	0.10.0.lsst6+1
 12.0-2-g6dd1a72	0	base	12.0-4-g0d328d3
 12.0-2-g6dd1a72	0	sconsUtils	12.0-1-g08b90fd
+tickets.DM-6989-g5033cb892f	0	boost	1.60+1
+tickets.DM-6989-g5033cb892f	0	log4cxx	0.10.0.lsst6+1
+tickets.DM-6989-g5033cb892f	0	base	12.0-4-g0d328d3
+tickets.DM-6989-g5033cb892f	0	sconsUtils	12.0-1-g08b90fd
