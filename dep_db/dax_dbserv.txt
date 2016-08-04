@@ -796,3 +796,12 @@ w.2015.36	0	sconsUtils	w.2015.36
 12.0	8	scons	2.5.0.lsst1
 12.0	8	sconsUtils	12.0-2-ga8b26fe
 12.0	8	sqlalchemy	1.0.8.lsst3+1
+12.0	9	dax_webservcommon	2016_01.0-1-g29f49bc+11
+12.0	9	db	12.0+11
+12.0	9	flask	0.10.1.lsst2+1
+12.0	9	log	12.0-3-g64b8957+3
+12.0	9	mysqlpython	1.2.3.lsst2+3
+12.0	9	python	0.0.5
+12.0	9	scons	2.5.0.lsst1+1
+12.0	9	sconsUtils	12.0-2-ga8b26fe+1
+12.0	9	sqlalchemy	1.0.8.lsst3+2

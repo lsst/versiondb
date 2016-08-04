@@ -3292,3 +3292,14 @@ w.2016.12	0	pex_exceptions	w.2016.12
 12.0-1-gbb14ecc	8	daf_persistence	12.0-3-g711c365+2
 12.0-1-gbb14ecc	8	utils	12.0-4-gd869a95
 12.0-1-gbb14ecc	8	pex_exceptions	12.0+4
+12.0-1-gbb14ecc	9	python	0.0.5
+12.0-1-gbb14ecc	9	mariadbclient	10.1.11.lsst3
+12.0-1-gbb14ecc	9	mysqlpython	1.2.3.lsst2+3
+12.0-1-gbb14ecc	9	db	12.0+11
+12.0-1-gbb14ecc	9	log	12.0-3-g64b8957+3
+12.0-1-gbb14ecc	9	boost	1.60.lsst1
+12.0-1-gbb14ecc	9	pex_policy	12.0-1-g298db87+5
+12.0-1-gbb14ecc	9	daf_base	12.0-1-g22b9da8+5
+12.0-1-gbb14ecc	9	daf_persistence	12.0-3-g711c365+3
+12.0-1-gbb14ecc	9	utils	12.0-4-gd869a95+1
+12.0-1-gbb14ecc	9	pex_exceptions	12.0+5
