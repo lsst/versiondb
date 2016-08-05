@@ -1496,3 +1496,10 @@ sims_2.2.6	0	utils	12.0
 12.0-1-g92e696e	2	sims_utils	12.0-5-g5cefec6+2
 12.0-1-g92e696e	2	sqlalchemy	1.0.8.lsst3+2
 12.0-1-g92e696e	2	utils	12.0-4-gd869a95+1
+12.0-1-g92e696e	3	daf_persistence	12.0-3-g711c365+4
+12.0-1-g92e696e	3	mysqlpython	1.2.3.lsst2+3
+12.0-1-g92e696e	3	pymssql	2.1.1+5
+12.0-1-g92e696e	3	python	0.0.5
+12.0-1-g92e696e	3	sims_utils	12.0-5-g5cefec6+3
+12.0-1-g92e696e	3	sqlalchemy	1.0.8.lsst3+2
+12.0-1-g92e696e	3	utils	12.0-5-gefea455
