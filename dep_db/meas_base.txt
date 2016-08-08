@@ -4279,3 +4279,12 @@ w.2016.15	0	sconsUtils	w.2016.15
 12.0-7-g0dcf3af	0	pipe_base	12.0-5-g6728465+15
 12.0-7-g0dcf3af	0	scons	2.5.0.lsst2
 12.0-7-g0dcf3af	0	sconsUtils	12.0-3-ga5142ca
+12.0-7-g0dcf3af	1	afw	12.0-17-g3e93ea4+4
+12.0-7-g0dcf3af	1	coadd_utils	12.0-1-g2dfa1ca+16
+12.0-7-g0dcf3af	1	daf_base	12.0-3-ga28b38a+1
+12.0-7-g0dcf3af	1	geom	10.0+65
+12.0-7-g0dcf3af	1	numpy	0.0.3
+12.0-7-g0dcf3af	1	pex_config	12.0-3-gdc5a0c2+1
+12.0-7-g0dcf3af	1	pipe_base	12.0-5-g6728465+16
+12.0-7-g0dcf3af	1	scons	2.5.0.lsst2
+12.0-7-g0dcf3af	1	sconsUtils	12.0-3-ga5142ca
