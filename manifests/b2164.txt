@@ -1,0 +1,19 @@
+# product                 SHA1                                      Version                       
+BUILD=b2164
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+python                    caf9c3142393e8cbb28effcd2b5a30f4d630c4b5  0.0.5                                    
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1                               python
+swig                      bd8facb3e1fd5a433cb913c3f6e7f2c1f3d60dd5  3.0.10                                   
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+python_future             a5bd52eb6d89c313fa446064fa90cf7d21bdd214  0.15.2+1                                 python
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+2                                  python
+numpy                     c1bdd73fbef02df5b68128b4c309be514756acb9  0.0.3                                    python
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2                              python
+sconsUtils                c4561eddb008fe876bb60c0f518764a07f0d4d0b  12.0-4-gc4561ed                          scons,doxygen
+log4cxx                   e820ae31346b4b1cf8c592e94d1ee6498213aa9b  0.10.0.lsst6+1                           apr,apr_util
+base                      19372bd81bd7238cbf4991de715a72a82834e592  12.0-5-g19372bd+1                        sconsUtils,swig,python_future,doxygen
+pex_exceptions            4e7a85b49dec26ae9b1133c8a7bdefaebc9802f9  12.0-1-g4e7a85b+1                        base,boost,swig,python_future
+log                       bdaee9d596dc2207433c8bc20fbd55fb65911db8  12.0-4-gbdaee9d                          boost,log4cxx,base,sconsUtils
+utils                     74b04ac6426b7cc6a2a3d355834b9aa2ec9c09b4  12.0-7-g74b04ac                          base,pex_exceptions,boost,log,numpy,python_psutil,python_future
+deploy_testing_distrib    2bf14e484e64bfb184610892a4ea8c199687dae4  master-g2bf14e484e+1                     sconsUtils,base,utils
