@@ -937,3 +937,8 @@ w.2016.15	0	pyyaml	3.11.lsst1
 12.0-4-g51d3aa1	0	pex_policy	12.0-2-g798969e+2
 12.0-4-g51d3aa1	0	astropy	0.0.1.lsst2+1
 12.0-4-g51d3aa1	0	pyyaml	3.11.lsst1+2
+12.0-4-g51d3aa1	1	mariadbclient	10.1.11.lsst3
+12.0-4-g51d3aa1	1	pex_logging	12.0-1-gc6c1df4+1
+12.0-4-g51d3aa1	1	pex_policy	12.0-2-g798969e+3
+12.0-4-g51d3aa1	1	astropy	0.0.1.lsst2+1
+12.0-4-g51d3aa1	1	pyyaml	3.11.lsst1+2

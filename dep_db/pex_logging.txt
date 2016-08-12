@@ -452,3 +452,7 @@ u.hfc.DM-5979-gdc3368bf41	0	daf_base	2016_01.0-2-g54642da
 12.0-1-gc6c1df4	0	daf_base	12.0-4-g3a3e718
 12.0-1-gc6c1df4	0	utils	12.0-6-gd9a52b7
 12.0-1-gc6c1df4	0	python_future	0.15.2+1
+12.0-1-gc6c1df4	1	pex_exceptions	12.0-1-g4e7a85b+1
+12.0-1-gc6c1df4	1	daf_base	12.0-4-g3a3e718+1
+12.0-1-gc6c1df4	1	utils	12.0-7-g74b04ac
+12.0-1-gc6c1df4	1	python_future	0.15.2+1
