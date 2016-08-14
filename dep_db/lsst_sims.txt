@@ -10204,3 +10204,13 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 12.0-1-g5aa7ebb	1	sncosmo	12.0-1-g5e70e90+1
 12.0-1-g5aa7ebb	1	oorb	12.0+1
 12.0-1-g5aa7ebb	1	sims_movingObjects	12.0+9
+12.0-1-g5aa7ebb	2	sims_maf	12.0-4-ga80484b+2
+12.0-1-g5aa7ebb	2	sims_GalSimInterface	12.0-3-ge6585c3+2
+12.0-1-g5aa7ebb	2	sims_catUtils	12.0-10-gae53a71+2
+12.0-1-g5aa7ebb	2	sims_catalogs	master-g7aec543725+1
+12.0-1-g5aa7ebb	2	sims_sed_library	12.0
+12.0-1-g5aa7ebb	2	sims_maps	12.0+9
+12.0-1-g5aa7ebb	2	sims_skybrightness	12.0-2-g5c6e302+9
+12.0-1-g5aa7ebb	2	sncosmo	12.0-1-g5e70e90+1
+12.0-1-g5aa7ebb	2	oorb	12.0+1
+12.0-1-g5aa7ebb	2	sims_movingObjects	12.0+9
