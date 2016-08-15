@@ -1560,3 +1560,8 @@ w.2016.15	0	afwdata	w.2016.15
 12.0-1-g10e615d	20	scons	2.5.0.lsst2
 12.0-1-g10e615d	20	sconsUtils	12.0-4-gc4561ed
 12.0-1-g10e615d	20	afwdata	12.0+5
+12.0-1-g10e615d	21	coadd_utils	12.0-1-g2dfa1ca+21
+12.0-1-g10e615d	21	numpy	0.0.3
+12.0-1-g10e615d	21	scons	2.5.0.lsst2
+12.0-1-g10e615d	21	sconsUtils	12.0-5-g67b2f9e
+12.0-1-g10e615d	21	afwdata	12.0+6
