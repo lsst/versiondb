@@ -2593,3 +2593,15 @@ w.2016.15	0	utils	w.2016.15
 12.0-3-gc91cf5c	18	sconsUtils	12.0-5-g67b2f9e
 12.0-3-gc91cf5c	18	swig	3.0.10
 12.0-3-gc91cf5c	18	utils	12.0-7-g74b04ac+1
+12.0-3-gc91cf5c	19	afw	12.0-21-g32ef022
+12.0-3-gc91cf5c	19	boost	tickets.DM-7236-g1b3841847f
+12.0-3-gc91cf5c	19	daf_base	12.0-4-g3a3e718+3
+12.0-3-gc91cf5c	19	fftw	3.3.4.lsst2
+12.0-3-gc91cf5c	19	meas_algorithms	12.0-23-g55e915d+7
+12.0-3-gc91cf5c	19	meas_base	12.0-7-g0dcf3af+11
+12.0-3-gc91cf5c	19	numpy	0.0.3
+12.0-3-gc91cf5c	19	psfex	12.0+6
+12.0-3-gc91cf5c	19	scons	2.5.0.lsst2
+12.0-3-gc91cf5c	19	sconsUtils	12.0-5-g67b2f9e
+12.0-3-gc91cf5c	19	swig	3.0.10
+12.0-3-gc91cf5c	19	utils	12.0-7-g74b04ac+2
