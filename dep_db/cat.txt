@@ -3413,3 +3413,15 @@ w.2016.12	0	pex_exceptions	w.2016.12
 12.0-2-gf119b14	2	daf_persistence	12.0-5-gf0beaed+1
 12.0-2-gf119b14	2	utils	12.0-7-g74b04ac+1
 12.0-2-gf119b14	2	pex_exceptions	12.0-1-g4e7a85b+2
+tickets.DM-7260-g30f854a43c	0	python	0.0.5
+tickets.DM-7260-g30f854a43c	0	mariadbclient	10.1.11.lsst3
+tickets.DM-7260-g30f854a43c	0	mysqlpython	1.2.3.lsst2+3
+tickets.DM-7260-g30f854a43c	0	db	2016_06-2-g53c8012
+tickets.DM-7260-g30f854a43c	0	log	12.0-4-gbdaee9d+1
+tickets.DM-7260-g30f854a43c	0	boost	1.60.lsst1
+tickets.DM-7260-g30f854a43c	0	pex_policy	12.0-2-g798969e+4
+tickets.DM-7260-g30f854a43c	0	daf_base	12.0-4-g3a3e718+2
+tickets.DM-7260-g30f854a43c	0	daf_persistence	12.0-5-gf0beaed+1
+tickets.DM-7260-g30f854a43c	0	utils	12.0-7-g74b04ac+1
+tickets.DM-7260-g30f854a43c	0	pex_exceptions	12.0-1-g4e7a85b+2
+tickets.DM-7260-g30f854a43c	0	python_future	0.15.2+1
