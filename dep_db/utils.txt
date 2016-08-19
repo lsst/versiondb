@@ -805,3 +805,10 @@ tickets.DM-5979-g76d91cf90e	0	python_psutil	4.1.0
 12.0-9-gf85c792	0	numpy	0.0.3
 12.0-9-gf85c792	0	python_psutil	4.1.0+2
 12.0-9-gf85c792	0	python_future	0.15.2+1
+12.0-9-gf85c792	1	base	12.0-5-g19372bd+2
+12.0-9-gf85c792	1	pex_exceptions	12.0-1-g4e7a85b+3
+12.0-9-gf85c792	1	boost	tickets.DM-7236-g1b3841847f
+12.0-9-gf85c792	1	log	12.0-4-gbdaee9d+2
+12.0-9-gf85c792	1	numpy	0.0.3
+12.0-9-gf85c792	1	python_psutil	4.1.0+2
+12.0-9-gf85c792	1	python_future	0.15.2+1

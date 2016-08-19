@@ -1131,3 +1131,10 @@ w.2016.12	0	sqlalchemy	2015_10.0-1-gaf5a1cb
 2016_06-3-g6497184	0	python_mysqlclient	master-g9454603200
 2016_06-3-g6497184	0	sconsUtils	12.0-5-g67b2f9e
 2016_06-3-g6497184	0	sqlalchemy	1.0.8.lsst3+2
+2016_06-3-g6497184	1	log	12.0-4-gbdaee9d+2
+2016_06-3-g6497184	1	python	0.0.5
+2016_06-3-g6497184	1	python_future	0.15.2+1
+2016_06-3-g6497184	1	mariadbclient	10.1.11.lsst3
+2016_06-3-g6497184	1	python_mysqlclient	master-g9454603200
+2016_06-3-g6497184	1	sconsUtils	12.0-5-g67b2f9e
+2016_06-3-g6497184	1	sqlalchemy	1.0.8.lsst3+2
