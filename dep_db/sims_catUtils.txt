@@ -14757,3 +14757,16 @@ sims_2.2.6b	0	obs_lsstSim	12.0+1
 12.0-10-gae53a71	8	sncosmo	12.0-1-g5e70e90+1
 12.0-10-gae53a71	8	astropy	0.0.1.lsst2+1
 12.0-10-gae53a71	8	obs_lsstSim	12.0-5-gc3154c7+26
+12.0-11-gd6cd79b	0	utils	12.0-9-gf85c792
+12.0-11-gd6cd79b	0	sims_utils	12.0-9-g4354022+1
+12.0-11-gd6cd79b	0	sims_catalogs	master-gf80675f361
+12.0-11-gd6cd79b	0	sims_coordUtils	12.0-3-g702252c+2
+12.0-11-gd6cd79b	0	sims_photUtils	12.0-2-gb3f515d+1
+12.0-11-gd6cd79b	0	sims_data	10.1
+12.0-11-gd6cd79b	0	palpy	1.7.0.lsst2+1
+12.0-11-gd6cd79b	0	python	0.0.5
+12.0-11-gd6cd79b	0	pymssql	2.1.1+5
+12.0-11-gd6cd79b	0	daf_persistence	12.0-6-ge3e91d9+1
+12.0-11-gd6cd79b	0	sncosmo	12.0-1-g5e70e90+1
+12.0-11-gd6cd79b	0	astropy	0.0.1.lsst2+1
+12.0-11-gd6cd79b	0	obs_lsstSim	12.0-5-gc3154c7+26
