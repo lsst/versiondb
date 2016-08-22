@@ -1,0 +1,5 @@
+# product                 SHA1                                      Version                       
+BUILD=b2192
+python                    caf9c3142393e8cbb28effcd2b5a30f4d630c4b5  0.0.5                                    
+mariadbclient             a3cbbea09f2ba4d2a6064595ba8d300c478cab0f  10.1.11.lsst3                            
+python_mysqlclient        1978119c68e1705979cd1962b55147d5ac5d64fa  master-g1978119c68                       python,mariadbclient
