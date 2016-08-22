@@ -10072,3 +10072,13 @@ w.2016.15	0	utils	w.2016.15
 12.0-5-gc3154c7	29	pipe_tasks	12.0-23-g6dfcaf9+10
 12.0-5-gc3154c7	29	mysqlpython	1.2.3.lsst2+3
 12.0-5-gc3154c7	29	utils	12.0-9-gf85c792
+12.0-6-g86a4862	0	daf_base	12.0-4-g3a3e718+5
+12.0-6-g86a4862	0	pex_policy	12.0-3-g3e90007
+12.0-6-g86a4862	0	afw	12.0-21-g32ef022+5
+12.0-6-g86a4862	0	daf_persistence	12.0-6-ge3e91d9+3
+12.0-6-g86a4862	0	daf_butlerUtils	12.0-8-g0d2978b+4
+12.0-6-g86a4862	0	meas_algorithms	12.0-24-g3f92e4c+1
+12.0-6-g86a4862	0	ip_isr	12.0-5-g164de64+11
+12.0-6-g86a4862	0	pipe_tasks	12.0-24-gb313941
+12.0-6-g86a4862	0	python_mysqlclient	master-g9454603200
+12.0-6-g86a4862	0	utils	12.0-9-gf85c792
