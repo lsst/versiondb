@@ -3282,3 +3282,12 @@ w.2016.15	0	afwdata	w.2016.15
 12.0-2-gb892b6f	2	utils	12.0-9-gf85c792
 12.0-2-gb892b6f	2	python_future	0.15.2+1
 12.0-2-gb892b6f	2	afwdata	12.0+6
+12.0-2-gb892b6f	3	afw	12.0-21-g32ef022+6
+12.0-2-gb892b6f	3	numpy	0.0.3
+12.0-2-gb892b6f	3	pex_config	12.0-5-gc662e57+5
+12.0-2-gb892b6f	3	pipe_base	12.0-8-gfd1563d+3
+12.0-2-gb892b6f	3	scons	2.5.0.lsst2
+12.0-2-gb892b6f	3	sconsUtils	12.0-5-g67b2f9e
+12.0-2-gb892b6f	3	utils	12.0-9-gf85c792
+12.0-2-gb892b6f	3	python_future	0.15.2+1
+12.0-2-gb892b6f	3	afwdata	12.0+6
