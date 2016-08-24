@@ -4479,3 +4479,13 @@ w.2016.15	0	sconsUtils	w.2016.15
 12.0-9-g5a8b194	1	pipe_base	12.0-8-gfd1563d+5
 12.0-9-g5a8b194	1	scons	2.5.0.lsst2
 12.0-9-g5a8b194	1	sconsUtils	12.0-5-g67b2f9e
+12.0-9-g5a8b194	2	utils	12.0-9-gf85c792
+12.0-9-g5a8b194	2	afw	12.0-23-ga0b5675
+12.0-9-g5a8b194	2	coadd_utils	12.0-2-gb892b6f+6
+12.0-9-g5a8b194	2	daf_base	12.0-4-g3a3e718+5
+12.0-9-g5a8b194	2	geom	12.0-1-g4cdfb8d+2
+12.0-9-g5a8b194	2	numpy	0.0.3
+12.0-9-g5a8b194	2	pex_config	12.0-6-g2d73c57
+12.0-9-g5a8b194	2	pipe_base	12.0-8-gfd1563d+6
+12.0-9-g5a8b194	2	scons	2.5.0.lsst2
+12.0-9-g5a8b194	2	sconsUtils	12.0-5-g67b2f9e
