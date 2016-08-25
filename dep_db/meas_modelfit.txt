@@ -5842,3 +5842,12 @@ w.2016.15	0	matplotlib	0.0.2
 12.0-8-g1bdc1ca	0	sconsUtils	12.0-5-g67b2f9e
 12.0-8-g1bdc1ca	0	shapelet	12.0-3-g8c23d7b+5
 12.0-8-g1bdc1ca	0	matplotlib	0.0.3
+12.0-8-g1bdc1ca	1	afw	12.0-23-ga0b5675
+12.0-8-g1bdc1ca	1	meas_algorithms	12.0-24-g3f92e4c+6
+12.0-8-g1bdc1ca	1	meas_base	12.0-9-g5a8b194+2
+12.0-8-g1bdc1ca	1	numpy	0.0.3
+12.0-8-g1bdc1ca	1	pipe_tasks	12.0-24-gb313941+6
+12.0-8-g1bdc1ca	1	scons	2.5.0.lsst2
+12.0-8-g1bdc1ca	1	sconsUtils	12.0-5-g67b2f9e
+12.0-8-g1bdc1ca	1	shapelet	12.0-3-g8c23d7b+5
+12.0-8-g1bdc1ca	1	matplotlib	0.0.3
