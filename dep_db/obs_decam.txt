@@ -674,3 +674,15 @@ master-g9cfb98effe	12	pex_config	12.0-6-g2d73c57+1
 master-g9cfb98effe	12	pex_policy	12.0-3-g3e90007+1
 master-g9cfb98effe	12	ip_isr	12.0-6-g9dfa882+1
 master-g9cfb98effe	12	testdata_decam	master-gfea4835579
+master-g9cfb98effe	13	utils	12.0-10-g3b62a7d
+master-g9cfb98effe	13	daf_persistence	12.0-8-ge6890fd+1
+master-g9cfb98effe	13	daf_butlerUtils	12.0-10-ge2ed2ab
+master-g9cfb98effe	13	afw	12.0-24-gee8608d
+master-g9cfb98effe	13	meas_algorithms	12.0-25-g6b20364+1
+master-g9cfb98effe	13	pipe_tasks	12.0-26-gf6ea897+2
+master-g9cfb98effe	13	pipe_base	12.0-9-g4513b84
+master-g9cfb98effe	13	pex_exceptions	12.0-1-g4e7a85b+2
+master-g9cfb98effe	13	pex_config	12.0-6-g2d73c57+1
+master-g9cfb98effe	13	pex_policy	12.0-3-g3e90007+1
+master-g9cfb98effe	13	ip_isr	12.0-6-g9dfa882+2
+master-g9cfb98effe	13	testdata_decam	master-gfea4835579
