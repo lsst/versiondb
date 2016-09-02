@@ -2165,3 +2165,8 @@ w.2016.15	0	sconsUtils	w.2016.15
 12.0-6-g9dfa882	2	pipe_base	12.0-9-g4513b84
 12.0-6-g9dfa882	2	scons	2.5.0.lsst2
 12.0-6-g9dfa882	2	sconsUtils	12.0-5-g67b2f9e
+12.0-6-g9dfa882	3	meas_algorithms	12.0-25-g6b20364+2
+12.0-6-g9dfa882	3	numpy	0.0.3
+12.0-6-g9dfa882	3	pipe_base	12.0-9-g4513b84+1
+12.0-6-g9dfa882	3	scons	2.5.0.lsst2
+12.0-6-g9dfa882	3	sconsUtils	12.0-5-g67b2f9e

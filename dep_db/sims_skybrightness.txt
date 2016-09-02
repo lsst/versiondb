@@ -798,3 +798,13 @@ sims_2.2.6	0	healpy	1.8.1.lsst2+1
 12.0-4-g0530926	3	throughputs	12.0
 12.0-4-g0530926	3	sims_skybrightness_data	master-g1cb9a9a383
 12.0-4-g0530926	3	healpy	1.8.1.lsst2+4
+12.0-4-g0530926	4	base	12.0-5-g19372bd+2
+12.0-4-g0530926	4	numpy	0.0.3
+12.0-4-g0530926	4	matplotlib	0.0.3
+12.0-4-g0530926	4	pyephem	3.7.5.1.lsst1
+12.0-4-g0530926	4	sims_utils	12.0-10-ged4de25
+12.0-4-g0530926	4	sims_photUtils	12.0-2-gb3f515d+7
+12.0-4-g0530926	4	utils	12.0-10-g3b62a7d
+12.0-4-g0530926	4	throughputs	12.0
+12.0-4-g0530926	4	sims_skybrightness_data	master-g1cb9a9a383
+12.0-4-g0530926	4	healpy	1.8.1.lsst2+4
