@@ -691,3 +691,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 12.0-3-g33a9219	35	pex_config	12.0-6-g2d73c57+2
 12.0-3-g33a9219	35	pipe_base	12.0-10-gdb0b236+2
 12.0-3-g33a9219	35	pipe_tasks	12.0-29-g8be0346+1
+12.0-4-g9c21aa8	0	ctrl_pool	12.0+45
+12.0-4-g9c21aa8	0	afw	12.0-26-gc92c115+1
+12.0-4-g9c21aa8	0	pex_exceptions	12.0-1-g4e7a85b+2
+12.0-4-g9c21aa8	0	geom	12.0-1-g4cdfb8d+5
+12.0-4-g9c21aa8	0	pex_config	12.0-6-g2d73c57+2
+12.0-4-g9c21aa8	0	pipe_base	12.0-10-gdb0b236+2
+12.0-4-g9c21aa8	0	pipe_tasks	12.0-29-g8be0346+2
