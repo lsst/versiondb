@@ -470,3 +470,7 @@ w.2016.15	0	swig	3.0.2.lsst1
 12.0-1-g4e7a85b	3	boost	tickets.DM-7236-g1b3841847f
 12.0-1-g4e7a85b	3	swig	3.0.10
 12.0-1-g4e7a85b	3	python_future	0.15.2+1
+12.1.rc1	0	base	12.1.rc1
+12.1.rc1	0	boost	1.60.lsst1
+12.1.rc1	0	swig	3.0.10
+12.1.rc1	0	python_future	0.15.2+1
