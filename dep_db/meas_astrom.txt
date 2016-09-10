@@ -8836,3 +8836,14 @@ w.2016.15	0	matplotlib	0.0.2
 12.1.rc1-1-gf973b47	0	astrometry_net	0.50.lsst3+2
 12.1.rc1-1-gf973b47	0	numpy	0.0.3
 12.1.rc1-1-gf973b47	0	matplotlib	0.0.3
+12.1.rc1-1-gf973b47	1	afw	12.1.rc1
+12.1.rc1-1-gf973b47	1	log	12.1.rc1
+12.1.rc1-1-gf973b47	1	meas_algorithms	12.1.rc1+2
+12.1.rc1-1-gf973b47	1	pex_logging	12.1.rc1
+12.1.rc1-1-gf973b47	1	pex_config	12.1.rc1
+12.1.rc1-1-gf973b47	1	pipe_base	12.1.rc1-1-ga883a32
+12.1.rc1-1-gf973b47	1	utils	12.1.rc1
+12.1.rc1-1-gf973b47	1	wcslib	5.13.lsst1
+12.1.rc1-1-gf973b47	1	astrometry_net	0.50.lsst3+2
+12.1.rc1-1-gf973b47	1	numpy	0.0.3
+12.1.rc1-1-gf973b47	1	matplotlib	0.0.3
