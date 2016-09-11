@@ -3041,3 +3041,10 @@ w.2016.12	0	log	w.2016.12
 12.1.rc1-1-g253890b	1	ctrl_events	12.1.rc1
 12.1.rc1-1-g253890b	1	ctrl_provenance	12.1.rc1+1
 12.1.rc1-1-g253890b	1	log	12.1.rc1
+12.1.rc1-1-g253890b	2	cat	12.1.rc1-2-g9de47a8
+12.1.rc1-1-g253890b	2	utils	12.1.rc1
+12.1.rc1-1-g253890b	2	pex_policy	12.1.rc1
+12.1.rc1-1-g253890b	2	daf_persistence	12.1.rc1-2-gdb06417
+12.1.rc1-1-g253890b	2	ctrl_events	12.1.rc1
+12.1.rc1-1-g253890b	2	ctrl_provenance	12.1.rc1+2
+12.1.rc1-1-g253890b	2	log	12.1.rc1
