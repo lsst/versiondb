@@ -2210,3 +2210,8 @@ w.2016.15	0	sconsUtils	w.2016.15
 12.1.rc1-1-g7f1f36d	3	pipe_base	12.1.rc1-1-ga883a32+1
 12.1.rc1-1-g7f1f36d	3	scons	2.5.0.lsst2
 12.1.rc1-1-g7f1f36d	3	sconsUtils	12.1.rc1
+12.1.rc1-2-g01ff101	0	meas_algorithms	12.1.rc1+3
+12.1.rc1-2-g01ff101	0	numpy	0.0.3
+12.1.rc1-2-g01ff101	0	pipe_base	12.1.rc1-1-ga883a32+1
+12.1.rc1-2-g01ff101	0	scons	2.5.0.lsst2
+12.1.rc1-2-g01ff101	0	sconsUtils	12.1.rc1

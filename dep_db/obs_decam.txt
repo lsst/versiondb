@@ -806,3 +806,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 12.1.rc1-1-gaeeaa5b	2	pex_policy	12.1.rc1
 12.1.rc1-1-gaeeaa5b	2	ip_isr	12.1.rc1-1-g7f1f36d+3
 12.1.rc1-1-gaeeaa5b	2	testdata_decam	12.1.rc1
+12.1.rc1-1-gaeeaa5b	3	utils	12.1.rc1
+12.1.rc1-1-gaeeaa5b	3	daf_persistence	12.1.rc1-2-gdb06417
+12.1.rc1-1-gaeeaa5b	3	daf_butlerUtils	12.1.rc1-1-gb66ffbb
+12.1.rc1-1-gaeeaa5b	3	afw	12.1.rc1+1
+12.1.rc1-1-gaeeaa5b	3	meas_algorithms	12.1.rc1+3
+12.1.rc1-1-gaeeaa5b	3	pipe_tasks	12.1.rc1-1-g322976c+3
+12.1.rc1-1-gaeeaa5b	3	pipe_base	12.1.rc1-1-ga883a32+1
+12.1.rc1-1-gaeeaa5b	3	pex_exceptions	12.1.rc1
+12.1.rc1-1-gaeeaa5b	3	pex_config	12.1.rc1
+12.1.rc1-1-gaeeaa5b	3	pex_policy	12.1.rc1
+12.1.rc1-1-gaeeaa5b	3	ip_isr	12.1.rc1-2-g01ff101
+12.1.rc1-1-gaeeaa5b	3	testdata_decam	12.1.rc1
