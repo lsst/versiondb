@@ -2905,3 +2905,15 @@ w.2016.15	0	utils	w.2016.15
 12.1.rc1	3	sconsUtils	12.1.rc1
 12.1.rc1	3	swig	3.0.10
 12.1.rc1	3	utils	12.1.rc1
+12.1.rc1	4	afw	12.1.rc1-1-g344a516
+12.1.rc1	4	boost	1.60.lsst1
+12.1.rc1	4	daf_base	12.1.rc1-1-g6e07e07
+12.1.rc1	4	fftw	3.3.4.lsst2
+12.1.rc1	4	meas_algorithms	12.1.rc1+4
+12.1.rc1	4	meas_base	12.1.rc1+4
+12.1.rc1	4	numpy	0.0.3
+12.1.rc1	4	psfex	12.0+7
+12.1.rc1	4	scons	2.5.0.lsst2
+12.1.rc1	4	sconsUtils	12.1.rc1
+12.1.rc1	4	swig	3.0.10
+12.1.rc1	4	utils	12.1.rc1

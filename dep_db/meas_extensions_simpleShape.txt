@@ -853,3 +853,12 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 12.1.rc1	3	utils	12.1.rc1
 12.1.rc1	3	pex_config	12.1.rc1
 12.1.rc1	3	pex_exceptions	12.1.rc1
+12.1.rc1	4	scons	2.5.0.lsst2
+12.1.rc1	4	sconsUtils	12.1.rc1
+12.1.rc1	4	base	12.1.rc1
+12.1.rc1	4	numpy	0.0.3
+12.1.rc1	4	afw	12.1.rc1-1-g344a516
+12.1.rc1	4	meas_base	12.1.rc1+4
+12.1.rc1	4	utils	12.1.rc1
+12.1.rc1	4	pex_config	12.1.rc1+1
+12.1.rc1	4	pex_exceptions	12.1.rc1
