@@ -1,0 +1,8 @@
+# product                 SHA1                                      Version                       
+BUILD=b2271
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1                               cfitsio
+python                    caf9c3142393e8cbb28effcd2b5a30f4d630c4b5  0.0.5                                    
+numpy                     c1bdd73fbef02df5b68128b4c309be514756acb9  0.0.3                                    python
+gsl                       a5b7ea77e0be9d4f91e1a71ec7b08db0bdbf6e58  1.16.lsst3                               
+astrometry_net            614c69fbd662f97a354ed1e69cc46b2c82f552a8  0.67.123ff3e.lsst1                       cfitsio,wcslib,gsl,numpy
