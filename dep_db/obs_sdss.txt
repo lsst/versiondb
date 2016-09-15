@@ -8246,3 +8246,12 @@ w.2016.15	0	utils	w.2016.15
 12.1.rc1-3-g9a658ea	0	pipe_tasks	12.1.rc1-1-g322976c+4
 12.1.rc1-3-g9a658ea	0	utils	12.1.rc1
 12.1.rc1-3-g9a658ea	0	log	12.1.rc1
+12.1.rc1-3-g9a658ea	1	pex_policy	12.1.rc1+1
+12.1.rc1-3-g9a658ea	1	daf_butlerUtils	12.1.rc1-1-gb66ffbb+2
+12.1.rc1-3-g9a658ea	1	afw	12.1.rc1-2-gabcc786
+12.1.rc1-3-g9a658ea	1	meas_algorithms	12.1.rc1+5
+12.1.rc1-3-g9a658ea	1	meas_astrom	12.1.rc1-1-gf973b47+4
+12.1.rc1-3-g9a658ea	1	mysqlpython	1.2.3.lsst2+3
+12.1.rc1-3-g9a658ea	1	pipe_tasks	12.1.rc1-1-g322976c+5
+12.1.rc1-3-g9a658ea	1	utils	12.1.rc1
+12.1.rc1-3-g9a658ea	1	log	12.1.rc1
