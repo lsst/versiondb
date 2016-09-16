@@ -241,3 +241,7 @@ master-gfaf42d3ee2	9	mpi4py	1.3.1.lsst2
 12.1.rc1-2-gf0833ce	0	daf_persistence	12.1.rc1-3-g8c1bd6c
 12.1.rc1-2-gf0833ce	0	pipe_base	12.1.rc1-1-ga883a32+3
 12.1.rc1-2-gf0833ce	0	mpi4py	2.0.0
+12.1.rc1-3-gd3b1d60	0	python_future	0.15.2+1
+12.1.rc1-3-gd3b1d60	0	daf_persistence	12.1.rc1-3-g8c1bd6c+1
+12.1.rc1-3-gd3b1d60	0	pipe_base	12.1.rc1-2-g486411b
+12.1.rc1-3-gd3b1d60	0	mpi4py	2.0.0

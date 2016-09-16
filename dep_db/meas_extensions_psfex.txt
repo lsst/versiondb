@@ -2929,3 +2929,16 @@ w.2016.15	0	utils	w.2016.15
 12.1.rc1	5	sconsUtils	12.1.rc1
 12.1.rc1	5	swig	3.0.10
 12.1.rc1	5	utils	12.1.rc1
+12.1.rc1-2-ge2df6f8	0	afw	12.1.rc1-4-g057223e
+12.1.rc1-2-ge2df6f8	0	boost	1.60.lsst1
+12.1.rc1-2-ge2df6f8	0	daf_base	12.1.rc1-2-gc9c0491
+12.1.rc1-2-ge2df6f8	0	fftw	3.3.4.lsst2
+12.1.rc1-2-ge2df6f8	0	meas_algorithms	12.1.rc1-3-gcf4b6cb
+12.1.rc1-2-ge2df6f8	0	meas_base	12.1.rc1-3-g3391c73
+12.1.rc1-2-ge2df6f8	0	numpy	0.0.3
+12.1.rc1-2-ge2df6f8	0	psfex	12.0+7
+12.1.rc1-2-ge2df6f8	0	python_future	0.15.2+1
+12.1.rc1-2-ge2df6f8	0	scons	2.5.0.lsst2
+12.1.rc1-2-ge2df6f8	0	sconsUtils	12.1.rc1
+12.1.rc1-2-ge2df6f8	0	swig	3.0.10
+12.1.rc1-2-ge2df6f8	0	utils	12.1.rc1+1
