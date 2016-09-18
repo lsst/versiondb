@@ -252,3 +252,10 @@ master-gfaf42d3ee2	9	mpi4py	1.3.1.lsst2
 12.1.rc1-4-ga681abb	0	log	12.1.rc1-1-g83b2247
 12.1.rc1-4-ga681abb	0	utils	12.1.rc1+1
 12.1.rc1-4-ga681abb	0	mpi4py	2.0.0
+12.1.rc1-4-ga681abb	1	python_future	0.15.2+1
+12.1.rc1-4-ga681abb	1	daf_persistence	12.1.rc1-3-g8c1bd6c+1
+12.1.rc1-4-ga681abb	1	pipe_base	12.1.rc1-2-g486411b+1
+12.1.rc1-4-ga681abb	1	pex_logging	12.1.rc1-1-g06d7636+1
+12.1.rc1-4-ga681abb	1	log	12.1.rc1-1-g83b2247
+12.1.rc1-4-ga681abb	1	utils	12.1.rc1+1
+12.1.rc1-4-ga681abb	1	mpi4py	2.0.0

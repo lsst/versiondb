@@ -768,3 +768,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 12.1.rc1-1-g4539972	1	pex_config	12.1.rc1+2
 12.1.rc1-1-g4539972	1	pipe_base	12.1.rc1-2-g486411b
 12.1.rc1-1-g4539972	1	pipe_tasks	12.1.rc1-2-g39433dd+1
+12.1.rc1-1-g4539972	2	ctrl_pool	12.1.rc1-4-ga681abb+1
+12.1.rc1-1-g4539972	2	afw	12.1.rc1-4-g057223e+1
+12.1.rc1-1-g4539972	2	pex_exceptions	12.1.rc1
+12.1.rc1-1-g4539972	2	geom	12.1.rc1+1
+12.1.rc1-1-g4539972	2	pex_config	12.1.rc1+2
+12.1.rc1-1-g4539972	2	pipe_base	12.1.rc1-2-g486411b+1
+12.1.rc1-1-g4539972	2	pipe_tasks	12.1.rc1-2-g39433dd+2
