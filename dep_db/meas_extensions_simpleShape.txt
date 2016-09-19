@@ -889,3 +889,12 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 12.1.rc1-1-g2925d4d	1	utils	12.1.rc1+1
 12.1.rc1-1-g2925d4d	1	pex_config	12.1.rc1+2
 12.1.rc1-1-g2925d4d	1	pex_exceptions	12.1.rc1
+12.1.rc1-1-g2925d4d	2	scons	2.5.0.lsst2
+12.1.rc1-1-g2925d4d	2	sconsUtils	12.1.rc1
+12.1.rc1-1-g2925d4d	2	base	12.1.rc1
+12.1.rc1-1-g2925d4d	2	numpy	0.0.3
+12.1.rc1-1-g2925d4d	2	afw	12.1.rc1-4-g057223e+1
+12.1.rc1-1-g2925d4d	2	meas_base	12.1.rc1-3-g3391c73+2
+12.1.rc1-1-g2925d4d	2	utils	12.1.rc1+1
+12.1.rc1-1-g2925d4d	2	pex_config	12.1.rc1+2
+12.1.rc1-1-g2925d4d	2	pex_exceptions	12.1.rc1
