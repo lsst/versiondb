@@ -3069,3 +3069,10 @@ w.2016.12	0	log	w.2016.12
 12.1.rc1-1-g253890b	5	ctrl_events	12.1.rc1-1-g3db6b75+1
 12.1.rc1-1-g253890b	5	ctrl_provenance	12.1.rc1+5
 12.1.rc1-1-g253890b	5	log	12.1.rc1-1-g83b2247
+12.1.rc1	0	cat	12.1.rc1+1
+12.1.rc1	0	utils	12.1.rc1
+12.1.rc1	0	pex_policy	12.1.rc1
+12.1.rc1	0	daf_persistence	12.1.rc1
+12.1.rc1	0	ctrl_events	12.1.rc1
+12.1.rc1	0	ctrl_provenance	12.1.rc1+6
+12.1.rc1	0	log	12.1.rc1

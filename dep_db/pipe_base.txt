@@ -4113,3 +4113,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 12.1.rc1-2-g486411b	2	afw	12.1.rc1-4-g057223e+1
 12.1.rc1-2-g486411b	2	python_future	0.15.2+1
 12.1.rc1-2-g486411b	2	obs_test	12.1.rc1-2-g4c2be76
+12.1.rc1	1	daf_persistence	12.1.rc1
+12.1.rc1	1	log	12.1.rc1
+12.1.rc1	1	pex_config	12.1.rc1
+12.1.rc1	1	utils	12.1.rc1
+12.1.rc1	1	afw	12.1.rc1+2
+12.1.rc1	1	python_future	0.15.2+1
+12.1.rc1	1	obs_test	12.1.rc1+2
