@@ -2993,3 +2993,16 @@ w.2016.15	0	utils	w.2016.15
 12.1	0	sconsUtils	12.1
 12.1	0	swig	3.0.10
 12.1	0	utils	12.1
+12.1	1	afw	12.1+1
+12.1	1	boost	1.60.lsst1
+12.1	1	daf_base	12.1
+12.1	1	fftw	3.3.4.lsst2
+12.1	1	meas_algorithms	12.1+1
+12.1	1	meas_base	12.1+1
+12.1	1	numpy	0.0.3
+12.1	1	psfex	12.1
+12.1	1	python_future	0.15.2+1
+12.1	1	scons	2.5.0.lsst2
+12.1	1	sconsUtils	12.1
+12.1	1	swig	3.0.10
+12.1	1	utils	12.1
