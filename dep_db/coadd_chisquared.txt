@@ -1765,3 +1765,9 @@ w.2016.15	0	afwdata	w.2016.15
 12.1.rc1	5	sconsUtils	12.1.rc1
 12.1.rc1	5	python_future	0.15.2+1
 12.1.rc1	5	afwdata	12.1.rc1
+12.1	0	coadd_utils	12.1
+12.1	0	numpy	0.0.3
+12.1	0	scons	2.5.0.lsst2
+12.1	0	sconsUtils	12.1
+12.1	0	python_future	0.15.2+1
+12.1	0	afwdata	12.0+8

@@ -10432,3 +10432,13 @@ w.2016.15	0	utils	w.2016.15
 12.1.rc1-4-g012bf82	4	pipe_tasks	12.1.rc1-3-gfed4614+2
 12.1.rc1-4-g012bf82	4	python_mysqlclient	1.3.7.lsst1
 12.1.rc1-4-g012bf82	4	utils	12.1.rc1+1
+12.1	0	daf_base	12.1
+12.1	0	pex_policy	12.1
+12.1	0	afw	12.1
+12.1	0	daf_persistence	12.1
+12.1	0	daf_butlerUtils	12.1
+12.1	0	meas_algorithms	12.1
+12.1	0	ip_isr	12.1
+12.1	0	pipe_tasks	12.1
+12.1	0	python_mysqlclient	1.3.7.lsst1
+12.1	0	utils	12.1
