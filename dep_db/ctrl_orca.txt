@@ -3076,3 +3076,12 @@ w.2016.12	0	log	w.2016.12
 12.1.rc1	0	ctrl_events	12.1.rc1
 12.1.rc1	0	ctrl_provenance	12.1.rc1+6
 12.1.rc1	0	log	12.1.rc1
+12.1.rc1-2-g5d24f0e	0	python_future	0.15.2+1
+12.1.rc1-2-g5d24f0e	0	cat	12.1.rc1-3-g00b8a9c+1
+12.1.rc1-2-g5d24f0e	0	utils	12.1.rc1+1
+12.1.rc1-2-g5d24f0e	0	pex_policy	12.1.rc1+2
+12.1.rc1-2-g5d24f0e	0	pex_config	12.1.rc1+2
+12.1.rc1-2-g5d24f0e	0	daf_persistence	12.1.rc1-3-g8c1bd6c+1
+12.1.rc1-2-g5d24f0e	0	ctrl_events	12.1.rc1-1-g3db6b75+1
+12.1.rc1-2-g5d24f0e	0	ctrl_provenance	12.1.rc1+5
+12.1.rc1-2-g5d24f0e	0	log	12.1.rc1-1-g83b2247
