@@ -15727,3 +15727,15 @@ sims_2.2.6	0	obs_lsstSim	12.0+1
 12.0-6-ge73d00b	29	sims_coordUtils	12.0-3-g702252c+22
 12.0-6-ge73d00b	29	sims_maps	2016.08.23+6
 12.0-6-ge73d00b	29	obs_lsstSim	12.1-1-g8d21232+2
+12.0-6-ge73d00b	30	base	12.1
+12.0-6-ge73d00b	30	numpy	0.0.3
+12.0-6-ge73d00b	30	matplotlib	0.0.3
+12.0-6-ge73d00b	30	pyephem	3.7.5.1.lsst1
+12.0-6-ge73d00b	30	palpy	1.7.0.lsst2+1
+12.0-6-ge73d00b	30	healpy	1.8.1.lsst2+4
+12.0-6-ge73d00b	30	sims_utils	12.0-10-ged4de25+4
+12.0-6-ge73d00b	30	sims_catalogs	master-g89e82bbb01+1
+12.0-6-ge73d00b	30	sims_photUtils	12.0-2-gb3f515d+11
+12.0-6-ge73d00b	30	sims_coordUtils	12.0-3-g702252c+22
+12.0-6-ge73d00b	30	sims_maps	2016.08.23+6
+12.0-6-ge73d00b	30	obs_lsstSim	12.1-1-g8d21232+3
