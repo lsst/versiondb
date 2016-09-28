@@ -3103,3 +3103,12 @@ w.2016.12	0	log	w.2016.12
 12.1-1-gae4f836	0	ctrl_events	12.1
 12.1-1-gae4f836	0	ctrl_provenance	12.1
 12.1-1-gae4f836	0	log	12.1
+12.1-1-gae4f836	1	python_future	0.15.2+1
+12.1-1-gae4f836	1	cat	12.1+1
+12.1-1-gae4f836	1	utils	12.1+1
+12.1-1-gae4f836	1	pex_policy	12.1+1
+12.1-1-gae4f836	1	pex_config	12.1+1
+12.1-1-gae4f836	1	daf_persistence	12.1+1
+12.1-1-gae4f836	1	ctrl_events	12.1+1
+12.1-1-gae4f836	1	ctrl_provenance	12.1+1
+12.1-1-gae4f836	1	log	12.1-1-g7742deb

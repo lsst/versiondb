@@ -4063,3 +4063,12 @@ w.2016.15	0	matplotlib	0.0.2
 12.1-1-gbddb91b	0	sconsUtils	12.1
 12.1-1-gbddb91b	0	utils	12.1
 12.1-1-gbddb91b	0	matplotlib	0.0.3
+12.1-1-gbddb91b	1	afw	12.1+2
+12.1-1-gbddb91b	1	log	12.1-1-g7742deb
+12.1-1-gbddb91b	1	meas_algorithms	12.1-1-ge82b6bf
+12.1-1-gbddb91b	1	pex_logging	12.1+1
+12.1-1-gbddb91b	1	numpy	0.0.3
+12.1-1-gbddb91b	1	scons	2.5.0.lsst2
+12.1-1-gbddb91b	1	sconsUtils	12.1
+12.1-1-gbddb91b	1	utils	12.1+1
+12.1-1-gbddb91b	1	matplotlib	0.0.3
