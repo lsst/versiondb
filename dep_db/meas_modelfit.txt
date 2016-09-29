@@ -6157,3 +6157,13 @@ w.2016.15	0	matplotlib	0.0.2
 12.1-1-g840eeaf	4	sconsUtils	12.1
 12.1-1-g840eeaf	4	shapelet	12.1+1
 12.1-1-g840eeaf	4	matplotlib	0.0.3
+12.1-2-gecd5862	0	afw	12.1+2
+12.1-2-gecd5862	0	meas_algorithms	12.1-2-gc774960
+12.1-2-gecd5862	0	meas_base	12.1-1-g49b0ffe
+12.1-2-gecd5862	0	numpy	0.0.3
+12.1-2-gecd5862	0	pex_logging	12.1+1
+12.1-2-gecd5862	0	pipe_tasks	12.1-1-gb780f6e+2
+12.1-2-gecd5862	0	scons	2.5.0.lsst2
+12.1-2-gecd5862	0	sconsUtils	12.1
+12.1-2-gecd5862	0	shapelet	12.1+2
+12.1-2-gecd5862	0	matplotlib	0.0.3

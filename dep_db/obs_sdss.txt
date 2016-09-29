@@ -8408,3 +8408,12 @@ w.2016.15	0	utils	w.2016.15
 12.1-1-g1f5f5ac	5	pipe_tasks	12.1+4
 12.1-1-g1f5f5ac	5	utils	12.1
 12.1-1-g1f5f5ac	5	log	12.1
+12.1-1-g1f5f5ac	6	pex_policy	12.1+1
+12.1-1-g1f5f5ac	6	daf_butlerUtils	12.1+2
+12.1-1-g1f5f5ac	6	afw	12.1+2
+12.1-1-g1f5f5ac	6	meas_algorithms	12.1-2-gc774960
+12.1-1-g1f5f5ac	6	meas_astrom	12.1+5
+12.1-1-g1f5f5ac	6	mysqlpython	1.2.3.lsst2+3
+12.1-1-g1f5f5ac	6	pipe_tasks	12.1-1-gb780f6e+2
+12.1-1-g1f5f5ac	6	utils	12.1+1
+12.1-1-g1f5f5ac	6	log	12.1-1-g7742deb
