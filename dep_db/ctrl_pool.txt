@@ -339,3 +339,10 @@ master-gfaf42d3ee2	9	mpi4py	1.3.1.lsst2
 12.1-1-g3e1834e	0	log	12.1-2-gda87ca9
 12.1-1-g3e1834e	0	utils	12.1-2-gd71c75d
 12.1-1-g3e1834e	0	mpi4py	2.0.0+2
+12.1-1-g3e1834e	1	python_future	0.15.2+2
+12.1-1-g3e1834e	1	daf_persistence	12.1+6
+12.1-1-g3e1834e	1	pipe_base	12.1-2-g6707234
+12.1-1-g3e1834e	1	pex_logging	12.1+6
+12.1-1-g3e1834e	1	log	12.1-2-gda87ca9
+12.1-1-g3e1834e	1	utils	12.1-2-gd71c75d
+12.1-1-g3e1834e	1	mpi4py	2.0.0+2
