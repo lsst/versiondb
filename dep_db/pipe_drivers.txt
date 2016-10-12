@@ -929,3 +929,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 12.1-7-ga5bc178	3	pex_config	12.1-1-ge280ff2
 12.1-7-ga5bc178	3	pipe_base	12.1-2-g6707234
 12.1-7-ga5bc178	3	pipe_tasks	12.1-4-gffc1045
+12.1-7-ga5bc178	4	ctrl_pool	12.1-2-g7fcb3ff+1
+12.1-7-ga5bc178	4	afw	12.1-4-gaba3f16+1
+12.1-7-ga5bc178	4	pex_exceptions	12.1+1
+12.1-7-ga5bc178	4	geom	12.1+5
+12.1-7-ga5bc178	4	pex_config	12.1-1-ge280ff2
+12.1-7-ga5bc178	4	pipe_base	12.1-2-g6707234+1
+12.1-7-ga5bc178	4	pipe_tasks	12.1-4-gffc1045+1
