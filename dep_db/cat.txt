@@ -3690,3 +3690,15 @@ tickets.DM-7260-g30f854a43c	0	python_future	0.15.2+1
 12.1	6	utils	12.1-2-gd71c75d
 12.1	6	pex_exceptions	12.1+1
 12.1	6	python_future	0.15.2+2
+12.1	7	python	0.0.6
+12.1	7	mariadbclient	10.1.11.lsst3
+12.1	7	python_mysqlclient	1.3.7.lsst1+1
+12.1	7	db	12.1+3
+12.1	7	log	12.1-2-gda87ca9
+12.1	7	boost	1.60.lsst1+1
+12.1	7	pex_policy	12.1+6
+12.1	7	daf_base	12.1-1-g31c4374
+12.1	7	daf_persistence	12.1-1-g3ce7c79
+12.1	7	utils	12.1-2-gd71c75d
+12.1	7	pex_exceptions	12.1+1
+12.1	7	python_future	0.15.2+2
