@@ -8489,3 +8489,12 @@ w.2016.15	0	utils	w.2016.15
 12.1-3-g17fb5f2	2	pipe_tasks	12.1-4-gffc1045+2
 12.1-3-g17fb5f2	2	utils	12.1-2-gd71c75d
 12.1-3-g17fb5f2	2	log	12.1-2-gda87ca9
+12.1-3-g17fb5f2	3	pex_policy	12.1+6
+12.1-3-g17fb5f2	3	obs_base	12.1-4-g06d9182+1
+12.1-3-g17fb5f2	3	afw	12.1-6-gf82f3c8
+12.1-3-g17fb5f2	3	meas_algorithms	12.1-6-g1f798ce+5
+12.1-3-g17fb5f2	3	meas_astrom	12.1-2-gf2a177e+6
+12.1-3-g17fb5f2	3	mysqlpython	1.2.3.lsst2+4
+12.1-3-g17fb5f2	3	pipe_tasks	12.1-4-gffc1045+3
+12.1-3-g17fb5f2	3	utils	12.1-2-gd71c75d
+12.1-3-g17fb5f2	3	log	12.1-2-gda87ca9
