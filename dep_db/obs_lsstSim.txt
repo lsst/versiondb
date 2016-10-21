@@ -10682,3 +10682,13 @@ w.2016.15	0	utils	w.2016.15
 12.1-5-g49cb66e	9	pipe_tasks	12.1-6-g0c5b709+1
 12.1-5-g49cb66e	9	python_mysqlclient	1.3.7.lsst1+1
 12.1-5-g49cb66e	9	utils	12.1-2-gd71c75d+1
+12.1-5-g49cb66e	10	daf_base	12.1-1-g31c4374+2
+12.1-5-g49cb66e	10	pex_policy	12.1+8
+12.1-5-g49cb66e	10	afw	12.1-11-gb61bf2d+2
+12.1-5-g49cb66e	10	daf_persistence	12.1-1-g3ce7c79+3
+12.1-5-g49cb66e	10	obs_base	12.1-4-g06d9182+8
+12.1-5-g49cb66e	10	meas_algorithms	12.1-7-g9bbc2d3+4
+12.1-5-g49cb66e	10	ip_isr	12.1-3-gcf69c82+12
+12.1-5-g49cb66e	10	pipe_tasks	12.1-6-g0c5b709+2
+12.1-5-g49cb66e	10	python_mysqlclient	1.3.7.lsst1+1
+12.1-5-g49cb66e	10	utils	12.1-2-gd71c75d+2
