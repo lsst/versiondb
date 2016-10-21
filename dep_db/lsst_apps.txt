@@ -8712,3 +8712,12 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 12.0	112	meas_extensions_simpleShape	12.1-1-gfe2487d+14
 12.0	112	display_ds9	12.1-2-ge1d788f+5
 12.0	112	meas_extensions_psfex	12.1-2-g5a38413+5
+12.1	2	meas_deblender	12.1+3
+12.1	2	meas_modelfit	12.1+2
+12.1	2	pipe_tasks	12.1+5
+12.1	2	obs_lsstSim	12.1+2
+12.1	2	obs_sdss	12.1+2
+12.1	2	obs_test	12.1+7
+12.1	2	meas_extensions_simpleShape	12.1+7
+12.1	2	display_ds9	12.1+7
+12.1	2	meas_extensions_psfex	12.1+5
