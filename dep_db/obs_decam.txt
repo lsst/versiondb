@@ -1310,3 +1310,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 12.1-5-g60407ad	12	pex_policy	12.1+10
 12.1-5-g60407ad	12	ip_isr	12.1-3-gcf69c82+16
 12.1-5-g60407ad	12	testdata_decam	12.1
+12.1	3	utils	12.1
+12.1	3	daf_persistence	12.1+8
+12.1	3	daf_butlerUtils	12.1+8
+12.1	3	afw	12.1+4
+12.1	3	meas_algorithms	12.1+5
+12.1	3	pipe_tasks	12.1+6
+12.1	3	pipe_base	12.1+6
+12.1	3	pex_exceptions	12.1
+12.1	3	pex_config	12.1
+12.1	3	pex_policy	12.1
+12.1	3	ip_isr	12.1+6
+12.1	3	testdata_decam	12.1
