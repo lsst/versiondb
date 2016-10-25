@@ -903,3 +903,10 @@ tickets.DM-5979-g76d91cf90e	0	python_psutil	4.1.0
 12.1	4	numpy	0.0.3+1
 12.1	4	python_psutil	4.1.0+3
 12.1	4	python_future	0.15.2+2
+12.1-2-gd71c75d	3	base	12.1-1-g5ff2bce
+12.1-2-gd71c75d	3	pex_exceptions	12.1+2
+12.1-2-gd71c75d	3	boost	1.60.lsst1+1
+12.1-2-gd71c75d	3	log	12.1-4-gad3b865+1
+12.1-2-gd71c75d	3	numpy	0.0.3+1
+12.1-2-gd71c75d	3	python_psutil	4.1.0+3
+12.1-2-gd71c75d	3	python_future	0.15.2+2
