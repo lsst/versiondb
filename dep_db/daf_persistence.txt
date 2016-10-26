@@ -1097,3 +1097,8 @@ w.2016.15	0	pyyaml	3.11.lsst1
 12.1	8	pex_policy	12.1
 12.1	8	astropy	0.0.1.lsst2+1
 12.1	8	pyyaml	3.11.lsst1+2
+12.1-1-g3ce7c79	6	log	12.1-4-gad3b865+1
+12.1-1-g3ce7c79	6	mariadbclient	tickets.DM-8083-g01ae1025c7
+12.1-1-g3ce7c79	6	pex_policy	12.1+10
+12.1-1-g3ce7c79	6	astropy	0.0.1.lsst2+2
+12.1-1-g3ce7c79	6	pyyaml	3.11.lsst1+3
