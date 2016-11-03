@@ -4413,3 +4413,12 @@ sims_2.2.6	1	obs_lsstSim	12.0+1
 12.0-5-g56d725e	62	sims_catalogs	master-g89e82bbb01+16
 12.0-5-g56d725e	62	sims_catUtils	12.0-20-gd0952e3+29
 12.0-5-g56d725e	62	obs_lsstSim	12.1-6-g2483e8e+3
+12.0-5-g56d725e	63	galsim	1.4.1.lsst3
+12.0-5-g56d725e	63	astropy	0.0.1.lsst2+2
+12.0-5-g56d725e	63	meas_astrom	12.1-3-gb143333+6
+12.0-5-g56d725e	63	afw	12.1-18-gb2abd6c
+12.0-5-g56d725e	63	sims_utils	12.0-11-g3821f9a
+12.0-5-g56d725e	63	sims_coordUtils	12.0-4-g7de6cfa+5
+12.0-5-g56d725e	63	sims_catalogs	master-g89e82bbb01+17
+12.0-5-g56d725e	63	sims_catUtils	12.0-20-gd0952e3+30
+12.0-5-g56d725e	63	obs_lsstSim	12.1-7-g05f507e
