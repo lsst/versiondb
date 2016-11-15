@@ -1294,3 +1294,12 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 12.1-1-gfe2487d	33	utils	12.1-2-gd71c75d+4
 12.1-1-gfe2487d	33	pex_config	12.1-1-ge280ff2+4
 12.1-1-gfe2487d	33	pex_exceptions	12.1+2
+12.1	9	scons	2.5.0.lsst2+1
+12.1	9	sconsUtils	12.1+1
+12.1	9	base	12.1+1
+12.1	9	numpy	0.0.3+1
+12.1	9	afw	12.1+5
+12.1	9	meas_base	12.1+6
+12.1	9	utils	12.1+5
+12.1	9	pex_config	12.1+8
+12.1	9	pex_exceptions	12.1+1

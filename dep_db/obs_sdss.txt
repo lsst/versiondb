@@ -8795,3 +8795,12 @@ w.2016.15	0	utils	w.2016.15
 12.1-5-g918e393	7	pipe_tasks	12.1-9-g4c4c0c0+2
 12.1-5-g918e393	7	utils	12.1-2-gd71c75d+4
 12.1-5-g918e393	7	log	12.1-4-gad3b865+2
+12.1	4	pex_policy	12.1+12
+12.1	4	daf_butlerUtils	12.1+9
+12.1	4	afw	12.1+5
+12.1	4	meas_algorithms	12.1+6
+12.1	4	meas_astrom	12.1+10
+12.1	4	mysqlpython	1.2.3.lsst2+10
+12.1	4	pipe_tasks	12.1+7
+12.1	4	utils	12.1+5
+12.1	4	log	12.1+2
