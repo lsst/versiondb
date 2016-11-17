@@ -9505,3 +9505,13 @@ w.2016.12	0	obs_subaru	w.2016.12
 12.1	57	meas_extensions_shapeHSM	12.1-1-gbc8aaff+40
 12.1	57	meas_extensions_photometryKron	12.1-1-g6033008+36
 12.1	57	pipe_drivers	12.1-9-ge6a1387+26
+12.1	58	lsst	12.1-2-g7ccd431
+12.1	58	lsst_apps	12.0+139
+12.1	58	ctrl_execute	12.1+29
+12.1	58	ctrl_platform_gordon	11.0+175
+12.1	58	ctrl_platform_lsst	11.0+175
+12.1	58	datarel	12.1-1-g13796bd+41
+12.1	58	obs_subaru	12.1-9-g880adfe
+12.1	58	meas_extensions_shapeHSM	12.1-1-gbc8aaff+41
+12.1	58	meas_extensions_photometryKron	12.1-1-g6033008+37
+12.1	58	pipe_drivers	12.1-9-ge6a1387+27
