@@ -3337,3 +3337,12 @@ w.2016.12	0	log	w.2016.12
 12.1-1-gae4f836	24	ctrl_events	12.1+11
 12.1-1-gae4f836	24	ctrl_provenance	12.1+25
 12.1-1-gae4f836	24	log	12.1-4-gad3b865+2
+12.1-1-gae4f836	25	python_future	0.15.2+2
+12.1-1-gae4f836	25	cat	12.1-1-g512a8fa+7
+12.1-1-gae4f836	25	utils	12.1-2-gd71c75d+4
+12.1-1-gae4f836	25	pex_policy	12.1+11
+12.1-1-gae4f836	25	pex_config	12.1-2-g164c456
+12.1-1-gae4f836	25	daf_persistence	12.1-10-gf3a605a
+12.1-1-gae4f836	25	ctrl_events	12.1+11
+12.1-1-gae4f836	25	ctrl_provenance	12.1+26
+12.1-1-gae4f836	25	log	12.1-4-gad3b865+2
