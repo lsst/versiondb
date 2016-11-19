@@ -8867,3 +8867,12 @@ w.2016.15	0	utils	w.2016.15
 12.1-7-g43519be	1	pipe_tasks	12.1-10-gcf06047+4
 12.1-7-g43519be	1	utils	12.1-2-gd71c75d+4
 12.1-7-g43519be	1	log	12.1-4-gad3b865+2
+12.1-7-g43519be	2	pex_policy	12.1+13
+12.1-7-g43519be	2	obs_base	12.1-18-g7970e1f+1
+12.1-7-g43519be	2	afw	12.1-24-g22f008f+1
+12.1-7-g43519be	2	meas_algorithms	12.1-10-gce948d9+14
+12.1-7-g43519be	2	meas_astrom	12.1-3-gb143333+21
+12.1-7-g43519be	2	python_mysqlclient	1.3.7.lsst1+7
+12.1-7-g43519be	2	pipe_tasks	12.1-10-gcf06047+5
+12.1-7-g43519be	2	utils	12.1-2-gd71c75d+4
+12.1-7-g43519be	2	log	12.1-4-gad3b865+2
