@@ -1646,3 +1646,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 12.1-14-g4a36260	5	pex_policy	12.1+13
 12.1-14-g4a36260	5	ip_isr	12.1-3-gcf69c82+43
 12.1-14-g4a36260	5	testdata_decam	12.1-1-g2f1296c
+12.1-14-g4a36260	6	utils	12.1-2-gd71c75d+4
+12.1-14-g4a36260	6	daf_persistence	12.1-15-gaf6b168
+12.1-14-g4a36260	6	obs_base	12.1-19-g33e0211+1
+12.1-14-g4a36260	6	afw	12.1-25-g59be945+1
+12.1-14-g4a36260	6	meas_algorithms	12.1-11-g680262d
+12.1-14-g4a36260	6	pipe_tasks	12.1-13-g271db8d
+12.1-14-g4a36260	6	pipe_base	12.1-3-ga4bf089+27
+12.1-14-g4a36260	6	pex_exceptions	12.1+2
+12.1-14-g4a36260	6	pex_config	12.1-2-g164c456+1
+12.1-14-g4a36260	6	pex_policy	12.1+13
+12.1-14-g4a36260	6	ip_isr	12.1-3-gcf69c82+43
+12.1-14-g4a36260	6	testdata_decam	12.1-1-g2f1296c
