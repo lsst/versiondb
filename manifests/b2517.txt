@@ -1,0 +1,72 @@
+# product                 SHA1                                      Version                       
+BUILD=b2517
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+minuit2                   dae2fb72f087c8d6dd1c4e0cfe8a828920f3412e  5.34.14                                  
+eigen                     f9ab3d1eb4897e8741c1f5b1fd23413ef5055c5d  3.2.5.lsst2                              
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+swig                      bd8facb3e1fd5a433cb913c3f6e7f2c1f3d60dd5  3.0.10                                   
+mariadbclient             12235e0cd9f0d822d9be349072812d966d2c20a7  10.1.18.lsst2                            
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1                               cfitsio
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+python_d2to1              1893c8d187b8f73cc91f0cf6c97564d1635934a0  0.2.12.lsst2+1                           python
+mysqlpython               120147b0169a7fbf5a32690ca53bc846311b719a  1.2.3.lsst2+10                           python,mariadbclient
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1+1                             python
+gsl                       a5b7ea77e0be9d4f91e1a71ec7b08db0bdbf6e58  1.16.lsst3                               
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+sqlalchemy                af5a1cb44943d13994e80302426225e7069d8ed6  1.0.8.lsst3+3                            python
+python_future             a5bd52eb6d89c313fa446064fa90cf7d21bdd214  0.15.2+2                                 python
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+3                                  python
+astropy                   47e80e26de26053521c607df82a3a4512572362b  0.0.1.lsst2+2                            python
+python_mysqlclient        945460320056625993eb4e3de872c3f74db17537  1.3.7.lsst1+7                            python,mariadbclient
+pyyaml                    cb5cda908acb5a4fe493b618f9519bb26f7b1275  3.11.lsst1+3                             python
+pykg_config               b05b21c61a90f39eda4b18d505b9fe841ce5f178  1.3.0+1                                  python
+flask                     cdb2e41bf97dccb0a2b57c6368b27d3d5cc27460  0.10.1.lsst2+2                           python
+numpy                     c1bdd73fbef02df5b68128b4c309be514756acb9  0.0.3+1                                  python
+astrometry_net            614c69fbd662f97a354ed1e69cc46b2c82f552a8  0.67.123ff3e.lsst1+1                     cfitsio,wcslib,gsl,numpy
+matplotlib                49c793a8e420fcfe39a0b0efbcf827d842aa8871  0.0.3+1                                  python,numpy
+scipy                     aedd72728b314c7adcb2bc108d85b02a75efc322  0.0.1.lsst1+3                            python,numpy
+ndarray                   90f134a1b6d5b528ae64c106ffd1df14d6445ff6  1.3.0                                    boost,python,numpy,eigen,swig,fftw
+esutil                    49b0a12ac880c1b059d28c9f752fed0630ed2a12  0.6.0+1                                  python,numpy
+stsci_distutils           4bba6935c89f769e59cec6780a68ba8509fccfb0  0.3.7.lsst1+2                            python_d2to1
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+sconsUtils                67b2f9e744a835e585f912aef089cea78ced6164  12.1+1                                   scons,doxygen
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7                             apr,apr_util
+lmfit                     0239b733156600f9ce4602ec7a1a266ee14856b0  0.9.3+4                                  python,numpy,scipy
+base                      5ff2bceeb9d4b452e403be7483bca3e533ac92f7  12.1-1-g5ff2bce                          sconsUtils,swig,python_future,doxygen
+astrometry_net_data       eaffc02df2119a5f17862630057df8974f07ca23  10.0+86                                  sconsUtils
+afwdata                   5f41616c3e012c71aab395c67e5bba3e1ed9ee34  12.0+9                                   sconsUtils
+pex_exceptions            4e7a85b49dec26ae9b1133c8a7bdefaebc9802f9  12.1+2                                   base,boost,swig,python_future
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+7                                  numpy,python_d2to1,stsci_distutils
+log                       ad3b865bdafd08c5d0753f1229a12113666fddc3  12.1-4-gad3b865+2                        boost,log4cxx,base,sconsUtils
+healpy                    d4cac0b74d707cc97b912fa01d6d2c0d9c9eb947  1.8.1.lsst2+5                            python,numpy,pykg_config,cfitsio,pyfits
+dax_webservcommon         29f49bca873b8a563bcf5ea660731fd3007ecbe4  12.1+1                                   python,scons,sconsUtils
+utils                     d71c75d313328b6cb2ef6fadb8e3f24495709297  12.1-2-gd71c75d+4                        base,pex_exceptions,boost,log,numpy,python_psutil,python_future
+db                        dcaa69efc4471354c3bb55b9219c5d1b7d0a61e2  12.1-1-gdcaa69e+2                        log,python,python_future,mariadbclient,python_mysqlclient,sconsUtils,sqlalchemy
+dax_dbserv                b29d23cbfecae6b72d9b332409097e0e1f192174  12.1-2-gb29d23c                          dax_webservcommon,db,flask,log,mysqlpython,python,scons,sconsUtils,sqlalchemy
+geom                      4cdfb8d9bada718495719d3880ddb9b5e89eaddc  12.1+10                                  sconsUtils,python_future,utils
+dax_metaserv              5234aa38b2a2fb46986bf20fcad50dd69796eed6  12.0+32                                  dax_webservcommon,db,flask,mysqlpython,python,scons,sconsUtils,sqlalchemy
+daf_base                  206ab357f3f90f984b999f8e29653afcec81595b  12.1-2-g206ab35                          utils,pex_exceptions,numpy,python_future
+pex_policy                3e90007e7b427bca6a2179a5fbd44fa5594813d9  12.1+13                                  daf_base,utils,python_future
+pex_config                164c456dc70db1c83c5d59c35912dcff39d084c8  12.1-2-g164c456+1                        daf_base,pex_policy,numpy,utils,python_future
+daf_persistence           af6b1686c2614ad0a5c3263007ab4452b5694046  12.1-15-gaf6b168                         log,mariadbclient,pex_policy,astropy,pyyaml
+cat                       512a8fa0df208c2022752cc96e86060a8c1bd4b8  12.1-1-g512a8fa+10                       python,mariadbclient,python_mysqlclient,db,log,boost,pex_policy,daf_base,daf_persistence,utils,pex_exceptions,python_future
+afw                       5d4082149f053f98c558beb58d80bd9b143ed5a7  12.1-26-g5d40821                         daf_base,daf_persistence,pex_config,log,ndarray,cfitsio,wcslib,numpy,minuit2,eigen,gsl,fftw,utils,astropy,python_future,log,pyfits,matplotlib,afwdata
+skypix                    86326bbb84d0b706a5f7e87290a58367f4c7cb6b  12.1+46                                  utils,pex_policy,geom,afw,python_future,sconsUtils
+skymap                    14f38d38a9240e317fc81bb1708ad25d2c5f636e  12.1-1-g14f38d3+40                       numpy,afw,healpy
+obs_base                  33e0211b155df886025cbd9bfbe008cbf2ee289e  12.1-19-g33e0211+2                       daf_base,log,pex_policy,daf_persistence,afw,skypix,pyfits,utils
+obs_test                  3e397f19786bffe516ad9a6d1e45dd73c3bbf517  12.1-9-g3e397f1+5                        afw,daf_base,obs_base,pex_config,pex_policy,numpy,skypix,utils,python_future
+pipe_base                 a4bf089b918d3c9eb15b7b154744ed34860ff47e  12.1-3-ga4bf089+28                       daf_persistence,log,pex_config,utils,afw,python_future,obs_test
+coadd_utils               5961e7a9b83008b7f038246e95f15b043c927a31  12.1-1-g5961e7a+49                       afw,log,numpy,pex_config,pipe_base,scons,sconsUtils,utils,python_future,afwdata
+coadd_chisquared          c0bc6ab8cbc5a74098aecdcae143d91e16442b6d  12.1-2-gc0bc6ab+46                       coadd_utils,numpy,scons,sconsUtils,python_future,afwdata
+meas_base                 1d674c83109bb665bc2ad102ea0c2f737f99197b  12.1-6-g1d674c8+8                        python_future,utils,afw,coadd_utils,daf_base,geom,numpy,pex_config,pipe_base,scons,sconsUtils
+meas_algorithms           680262d579c148352eff7c6260429442474e46c7  12.1-11-g680262d+1                       daf_base,daf_persistence,afw,esutil,log,meas_base,obs_test,minuit2,numpy,pex_config,pex_exceptions,pex_policy,pipe_base,python_future,scons,sconsUtils,utils
+ip_isr                    cf69c829ee8cff842f45ae8866333ad5b831684b  12.1-3-gcf69c82+44                       python_future,meas_algorithms,numpy,pipe_base,scons,sconsUtils
+meas_deblender            efd18d7123d26d809eaa662ac1e5c838b8e07263  12.1-3-gefd18d7+1                        afw,log,meas_algorithms,numpy,scons,sconsUtils,utils,matplotlib
+ip_diffim                 d0ebda64fad2ffaa6d301be43f01ea0758593331  12.1-6-gd0ebda6+2                        afw,daf_base,daf_persistence,log,meas_algorithms,meas_base,meas_deblender,minuit2,numpy,pex_config,pex_policy,pipe_base,utils,lmfit,afwdata,matplotlib
+meas_astrom               b14333301a5e047735b1d1b6dfb0d40c4de162f2  12.1-3-gb143333+25                       afw,log,meas_algorithms,pex_config,pipe_base,utils,wcslib,astrometry_net,numpy,python_future,matplotlib
+pipe_tasks                271db8d7c4a7627dc233aa979fe047c6754865fd  12.1-13-g271db8d+1                       log,pipe_base,pex_config,utils,obs_base,python_future,afw,meas_base,meas_algorithms,meas_astrom,meas_deblender,astrometry_net_data,ip_isr,ip_diffim,coadd_utils,coadd_chisquared,skymap,geom,obs_test,matplotlib
+obs_sdss                  43519be53dfe0a1937f9f1e82efd5feb9fd4e84d  12.1-7-g43519be+8                        pex_policy,obs_base,afw,meas_algorithms,meas_astrom,python_mysqlclient,pipe_tasks,utils,log
+dax_imgserv               62a22f8c52eeff09edd99610a4bf9c53de05d4eb  12.1-1-g62a22f8                          afw,base,boost,cat,daf_base,db,doxygen,flask,log,mysqlpython,obs_sdss,scons,sconsUtils,skymap,sqlalchemy
+dax_webserv               cd8f64fdde96c22f2d811b5ca7495be6bfc749b7  12.1-2-gcd8f64f+10                       db,flask,dax_dbserv,dax_imgserv,dax_metaserv,mysqlpython
