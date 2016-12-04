@@ -1402,3 +1402,12 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 12.1-1-gfe2487d	43	utils	12.1-2-gd71c75d+4
 12.1-1-gfe2487d	43	pex_config	12.1-2-g164c456+1
 12.1-1-gfe2487d	43	pex_exceptions	12.1+2
+12.1-1-gfe2487d	44	scons	2.5.0.lsst2+1
+12.1-1-gfe2487d	44	sconsUtils	12.1+1
+12.1-1-gfe2487d	44	base	12.1-1-g5ff2bce
+12.1-1-gfe2487d	44	numpy	0.0.3+1
+12.1-1-gfe2487d	44	afw	12.1-26-g5d40821+1
+12.1-1-gfe2487d	44	meas_base	12.1-6-g1d674c8+10
+12.1-1-gfe2487d	44	utils	12.1-2-gd71c75d+4
+12.1-1-gfe2487d	44	pex_config	12.1-2-g164c456+2
+12.1-1-gfe2487d	44	pex_exceptions	12.1+2
