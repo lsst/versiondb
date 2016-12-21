@@ -5365,3 +5365,14 @@ w.2016.15	0	sconsUtils	w.2016.15
 12.1-8-g911db24	0	pipe_base	12.1-4-gaefc628+7
 12.1-8-g911db24	0	scons	2.5.0.lsst2+1
 12.1-8-g911db24	0	sconsUtils	12.1+1
+12.1-8-g911db24	1	python_future	0.15.2+2
+12.1-8-g911db24	1	utils	12.1-3-g885a847+1
+12.1-8-g911db24	1	afw	12.1-30-ga6be655+2
+12.1-8-g911db24	1	coadd_utils	12.1-1-g5961e7a+58
+12.1-8-g911db24	1	daf_base	12.1-3-g57f6835+2
+12.1-8-g911db24	1	geom	12.1+13
+12.1-8-g911db24	1	numpy	0.0.3+1
+12.1-8-g911db24	1	pex_config	12.1-4-gf46015e
+12.1-8-g911db24	1	pipe_base	12.1-4-gaefc628+8
+12.1-8-g911db24	1	scons	2.5.0.lsst2+1
+12.1-8-g911db24	1	sconsUtils	12.1+1
