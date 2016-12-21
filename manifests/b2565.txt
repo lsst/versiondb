@@ -1,0 +1,6 @@
+# product                 SHA1                                      Version                       
+BUILD=b2565
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+ws4py                     5a5440f5f15462fe75f968a0ed4d1bbc2ec7b97b  0.3.5                                    python
+python_future             a5bd52eb6d89c313fa446064fa90cf7d21bdd214  0.15.2+2                                 python
+firefly_client            ce895b9e8d71ab916ae7231f7b9a879c38ea14f3  1.0.0b2.lsst1                            ws4py,python_future
