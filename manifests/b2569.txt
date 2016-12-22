@@ -1,0 +1,41 @@
+# product                 SHA1                                      Version                       
+BUILD=b2569
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+minuit2                   dae2fb72f087c8d6dd1c4e0cfe8a828920f3412e  5.34.14                                  
+eigen                     f9ab3d1eb4897e8741c1f5b1fd23413ef5055c5d  3.2.5.lsst2                              
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+swig                      bd8facb3e1fd5a433cb913c3f6e7f2c1f3d60dd5  3.0.10                                   
+mariadbclient             12235e0cd9f0d822d9be349072812d966d2c20a7  10.1.18.lsst2                            
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1                               cfitsio
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+python_d2to1              1893c8d187b8f73cc91f0cf6c97564d1635934a0  0.2.12.lsst2+1                           python
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1+1                             python
+gsl                       a5b7ea77e0be9d4f91e1a71ec7b08db0bdbf6e58  1.16.lsst3                               
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+python_future             a5bd52eb6d89c313fa446064fa90cf7d21bdd214  0.15.2+2                                 python
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+3                                  python
+ws4py                     5a5440f5f15462fe75f968a0ed4d1bbc2ec7b97b  0.3.5                                    python
+astropy                   47e80e26de26053521c607df82a3a4512572362b  0.0.1.lsst2+2                            python
+firefly_client            ce895b9e8d71ab916ae7231f7b9a879c38ea14f3  1.0.0b2.lsst1                            ws4py,python_future
+pyyaml                    cb5cda908acb5a4fe493b618f9519bb26f7b1275  3.11.lsst1+3                             python
+numpy                     c1bdd73fbef02df5b68128b4c309be514756acb9  0.0.3+1                                  python
+stsci_distutils           4bba6935c89f769e59cec6780a68ba8509fccfb0  0.3.7.lsst1+2                            python_d2to1
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+sconsUtils                67b2f9e744a835e585f912aef089cea78ced6164  12.1+1                                   scons,doxygen
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7                             apr,apr_util
+matplotlib                d202e908f28541deeeb861c2b656d9d3f900db10  0.0.4                                    python,numpy
+base                      f64943f217ab7411e7cf31c6a23f5bcfca1c2a24  12.1-2-gf64943f                          sconsUtils,swig,python_future,doxygen
+afwdata                   5f41616c3e012c71aab395c67e5bba3e1ed9ee34  12.0+9                                   sconsUtils
+pex_exceptions            4e7a85b49dec26ae9b1133c8a7bdefaebc9802f9  12.1+3                                   base,boost,swig,python_future
+ndarray                   90f134a1b6d5b528ae64c106ffd1df14d6445ff6  1.3.0                                    boost,python,numpy,eigen,swig,fftw
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+7                                  numpy,python_d2to1,stsci_distutils
+log                       ad3b865bdafd08c5d0753f1229a12113666fddc3  12.1-4-gad3b865+3                        boost,log4cxx,base,sconsUtils
+utils                     885a84717b691e3a398d4d5d5374aa3f7aae5931  12.1-3-g885a847+1                        base,pex_exceptions,boost,numpy,python_psutil,python_future
+daf_base                  57f6835a11fc5dd7a95fb6619b59cebb09e6e7b4  12.1-3-g57f6835+2                        utils,pex_exceptions,numpy,python_future
+pex_policy                16c0db7882e527591f9a079a0847e388c5d85d70  12.1-1-g16c0db7                          daf_base,utils,python_future
+pex_config                f46015e364e89e27ee1517732552381871c89589  12.1-4-gf46015e                          daf_base,pex_policy,numpy,utils,python_future
+daf_persistence           9654cbaa666ea105245c59e2ba43fb9501e0d381  12.1-17-g9654cba+1                       log,mariadbclient,pex_policy,astropy,pyyaml
+afw                       a6be655e2188f58ec06f74348eb511505d3c4a3a  12.1-30-ga6be655+2                       daf_base,daf_persistence,pex_config,log,ndarray,cfitsio,wcslib,numpy,minuit2,eigen,gsl,fftw,utils,astropy,python_future,log,pyfits,matplotlib,afwdata
+display_firefly           0a33da8b30c57a5ab37a6168403a9c9d41dc6f38  master-g0a33da8b30+2                     afw,log,firefly_client,python_future
