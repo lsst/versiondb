@@ -510,3 +510,11 @@ master-g9040338e9b	30	astropy	0.0.1.lsst2+2
 2.3.3.sims.rc1	2	pymssql	2.1.1+6
 2.3.3.sims.rc1	2	daf_persistence	12.1-15-gaf6b168+1
 2.3.3.sims.rc1	2	astropy	0.0.1.lsst2+2
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	sims_utils	2.3.3.sims.rc1
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	sims_catalogs	2.3.3.sims.rc2
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	sims_catUtils	2.3.3.sims.rc2
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	sims_maf	2.3.3.sims.rc1+3
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	python	0.0.6
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	pymssql	2.1.1+6
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	daf_persistence	12.1-15-gaf6b168+1
+u.danielsf.alertsim_clean_up-g3c021b5e04	0	astropy	0.0.1.lsst2+2

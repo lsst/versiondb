@@ -4800,3 +4800,12 @@ sims_2.2.6	1	obs_lsstSim	12.0+1
 2.3.3.sims.rc1	2	sims_catalogs	2.3.3.sims.rc2
 2.3.3.sims.rc1	2	sims_catUtils	u.danielsf.catUtils_clean_up-g6b34e5d897
 2.3.3.sims.rc1	2	obs_lsstSim	12.1-11-g62cddf2+21
+2.3.3.sims.rc1	3	galsim	1.4.1.lsst3
+2.3.3.sims.rc1	3	astropy	0.0.1.lsst2+2
+2.3.3.sims.rc1	3	meas_astrom	12.1-3-gb143333+32
+2.3.3.sims.rc1	3	afw	12.1-26-g5d40821+4
+2.3.3.sims.rc1	3	sims_utils	2.3.3.sims.rc1
+2.3.3.sims.rc1	3	sims_coordUtils	2.3.3.sims.rc1
+2.3.3.sims.rc1	3	sims_catalogs	2.3.3.sims.rc2
+2.3.3.sims.rc1	3	sims_catUtils	2.3.3.sims.rc2
+2.3.3.sims.rc1	3	obs_lsstSim	12.1-11-g62cddf2+21
