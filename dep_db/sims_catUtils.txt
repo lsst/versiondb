@@ -16367,3 +16367,17 @@ u.danielsf.debug_run_rebuild-g149026992c	0	obs_lsstSim	12.0-7-g0a2fc44
 12.0-26-g366a255	2	astropy	0.0.1.lsst2+2
 12.0-26-g366a255	2	sqlalchemy	1.0.8.lsst3+3
 12.0-26-g366a255	2	obs_lsstSim	12.1-11-g62cddf2+20
+2.3.3.sims.rc1	0	utils	12.1-2-gd71c75d+4
+2.3.3.sims.rc1	0	sims_utils	2.3.3.sims.rc1
+2.3.3.sims.rc1	0	sims_catalogs	2.3.3.sims.rc1
+2.3.3.sims.rc1	0	sims_coordUtils	2.3.3.sims.rc1
+2.3.3.sims.rc1	0	sims_photUtils	2.3.3.sims.rc1
+2.3.3.sims.rc1	0	sims_data	2015.02.05
+2.3.3.sims.rc1	0	palpy	1.8.0
+2.3.3.sims.rc1	0	python	0.0.6
+2.3.3.sims.rc1	0	pymssql	2.1.1+6
+2.3.3.sims.rc1	0	daf_persistence	12.1-15-gaf6b168+1
+2.3.3.sims.rc1	0	sncosmo	12.0-1-g5e70e90+2
+2.3.3.sims.rc1	0	astropy	0.0.1.lsst2+2
+2.3.3.sims.rc1	0	sqlalchemy	1.0.8.lsst3+3
+2.3.3.sims.rc1	0	obs_lsstSim	12.1-11-g62cddf2+21

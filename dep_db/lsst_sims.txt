@@ -11612,3 +11612,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 12.0-3-g509a184	25	sims_movingObjects	12.0+30
 12.0-3-g509a184	25	sims_alertsim	master-g9040338e9b+30
 12.0-3-g509a184	25	ephem	master-g8f91afc3b3
+12.0-3-g509a184	26	sims_maf	2.3.3.sims.rc1
+12.0-3-g509a184	26	sims_GalSimInterface	2.3.3.sims.rc1
+12.0-3-g509a184	26	sims_catUtils	2.3.3.sims.rc1
+12.0-3-g509a184	26	sims_catalogs	2.3.3.sims.rc1
+12.0-3-g509a184	26	sims_sed_library	2016.01.26
+12.0-3-g509a184	26	sims_maps	2016.12.19
+12.0-3-g509a184	26	sims_skybrightness	2.3.3.sims.rc1
+12.0-3-g509a184	26	sncosmo	12.0-1-g5e70e90+2
+12.0-3-g509a184	26	oorb	12.0+2
+12.0-3-g509a184	26	sims_movingObjects	2.3.3.sims.rc1
+12.0-3-g509a184	26	sims_alertsim	2.3.3.sims.rc1
+12.0-3-g509a184	26	ephem	3.7.6.0
