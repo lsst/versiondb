@@ -4809,3 +4809,12 @@ sims_2.2.6	1	obs_lsstSim	12.0+1
 2.3.3.sims.rc1	3	sims_catalogs	2.3.3.sims.rc2
 2.3.3.sims.rc1	3	sims_catUtils	2.3.3.sims.rc2
 2.3.3.sims.rc1	3	obs_lsstSim	12.1-11-g62cddf2+21
+2.3.3.sims	0	galsim	1.4.1.lsst3
+2.3.3.sims	0	astropy	0.0.1.lsst2+2
+2.3.3.sims	0	meas_astrom	12.1-5-g87cc47c+4
+2.3.3.sims	0	afw	12.1-30-ga6be655+3
+2.3.3.sims	0	sims_utils	2.3.3.sims
+2.3.3.sims	0	sims_coordUtils	2.3.3.sims
+2.3.3.sims	0	sims_catalogs	2.3.3.sims
+2.3.3.sims	0	sims_catUtils	2.3.3.sims
+2.3.3.sims	0	obs_lsstSim	12.1-11-g62cddf2+22

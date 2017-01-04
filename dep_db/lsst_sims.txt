@@ -11660,3 +11660,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 12.0-3-g509a184	29	sims_movingObjects	2.3.3.sims.rc1
 12.0-3-g509a184	29	sims_alertsim	u.danielsf.alertsim_clean_up-g3c021b5e04
 12.0-3-g509a184	29	ephem	3.7.6.0
+2.3.3.sims	0	sims_maf	2.3.3.sims
+2.3.3.sims	0	sims_GalSimInterface	2.3.3.sims
+2.3.3.sims	0	sims_catUtils	2.3.3.sims
+2.3.3.sims	0	sims_catalogs	2.3.3.sims
+2.3.3.sims	0	sims_sed_library	2016.01.26
+2.3.3.sims	0	sims_maps	2017.01.03
+2.3.3.sims	0	sims_skybrightness	2.3.3.sims
+2.3.3.sims	0	sncosmo	12.0-1-g5e70e90+2
+2.3.3.sims	0	oorb	12.0+2
+2.3.3.sims	0	sims_movingObjects	2.3.3.sims
+2.3.3.sims	0	sims_alertsim	2.3.3.sims
+2.3.3.sims	0	ephem	3.7.6.0
