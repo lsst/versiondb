@@ -11252,3 +11252,13 @@ w.2016.15	0	utils	w.2016.15
 12.1-11-g62cddf2	23	pipe_tasks	12.1-15-g5789d98
 12.1-11-g62cddf2	23	python_mysqlclient	1.3.7.lsst1+7
 12.1-11-g62cddf2	23	utils	12.1-3-g885a847+1
+twinkles_1-g90aaaf6d32	0	daf_base	12.1-3-g57f6835
+twinkles_1-g90aaaf6d32	0	pex_policy	12.1+14
+twinkles_1-g90aaaf6d32	0	afw	12.1-26-g5d40821+4
+twinkles_1-g90aaaf6d32	0	daf_persistence	12.1-15-gaf6b168+1
+twinkles_1-g90aaaf6d32	0	daf_butlerUtils	12.1-19-g33e0211
+twinkles_1-g90aaaf6d32	0	meas_algorithms	12.1-11-g680262d+8
+twinkles_1-g90aaaf6d32	0	ip_isr	12.1-3-gcf69c82+56
+twinkles_1-g90aaaf6d32	0	pipe_tasks	12.1-13-g271db8d+5
+twinkles_1-g90aaaf6d32	0	python_mysqlclient	1.3.7.lsst1+7
+twinkles_1-g90aaaf6d32	0	utils	12.1-2-gd71c75d+4
