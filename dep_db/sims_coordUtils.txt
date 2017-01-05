@@ -6257,3 +6257,9 @@ sims_2.2.6	0	afw	12.0+1
 12.0-4-g7de6cfa	30	afw	12.1-26-g5d40821+4
 12.0-4-g7de6cfa	30	sims_utils	12.0-13-g6534730+3
 12.0-4-g7de6cfa	30	obs_lsstSim	twinkles_1-g90aaaf6d32
+2.3.3.sims	2	base	12.1-2-gf64943f
+2.3.3.sims	2	python	0.0.6
+2.3.3.sims	2	utils	12.1-3-g885a847+1
+2.3.3.sims	2	afw	12.1-30-ga6be655+3
+2.3.3.sims	2	sims_utils	2.3.3.sims
+2.3.3.sims	2	obs_lsstSim	twinkles_2017_01_05-g3442a82b44
