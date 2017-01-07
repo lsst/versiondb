@@ -4854,3 +4854,12 @@ sims_2.2.6	1	obs_lsstSim	12.0+1
 2.3.3.sims	3	sims_catalogs	2.3.3.sims
 2.3.3.sims	3	sims_catUtils	2.3.3.sims+3
 2.3.3.sims	3	obs_lsstSim	2017.01.05.twinkles
+2.3.3.sims-1-gca9716a	0	galsim	1.4.1.lsst3
+2.3.3.sims-1-gca9716a	0	astropy	0.0.1.lsst2+2
+2.3.3.sims-1-gca9716a	0	meas_astrom	12.1-6-gac3adf1
+2.3.3.sims-1-gca9716a	0	afw	12.1-30-ga6be655+2
+2.3.3.sims-1-gca9716a	0	sims_utils	2.3.3.sims
+2.3.3.sims-1-gca9716a	0	sims_coordUtils	2.3.3.sims+1
+2.3.3.sims-1-gca9716a	0	sims_catalogs	2.3.3.sims
+2.3.3.sims-1-gca9716a	0	sims_catUtils	2.3.3.sims+1
+2.3.3.sims-1-gca9716a	0	obs_lsstSim	12.1-11-g62cddf2+23
