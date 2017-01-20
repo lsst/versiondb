@@ -1,0 +1,9 @@
+# product                 SHA1                                      Version                       
+BUILD=b2643
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+swig                      bd8facb3e1fd5a433cb913c3f6e7f2c1f3d60dd5  3.0.10                                   
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+python_future             a5bd52eb6d89c313fa446064fa90cf7d21bdd214  0.15.2+2                                 python
+sconsUtils                67b2f9e744a835e585f912aef089cea78ced6164  12.1+1                                   scons,doxygen
+base                      f64943f217ab7411e7cf31c6a23f5bcfca1c2a24  12.1-2-gf64943f                          sconsUtils,swig,python_future,doxygen
