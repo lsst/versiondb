@@ -1,0 +1,34 @@
+# product                 SHA1                                      Version                       
+BUILD=b2674
+antlr                     d81cf0cd80e0ed4ab73314e1062ce2396bbd0a0e  2.7.7.lsst1                              
+swig                      bd8facb3e1fd5a433cb913c3f6e7f2c1f3d60dd5  3.0.10                                   
+xrootd                    7b8f5ca36f609e93c490a0f8f0bcf94a389b2a0d  lsst-dev-g7b8f5ca36f                     
+libevent                  ab04e34f14107106ac2101d52a84488f0939590f  2.0.16.lsst2                             
+mariadb                   23e122a4130db21d8d4baf22f24a174f5576aeb6  10.1.21.lsst1                            
+mariadbclient             ab9738f6e58fcd59008060fdfd96661bc8f584c8  10.1.21.lsst1                            
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+lua                       419130092c6420d68845b6f9d2c9873814523142  5.1.4.lsst1                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2.9.1.lsst1+1                            python
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1+1                             python
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+sqlalchemy                af5a1cb44943d13994e80302426225e7069d8ed6  1.0.8.lsst3+3                            python
+protobuf                  a51257198ea3dfde6e19c3c0c19e5e5c202b34a5  2.6.1.lsst4+1                            python
+mysqlproxy                eea091aa8b895efbb59d5c041f9b4c67b045b5fa  0.8.5+18                                 libevent,lua,mariadb
+python_mysqlclient        945460320056625993eb4e3de872c3f74db17537  1.3.7.lsst1+8                            python,mariadbclient
+python_future             a5bd52eb6d89c313fa446064fa90cf7d21bdd214  0.15.2+2                                 python
+pyyaml                    cb5cda908acb5a4fe493b618f9519bb26f7b1275  3.11.lsst1+3                             python
+scisql                    0c092142c0554bee122b2a04ef68b686a58b7dbd  0.3.5-1-g0c09214+1                       mariadb,python_mysqlclient,python
+flask                     cdb2e41bf97dccb0a2b57c6368b27d3d5cc27460  0.10.1.lsst2+2                           python
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+sconsUtils                67b2f9e744a835e585f912aef089cea78ced6164  12.1+1                                   scons,doxygen
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7                             apr,apr_util
+base                      f64943f217ab7411e7cf31c6a23f5bcfca1c2a24  12.1-2-gf64943f                          sconsUtils,swig,python_future,doxygen
+sphgeom                   3dc828fd2724ed01e88506c0c510fb0082268b58  12.1-1-g3dc828f+1                        base,sconsUtils,swig,doxygen
+log                       c2189d7eb5f4d0c306e1061ea52676eb61a3d2e6  12.1-5-gc2189d7                          boost,log4cxx,base,sconsUtils
+partition                 a39d2fe1dc101cc784aa29f83249a881e02bf660  12.0+9                                   boost,sconsUtils
+db                        ccab445e4b7272205e619fa3247b47d443d7f2cb  12.1-3-gccab445+2                        log,python,python_future,mariadbclient,python_mysqlclient,sconsUtils,sqlalchemy
+qserv                     8e6193b13cd4209c085063218b036f2ec3787c63  12.1-38-g8e6193b                         antlr,boost,db,doxygen,flask,log,log4cxx,lua,mariadb,mysqlproxy,python_mysqlclient,partition,protobuf,python,requests,scisql,scons,sphgeom,sqlalchemy,swig,xrootd
+qserv_testdata            f23ac01765543b002d73da6d5e52f800bcb04273  12.0+92                                  python,pyyaml,qserv,scons,sconsUtils
+qserv_distrib             76ecee9da3d174fe6e8e3ecfa52012c24ce259e0  2016_08-1-g76ecee9+1                     qserv,partition,qserv_testdata
