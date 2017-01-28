@@ -3479,3 +3479,10 @@ w.2016.12	0	log	w.2016.12
 12.1-4-gff2ba7c	0	daf_persistence	12.1-17-g9654cba+4
 12.1-4-gff2ba7c	0	ctrl_events	12.1+16
 12.1-4-gff2ba7c	0	log	12.1-5-gc2189d7
+12.1-4-gff2ba7c	1	python_future	0.15.2+2
+12.1-4-gff2ba7c	1	utils	12.1-3-g885a847+2
+12.1-4-gff2ba7c	1	pex_policy	12.1-1-g16c0db7+1
+12.1-4-gff2ba7c	1	pex_config	12.1-4-gf46015e+1
+12.1-4-gff2ba7c	1	daf_persistence	12.1-17-g9654cba+5
+12.1-4-gff2ba7c	1	ctrl_events	12.1+17
+12.1-4-gff2ba7c	1	log	12.1-5-gc2189d7+1

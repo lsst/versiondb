@@ -16855,3 +16855,15 @@ sims_2.2.6	0	obs_lsstSim	12.0+1
 2.3.3.sims	7	sims_coordUtils	2.3.3.sims+14
 2.3.3.sims	7	sims_maps	2017.01.03
 2.3.3.sims	7	obs_lsstSim	12.1-11-g62cddf2+35
+12.0-12-gfdbbba0	9	base	12.1-2-gf64943f+1
+12.0-12-gfdbbba0	9	numpy	0.0.3+1
+12.0-12-gfdbbba0	9	matplotlib	0.0.4
+12.0-12-gfdbbba0	9	pyephem	3.7.5.1.lsst1
+12.0-12-gfdbbba0	9	palpy	1.8.0
+12.0-12-gfdbbba0	9	healpy	1.8.1.lsst2+5
+12.0-12-gfdbbba0	9	sims_utils	2.3.3.sims-1-gb979210+1
+12.0-12-gfdbbba0	9	sims_catalogs	2.3.3.3.sims+3
+12.0-12-gfdbbba0	9	sims_photUtils	2.3.3.sims-4-ge22d274+2
+12.0-12-gfdbbba0	9	sims_coordUtils	2.3.3.sims+15
+12.0-12-gfdbbba0	9	sims_maps	2017.01.03
+12.0-12-gfdbbba0	9	obs_lsstSim	12.1-11-g62cddf2+36
