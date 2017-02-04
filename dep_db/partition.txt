@@ -224,3 +224,6 @@ w.2015.36	0	sconsUtils	w.2015.36
 12.0	9	sconsUtils	12.1+1
 12.0	10	boost	1.60.lsst1+1
 12.0	10	sconsUtils	12.1-1-gcefdd06
+12.1-1-g721d0e5	0	boost	1.60.lsst1+1
+12.1-1-g721d0e5	0	sconsUtils	12.1-1-gcefdd06
+12.1-1-g721d0e5	0	sphgeom	12.1-1-g3dc828f+2
