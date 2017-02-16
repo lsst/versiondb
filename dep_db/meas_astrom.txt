@@ -9964,3 +9964,14 @@ w.2016.15	0	matplotlib	0.0.2
 12.1-8-g89d0374	6	numpy	0.0.3+1
 12.1-8-g89d0374	6	python_future	0.16.0
 12.1-8-g89d0374	6	matplotlib	0.0.4
+12.1-8-g89d0374	7	afw	12.1-32-gb99f2ce+5
+12.1-8-g89d0374	7	log	12.1-5-gc2189d7+1
+12.1-8-g89d0374	7	meas_algorithms	12.1-19-gd0bfd0a+5
+12.1-8-g89d0374	7	pex_config	12.1-4-gf46015e+2
+12.1-8-g89d0374	7	pipe_base	12.1-5-g06c326c+13
+12.1-8-g89d0374	7	utils	12.1-5-g648ee80
+12.1-8-g89d0374	7	wcslib	5.13.lsst1
+12.1-8-g89d0374	7	astrometry_net	0.67.123ff3e.lsst1+1
+12.1-8-g89d0374	7	numpy	0.0.3+1
+12.1-8-g89d0374	7	python_future	0.15.2+2
+12.1-8-g89d0374	7	matplotlib	0.0.4

@@ -4137,3 +4137,16 @@ w.2016.15	0	utils	w.2016.15
 12.1-3-g1b4ab0c	23	sconsUtils	12.1-2-g8b24316
 12.1-3-g1b4ab0c	23	swig	3.0.10
 12.1-3-g1b4ab0c	23	utils	12.1-5-g648ee80+2
+12.1-3-g1b4ab0c	24	afw	12.1-32-gb99f2ce+5
+12.1-3-g1b4ab0c	24	boost	1.60.lsst1+1
+12.1-3-g1b4ab0c	24	daf_base	12.1-3-g57f6835+4
+12.1-3-g1b4ab0c	24	fftw	3.3.4.lsst2
+12.1-3-g1b4ab0c	24	meas_algorithms	12.1-19-gd0bfd0a+5
+12.1-3-g1b4ab0c	24	meas_base	12.1-9-gd556576+14
+12.1-3-g1b4ab0c	24	numpy	0.0.3+1
+12.1-3-g1b4ab0c	24	psfex	12.1+2
+12.1-3-g1b4ab0c	24	python_future	0.15.2+2
+12.1-3-g1b4ab0c	24	scons	2.5.0.lsst2+1
+12.1-3-g1b4ab0c	24	sconsUtils	12.1-1-gcefdd06
+12.1-3-g1b4ab0c	24	swig	3.0.10
+12.1-3-g1b4ab0c	24	utils	12.1-5-g648ee80
