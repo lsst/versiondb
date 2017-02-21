@@ -12163,3 +12163,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.3.3.sims	40	sims_movingObjects	12.0+35
 2.3.3.sims	40	sims_alertsim	2.3.3.3.sims+18
 2.3.3.sims	40	ephem	3.7.6.0
+2.3.3.sims	41	sims_maf	12.0-12-gfdbbba0+22
+2.3.3.sims	41	sims_GalSimInterface	2.3.3.3.sims+19
+2.3.3.sims	41	sims_catUtils	2.3.3.2.sims+26
+2.3.3.sims	41	sims_catalogs	2.3.3.3.sims+9
+2.3.3.sims	41	sims_sed_library	2017.01.24
+2.3.3.sims	41	sims_maps	2017.01.03
+2.3.3.sims	41	sims_skybrightness	2.3.3.sims-2-gcafe598+8
+2.3.3.sims	41	sncosmo	12.0-1-g5e70e90+2
+2.3.3.sims	41	oorb	lsst-dev-g86ef29d214
+2.3.3.sims	41	sims_movingObjects	12.0+35
+2.3.3.sims	41	sims_alertsim	2.3.3.3.sims+19
+2.3.3.sims	41	ephem	3.7.6.0
