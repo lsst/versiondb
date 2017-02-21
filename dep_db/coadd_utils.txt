@@ -4338,3 +4338,13 @@ w.2016.15	0	afwdata	w.2016.15
 12.1-1-g5961e7a	79	utils	12.1-5-g648ee80+3
 12.1-1-g5961e7a	79	python_future	0.16.0
 12.1-1-g5961e7a	79	afwdata	12.1-1-g1546c47
+12.1-1-g5961e7a	80	afw	12.1-31-gb5bd9ab+3
+12.1-1-g5961e7a	80	log	12.1-5-gc2189d7+5
+12.1-1-g5961e7a	80	numpy	0.0.3+1
+12.1-1-g5961e7a	80	pex_config	12.1-4-gf46015e+6
+12.1-1-g5961e7a	80	pipe_base	12.1-5-g06c326c+16
+12.1-1-g5961e7a	80	scons	2.5.0.lsst2+1
+12.1-1-g5961e7a	80	sconsUtils	12.1-1-gcefdd06
+12.1-1-g5961e7a	80	utils	12.1-3-g885a847+3
+12.1-1-g5961e7a	80	python_future	0.16.0
+12.1-1-g5961e7a	80	afwdata	12.1+2
