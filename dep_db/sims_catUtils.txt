@@ -16955,3 +16955,17 @@ u.danielsf.catUtils_clean_up-g6b34e5d897	0	obs_lsstSim	12.1-11-g62cddf2+21
 2.3.3.2.sims	27	astropy	0.0.1.lsst2+2
 2.3.3.2.sims	27	sqlalchemy	1.0.8.lsst3+3
 2.3.3.2.sims	27	obs_lsstSim	2017.02.08.twinkles+1
+2.3.3.2.sims	28	utils	12.1-5-g648ee80+3
+2.3.3.2.sims	28	sims_utils	2.3.3.sims-1-gb979210+5
+2.3.3.2.sims	28	sims_catalogs	2.3.3.3.sims+11
+2.3.3.2.sims	28	sims_coordUtils	2.3.3.sims+32
+2.3.3.2.sims	28	sims_photUtils	2.3.3.sims-5-g31708df+3
+2.3.3.2.sims	28	sims_data	2015.02.05
+2.3.3.2.sims	28	palpy	1.8.0
+2.3.3.2.sims	28	python	0.0.6
+2.3.3.2.sims	28	pymssql	2.1.1+6
+2.3.3.2.sims	28	daf_persistence	12.1-19-gd507bfc
+2.3.3.2.sims	28	sncosmo	12.0-1-g5e70e90+2
+2.3.3.2.sims	28	astropy	0.0.1.lsst2+2
+2.3.3.2.sims	28	sqlalchemy	1.0.8.lsst3+3
+2.3.3.2.sims	28	obs_lsstSim	12.1-11-g62cddf2+52
