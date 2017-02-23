@@ -5205,3 +5205,12 @@ sims_2.2.6	1	obs_lsstSim	12.0+1
 2.3.3.3.sims	22	sims_catalogs	2.3.3.3.sims+11
 2.3.3.3.sims	22	sims_catUtils	2.3.3.2.sims+29
 2.3.3.3.sims	22	obs_lsstSim	12.1-11-g62cddf2+53
+2.3.3.3.sims	23	galsim	1.4.3
+2.3.3.3.sims	23	astropy	0.0.1.lsst2+2
+2.3.3.3.sims	23	meas_astrom	12.1-9-g577b946+4
+2.3.3.3.sims	23	afw	12.1-36-gb71ecd0
+2.3.3.3.sims	23	sims_utils	2.3.3.sims-1-gb979210+5
+2.3.3.3.sims	23	sims_coordUtils	2.3.3.sims+34
+2.3.3.3.sims	23	sims_catalogs	2.3.3.3.sims+11
+2.3.3.3.sims	23	sims_catUtils	2.3.3.2.sims+30
+2.3.3.3.sims	23	obs_lsstSim	12.1-11-g62cddf2+54
