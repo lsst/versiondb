@@ -818,3 +818,9 @@ master-gfaf42d3ee2	9	mpi4py	1.3.1.lsst2
 12.1-7-gb57f33e	13	log	12.1-5-gc2189d7+6
 12.1-7-gb57f33e	13	utils	12.1-5-g648ee80+4
 12.1-7-gb57f33e	13	mpi4py	2.0.0+2
+13.0	0	python_future	0.15.2+2
+13.0	0	daf_persistence	13.0
+13.0	0	pipe_base	13.0
+13.0	0	log	13.0
+13.0	0	utils	13.0
+13.0	0	mpi4py	2.0.0+2

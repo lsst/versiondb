@@ -813,3 +813,7 @@ tickets.DM-6989-g5033cb892f	0	sconsUtils	12.0-1-g08b90fd
 12.1-5-gc2189d7	6	log4cxx	0.10.0.lsst7
 12.1-5-gc2189d7	6	base	12.1-4-g5b7de78
 12.1-5-gc2189d7	6	sconsUtils	12.1-2-g8b24316
+13.0	0	boost	1.60.lsst1+1
+13.0	0	log4cxx	0.10.0.lsst7
+13.0	0	base	13.0
+13.0	0	sconsUtils	13.0
