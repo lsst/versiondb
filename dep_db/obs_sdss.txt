@@ -9407,3 +9407,12 @@ w.2016.15	0	utils	w.2016.15
 13.0	0	pipe_tasks	13.0
 13.0	0	utils	13.0
 13.0	0	log	13.0
+13.0	1	pex_policy	13.0+1
+13.0	1	obs_base	13.0-1-gbdb6c2a
+13.0	1	afw	13.0-5-g3ddd237
+13.0	1	meas_algorithms	13.0-2-g6ffe579
+13.0	1	meas_astrom	13.0-1-g577b946
+13.0	1	python_mysqlclient	1.3.7.lsst1+8
+13.0	1	pipe_tasks	13.0-3-g941c398
+13.0	1	utils	13.0+1
+13.0	1	log	13.0+1

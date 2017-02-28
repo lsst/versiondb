@@ -518,3 +518,7 @@ w.2016.15	0	swig	3.0.2.lsst1
 13.0	0	boost	1.60.lsst1+1
 13.0	0	swig	3.0.10
 13.0	0	python_future	0.15.2+2
+12.1	10	base	13.0-2-g5b7de78
+12.1	10	boost	1.60.lsst1+1
+12.1	10	swig	3.0.10
+12.1	10	python_future	0.16.0
