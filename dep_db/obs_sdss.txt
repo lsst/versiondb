@@ -9389,3 +9389,12 @@ w.2016.15	0	utils	w.2016.15
 12.1-7-g43519be	59	pipe_tasks	12.1-24-g941c398+5
 12.1-7-g43519be	59	utils	12.1-5-g648ee80+3
 12.1-7-g43519be	59	log	12.1-5-gc2189d7+4
+12.1-7-g43519be	60	pex_policy	12.1-1-g16c0db7+7
+12.1-7-g43519be	60	obs_base	12.1-21-gbdb6c2a+5
+12.1-7-g43519be	60	afw	12.1-37-g3ddd237+1
+12.1-7-g43519be	60	meas_algorithms	12.1-21-g6ffe579+3
+12.1-7-g43519be	60	meas_astrom	12.1-9-g577b946+6
+12.1-7-g43519be	60	python_mysqlclient	1.3.7.lsst1+8
+12.1-7-g43519be	60	pipe_tasks	12.1-24-g941c398+6
+12.1-7-g43519be	60	utils	12.1-5-g648ee80+4
+12.1-7-g43519be	60	log	12.1-5-gc2189d7+6

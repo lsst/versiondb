@@ -6461,3 +6461,9 @@ sims_2.2.6	0	afw	12.0+1
 2.3.3.sims	35	afw	12.1-37-g3ddd237
 2.3.3.sims	35	sims_utils	2.3.3.sims-1-gb979210+5
 2.3.3.sims	35	obs_lsstSim	12.1-11-g62cddf2+55
+2.3.3.sims	36	base	12.1-4-g5b7de78
+2.3.3.sims	36	python	0.0.6
+2.3.3.sims	36	utils	12.1-5-g648ee80+4
+2.3.3.sims	36	afw	12.1-37-g3ddd237+1
+2.3.3.sims	36	sims_utils	2.3.3.sims-1-gb979210+6
+2.3.3.sims	36	obs_lsstSim	12.1-11-g62cddf2+56
