@@ -1,0 +1,7 @@
+# product                 SHA1                                      Version                       
+BUILD=b2784
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+sconsUtils                cefdd062cedd2a5d44feb4ca53b7a11a5edb2658  13.0                                     scons,doxygen
+lsst                      bd985c9d8da8809806c0bf57cd362a2c7836e29f  13.0                                     sconsUtils
