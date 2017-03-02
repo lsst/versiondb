@@ -1365,3 +1365,7 @@ w.2016.12	0	utils	w.2016.12
 13.0-2-gb581ee8	0	ctrl_orca	13.0-2-ga608fc0
 13.0-2-gb581ee8	0	pex_config	13.0+1
 13.0-2-gb581ee8	0	utils	13.0+1
+13.0-2-gb581ee8	1	python_future	0.16.0
+13.0-2-gb581ee8	1	ctrl_orca	13.0-2-ga608fc0+1
+13.0-2-gb581ee8	1	pex_config	13.0+1
+13.0-2-gb581ee8	1	utils	13.0+1
