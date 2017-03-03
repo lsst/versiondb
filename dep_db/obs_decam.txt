@@ -2246,3 +2246,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 13.0	2	pex_policy	13.0+1
 13.0	2	ip_isr	13.0-2-g3349e2a+1
 13.0	2	testdata_decam	13.0-1-gfbd6eff
+13.0	3	utils	13.0+1
+13.0	3	daf_persistence	13.0-2-g7f7a1db+1
+13.0	3	obs_base	13.0-1-gbdb6c2a+2
+13.0	3	afw	13.0-5-g3ddd237+2
+13.0	3	meas_algorithms	13.0-2-g6ffe579+2
+13.0	3	pipe_tasks	13.0-3-g941c398+2
+13.0	3	pipe_base	13.0+3
+13.0	3	pex_exceptions	12.1+10
+13.0	3	pex_config	13.0+1
+13.0	3	pex_policy	13.0+1
+13.0	3	ip_isr	13.0-2-g3349e2a+2
+13.0	3	testdata_decam	13.0-1-gfbd6eff

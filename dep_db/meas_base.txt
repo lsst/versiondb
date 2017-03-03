@@ -5728,3 +5728,14 @@ w.2016.15	0	sconsUtils	w.2016.15
 13.0-2-g06625e2	1	pipe_base	13.0+2
 13.0-2-g06625e2	1	scons	2.5.0.lsst2+1
 13.0-2-g06625e2	1	sconsUtils	13.0-1-g8b24316
+13.0-2-g06625e2	2	python_future	0.16.0
+13.0-2-g06625e2	2	utils	13.0+1
+13.0-2-g06625e2	2	afw	13.0-5-g3ddd237+2
+13.0-2-g06625e2	2	coadd_utils	13.0+3
+13.0-2-g06625e2	2	daf_base	13.0+1
+13.0-2-g06625e2	2	geom	12.1+21
+13.0-2-g06625e2	2	numpy	0.0.3+1
+13.0-2-g06625e2	2	pex_config	13.0+1
+13.0-2-g06625e2	2	pipe_base	13.0+3
+13.0-2-g06625e2	2	scons	2.5.0.lsst2+1
+13.0-2-g06625e2	2	sconsUtils	13.0-1-g8b24316
