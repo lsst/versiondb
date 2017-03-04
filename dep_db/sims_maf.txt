@@ -17179,3 +17179,15 @@ sims_2.2.6	0	obs_lsstSim	12.0+1
 12.0-14-g4a6b7ee	4	sims_coordUtils	2.3.3.sims+39
 12.0-14-g4a6b7ee	4	sims_maps	2017.01.03
 12.0-14-g4a6b7ee	4	obs_lsstSim	13.0+3
+12.0-14-g4a6b7ee	5	base	13.0-2-g5b7de78
+12.0-14-g4a6b7ee	5	numpy	0.0.3+1
+12.0-14-g4a6b7ee	5	matplotlib	0.0.4
+12.0-14-g4a6b7ee	5	pyephem	3.7.5.1.lsst1
+12.0-14-g4a6b7ee	5	palpy	1.8.0
+12.0-14-g4a6b7ee	5	healpy	1.8.1.lsst2+5
+12.0-14-g4a6b7ee	5	sims_utils	2.3.3.sims-1-gb979210+7
+12.0-14-g4a6b7ee	5	sims_catalogs	2.3.3.3.sims+15
+12.0-14-g4a6b7ee	5	sims_photUtils	2.3.3.sims-5-g31708df+5
+12.0-14-g4a6b7ee	5	sims_coordUtils	2.3.3.sims+40
+12.0-14-g4a6b7ee	5	sims_maps	2017.01.03
+12.0-14-g4a6b7ee	5	obs_lsstSim	13.0+4
