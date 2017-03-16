@@ -2495,3 +2495,17 @@ master-gb9213e60c6	226	obs_cfht	13.0-2-g79bfca5+5
 master-gb9213e60c6	226	obs_decam	13.0-1-g191600d+5
 master-gb9213e60c6	226	obs_lsstSim	13.0-1-g6eae845+5
 master-gb9213e60c6	226	obs_sdss	13.0-2-gc840fde+3
+master-gce067d8cc5	0	lsst	13.0-2-g3226a2a+2
+master-gce067d8cc5	0	lsst_apps	13.0-1-g6a43900+6
+master-gce067d8cc5	0	lsst_distrib	13.0-1-gaf5e61c+11
+master-gce067d8cc5	0	testdata_subaru	13.0-1-gf61fcd2
+master-gce067d8cc5	0	testdata_cfht	13.0-1-g2bee09e
+master-gce067d8cc5	0	testdata_decam	13.0-1-gfbd6eff
+master-gce067d8cc5	0	obs_subaru	13.0-7-g4173d19
+master-gce067d8cc5	0	obs_cfht	13.0-2-g79bfca5+6
+master-gce067d8cc5	0	obs_decam	13.0-2-g7d0396f
+master-gce067d8cc5	0	obs_lsstSim	13.0-1-g6eae845+6
+master-gce067d8cc5	0	obs_sdss	13.0-3-g92f37fa
+master-gce067d8cc5	0	validation_data_cfht	master-gafd02aff0f
+master-gce067d8cc5	0	validation_data_decam	master-g52ac2b0d78
+master-gce067d8cc5	0	validate_drp	master-gb01c0af08e
