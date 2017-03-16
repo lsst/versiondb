@@ -1388,3 +1388,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 13.0	5	scons	2.5.0.lsst2+1
 13.0	5	sconsUtils	13.0
 13.0	5	scipy	0.0.1.lsst1+3
+13.0-1-g7218a59	7	afw	13.0-10-g19c5d8e+4
+13.0-1-g7218a59	7	numpy	0.0.3+1
+13.0-1-g7218a59	7	scons	2.5.0.lsst2+1
+13.0-1-g7218a59	7	sconsUtils	13.0-3-ga4b1818
+13.0-1-g7218a59	7	pybind11	master-gc0cd6bae8d
+13.0-1-g7218a59	7	scipy	0.0.1.lsst1+3
