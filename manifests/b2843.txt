@@ -1,0 +1,9 @@
+# product                 SHA1                                      Version                       
+BUILD=b2843
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+pybind11                  c0cd6bae8d761240e32005182cd2dadb3eb00fdf  master-gc0cd6bae8d                       
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0                                   python
+sconsUtils                a4b18189ccb5d6869c8bf366b12195cf347b4ac5  13.0-3-ga4b1818                          scons,doxygen
+base                      126e4bb91a26e4ebf5b8b400ae049179eaaa3c5a  13.0-3-g126e4bb+1                        sconsUtils,pybind11,python,python_future,doxygen
