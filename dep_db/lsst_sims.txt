@@ -12331,3 +12331,16 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.3.3.sims	54	sims_movingObjects	12.0+37
 2.3.3.sims	54	sims_alertsim	2.3.3.3.sims+31
 2.3.3.sims	54	ephem	3.7.6.0
+2.3.3.sims-1-g5c9f42c	0	sims_maf	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sims_GalSimInterface	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sims_catUtils	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sims_catalogs	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sims_sed_library	2017.01.24
+2.3.3.sims-1-g5c9f42c	0	sims_maps	2017.01.03
+2.3.3.sims-1-g5c9f42c	0	sims_skybrightness	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sims_skybrightness_pre	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sncosmo	12.0-1-g5e70e90+2
+2.3.3.sims-1-g5c9f42c	0	oorb	lsst-dev-g86ef29d214
+2.3.3.sims-1-g5c9f42c	0	sims_movingObjects	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	sims_alertsim	2.3.4.sims.rc1
+2.3.3.sims-1-g5c9f42c	0	ephem	3.7.6.0
