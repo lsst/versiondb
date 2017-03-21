@@ -3011,3 +3011,10 @@ w.2016.15	0	sconsUtils	w.2016.15
 13.0-3-gc4773c5	12	scons	2.5.0.lsst2+1
 13.0-3-gc4773c5	12	sconsUtils	13.0-3-ga4b1818
 13.0-3-gc4773c5	12	pybind11	master-gc0cd6bae8d
+13.0-3-gc4773c5	13	python_future	0.16.0
+13.0-3-gc4773c5	13	meas_algorithms	13.0-6-g6f8a914
+13.0-3-gc4773c5	13	numpy	0.0.3+1
+13.0-3-gc4773c5	13	pipe_base	13.0-1-g92030ba+8
+13.0-3-gc4773c5	13	scons	2.5.0.lsst2+1
+13.0-3-gc4773c5	13	sconsUtils	13.0-3-ga4b1818
+13.0-3-gc4773c5	13	pybind11	master-gc0cd6bae8d
