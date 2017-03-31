@@ -260,3 +260,12 @@ sims_2.2.6	0	astropy	0.0.1.lsst2
 2.3.4.sims	0	throughputs	2017.01.31
 2.3.4.sims	0	sims_photUtils	2.3.4.sims
 2.3.4.sims	0	sims_coordUtils	2.3.4.sims
+2.3.4.sims	1	base	13.0+1
+2.3.4.sims	1	utils	13.0+2
+2.3.4.sims	1	numpy	0.0.3+1
+2.3.4.sims	1	pandas	master-g4426870190
+2.3.4.sims	1	oorb	lsst-dev-g86ef29d214
+2.3.4.sims	1	astropy	0.0.1.lsst2+2
+2.3.4.sims	1	throughputs	2017.01.31
+2.3.4.sims	1	sims_photUtils	2.3.4.1.sims.rc1
+2.3.4.sims	1	sims_coordUtils	2.3.4.1.sims.rc1

@@ -4634,3 +4634,13 @@ w.2016.15	0	afwdata	w.2016.15
 13.0-1-g8055633	15	utils	13.0-1-g976b40b+2
 13.0-1-g8055633	15	python_future	0.16.0
 13.0-1-g8055633	15	afwdata	13.0-1-g1546c47+2
+13.0	6	afw	13.0+2
+13.0	6	log	13.0+2
+13.0	6	numpy	0.0.3+1
+13.0	6	pex_config	13.0+2
+13.0	6	pipe_base	13.0+11
+13.0	6	scons	2.5.0.lsst2+1
+13.0	6	sconsUtils	13.0
+13.0	6	utils	13.0+2
+13.0	6	python_future	0.16.0
+13.0	6	afwdata	13.0

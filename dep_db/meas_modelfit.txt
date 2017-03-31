@@ -7437,3 +7437,13 @@ w.2016.15	0	matplotlib	0.0.2
 13.0-5-g78a7c1c	12	shapelet	13.0-1-g7218a59+13
 13.0-5-g78a7c1c	12	pybind11	master-g715ff27535
 13.0-5-g78a7c1c	12	matplotlib	0.0.4
+13.0	2	afw	13.0+2
+13.0	2	meas_algorithms	13.0+2
+13.0	2	meas_base	13.0+2
+13.0	2	numpy	0.0.3+1
+13.0	2	log	13.0+2
+13.0	2	pipe_tasks	13.0+2
+13.0	2	scons	2.5.0.lsst2+1
+13.0	2	sconsUtils	13.0
+13.0	2	shapelet	13.0+6
+13.0	2	matplotlib	0.0.4

@@ -98,3 +98,8 @@ bugfix.SIM-1271_conda_path_fix-ge9520c2dde	0	lsst	w.2015.30
 3.3.8	1	mysqlpython	1.2.3.lsst1-1-g120147b+6
 3.3.8	1	palpy	1.7.0.lsst1-1-g733f88b
 3.3.8	1	requests	2016_01.0
+3.3.8-17-g424f97b	0	lsst	13.0
+3.3.8-17-g424f97b	0	mariadb	10.1.21.lsst1
+3.3.8-17-g424f97b	0	mysqlpython	1.2.3.lsst2+11
+3.3.8-17-g424f97b	0	palpy	1.8.0
+3.3.8-17-g424f97b	0	requests	2.9.1.lsst1+1
