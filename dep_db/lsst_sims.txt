@@ -12370,3 +12370,16 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.3.4.sims	1	sims_movingObjects	2.3.4.sims+1
 2.3.4.sims	1	sims_alertsim	2.3.4.sims+1
 2.3.4.sims	1	ephem	3.7.6.0
+2.3.4.sims	2	sims_maf	2.3.4.sims+2
+2.3.4.sims	2	sims_GalSimInterface	2.3.4.1.sims.rc1+1
+2.3.4.sims	2	sims_catUtils	2.3.4.1.sims.rc1+1
+2.3.4.sims	2	sims_catalogs	2.3.4.1.sims.rc1
+2.3.4.sims	2	sims_sed_library	2017.01.24
+2.3.4.sims	2	sims_maps	2017.01.03
+2.3.4.sims	2	sims_skybrightness	2.3.4.sims+2
+2.3.4.sims	2	sims_skybrightness_pre	2.3.4.sims+2
+2.3.4.sims	2	sncosmo	12.0-1-g5e70e90+2
+2.3.4.sims	2	oorb	lsst-dev-g86ef29d214
+2.3.4.sims	2	sims_movingObjects	2.3.4.sims+2
+2.3.4.sims	2	sims_alertsim	2.3.4.sims+2
+2.3.4.sims	2	ephem	3.7.6.0
