@@ -4655,3 +4655,14 @@ w.2016.15	0	afwdata	w.2016.15
 13.0-1-g8055633	16	utils	13.0-1-g976b40b+2
 13.0-1-g8055633	16	python_future	0.16.0
 13.0-1-g8055633	16	afwdata	13.0-1-g1546c47+2
+13.0-2-gf5c5ced	0	afw	13.0-26-g5410af9
+13.0-2-gf5c5ced	0	log	13.0-2-g15de9a1+3
+13.0-2-gf5c5ced	0	pybind11	master-g715ff27535
+13.0-2-gf5c5ced	0	numpy	0.0.3+1
+13.0-2-gf5c5ced	0	pex_config	13.0-1-g41367f3+3
+13.0-2-gf5c5ced	0	pipe_base	13.0-1-g92030ba+12
+13.0-2-gf5c5ced	0	scons	2.5.0.lsst2+1
+13.0-2-gf5c5ced	0	sconsUtils	13.0-3-ga4b1818
+13.0-2-gf5c5ced	0	utils	13.0-1-g976b40b+3
+13.0-2-gf5c5ced	0	python_future	0.16.0
+13.0-2-gf5c5ced	0	afwdata	13.0-1-g1546c47+2
