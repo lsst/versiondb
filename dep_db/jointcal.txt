@@ -68,3 +68,17 @@ master-g1fde760fee	2	meas_algorithms	13.0-8-g1664ca9+2
 master-g1fde760fee	2	pipe_tasks	13.0-20-gd86ed56+1
 master-g1fde760fee	2	jointcal_cholmod	master-g48cb81d145
 master-g1fde760fee	2	testdata_jointcal	master-gb60b745de5+4
+master-g1fde760fee	3	scons	2.5.0.lsst2+1
+master-g1fde760fee	3	sconsUtils	13.0-3-ga4b1818
+master-g1fde760fee	3	pybind11	master-g715ff27535
+master-g1fde760fee	3	eigen	3.2.5.lsst2
+master-g1fde760fee	3	boost	1.60.lsst1+1
+master-g1fde760fee	3	afw	13.0-34-ga37f01a
+master-g1fde760fee	3	daf_persistence	13.0-8-gba0f85f
+master-g1fde760fee	3	obs_base	13.0-13-gdd29b46+5
+master-g1fde760fee	3	pex_exceptions	13.0-1-g52a7baa+3
+master-g1fde760fee	3	pex_config	13.0-1-g41367f3+3
+master-g1fde760fee	3	meas_algorithms	13.0-9-gc47bba1
+master-g1fde760fee	3	pipe_tasks	13.0-22-g8f1d162
+master-g1fde760fee	3	jointcal_cholmod	master-g48cb81d145
+master-g1fde760fee	3	testdata_jointcal	master-gb60b745de5+5
