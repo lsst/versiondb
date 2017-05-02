@@ -10,3 +10,15 @@ master-g43362ee2f3	0	astrometry_net	0.67.123ff3e.lsst1+1
 master-g43362ee2f3	0	numpy	0.0.3+1
 master-g43362ee2f3	0	python_future	0.16.0
 master-g43362ee2f3	0	matplotlib	0.0.4
+master-g43362ee2f3	1	afw	13.0-39-g3deb52d
+master-g43362ee2f3	1	log	13.0-2-g15de9a1+3
+master-g43362ee2f3	1	meas_algorithms	13.0-12-gfeff4b0
+master-g43362ee2f3	1	meas_astrom	13.0-9-gdd2838b
+master-g43362ee2f3	1	pex_config	13.0-1-g41367f3+4
+master-g43362ee2f3	1	pipe_base	13.0-3-g7fa07e0+5
+master-g43362ee2f3	1	utils	13.0-1-g976b40b+3
+master-g43362ee2f3	1	wcslib	5.13.lsst1
+master-g43362ee2f3	1	astrometry_net	0.67.123ff3e.lsst1+1
+master-g43362ee2f3	1	numpy	0.0.3+1
+master-g43362ee2f3	1	python_future	0.16.0
+master-g43362ee2f3	1	matplotlib	0.0.4
