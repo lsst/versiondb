@@ -17281,3 +17281,17 @@ sims_2.2.6	0	obs_lsstSim	12.0+1
 2.3.4.sims	4	sims_maps	2017.01.03
 2.3.4.sims	4	obs_lsstSim	13.0-5-g109809a+3
 2.3.4.sims	4	sims_movingObjects	2.3.4.sims+4
+2.3.5.sims.rc1	0	base	13.0-4-g0bde1de
+2.3.5.sims.rc1	0	numpy	0.0.3+1
+2.3.5.sims.rc1	0	matplotlib	0.0.4
+2.3.5.sims.rc1	0	scipy	0.0.1.lsst1+3
+2.3.5.sims.rc1	0	sqlalchemy	1.0.8.lsst3+3
+2.3.5.sims.rc1	0	ephem	3.7.6.0
+2.3.5.sims.rc1	0	palpy	1.8.1
+2.3.5.sims.rc1	0	healpy	1.8.1.lsst2+5
+2.3.5.sims.rc1	0	sims_utils	2.3.5.sims.rc1
+2.3.5.sims.rc1	0	sims_catalogs	2.3.5.sims.rc1
+2.3.5.sims.rc1	0	sims_photUtils	2.3.5.sims.rc1
+2.3.5.sims.rc1	0	sims_coordUtils	2.3.5.sims.rc1
+2.3.5.sims.rc1	0	sims_maps	2017.01.03
+2.3.5.sims.rc1	0	obs_lsstSim	13.0-5-g109809a+6
