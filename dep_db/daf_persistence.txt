@@ -1338,3 +1338,10 @@ w.2016.15	0	pyyaml	3.11.lsst1
 13.0-8-gba0f85f	1	pyyaml	3.11.lsst1+3
 13.0-8-gba0f85f	1	pybind11	master-g715ff27535
 13.0-8-gba0f85f	1	python	0.0.6
+13.0-8-gba0f85f	2	log	13.0-2-g15de9a1+4
+13.0-8-gba0f85f	2	mariadbclient	10.1.21.lsst1
+13.0-8-gba0f85f	2	pex_policy	13.0-1-g47a359c+5
+13.0-8-gba0f85f	2	astropy	0.0.1.lsst2+2
+13.0-8-gba0f85f	2	pyyaml	3.11.lsst1+3
+13.0-8-gba0f85f	2	pybind11	master-g715ff27535
+13.0-8-gba0f85f	2	python	0.0.6
