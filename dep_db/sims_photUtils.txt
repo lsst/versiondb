@@ -6762,3 +6762,10 @@ sims_2.2.6	0	astropy	0.0.1.lsst2
 2.3.5.sims	0	python	0.0.6
 2.3.5.sims	0	throughputs	2017.01.31
 2.3.5.sims	0	astropy	0.0.1.lsst2+2
+2.3.5.sims	1	utils	13.0-1-g976b40b+3
+2.3.5.sims	1	sims_sed_library	2017.01.24
+2.3.5.sims	1	sims_maps	2017.01.03-1-g322c284
+2.3.5.sims	1	sims_utils	2.3.5.sims
+2.3.5.sims	1	python	0.0.6
+2.3.5.sims	1	throughputs	2017.01.31
+2.3.5.sims	1	astropy	0.0.1.lsst2+2
