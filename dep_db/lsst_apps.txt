@@ -9848,3 +9848,12 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 13.0-2-gcc7d151	7	meas_extensions_simpleShape	13.0-5-gaa0a428+7
 13.0-2-gcc7d151	7	display_ds9	13.0-2-g6174d4c+5
 13.0-2-gcc7d151	7	meas_extensions_psfex	13.0-3-gbddb874+7
+13.0-2-gcc7d151	8	meas_deblender	13.0-8-g3fb36f0+4
+13.0-2-gcc7d151	8	meas_modelfit	13.0-8-g8613bc8+3
+13.0-2-gcc7d151	8	pipe_tasks	13.0-25-ga3789c2+5
+13.0-2-gcc7d151	8	obs_lsstSim	13.0-5-g109809a+8
+13.0-2-gcc7d151	8	obs_sdss	13.0-4-g6df16d3+14
+13.0-2-gcc7d151	8	obs_test	13.0-6-g7b63e3f+11
+13.0-2-gcc7d151	8	meas_extensions_simpleShape	13.0-5-gaa0a428+8
+13.0-2-gcc7d151	8	display_ds9	13.0-2-g6174d4c+6
+13.0-2-gcc7d151	8	meas_extensions_psfex	13.0-3-gbddb874+8
