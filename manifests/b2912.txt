@@ -1,0 +1,23 @@
+# product                 SHA1                                      Version                       
+BUILD=b2912
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1+1                             python
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+astropy                   47e80e26de26053521c607df82a3a4512572362b  0.0.1.lsst2+2                            python
+pybind11                  715ff27535186c4a78829a82a34488401d48f4b5  master-g715ff27535                       
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2.9.1.lsst1+1                            python
+numpy                     c1bdd73fbef02df5b68128b4c309be514756acb9  0.0.3+1                                  python
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+pyyaml                    cb5cda908acb5a4fe493b618f9519bb26f7b1275  3.11.lsst1+3                             python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0                                   python
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+3                                  python
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+sconsUtils                243816ec992df56174d14f2f2d4b1f4d73354474  13.0-4-g243816e                          scons,doxygen
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7                             apr,apr_util
+verify_metrics            a237475fcac9e0772ee5b129a0c1253079ae5caf  master-ga237475fca                       sconsUtils
+base                      0bde1de3e129245c47fa1bd5c7030fe6b058b9f4  13.0-4-g0bde1de+1                        sconsUtils,pybind11,python,python_future,doxygen
+pex_exceptions            52a7baa2f82bd1e67b92fcfff02b44c319acf2d4  13.0-1-g52a7baa+4                        base,boost,pybind11,python,python_future
+utils                     2675101a5d316dc49b888c9be1d9a69f6c39849d  13.0-4-g2675101                          base,pex_exceptions,boost,numpy,pybind11,python,python_psutil,python_future
+log                       15de9a135e49deb72a851650bd32bcb15f941e06  13.0-2-g15de9a1+4                        boost,log4cxx,base,pybind11,python,sconsUtils,utils
+verify                    029077548eec7a2fce0cbb50d134b661e217534b  tickets.DM-10357-g029077548e             python_future,pyyaml,requests,numpy,astropy,sconsUtils,utils,pex_exceptions,log,verify_metrics
