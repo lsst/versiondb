@@ -2562,3 +2562,10 @@ w.2016.15	0	afwdata	w.2016.15
 13.0-2-ga4f5e85	11	python_future	0.16.0
 13.0-2-ga4f5e85	11	pybind11	master-g715ff27535
 13.0-2-ga4f5e85	11	afwdata	13.0-1-g1546c47+2
+13.0-2-ga4f5e85	12	coadd_utils	13.0-2-gf5c5ced+12
+13.0-2-ga4f5e85	12	numpy	0.0.3+1
+13.0-2-ga4f5e85	12	scons	2.5.0.lsst2+1
+13.0-2-ga4f5e85	12	sconsUtils	13.0-4-g243816e
+13.0-2-ga4f5e85	12	python_future	0.16.0
+13.0-2-ga4f5e85	12	pybind11	master-g715ff27535
+13.0-2-ga4f5e85	12	afwdata	13.0-1-g1546c47+3

@@ -440,3 +440,13 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 13.0-3-g67ba4a8	0	skypix	13.0+31
 13.0-3-g67ba4a8	0	utils	13.0-1-g976b40b+3
 13.0-3-g67ba4a8	0	meas_extensions_astrometryNet	master-g43362ee2f3
+13.0-3-g67ba4a8	1	afw	13.0-42-ga807563
+13.0-3-g67ba4a8	1	daf_base	13.0-2-g167564e+1
+13.0-3-g67ba4a8	1	obs_base	13.0-20-gb397675
+13.0-3-g67ba4a8	1	pex_config	13.0-1-g41367f3+5
+13.0-3-g67ba4a8	1	pex_policy	13.0-1-g47a359c+5
+13.0-3-g67ba4a8	1	python_future	0.16.0
+13.0-3-g67ba4a8	1	numpy	0.0.3+1
+13.0-3-g67ba4a8	1	skypix	13.0+36
+13.0-3-g67ba4a8	1	utils	13.0-4-g2675101
+13.0-3-g67ba4a8	1	meas_extensions_astrometryNet	master-g43362ee2f3+6

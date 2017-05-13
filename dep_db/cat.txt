@@ -4314,3 +4314,9 @@ tickets.DM-7260-g30f854a43c	0	python_future	0.15.2+1
 13.0-1-g532c134	9	utils	13.0-1-g976b40b+3
 13.0-1-g532c134	9	pex_exceptions	13.0-1-g52a7baa+3
 13.0-1-g532c134	9	python_future	0.16.0
+13.0-2-gfa9bc2b	0	python	0.0.6
+13.0-2-gfa9bc2b	0	mariadbclient	10.1.21.lsst1
+13.0-2-gfa9bc2b	0	db	13.0-1-g305c405
+13.0-2-gfa9bc2b	0	sqlalchemy	1.0.8.lsst3+3
+13.0-2-gfa9bc2b	0	utils	13.0-4-g2675101
+13.0-2-gfa9bc2b	0	python_future	0.16.0
