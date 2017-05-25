@@ -10525,3 +10525,14 @@ w.2016.15	0	matplotlib	0.0.2
 13.0-12-g4db7795	2	numpy	0.0.3+1
 13.0-12-g4db7795	2	python_future	0.16.0
 13.0-12-g4db7795	2	matplotlib	0.0.4
+13.0-12-g4db7795	3	afw	13.0-50-g3c75d14
+13.0-12-g4db7795	3	log	13.0-2-g15de9a1+4
+13.0-12-g4db7795	3	meas_algorithms	13.0-12-gfeff4b0+8
+13.0-12-g4db7795	3	pex_config	13.0-1-g41367f3+5
+13.0-12-g4db7795	3	pipe_base	13.0-4-g69476a5+2
+13.0-12-g4db7795	3	utils	13.0-4-g2675101
+13.0-12-g4db7795	3	wcslib	5.13.lsst1
+13.0-12-g4db7795	3	astrometry_net	0.67.123ff3e.lsst1+1
+13.0-12-g4db7795	3	numpy	0.0.3+1
+13.0-12-g4db7795	3	python_future	0.16.0
+13.0-12-g4db7795	3	matplotlib	0.0.4
