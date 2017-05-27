@@ -9776,3 +9776,12 @@ w.2016.15	0	utils	w.2016.15
 13.0-4-g6df16d3	18	pipe_tasks	13.0-29-g7046ce1+3
 13.0-4-g6df16d3	18	utils	13.0-4-g2675101
 13.0-4-g6df16d3	18	log	13.0-2-g15de9a1+4
+13.0-5-ga6f03b0	0	pex_policy	13.0-1-g47a359c+5
+13.0-5-ga6f03b0	0	obs_base	13.0-24-gedf0888
+13.0-5-ga6f03b0	0	afw	13.0-53-gdb06ea2
+13.0-5-ga6f03b0	0	meas_algorithms	13.0-12-gfeff4b0+9
+13.0-5-ga6f03b0	0	meas_astrom	13.0-12-g4db7795+4
+13.0-5-ga6f03b0	0	python_mysqlclient	1.3.7.lsst1+8
+13.0-5-ga6f03b0	0	pipe_tasks	13.0-31-gbcfe521
+13.0-5-ga6f03b0	0	utils	13.0-4-g2675101
+13.0-5-ga6f03b0	0	log	13.0-2-g15de9a1+4
