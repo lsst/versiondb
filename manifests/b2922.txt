@@ -1,0 +1,45 @@
+# product                 SHA1                                      Version                       
+BUILD=b2922
+cfitsio                   b56ecf282e296255677bc23bc742639d726270fa  3360.lsst4                               
+minuit2                   dae2fb72f087c8d6dd1c4e0cfe8a828920f3412e  5.34.14                                  
+eigen                     f9ab3d1eb4897e8741c1f5b1fd23413ef5055c5d  3.2.5.lsst2                              
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+swig                      bd8facb3e1fd5a433cb913c3f6e7f2c1f3d60dd5  3.0.10                                   
+mariadbclient             ab9738f6e58fcd59008060fdfd96661bc8f584c8  10.1.21.lsst1                            
+starlink_ast              fb9df5b81596e80e8c40b33000764b11717c55a5  lsst-dev-gfb9df5b815                     
+doxygen                   323f9952c1e0db0fb8ebb0317f69d4019bd38d88  1.8.5.lsst1                              
+libyaml                   fe04f4f6ffde41f44bfec6c6950136b4d224c8c9  0.1.7                                    
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1                               cfitsio
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+python_d2to1              1893c8d187b8f73cc91f0cf6c97564d1635934a0  0.2.12.lsst2+1                           python
+pybind11                  715ff27535186c4a78829a82a34488401d48f4b5  master-g715ff27535                       
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1+1                             python
+gsl                       a5b7ea77e0be9d4f91e1a71ec7b08db0bdbf6e58  1.16.lsst3                               
+apr_util                  45d74ccc249484be4fdba93fe2f66aafb5869335  1.5.4                                    apr
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0                                   python
+python_psutil             11e66a19cedecba67caa0c08675b630e3806927a  4.1.0+3                                  python
+ws4py                     5a5440f5f15462fe75f968a0ed4d1bbc2ec7b97b  0.3.5                                    python
+astropy                   47e80e26de26053521c607df82a3a4512572362b  0.0.1.lsst2+2                            python
+firefly_client            dae49c93b4a7417798af4a04cb4b07c31ffa203b  lsst-dev-gdae49c93b4                     ws4py,python_future
+pyyaml                    626f351d092e4401129dbbd3a1888f619028f8f6  3.11.lsst1-1-g626f351                    python,libyaml
+numpy                     c1bdd73fbef02df5b68128b4c309be514756acb9  0.0.3+1                                  python
+stsci_distutils           4bba6935c89f769e59cec6780a68ba8509fccfb0  0.3.7.lsst1+2                            python_d2to1
+scons                     28a8b6786a075b8eb74852989adbc6d2b6859815  2.5.0.lsst2+1                            python
+sconsUtils                243816ec992df56174d14f2f2d4b1f4d73354474  13.0-4-g243816e                          scons,doxygen
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7                             apr,apr_util
+matplotlib                d202e908f28541deeeb861c2b656d9d3f900db10  0.0.4                                    python,numpy
+base                      0bde1de3e129245c47fa1bd5c7030fe6b058b9f4  13.0-4-g0bde1de+1                        sconsUtils,pybind11,python,python_future,doxygen
+afwdata                   1546c47f6745f6df266a0b5d994facf44e9f631a  13.0-1-g1546c47+3                        sconsUtils
+pex_exceptions            52a7baa2f82bd1e67b92fcfff02b44c319acf2d4  13.0-1-g52a7baa+4                        base,boost,pybind11,python,python_future
+ndarray                   4a984de6cd49d52ecf4010f8f61ae4a7d88f39e2  1.3.0-1-g4a984de+1                       boost,python,numpy,eigen,swig,pybind11,fftw
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+7                                  numpy,python_d2to1,stsci_distutils
+astshim                   d0c6fad5f5dbf494790916a544bd271a61ab6744  master-gd0c6fad5f5                       sconsUtils,ndarray,numpy,starlink_ast,pybind11
+utils                     2675101a5d316dc49b888c9be1d9a69f6c39849d  13.0-4-g2675101                          base,pex_exceptions,boost,numpy,pybind11,python,python_psutil,python_future
+log                       15de9a135e49deb72a851650bd32bcb15f941e06  13.0-2-g15de9a1+4                        boost,log4cxx,base,pybind11,python,sconsUtils,utils
+daf_base                  167564e618aea206892113b3ae4f3192a0092d48  13.0-2-g167564e+1                        utils,pex_exceptions,pybind11,python,numpy,python_future
+pex_policy                47a359cbccd4e3f51580cd0a7ea56e4d68d65593  13.0-1-g47a359c+5                        daf_base,utils,python_future,pybind11,python
+pex_config                41367f3050663a0057f96ca489e5323f05f3720b  13.0-1-g41367f3+5                        daf_base,pex_policy,numpy,utils,python_future,pybind11,python
+daf_persistence           6a4d6dc575002a7c23b78cd35a080af56bf34002  13.0-13-g6a4d6dc                         log,mariadbclient,pex_policy,astropy,pyyaml,pybind11,python
+afw                       42cae9543882fd27324cd110dd3d00b326a588b6  13.0-57-g42cae95                         daf_base,daf_persistence,pex_config,log,ndarray,cfitsio,wcslib,numpy,minuit2,eigen,gsl,fftw,utils,astropy,python_future,log,pybind11,astshim,pyfits,matplotlib,afwdata
+display_firefly           05bec400a47cbe4134a4da3f74ed9f12b9832709  master-g05bec400a4                       afw,log,firefly_client,python_future
