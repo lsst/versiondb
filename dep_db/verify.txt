@@ -38,3 +38,13 @@ master-g9e022f7cf2	1	utils	13.0-5-g109db22
 master-g9e022f7cf2	1	pex_exceptions	13.0-1-g52a7baa+6
 master-g9e022f7cf2	1	log	13.0-5-g2b79bf3+1
 master-g9e022f7cf2	1	verify_metrics	master-g5df7653e79+1
+master-g9e022f7cf2	2	python_future	0.16.0
+master-g9e022f7cf2	2	pyyaml	3.11.lsst1-2-g6ae2b7a
+master-g9e022f7cf2	2	requests	2.9.1.lsst1+1
+master-g9e022f7cf2	2	numpy	0.0.3+1
+master-g9e022f7cf2	2	astropy	0.0.1.lsst2+2
+master-g9e022f7cf2	2	sconsUtils	13.0-5-ga39c763
+master-g9e022f7cf2	2	utils	13.0-6-g7b92220
+master-g9e022f7cf2	2	pex_exceptions	13.0-1-g52a7baa+7
+master-g9e022f7cf2	2	log	13.0-6-geef1ef2+1
+master-g9e022f7cf2	2	verify_metrics	master-g5df7653e79+1
