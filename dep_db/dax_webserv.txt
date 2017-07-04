@@ -3112,3 +3112,9 @@ u.bvan.pep8_py3_cleanup-g77431f12ac	0	dax_dbserv	12.1-6-g8f72395+1
 u.bvan.pep8_py3_cleanup-g77431f12ac	0	dax_imgserv	u.bvan.pep8_py3_cleanup-g974854f133
 u.bvan.pep8_py3_cleanup-g77431f12ac	0	dax_metaserv	12.1-5-g6e5c8e4
 u.bvan.pep8_py3_cleanup-g77431f12ac	0	python_mysqlclient	1.3.7.lsst1+8
+u.bvan.pep8_py3_cleanup-g77431f12ac	1	db	13.0-1-g305c405+5
+u.bvan.pep8_py3_cleanup-g77431f12ac	1	flask	0.12
+u.bvan.pep8_py3_cleanup-g77431f12ac	1	dax_dbserv	tickets.DM-7415-g4f71715354
+u.bvan.pep8_py3_cleanup-g77431f12ac	1	dax_imgserv	u.bvan.pep8_py3_cleanup-g9e2c8a848c
+u.bvan.pep8_py3_cleanup-g77431f12ac	1	dax_metaserv	12.1-5-g6e5c8e4
+u.bvan.pep8_py3_cleanup-g77431f12ac	1	python_mysqlclient	1.3.7.lsst1+8
