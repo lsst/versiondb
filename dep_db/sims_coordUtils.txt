@@ -6545,3 +6545,9 @@ sims_2.2.6	0	afw	12.0+1
 2.3.5.sims	2	afw	13.0-39-g3deb52d+2
 2.3.5.sims	2	sims_utils	2.3.5.sims
 2.3.5.sims	2	obs_lsstSim	13.0-5-g109809a+8
+2.3.6.sims	0	base	13.0-5-g77abda3+2
+2.3.6.sims	0	python	0.0.6
+2.3.6.sims	0	utils	13.0-6-g7b92220
+2.3.6.sims	0	afw	13.0-71-gaa0624d+1
+2.3.6.sims	0	sims_utils	2.3.6.sims
+2.3.6.sims	0	obs_lsstSim	13.0-13-g177be6f+6
