@@ -12120,3 +12120,14 @@ twinkles_2017_01_05-g3442a82b44	0	utils	12.1-3-g885a847+1
 13.0-13-g177be6f	6	pybind11	master-g6f4b1f770b
 13.0-13-g177be6f	6	python_mysqlclient	1.3.7.lsst1+8
 13.0-13-g177be6f	6	utils	13.0-6-g7b92220
+13.0-13-g177be6f	7	daf_base	13.0-2-g167564e+4
+13.0-13-g177be6f	7	pex_policy	13.0-1-g47a359c+8
+13.0-13-g177be6f	7	afw	13.0-73-gb2a4e38
+13.0-13-g177be6f	7	daf_persistence	13.0-20-g8cd6840
+13.0-13-g177be6f	7	obs_base	13.0-31-g157f4ba+1
+13.0-13-g177be6f	7	meas_algorithms	13.0-14-gb26cf08+5
+13.0-13-g177be6f	7	ip_isr	13.0-11-gf01aa92+21
+13.0-13-g177be6f	7	pipe_tasks	13.0-40-g115ca20
+13.0-13-g177be6f	7	pybind11	master-g6f4b1f770b
+13.0-13-g177be6f	7	python_mysqlclient	1.3.7.lsst1+8
+13.0-13-g177be6f	7	utils	13.0-6-g7b92220
