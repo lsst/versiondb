@@ -12496,3 +12496,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.3.5.sims	3	sims_alertsim	2.3.6.sims
 2.3.5.sims	3	ephem	3.7.6.0
 2.3.5.sims	3	sims_survey_fields	2.3.6.sims
+2.3.6.sims	0	sims_maf	2.3.6.sims+1
+2.3.6.sims	0	sims_GalSimInterface	u.danielsf.fix_rotskypos-gce9f1515e4
+2.3.6.sims	0	sims_catUtils	2.3.6.sims+1
+2.3.6.sims	0	sims_catalogs	2.3.6.sims+1
+2.3.6.sims	0	sims_sed_library	2017.01.24
+2.3.6.sims	0	sims_maps	2017.05.08-1-gf32f3a5
+2.3.6.sims	0	sims_skybrightness	2.3.6.sims+1
+2.3.6.sims	0	sims_skybrightness_pre	2.3.6.sims+1
+2.3.6.sims	0	sncosmo	12.0-1-g5e70e90+2
+2.3.6.sims	0	sims_alertsim	2.3.6.sims+1
+2.3.6.sims	0	ephem	3.7.6.0
+2.3.6.sims	0	sims_survey_fields	2.3.6.sims

@@ -17365,3 +17365,17 @@ sims_2.2.6	0	obs_lsstSim	12.0+1
 2.3.6.sims	0	sims_coordUtils	2.3.6.sims
 2.3.6.sims	0	sims_maps	2017.05.08-1-gf32f3a5
 2.3.6.sims	0	obs_lsstSim	13.0-13-g177be6f+6
+2.3.6.sims	1	base	13.0-5-g77abda3+2
+2.3.6.sims	1	numpy	0.0.3+1
+2.3.6.sims	1	matplotlib	0.0.4
+2.3.6.sims	1	scipy	0.0.1.lsst1+3
+2.3.6.sims	1	sqlalchemy	1.0.8.lsst3+3
+2.3.6.sims	1	ephem	3.7.6.0
+2.3.6.sims	1	palpy	1.8.1
+2.3.6.sims	1	healpy	1.10.3.lsst1
+2.3.6.sims	1	sims_utils	u.danielsf.fix_rotskypos-g77542d6ba7
+2.3.6.sims	1	sims_catalogs	2.3.6.sims+1
+2.3.6.sims	1	sims_photUtils	2.3.6.sims+1
+2.3.6.sims	1	sims_coordUtils	u.danielsf.fix_rotskypos-gfde53b1495
+2.3.6.sims	1	sims_maps	2017.05.08-1-gf32f3a5
+2.3.6.sims	1	obs_lsstSim	13.0-13-g177be6f+6
