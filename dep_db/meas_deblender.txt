@@ -5426,3 +5426,12 @@ w.2016.15	0	matplotlib	0.0.2
 13.0-12-g0251d74	2	utils	13.0-7-gd7d2357
 13.0-12-g0251d74	2	pybind11	master-g6f4b1f770b
 13.0-12-g0251d74	2	matplotlib	0.0.4
+13.0-12-g0251d74	3	afw	13.0-83-gbade6ec
+13.0-12-g0251d74	3	log	13.0-6-geef1ef2+2
+13.0-12-g0251d74	3	meas_algorithms	13.0-17-g9cac535+2
+13.0-12-g0251d74	3	numpy	0.0.3+1
+13.0-12-g0251d74	3	scons	2.5.0.lsst2+1
+13.0-12-g0251d74	3	sconsUtils	13.0-5-ga39c763
+13.0-12-g0251d74	3	utils	13.0-7-gd7d2357
+13.0-12-g0251d74	3	pybind11	master-g6f4b1f770b
+13.0-12-g0251d74	3	matplotlib	0.0.4
