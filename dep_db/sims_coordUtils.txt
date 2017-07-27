@@ -6557,3 +6557,9 @@ u.danielsf.fix_rotskypos-gfde53b1495	0	utils	13.0-6-g7b92220
 u.danielsf.fix_rotskypos-gfde53b1495	0	afw	13.0-71-gaa0624d+1
 u.danielsf.fix_rotskypos-gfde53b1495	0	sims_utils	u.danielsf.fix_rotskypos-g77542d6ba7
 u.danielsf.fix_rotskypos-gfde53b1495	0	obs_lsstSim	13.0-13-g177be6f+6
+2.3.5.sims	3	base	13.0-5-g77abda3+2
+2.3.5.sims	3	python	0.0.6
+2.3.5.sims	3	utils	13.0-6-g7b92220
+2.3.5.sims	3	afw	13.0-71-gaa0624d+2
+2.3.5.sims	3	sims_utils	SIM-2408.nfs_bug-gf97df4bdf9
+2.3.5.sims	3	obs_lsstSim	13.0-13-g177be6f+11
