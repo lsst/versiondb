@@ -17407,3 +17407,17 @@ sims_2.2.6	0	obs_lsstSim	12.0+1
 2.3.6.sims-3-g7e68952	1	sims_coordUtils	2.3.5.sims+4
 2.3.6.sims-3-g7e68952	1	sims_maps	2017.05.08-1-gf32f3a5
 2.3.6.sims-3-g7e68952	1	obs_lsstSim	13.0-13-g177be6f+11
+2.3.6.sims-3-g7e68952	2	base	13.0-5-g77abda3+3
+2.3.6.sims-3-g7e68952	2	numpy	0.0.3+1
+2.3.6.sims-3-g7e68952	2	matplotlib	0.0.4
+2.3.6.sims-3-g7e68952	2	scipy	0.0.1.lsst1+3
+2.3.6.sims-3-g7e68952	2	sqlalchemy	1.0.8.lsst3+3
+2.3.6.sims-3-g7e68952	2	ephem	3.7.6.0
+2.3.6.sims-3-g7e68952	2	palpy	1.8.1
+2.3.6.sims-3-g7e68952	2	healpy	1.10.3.lsst1
+2.3.6.sims-3-g7e68952	2	sims_utils	SIM-2408.nfs_bug-g955cd73316+1
+2.3.6.sims-3-g7e68952	2	sims_catalogs	2.3.6.sims+4
+2.3.6.sims-3-g7e68952	2	sims_photUtils	2.3.6.sims-1-g5f8d25d+1
+2.3.6.sims-3-g7e68952	2	sims_coordUtils	2.3.5.sims+5
+2.3.6.sims-3-g7e68952	2	sims_maps	2017.05.08-1-gf32f3a5
+2.3.6.sims-3-g7e68952	2	obs_lsstSim	13.0-14-gcd346b3

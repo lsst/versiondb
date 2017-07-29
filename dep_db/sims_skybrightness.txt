@@ -1421,3 +1421,14 @@ sims_2.2.6	0	healpy	1.8.1.lsst2+1
 2.3.6.sims	3	sims_skybrightness_data	2017.05.05
 2.3.6.sims	3	healpy	1.10.3.lsst1
 2.3.6.sims	3	python_future	0.16.0
+2.3.6.sims	4	base	13.0-5-g77abda3+3
+2.3.6.sims	4	numpy	0.0.3+1
+2.3.6.sims	4	matplotlib	0.0.4
+2.3.6.sims	4	ephem	3.7.6.0
+2.3.6.sims	4	sims_utils	SIM-2408.nfs_bug-g955cd73316+1
+2.3.6.sims	4	sims_photUtils	2.3.6.sims-1-g5f8d25d+1
+2.3.6.sims	4	utils	13.0-7-gd7d2357+1
+2.3.6.sims	4	throughputs	2017.01.31-2-gbd8481e
+2.3.6.sims	4	sims_skybrightness_data	2017.05.05
+2.3.6.sims	4	healpy	1.10.3.lsst1
+2.3.6.sims	4	python_future	0.16.0
