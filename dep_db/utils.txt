@@ -1092,3 +1092,11 @@ tickets.DM-5979-g76d91cf90e	0	python_psutil	4.1.0
 13.0-7-gd7d2357	2	python	0.0.6
 13.0-7-gd7d2357	2	python_psutil	4.1.0+3
 13.0-7-gd7d2357	2	python_future	0.16.0
+13.0-7-gd7d2357	3	base	13.0-6-g08b5043
+13.0-7-gd7d2357	3	pex_exceptions	13.0-1-g52a7baa+9
+13.0-7-gd7d2357	3	boost	1.60.lsst1+1
+13.0-7-gd7d2357	3	numpy	0.0.4
+13.0-7-gd7d2357	3	pybind11	master-g6f4b1f770b
+13.0-7-gd7d2357	3	python	0.0.6
+13.0-7-gd7d2357	3	python_psutil	4.1.0+3
+13.0-7-gd7d2357	3	python_future	0.16.0
