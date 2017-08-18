@@ -1,0 +1,7 @@
+# product                 SHA1                                      Version                       
+BUILD=b2997
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+mariadb                   23e122a4130db21d8d4baf22f24a174f5576aeb6  10.1.21.lsst1                            
+mariadbclient             ab9738f6e58fcd59008060fdfd96661bc8f584c8  10.1.21.lsst1                            
+python_mysqlclient        945460320056625993eb4e3de872c3f74db17537  1.3.7.lsst1+8                            python,mariadbclient
+scisql                    9d1b31cf178fd64ad561356d77a09b9305e698a8  0.3.8                                    mariadb,python_mysqlclient,python
