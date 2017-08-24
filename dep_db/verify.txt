@@ -111,3 +111,14 @@ master-gdec7a2c927	2	pex_exceptions	13.0-2-g50559bf
 master-gdec7a2c927	2	log	13.0-6-geef1ef2+6
 master-gdec7a2c927	2	pytest_flake8	0.8.1
 master-gdec7a2c927	2	verify_metrics	master-g93a930c638
+master-g5c44072d1b	0	python_future	0.16.0
+master-g5c44072d1b	0	pyyaml	3.11.lsst1-2-g6ae2b7a
+master-g5c44072d1b	0	requests	2.9.1.lsst1+1
+master-g5c44072d1b	0	numpy	0.0.4
+master-g5c44072d1b	0	astropy	0.0.1.lsst2+2
+master-g5c44072d1b	0	sconsUtils	13.0-7-gc601e82
+master-g5c44072d1b	0	utils	13.0-8-gb7ca535
+master-g5c44072d1b	0	pex_exceptions	13.0-2-g50559bf
+master-g5c44072d1b	0	log	13.0-6-geef1ef2+6
+master-g5c44072d1b	0	pytest_flake8	0.8.1
+master-g5c44072d1b	0	verify_metrics	master-g93a930c638
