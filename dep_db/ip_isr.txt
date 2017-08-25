@@ -3409,3 +3409,10 @@ w.2016.15	0	sconsUtils	w.2016.15
 13.0-13-gd4b2922	20	scons	2.5.0.lsst2+1
 13.0-13-gd4b2922	20	sconsUtils	13.0-7-gc601e82
 13.0-13-gd4b2922	20	pybind11	master-g6f4b1f770b
+13.0-14-g806d2ac	0	python_future	0.16.0
+13.0-14-g806d2ac	0	meas_algorithms	13.0-19-g4a84084
+13.0-14-g806d2ac	0	numpy	0.0.4
+13.0-14-g806d2ac	0	pipe_base	13.0-12-gaf0c0ec+2
+13.0-14-g806d2ac	0	scons	2.5.0.lsst2+1
+13.0-14-g806d2ac	0	sconsUtils	13.0-8-g44b8d96
+13.0-14-g806d2ac	0	pybind11	master-g6f4b1f770b
