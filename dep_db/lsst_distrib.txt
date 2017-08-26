@@ -10792,3 +10792,14 @@ w.2016.12	0	obs_subaru	w.2016.12
 13.0-4-g2f779ae	24	lsst_obs	13.0+58
 13.0-4-g2f779ae	24	jointcal	master-g59ec7209dd+1
 13.0-4-g2f779ae	24	verify	master-g5c44072d1b+1
+13.0-4-g2f779ae	25	lsst_apps	13.0-2-gcc7d151+42
+13.0-4-g2f779ae	25	ctrl_execute	13.0-5-g1b5eec6+1
+13.0-4-g2f779ae	25	ctrl_platform_lsstvc	master-gd7f6e4dbf2+9
+13.0-4-g2f779ae	25	datarel	13.0-1-g46ffeb4+23
+13.0-4-g2f779ae	25	meas_extensions_convolved	master-gaffd610453+1
+13.0-4-g2f779ae	25	meas_extensions_shapeHSM	13.0-8-gb78e8c8+19
+13.0-4-g2f779ae	25	meas_extensions_photometryKron	13.0-7-g30344f0+1
+13.0-4-g2f779ae	25	pipe_drivers	13.0-17-g3ce57e5+20
+13.0-4-g2f779ae	25	lsst_obs	13.0+59
+13.0-4-g2f779ae	25	jointcal	master-g59ec7209dd+2
+13.0-4-g2f779ae	25	verify	master-g5c44072d1b+1
