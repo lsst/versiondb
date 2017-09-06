@@ -1454,3 +1454,14 @@ sims_2.2.6	0	healpy	1.8.1.lsst2+1
 2.3.7.sims	0	sims_skybrightness_data	2017.05.05
 2.3.7.sims	0	healpy	1.10.3.lsst1+1
 2.3.7.sims	0	python_future	0.16.0
+2.3.7.sims	1	base	13.0-8-g5c3b8ec+1
+2.3.7.sims	1	numpy	0.0.4
+2.3.7.sims	1	matplotlib	0.0.4+1
+2.3.7.sims	1	ephem	3.7.6.0
+2.3.7.sims	1	sims_utils	2.3.7.1.sims
+2.3.7.sims	1	sims_photUtils	2.3.7.sims+1
+2.3.7.sims	1	utils	13.0-9-gf29e843+1
+2.3.7.sims	1	throughputs	2017.01.31-5-ga2c42b2
+2.3.7.sims	1	sims_skybrightness_data	2017.05.05
+2.3.7.sims	1	healpy	1.10.3.lsst1+1
+2.3.7.sims	1	python_future	0.16.0
