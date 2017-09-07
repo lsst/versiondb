@@ -718,3 +718,15 @@ master-gb035c22750	1	astrometry_net	0.67.123ff3e.lsst1+2
 master-gb035c22750	1	numpy	0.0.4
 master-gb035c22750	1	python_future	0.16.0
 master-gb035c22750	1	matplotlib	0.0.4+1
+master-gb035c22750	2	afw	u.danielsf.2.3.7.1.sims-g793934f9df
+master-gb035c22750	2	log	13.0-7-g73c05b9+1
+master-gb035c22750	2	meas_algorithms	u.danielsf.2.3.7.1.sims-g6a4f4d616c
+master-gb035c22750	2	meas_astrom	u.danielsf.2.3.7.1.sims-gb5e44412c0
+master-gb035c22750	2	pex_config	13.0-4-gbcd7061+1
+master-gb035c22750	2	pipe_base	13.0-14-g8b3bf66+7
+master-gb035c22750	2	utils	13.0-9-gf29e843+1
+master-gb035c22750	2	wcslib	5.13.lsst1
+master-gb035c22750	2	astrometry_net	0.67.123ff3e.lsst1+2
+master-gb035c22750	2	numpy	0.0.4
+master-gb035c22750	2	python_future	0.16.0
+master-gb035c22750	2	matplotlib	0.0.4+1

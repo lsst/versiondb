@@ -5255,3 +5255,16 @@ w.2016.15	0	utils	w.2016.15
 13.0-5-gd2c5893	31	sconsUtils	13.0-9-g88bbd5d
 13.0-5-gd2c5893	31	pybind11	master-g6f4b1f770b
 13.0-5-gd2c5893	31	utils	13.0-9-gf29e843+1
+13.0-5-gd2c5893	32	afw	u.danielsf.2.3.7.1.sims-g793934f9df
+13.0-5-gd2c5893	32	boost	1.60.lsst1+1
+13.0-5-gd2c5893	32	daf_base	13.0-4-g2dbbef6+1
+13.0-5-gd2c5893	32	fftw	3.3.4.lsst2
+13.0-5-gd2c5893	32	meas_algorithms	u.danielsf.2.3.7.1.sims-g6a4f4d616c
+13.0-5-gd2c5893	32	meas_base	13.0-29-gae74ba4+5
+13.0-5-gd2c5893	32	numpy	0.0.4
+13.0-5-gd2c5893	32	psfex	13.0+4
+13.0-5-gd2c5893	32	python_future	0.16.0
+13.0-5-gd2c5893	32	scons	2.5.0.lsst2+1
+13.0-5-gd2c5893	32	sconsUtils	13.0-9-g88bbd5d
+13.0-5-gd2c5893	32	pybind11	master-g6f4b1f770b
+13.0-5-gd2c5893	32	utils	13.0-9-gf29e843+1

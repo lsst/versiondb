@@ -17361,3 +17361,17 @@ SIM-2408.nfs_bug-g54a4f19b6c	0	obs_lsstSim	13.0-14-gcd346b3
 2.3.7.1.sims	0	astropy	0.0.1.lsst2+2
 2.3.7.1.sims	0	sqlalchemy	1.0.8.lsst3+3
 2.3.7.1.sims	0	obs_lsstSim	13.0-15-g29533ec+2
+2.3.7.1.sims	1	utils	13.0-9-gf29e843+1
+2.3.7.1.sims	1	sims_utils	2.3.7.1.sims
+2.3.7.1.sims	1	sims_catalogs	2.3.7.1.sims+1
+2.3.7.1.sims	1	sims_coordUtils	2.3.7.1.sims+1
+2.3.7.1.sims	1	sims_photUtils	2.3.7.sims+1
+2.3.7.1.sims	1	sims_data	2015.02.05
+2.3.7.1.sims	1	palpy	1.8.1+1
+2.3.7.1.sims	1	python	0.0.6
+2.3.7.1.sims	1	pymssql	2.1.1+6
+2.3.7.1.sims	1	daf_persistence	u.danielsf.2.3.7.1.sims-g674f0d60ff
+2.3.7.1.sims	1	sncosmo	12.0-1-g5e70e90+3
+2.3.7.1.sims	1	astropy	0.0.1.lsst2+2
+2.3.7.1.sims	1	sqlalchemy	1.0.8.lsst3+3
+2.3.7.1.sims	1	obs_lsstSim	u.danielsf.2.3.7.1.sims-g29533ececd
