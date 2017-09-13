@@ -17375,3 +17375,17 @@ SIM-2408.nfs_bug-g54a4f19b6c	0	obs_lsstSim	13.0-14-gcd346b3
 2.3.7.1.sims	1	astropy	0.0.1.lsst2+2
 2.3.7.1.sims	1	sqlalchemy	1.0.8.lsst3+3
 2.3.7.1.sims	1	obs_lsstSim	u.danielsf.2.3.7.1.sims-g29533ececd
+u.danielsf.fix_rotskypos-g1696ba1089	0	utils	13.0-9-gf29e843+2
+u.danielsf.fix_rotskypos-g1696ba1089	0	sims_utils	u.danielsf.fix_rotskypos-g3f23058b04
+u.danielsf.fix_rotskypos-g1696ba1089	0	sims_catalogs	2.3.7.1.sims+2
+u.danielsf.fix_rotskypos-g1696ba1089	0	sims_coordUtils	u.danielsf.fix_rotskypos-g6b744ce090
+u.danielsf.fix_rotskypos-g1696ba1089	0	sims_photUtils	2.3.7.sims+2
+u.danielsf.fix_rotskypos-g1696ba1089	0	sims_data	2015.02.05
+u.danielsf.fix_rotskypos-g1696ba1089	0	palpy	1.8.1+1
+u.danielsf.fix_rotskypos-g1696ba1089	0	python	0.0.6
+u.danielsf.fix_rotskypos-g1696ba1089	0	pymssql	2.1.1+6
+u.danielsf.fix_rotskypos-g1696ba1089	0	daf_persistence	u.danielsf.2.3.7.1.sims-g674f0d60ff+1
+u.danielsf.fix_rotskypos-g1696ba1089	0	sncosmo	12.0-1-g5e70e90+3
+u.danielsf.fix_rotskypos-g1696ba1089	0	astropy	0.0.1.lsst2+2
+u.danielsf.fix_rotskypos-g1696ba1089	0	sqlalchemy	1.0.8.lsst3+3
+u.danielsf.fix_rotskypos-g1696ba1089	0	obs_lsstSim	u.danielsf.2.3.7.1.sims-g29533ececd+1
