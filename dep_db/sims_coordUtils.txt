@@ -6611,3 +6611,9 @@ u.danielsf.fix_rotskypos-g6b744ce090	0	utils	13.0-9-gf29e843+2
 u.danielsf.fix_rotskypos-g6b744ce090	0	afw	u.danielsf.2.3.7.1.sims-g793934f9df+1
 u.danielsf.fix_rotskypos-g6b744ce090	0	sims_utils	u.danielsf.fix_rotskypos-g3f23058b04
 u.danielsf.fix_rotskypos-g6b744ce090	0	obs_lsstSim	u.danielsf.2.3.7.1.sims-g29533ececd+1
+u.danielsf.fix_rotskypos-g6b744ce090	1	base	13.0-9-g9bd4e32+1
+u.danielsf.fix_rotskypos-g6b744ce090	1	python	0.0.6
+u.danielsf.fix_rotskypos-g6b744ce090	1	utils	13.0-12-gac01bb5
+u.danielsf.fix_rotskypos-g6b744ce090	1	afw	13.0-97-g247b2c20e+1
+u.danielsf.fix_rotskypos-g6b744ce090	1	sims_utils	u.danielsf.fix_rotskypos-g3f23058b04+1
+u.danielsf.fix_rotskypos-g6b744ce090	1	obs_lsstSim	13.0-15-g29533ec+8
