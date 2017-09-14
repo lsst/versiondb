@@ -3134,3 +3134,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 13.0-22-ge0a35f7	7	pex_policy	13.0-2-g4b114ac+5
 13.0-22-ge0a35f7	7	ip_isr	13.0-15-g0af5a6c+6
 13.0-22-ge0a35f7	7	testdata_decam	13.0-2-gdd95a3b
+13.0-22-ge0a35f7	8	utils	13.0-12-gac01bb5+1
+13.0-22-ge0a35f7	8	daf_persistence	13.0-37-g9bb0735
+13.0-22-ge0a35f7	8	obs_base	13.0-47-gbf427ee+3
+13.0-22-ge0a35f7	8	afw	13.0-98-g5a654715e+1
+13.0-22-ge0a35f7	8	meas_algorithms	13.0-23-gb99accf8+7
+13.0-22-ge0a35f7	8	pipe_tasks	13.0-60-g3ba4059d+3
+13.0-22-ge0a35f7	8	pipe_base	13.0-14-g8b3bf66+15
+13.0-22-ge0a35f7	8	pex_exceptions	13.0-3-g13ef843+5
+13.0-22-ge0a35f7	8	pex_config	13.0-4-gbcd7061+5
+13.0-22-ge0a35f7	8	pex_policy	13.0-2-g4b114ac+5
+13.0-22-ge0a35f7	8	ip_isr	13.0-15-g0af5a6c+8
+13.0-22-ge0a35f7	8	testdata_decam	13.0-2-gdd95a3b
