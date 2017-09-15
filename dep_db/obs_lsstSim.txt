@@ -12615,3 +12615,14 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 13.0-15-g29533ec	9	pybind11	master-g6f4b1f770b
 13.0-15-g29533ec	9	python_mysqlclient	1.3.7.lsst1+8
 13.0-15-g29533ec	9	utils	13.0-12-gac01bb5+1
+13.0-15-g29533ec	10	daf_base	13.0-5-g99bcfa4+3
+13.0-15-g29533ec	10	pex_policy	13.0-2-g4b114ac+5
+13.0-15-g29533ec	10	afw	13.0-98-g5a654715e+2
+13.0-15-g29533ec	10	daf_persistence	13.0-38-gee03f11
+13.0-15-g29533ec	10	obs_base	13.0-47-gbf427ee+4
+13.0-15-g29533ec	10	meas_algorithms	13.0-23-gb99accf8+8
+13.0-15-g29533ec	10	ip_isr	13.0-15-g0af5a6c+9
+13.0-15-g29533ec	10	pipe_tasks	13.0-60-g3ba4059d+4
+13.0-15-g29533ec	10	pybind11	master-g6f4b1f770b
+13.0-15-g29533ec	10	python_mysqlclient	1.3.7.lsst1+8
+13.0-15-g29533ec	10	utils	13.0-12-gac01bb5+1
