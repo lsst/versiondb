@@ -221,3 +221,14 @@ master-ga204a195d9	1	pex_exceptions	13.0-3-g13ef843+5
 master-ga204a195d9	1	log	13.0-7-g73c05b9+4
 master-ga204a195d9	1	pytest_flake8	0.8.1+1
 master-ga204a195d9	1	verify_metrics	master-gefb3fcf52b+4
+master-ga204a195d9	2	python_future	0.16.0
+master-ga204a195d9	2	pyyaml	3.11.lsst1-2-g6ae2b7a
+master-ga204a195d9	2	requests	2.9.1.lsst1+1
+master-ga204a195d9	2	numpy	0.0.4
+master-ga204a195d9	2	astropy	0.0.1.lsst2+2
+master-ga204a195d9	2	sconsUtils	13.0-12-g27c31b4+1
+master-ga204a195d9	2	utils	13.0-12-gac01bb5+2
+master-ga204a195d9	2	pex_exceptions	13.0-3-g13ef843+7
+master-ga204a195d9	2	log	13.0-7-g73c05b9+6
+master-ga204a195d9	2	pytest_flake8	0.8.1+1
+master-ga204a195d9	2	verify_metrics	master-gefb3fcf52b+5

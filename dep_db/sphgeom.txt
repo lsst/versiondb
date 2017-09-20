@@ -272,3 +272,7 @@ master-gb10b2753f2	2	doxygen	1.8.5.lsst1
 12.1-4-g110c6f4	5	sconsUtils	13.0-12-g27c31b4
 12.1-4-g110c6f4	5	pybind11	master-g6f4b1f770b
 12.1-4-g110c6f4	5	doxygen	1.8.5.lsst1
+12.1-4-g110c6f4	6	base	13.0-11-g2310939
+12.1-4-g110c6f4	6	sconsUtils	13.0-12-g27c31b4+1
+12.1-4-g110c6f4	6	pybind11	master-g6f4b1f770b
+12.1-4-g110c6f4	6	doxygen	1.8.5.lsst1-1-ge029824
