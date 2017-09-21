@@ -12604,3 +12604,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.3.7.sims	1	sims_alertsim	2.3.7.sims+3
 2.3.7.sims	1	ephem	3.7.6.0
 2.3.7.sims	1	sims_survey_fields	2.3.7.sims+1
+2.3.5.sims	9	sims_maf	2.3.7.sims+4
+2.3.5.sims	9	sims_GalSimInterface	2.3.7.1.sims-1-g8e2ecd6
+2.3.5.sims	9	sims_catUtils	2.3.7.1.sims-1-g1696ba1
+2.3.5.sims	9	sims_catalogs	2.3.7.1.sims-1-gbdc9b34
+2.3.5.sims	9	sims_sed_library	2017.01.24
+2.3.5.sims	9	sims_maps	2017.05.08-1-gf32f3a5+1
+2.3.5.sims	9	sims_skybrightness	2.3.7.sims+2
+2.3.5.sims	9	sims_skybrightness_pre	2.3.7.sims-2-g558b32b+2
+2.3.5.sims	9	sncosmo	12.0-1-g5e70e90+3
+2.3.5.sims	9	sims_alertsim	2.3.7.sims+4
+2.3.5.sims	9	ephem	3.7.6.0
+2.3.5.sims	9	sims_survey_fields	2.3.4.1.sims+5
