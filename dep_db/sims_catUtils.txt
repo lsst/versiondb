@@ -17431,3 +17431,17 @@ u.danielsf.fix_rotskypos-g1696ba1089	1	obs_lsstSim	13.0-15-g29533ec+8
 2.4.0.sims.rc1	0	astropy	0.0.1.lsst2+2
 2.4.0.sims.rc1	0	sqlalchemy	1.0.8.lsst3+3
 2.4.0.sims.rc1	0	obs_lsstSim	13.0-16-gb2aac10+13
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	utils	13.0-12-gac01bb5+6
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sims_utils	2.3.4.sims.rc1+1
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sims_catalogs	2.3.4.sims.rc1+1
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sims_coordUtils	2.3.4.sims.rc1+1
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sims_photUtils	2.3.4.sims.rc1+1
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sims_data	2017.10.05
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	palpy	1.8.1+1
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	python	0.0.6
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	pymssql	2.1.1+6
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	daf_persistence	13.0-40-g460649b+6
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sncosmo	12.0-1-g5e70e90+3
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	astropy	0.0.1.lsst2+2
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	sqlalchemy	1.0.8.lsst3+3
+u.danielsf.debug.kep_lc_failure-g2241187ee3	0	obs_lsstSim	13.0-16-gb2aac10+13
