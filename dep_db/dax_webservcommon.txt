@@ -149,3 +149,7 @@ w.2015.36	0	sconsUtils	w.2015.36
 12.1-1-g2722609	1	python	0.0.6
 12.1-1-g2722609	1	scons	2.5.0.lsst2+1
 12.1-1-g2722609	1	sconsUtils	13.0-7-gc601e82
+tickets.DM-7419-ge110ce0f89	0	python	0.0.6
+tickets.DM-7419-ge110ce0f89	0	scons	3.0.0.lsst1
+tickets.DM-7419-ge110ce0f89	0	sconsUtils	13.0-13-g8d9cf34+1
+tickets.DM-7419-ge110ce0f89	0	flask	0.12

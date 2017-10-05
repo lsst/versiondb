@@ -1,0 +1,20 @@
+# product                 SHA1                                      Version                       
+BUILD=b3113
+doxygen                   22c5b5aff338bc761f7173b4e63308d259b927c0  1.8.13.lsst1                             
+python                    8205f36db1fd6c18f0455c8c3da620d2f7b7d479  0.0.6                                    
+flask                     f44895ae1750d69ddd6116721d00ec24477cf064  0.12                                     python
+pep8_naming               b6aae6642dff6400403e1b24945c6e157d30b7dc  0.4.1                                    python
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1                              python
+pytest                    5d2f356ca06299b8765f94a9b0a1c894e6469515  3.2.0                                    python
+pyflakes                  91ee776734f574ea9b999be0c9c5adeaf25d794b  1.5.0                                    python
+python_execnet            0a0a1cc347df6e3644b5663493c7f8e101b827d9  1.4.1                                    python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0                                   python
+pycodestyle               cf95d84d724f579d1460dee026bf5a287b33bf04  2.3.1                                    python
+python_mccabe             e8cfd9666d2bd843504181099c3b0d1e69a4ef62  0.6.1                                    python,pytest
+pytest_session2file       d5df8ace7d62308a5a692defccb5fdb7d5605152  0.1.9                                    python,pytest
+pytest_forked             1dd93f6f4ba74f155c474f17c9ed1d6381cf54eb  0.2                                      python,pytest
+flake8                    b7d62a23ace46f96a9d6ecf9c9238ff281486db2  3.3.0.lsst1                              python,python_mccabe,pycodestyle,pyflakes,pep8_naming
+pytest_flake8             544bdffa6535a1c81767e0dae56c7e597fe32f29  0.8.1+2                                  python,pytest,flake8
+pytest_xdist              459d52e45c00e4ecba3cfa8f96fd7ca4e13af6a4  1.19.1                                   python,pytest,pytest_forked,python_execnet
+sconsUtils                8d9cf3404c1ef708baec6a164c501c201050150a  13.0-13-g8d9cf34+1                       scons,python_future,pytest,pytest_flake8,pytest_xdist,pytest_session2file,doxygen
+dax_webservcommon         e110ce0f89383832e6bfac77c997b1c06a8ca6bf  tickets.DM-7419-ge110ce0f89              python,scons,sconsUtils,flask
