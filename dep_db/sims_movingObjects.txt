@@ -377,3 +377,12 @@ sims_2.2.6	0	astropy	0.0.1.lsst2
 2.4.0.sims.rc1	0	throughputs	2017.01.31-5-ga2c42b2
 2.4.0.sims.rc1	0	sims_photUtils	2.4.0.sims.rc1
 2.4.0.sims.rc1	0	sims_coordUtils	2.4.0.sims.rc1
+2.4.0.sims	0	base	13.0-12-g6586b4b+3
+2.4.0.sims	0	utils	13.0-12-gac01bb5+6
+2.4.0.sims	0	numpy	0.0.4
+2.4.0.sims	0	pandas	master-g4426870190+1
+2.4.0.sims	0	oorb	lsst-dev-g562779f920
+2.4.0.sims	0	astropy	0.0.1.lsst2+2
+2.4.0.sims	0	throughputs	2017.01.31-5-ga2c42b2
+2.4.0.sims	0	sims_photUtils	2.4.0.sims
+2.4.0.sims	0	sims_coordUtils	2.4.0.sims
