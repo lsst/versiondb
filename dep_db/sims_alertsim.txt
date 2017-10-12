@@ -1086,3 +1086,10 @@ u.danielsf.alertsim_clean_up-g3c021b5e04	0	astropy	0.0.1.lsst2+2
 2.4.0.sims	0	pymssql	2.1.1+6
 2.4.0.sims	0	daf_persistence	13.0-40-g460649b+6
 2.4.0.sims	0	astropy	0.0.1.lsst2+2
+2.4.0.sims	1	sims_utils	2.4.0.sims
+2.4.0.sims	1	sims_catalogs	2.4.0.sims
+2.4.0.sims	1	sims_catUtils	2.4.1.sims.rc1
+2.4.0.sims	1	python	0.0.6
+2.4.0.sims	1	pymssql	2.1.1+6
+2.4.0.sims	1	daf_persistence	13.0-40-g460649b+6
+2.4.0.sims	1	astropy	0.0.1.lsst2+2
