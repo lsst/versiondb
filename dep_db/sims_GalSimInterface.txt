@@ -5511,3 +5511,12 @@ u.danielsf.fix_rotskypos-gce9f1515e4	0	obs_lsstSim	13.0-13-g177be6f+6
 2.4.0.sims	1	sims_catalogs	2.4.0.sims
 2.4.0.sims	1	sims_catUtils	2.4.1.sims.rc1
 2.4.0.sims	1	obs_lsstSim	13.0-16-gb2aac10+13
+2.4.0.sims	2	galsim	1.4.3.lsst1+1
+2.4.0.sims	2	astropy	0.0.1.lsst2+2
+2.4.0.sims	2	meas_astrom	13.0-16-g30f6da5+26
+2.4.0.sims	2	afw	13.0-109-g62eb66483
+2.4.0.sims	2	sims_utils	2.4.0.sims
+2.4.0.sims	2	sims_coordUtils	2.4.0.sims+1
+2.4.0.sims	2	sims_catalogs	2.4.0.sims
+2.4.0.sims	2	sims_catUtils	u.danielsf.debug.connection_tests-gb22bccc07e
+2.4.0.sims	2	obs_lsstSim	13.0-17-gf21e97d+1
