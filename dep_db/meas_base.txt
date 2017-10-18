@@ -7152,3 +7152,15 @@ w.2016.15	0	sconsUtils	w.2016.15
 13.0-33-gb1a1d47	12	pybind11	2.1.1
 13.0-33-gb1a1d47	12	scons	3.0.0.lsst1
 13.0-33-gb1a1d47	12	sconsUtils	13.0-16-g7d208e7
+13.0-33-gb1a1d47	13	python_future	0.16.0
+13.0-33-gb1a1d47	13	utils	13.0-12-gac01bb5+8
+13.0-33-gb1a1d47	13	afw	13.0-111-gfc02bf727
+13.0-33-gb1a1d47	13	coadd_utils	13.0-4-g4231ded+49
+13.0-33-gb1a1d47	13	daf_base	13.0-5-g99bcfa4+10
+13.0-33-gb1a1d47	13	geom	13.0-1-g7257b6a+15
+13.0-33-gb1a1d47	13	numpy	0.0.4
+13.0-33-gb1a1d47	13	pex_config	13.0-4-gbcd7061+13
+13.0-33-gb1a1d47	13	pipe_base	13.0-14-g8b3bf66+38
+13.0-33-gb1a1d47	13	pybind11	2.1.1
+13.0-33-gb1a1d47	13	scons	3.0.0.lsst1
+13.0-33-gb1a1d47	13	sconsUtils	13.0-16-g7d208e7
