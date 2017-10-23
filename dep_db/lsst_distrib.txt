@@ -11364,3 +11364,14 @@ w.2016.12	0	obs_subaru	w.2016.12
 13.0-4-g2f779ae	76	lsst_obs	13.0+97
 13.0-4-g2f779ae	76	jointcal	master-g9041cab851+14
 13.0-4-g2f779ae	76	verify	master-gdec7a2c927+6
+14.0	0	lsst_apps	14.0
+14.0	0	ctrl_execute	14.0
+14.0	0	ctrl_platform_lsstvc	14.0
+14.0	0	datarel	14.0
+14.0	0	meas_extensions_convolved	14.0
+14.0	0	meas_extensions_shapeHSM	14.0
+14.0	0	meas_extensions_photometryKron	14.0
+14.0	0	pipe_drivers	14.0
+14.0	0	lsst_obs	14.0
+14.0	0	jointcal	14.0
+14.0	0	verify	14.0
