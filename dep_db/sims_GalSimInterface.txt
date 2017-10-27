@@ -5547,3 +5547,12 @@ u.danielsf.fix_rotskypos-gce9f1515e4	0	obs_lsstSim	13.0-13-g177be6f+6
 2.4.0.sims	5	sims_catalogs	2.4.0.sims+1
 2.4.0.sims	5	sims_catUtils	2.4.1.sims+1
 2.4.0.sims	5	obs_lsstSim	14.0+1
+2.4.0.sims	6	galsim	1.4.3.lsst1+1
+2.4.0.sims	6	astropy	0.0.1.lsst2+2
+2.4.0.sims	6	meas_astrom	14.0
+2.4.0.sims	6	afw	14.0
+2.4.0.sims	6	sims_utils	2.4.0.sims+2
+2.4.0.sims	6	sims_coordUtils	2.4.0.sims+3
+2.4.0.sims	6	sims_catalogs	2.4.0.sims+2
+2.4.0.sims	6	sims_catUtils	2.4.1.sims+2
+2.4.0.sims	6	obs_lsstSim	14.0
