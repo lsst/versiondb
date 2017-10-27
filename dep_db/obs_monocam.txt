@@ -1220,3 +1220,13 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 14.0-1-gd513ce3	0	skypix	13.0+113
 14.0-1-gd513ce3	0	utils	14.0-4-gac01bb5
 14.0-1-gd513ce3	0	meas_extensions_astrometryNet	14.0+1
+14.0-1-gd513ce3	1	afw	14.0-17-gfc02bf727+1
+14.0-1-gd513ce3	1	daf_base	14.0-3-g99bcfa4
+14.0-1-gd513ce3	1	obs_base	14.0-14-gbdc8a44
+14.0-1-gd513ce3	1	pex_config	14.0-1-gbcd7061
+14.0-1-gd513ce3	1	pex_policy	14.0-1-g4b114ac
+14.0-1-gd513ce3	1	python_future	0.16.0
+14.0-1-gd513ce3	1	numpy	0.0.4
+14.0-1-gd513ce3	1	skypix	13.0+114
+14.0-1-gd513ce3	1	utils	14.0-4-gac01bb5
+14.0-1-gd513ce3	1	meas_extensions_astrometryNet	14.0+3
