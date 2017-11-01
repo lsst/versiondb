@@ -1576,3 +1576,15 @@ master-g489e6e60e2	41	testdata_decam	12.1-3-gfbd6eff
 14.0-1-g89eebdb	3	testdata_cfht	14.0
 14.0-1-g89eebdb	3	testdata_subaru	14.0
 14.0-1-g89eebdb	3	testdata_decam	14.0
+14.0-1-g89eebdb	4	obs_cfht	14.0-3-g5d31639+4
+14.0-1-g89eebdb	4	obs_comCam	master-gd11fa75b98+14
+14.0-1-g89eebdb	4	obs_ctio0m9	master-g0929698575+13
+14.0-1-g89eebdb	4	obs_decam	14.0-4-g3127c16+4
+14.0-1-g89eebdb	4	obs_lsstSim	14.0-3-gf21e97d+4
+14.0-1-g89eebdb	4	obs_subaru	14.0-6-gcb35f37b+4
+14.0-1-g89eebdb	4	obs_test	14.0-4-g7685640+3
+14.0-1-g89eebdb	4	obs_monocam	14.0-1-gd513ce3+3
+14.0-1-g89eebdb	4	obs_sdss	14.0-3-g49fd657+4
+14.0-1-g89eebdb	4	testdata_cfht	14.0
+14.0-1-g89eebdb	4	testdata_subaru	14.0
+14.0-1-g89eebdb	4	testdata_decam	14.0
