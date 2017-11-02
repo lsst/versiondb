@@ -11430,3 +11430,14 @@ w.2016.12	0	obs_subaru	w.2016.12
 14.0	5	lsst_obs	14.0-1-g89eebdb+4
 14.0	5	jointcal	14.0-13-g0c7ec64+2
 14.0	5	verify	14.0-4-g9a0285c+1
+14.0	6	lsst_apps	14.0+6
+14.0	6	ctrl_execute	14.0-2-g1b5eec6+2
+14.0	6	ctrl_platform_lsstvc	14.0+3
+14.0	6	datarel	14.0+5
+14.0	6	meas_extensions_convolved	14.0+4
+14.0	6	meas_extensions_shapeHSM	14.0-1-g1922b1c+3
+14.0	6	meas_extensions_photometryKron	14.0-1-g30344f0+3
+14.0	6	pipe_drivers	14.0-4-g61c0bd4+4
+14.0	6	lsst_obs	14.0-1-g89eebdb+5
+14.0	6	jointcal	14.0-14-g932474c
+14.0	6	verify	14.0-4-g9a0285c+1
