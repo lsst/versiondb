@@ -173,3 +173,10 @@ tickets.DM-7449-g6bbecf3a5c	0	astropy	0.0.1.lsst2+1
 1.4.3.lsst1	1	fftw	3.3.4.lsst2
 1.4.3.lsst1	1	tmv	0.73.lsst1+1
 1.4.3.lsst1	1	astropy	0.0.1.lsst2+2
+1.4.3.lsst1	2	numpy	1.13.1
+1.4.3.lsst1	2	pyfits	3.4.0+9
+1.4.3.lsst1	2	python_future	0.16.0+1
+1.4.3.lsst1	2	boost	1.60.lsst1+2
+1.4.3.lsst1	2	fftw	3.3.4.lsst2
+1.4.3.lsst1	2	tmv	0.73.lsst1+2
+1.4.3.lsst1	2	astropy	2.0.1
