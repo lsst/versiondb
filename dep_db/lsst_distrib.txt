@@ -11498,3 +11498,15 @@ w.2016.12	0	obs_subaru	w.2016.12
 14.0-1-g7eb1b82	1	synpipe	master-g1e5e621b74+1
 14.0-1-g7eb1b82	1	jointcal	14.0-14-g932474c+5
 14.0-1-g7eb1b82	1	verify	14.0-4-g9a0285c+2
+14.0-1-g7eb1b82	2	lsst_apps	14.0+11
+14.0-1-g7eb1b82	2	ctrl_execute	14.0-3-ga724952
+14.0-1-g7eb1b82	2	ctrl_platform_lsstvc	14.0-1-g5ca01e7
+14.0-1-g7eb1b82	2	datarel	14.0+10
+14.0-1-g7eb1b82	2	meas_extensions_convolved	14.0+7
+14.0-1-g7eb1b82	2	meas_extensions_shapeHSM	14.0-1-g1922b1c+6
+14.0-1-g7eb1b82	2	meas_extensions_photometryKron	14.0-1-g30344f0+6
+14.0-1-g7eb1b82	2	pipe_drivers	14.0-5-g782f885+4
+14.0-1-g7eb1b82	2	lsst_obs	14.0-1-g89eebdb+10
+14.0-1-g7eb1b82	2	synpipe	master-g1e5e621b74+1
+14.0-1-g7eb1b82	2	jointcal	14.0-14-g932474c+5
+14.0-1-g7eb1b82	2	verify	14.0-4-g9a0285c+2
