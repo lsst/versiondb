@@ -5840,3 +5840,16 @@ w.2016.15	0	utils	w.2016.15
 14.0	9	sconsUtils	14.0-11-gf233161+1
 14.0	9	pybind11	2.1.1
 14.0	9	utils	14.0-4-gac01bb5+2
+14.0	10	afw	14.0-22-gc76603d1b+1
+14.0	10	boost	1.60.lsst1+2
+14.0	10	daf_base	14.0-3-g99bcfa4+2
+14.0	10	fftw	3.3.4.lsst2
+14.0	10	meas_algorithms	14.0-7-g23fdbe95+3
+14.0	10	meas_base	14.0-9-g876143c+2
+14.0	10	numpy	1.13.1
+14.0	10	psfex	12.0+31
+14.0	10	python_future	0.16.0+1
+14.0	10	scons	3.0.0.lsst1+1
+14.0	10	sconsUtils	14.0-11-gf233161+1
+14.0	10	pybind11	2.1.1
+14.0	10	utils	14.0-4-gac01bb5+2
