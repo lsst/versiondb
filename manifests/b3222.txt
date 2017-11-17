@@ -1,0 +1,14 @@
+# product                 SHA1                                      Version                       
+BUILD=b3222
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+python                    f329a2be145e9dc3957a25d3cd20595a1aaa5814  0.0.7                                    
+boost                     18cc8bacfbd8ac16a414ce6acb450e85ee174ca5  1.60.lsst1+2                             python
+python_d2to1              1893c8d187b8f73cc91f0cf6c97564d1635934a0  0.2.12.lsst2+2                           python
+astropy                   4d079c1f2ee2e98c7771a0c61b15ffd17e211257  2.0.1                                    python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+1                                 python
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+1                            python
+numpy                     85b095f6f8cb5a3cd462de8d5762304427b1b233  1.13.1                                   python
+stsci_distutils           4bba6935c89f769e59cec6780a68ba8509fccfb0  0.3.7.lsst1+3                            python_d2to1
+tmv                       d8aa65926e7c98a9298b73a422feaafe7bf3d672  0.73.lsst1+2                             scons
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+9                                  numpy,python_d2to1,stsci_distutils
+galsim                    a7f90c22266816607e8bf9117412090307ce4d47  SIM-2550.galsim_v1.5-ga7f90c2226         numpy,pyfits,python_future,boost,fftw,tmv,astropy
