@@ -4112,3 +4112,17 @@ master-ge253fdd716	33	validation_data_cfht	master-g023f152e8a+100
 master-ge253fdd716	33	validation_data_decam	master-g52ac2b0d78
 master-ge253fdd716	33	validate_drp	master-ge9d3171d72
 master-ge253fdd716	33	ci_ctio0m9	master-gbe69b68c0a+27
+master-ge253fdd716	34	lsst_apps	14.0+19
+master-ge253fdd716	34	lsst_distrib	14.0-1-g7eb1b82+11
+master-ge253fdd716	34	testdata_subaru	14.0
+master-ge253fdd716	34	testdata_cfht	14.0
+master-ge253fdd716	34	testdata_decam	14.0
+master-ge253fdd716	34	obs_subaru	14.0-15-g18954adb
+master-ge253fdd716	34	obs_cfht	14.0-3-g5d31639+17
+master-ge253fdd716	34	obs_decam	14.0-4-g3127c16+17
+master-ge253fdd716	34	obs_lsstSim	14.0-4-gfe87e2d+9
+master-ge253fdd716	34	obs_sdss	14.0-4-g9e642e9
+master-ge253fdd716	34	validation_data_cfht	master-g023f152e8a+101
+master-ge253fdd716	34	validation_data_decam	master-g52ac2b0d78
+master-ge253fdd716	34	validate_drp	master-ge9d3171d72+1
+master-ge253fdd716	34	ci_ctio0m9	master-gbe69b68c0a+28
