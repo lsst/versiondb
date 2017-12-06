@@ -1758,3 +1758,10 @@ u.danielsf.2.3.7.1.sims-g674f0d60ff	1	python	0.0.6
 14.0-14-g87d16e8	2	pyyaml	3.11.lsst1-2-g6ae2b7a
 14.0-14-g87d16e8	2	pybind11	2.1.1
 14.0-14-g87d16e8	2	python	0.0.6
+14.0-13-g383e141	2	log	14.0-2-ga5af9b6+2
+14.0-13-g383e141	2	mariadbclient	10.1.21.lsst2
+14.0-13-g383e141	2	pex_policy	14.0-1-g4b114ac+5
+14.0-13-g383e141	2	astropy	2.0.1
+14.0-13-g383e141	2	pyyaml	3.11.lsst1-2-g6ae2b7a+1
+14.0-13-g383e141	2	pybind11	2.1.1
+14.0-13-g383e141	2	python	0.0.7
