@@ -361,3 +361,10 @@ w.2016.15	0	doxygen	1.8.5.lsst1
 14.0-12-g20aad02	1	pytest_xdist	1.20.1-1-g65af3e3
 14.0-12-g20aad02	1	pytest_session2file	0.1.9+2
 14.0-12-g20aad02	1	doxygen	1.8.13.lsst1
+14.0-12-g20aad02	2	scons	3.0.0.lsst1
+14.0-12-g20aad02	2	python_future	0.16.0
+14.0-12-g20aad02	2	pytest	3.2.0
+14.0-12-g20aad02	2	pytest_flake8	0.8.1
+14.0-12-g20aad02	2	pytest_xdist	1.19.1
+14.0-12-g20aad02	2	pytest_session2file	0.1.9
+14.0-12-g20aad02	2	doxygen	1.8.5.lsst1
