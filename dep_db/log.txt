@@ -1144,3 +1144,10 @@ tickets.DM-6989-g5033cb892f	0	sconsUtils	12.0-1-g08b90fd
 14.0-2-ga5af9b6	4	python	0.0.7
 14.0-2-ga5af9b6	4	sconsUtils	14.0-13-gf1b78aa
 14.0-2-ga5af9b6	4	utils	14.0-6-g4f52afe+3
+14.0-2-ga5af9b6	5	boost	1.60.lsst1+2
+14.0-2-ga5af9b6	5	log4cxx	0.10.0.lsst7
+14.0-2-ga5af9b6	5	base	14.0-8-g7f6dd6b+4
+14.0-2-ga5af9b6	5	pybind11	2.1.1
+14.0-2-ga5af9b6	5	python	0.0.7
+14.0-2-ga5af9b6	5	sconsUtils	14.0-14-g812352e
+14.0-2-ga5af9b6	5	utils	14.0-6-g4f52afe+4
