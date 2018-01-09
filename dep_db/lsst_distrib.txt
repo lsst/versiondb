@@ -11912,3 +11912,17 @@ w.2016.12	0	obs_subaru	w.2016.12
 14.0-3-gf107855	7	verify	14.0-7-g9099810
 14.0-3-gf107855	7	display_firefly	master-gdeaf1fb883+10
 14.0-3-gf107855	7	cp_pipe	master-ga5d0207a7d+6
+14.0-3-gf107855	8	lsst_apps	14.0+39
+14.0-3-gf107855	8	ctrl_execute	14.0-4-gc2b038a+6
+14.0-3-gf107855	8	ctrl_platform_lsstvc	14.0-2-g3865e40+6
+14.0-3-gf107855	8	datarel	14.0+36
+14.0-3-gf107855	8	meas_extensions_convolved	14.0+30
+14.0-3-gf107855	8	meas_extensions_shapeHSM	14.0-2-gb85cf1e+9
+14.0-3-gf107855	8	meas_extensions_photometryKron	14.0-1-g30344f0+29
+14.0-3-gf107855	8	pipe_drivers	6.0b0-hsc-11-g620b133
+14.0-3-gf107855	8	lsst_obs	14.0-1-g89eebdb+39
+14.0-3-gf107855	8	synpipe	master-g5b975e8f94+19
+14.0-3-gf107855	8	jointcal	14.0-18-gbdafc55+5
+14.0-3-gf107855	8	verify	14.0-7-g9099810
+14.0-3-gf107855	8	display_firefly	master-gdeaf1fb883+11
+14.0-3-gf107855	8	cp_pipe	master-ga5d0207a7d+7
