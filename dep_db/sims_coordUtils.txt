@@ -6671,3 +6671,9 @@ u.danielsf.fix_rotskypos-g6b744ce090	1	obs_lsstSim	13.0-15-g29533ec+8
 2.4.2.sims	1	afw	14.0-26-gaaaaa5c36
 2.4.2.sims	1	sims_utils	2.4.2.sims+1
 2.4.2.sims	1	obs_lsstSim	14.0-4-gfe87e2d+21
+2.5.0.sims.rc1	0	base	14.0-8-g7f6dd6b+6
+2.5.0.sims.rc1	0	python	0.0.7
+2.5.0.sims.rc1	0	utils	14.0-8-g1f982c9
+2.5.0.sims.rc1	0	afw	14.0-35-g29d3a87a7
+2.5.0.sims.rc1	0	sims_utils	2.5.0.sims.rc1
+2.5.0.sims.rc1	0	obs_lsstSim	14.0-7-g885f9b1+8
