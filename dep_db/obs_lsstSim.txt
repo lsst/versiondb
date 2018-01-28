@@ -13484,3 +13484,14 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 14.0-8-gb7d815e	1	pybind11	2.1.1
 14.0-8-gb7d815e	1	python_mysqlclient	1.3.7.lsst1+10
 14.0-8-gb7d815e	1	utils	14.0-8-g1f982c9
+14.0-8-gb7d815e	2	daf_base	14.0-5-g744ff5f
+14.0-8-gb7d815e	2	pex_policy	14.0-1-g4b114ac+12
+14.0-8-gb7d815e	2	afw	14.0-38-g278b05818
+14.0-8-gb7d815e	2	daf_persistence	14.0-14-g87d16e8+8
+14.0-8-gb7d815e	2	obs_base	14.0-21-g4f575af
+14.0-8-gb7d815e	2	meas_algorithms	14.0-10-g59393990+1
+14.0-8-gb7d815e	2	ip_isr	14.0-4-g3dd7f2d
+14.0-8-gb7d815e	2	pipe_tasks	14.0-39-g03bf09b5
+14.0-8-gb7d815e	2	pybind11	2.1.1
+14.0-8-gb7d815e	2	python_mysqlclient	1.3.7.lsst1+10
+14.0-8-gb7d815e	2	utils	14.0-8-g1f982c9
