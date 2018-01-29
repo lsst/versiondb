@@ -6256,3 +6256,16 @@ w.2016.15	0	utils	w.2016.15
 14.0-1-g3019bb2	26	sconsUtils	14.0-15-g79b7e05
 14.0-1-g3019bb2	26	pybind11	2.1.1
 14.0-1-g3019bb2	26	utils	14.0-8-g1f982c9
+14.0-1-g3019bb2	27	afw	14.0-39-g2835ff510
+14.0-1-g3019bb2	27	boost	1.60.lsst1+2
+14.0-1-g3019bb2	27	daf_base	14.0-5-g744ff5f
+14.0-1-g3019bb2	27	fftw	3.3.4.lsst2
+14.0-1-g3019bb2	27	meas_algorithms	14.0-10-g59393990+2
+14.0-1-g3019bb2	27	meas_base	14.0-14-gdfadacb+2
+14.0-1-g3019bb2	27	numpy	1.13.1
+14.0-1-g3019bb2	27	psfex	14.0-1-g823d0e4+6
+14.0-1-g3019bb2	27	python_future	0.16.0+1
+14.0-1-g3019bb2	27	scons	3.0.0.lsst1+1
+14.0-1-g3019bb2	27	sconsUtils	14.0-15-g79b7e05
+14.0-1-g3019bb2	27	pybind11	2.1.1
+14.0-1-g3019bb2	27	utils	14.0-8-g1f982c9

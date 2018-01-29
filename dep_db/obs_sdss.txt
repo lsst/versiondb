@@ -11036,3 +11036,12 @@ u.danielsf.2.3.7.1.sims-g80c536f580	0	log	13.0-7-g73c05b9+1
 14.0-4-g9e642e9	29	pipe_tasks	14.0-39-g03bf09b5
 14.0-4-g9e642e9	29	utils	14.0-8-g1f982c9
 14.0-4-g9e642e9	29	log	14.0-2-ga5af9b6+8
+14.0-4-g9e642e9	30	pex_policy	14.0-1-g4b114ac+12
+14.0-4-g9e642e9	30	obs_base	14.0-21-g4f575af+1
+14.0-4-g9e642e9	30	afw	14.0-39-g2835ff510
+14.0-4-g9e642e9	30	meas_algorithms	14.0-10-g59393990+2
+14.0-4-g9e642e9	30	meas_astrom	14.0-4-g4cc409d+32
+14.0-4-g9e642e9	30	python_mysqlclient	1.3.7.lsst1+10
+14.0-4-g9e642e9	30	pipe_tasks	14.0-39-g03bf09b5+1
+14.0-4-g9e642e9	30	utils	14.0-8-g1f982c9
+14.0-4-g9e642e9	30	log	14.0-2-ga5af9b6+8
