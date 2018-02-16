@@ -4826,3 +4826,17 @@ master-g26753debd6	10	validation_data_cfht	master-g023f152e8a+138
 master-g26753debd6	10	validation_data_decam	master-g1cc1f66a89
 master-g26753debd6	10	validate_drp	master-g914caf3339
 master-g26753debd6	10	ci_ctio0m9	master-gbe69b68c0a+68
+master-g26753debd6	11	lsst_apps	14.0+61
+master-g26753debd6	11	lsst_distrib	14.0-5-gdba0111
+master-g26753debd6	11	testdata_subaru	14.0
+master-g26753debd6	11	testdata_cfht	14.0
+master-g26753debd6	11	testdata_decam	14.0
+master-g26753debd6	11	obs_subaru	14.0-31-g6206ca42+3
+master-g26753debd6	11	obs_cfht	14.0-4-g0f6ca4c+12
+master-g26753debd6	11	obs_decam	14.0-7-gb776afc+24
+master-g26753debd6	11	obs_lsstSim	14.0-8-gb7d815e+14
+master-g26753debd6	11	obs_sdss	14.0-4-g9e642e9+42
+master-g26753debd6	11	validation_data_cfht	master-g023f152e8a+139
+master-g26753debd6	11	validation_data_decam	master-g1cc1f66a89
+master-g26753debd6	11	validate_drp	master-g0de5f478b9
+master-g26753debd6	11	ci_ctio0m9	master-gbe69b68c0a+69
