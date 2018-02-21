@@ -779,3 +779,14 @@ master-g57ddd37c6a	0	skypix	14.0-1-ga19a712
 master-g57ddd37c6a	0	utils	14.0-9-g11010eb
 master-g57ddd37c6a	0	ip_isr	14.0-9-gdb3c3f2
 master-g57ddd37c6a	0	pipe_tasks	14.0-47-gd71a8703
+master-g57ddd37c6a	1	afw	14.0-49-g535656444+1
+master-g57ddd37c6a	1	daf_base	14.0-5-g744ff5f+2
+master-g57ddd37c6a	1	obs_base	14.0-23-g83b7482+1
+master-g57ddd37c6a	1	pex_config	14.0-2-g319577b+11
+master-g57ddd37c6a	1	pex_policy	14.0-1-g4b114ac+14
+master-g57ddd37c6a	1	python_future	0.16.0+1
+master-g57ddd37c6a	1	numpy	1.13.1
+master-g57ddd37c6a	1	skypix	14.0-1-ga19a712+1
+master-g57ddd37c6a	1	utils	14.0-9-g11010eb
+master-g57ddd37c6a	1	ip_isr	14.0-9-gdb3c3f2+1
+master-g57ddd37c6a	1	pipe_tasks	14.0-49-g18b51594
