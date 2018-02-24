@@ -5510,3 +5510,17 @@ w.2016.12	0	testdata_subaru	w.2016.12
 14.0-33-g33f5ade9	1	meas_extensions_psfex	14.0-2-ge3897b5+2
 14.0-33-g33f5ade9	1	meas_extensions_shapeHSM	14.0-4-ge348507+2
 14.0-33-g33f5ade9	1	testdata_subaru	14.0
+14.0-33-g33f5ade9	2	daf_persistence	14.0-14-g87d16e8+11
+14.0-33-g33f5ade9	2	obs_base	14.0-24-g714dd46+1
+14.0-33-g33f5ade9	2	skypix	14.0-1-ga19a712+2
+14.0-33-g33f5ade9	2	pipe_tasks	14.0-50-g5874b18d+1
+14.0-33-g33f5ade9	2	meas_astrom	14.0-7-g0d69b06+3
+14.0-33-g33f5ade9	2	pyfits	3.4.0+9
+14.0-33-g33f5ade9	2	sconsUtils	14.0-15-g79b7e05
+14.0-33-g33f5ade9	2	pybind11	2.1.1
+14.0-33-g33f5ade9	2	numpy	1.13.1
+14.0-33-g33f5ade9	2	astshim	14.0-15-g77b58a8+1
+14.0-33-g33f5ade9	2	meas_modelfit	14.0-3-gda7b0c7+3
+14.0-33-g33f5ade9	2	meas_extensions_psfex	14.0-2-ge3897b5+3
+14.0-33-g33f5ade9	2	meas_extensions_shapeHSM	14.0-4-ge348507+3
+14.0-33-g33f5ade9	2	testdata_subaru	14.0
