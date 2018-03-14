@@ -1,0 +1,14 @@
+# product                 SHA1                                      Version                       
+BUILD=b3476
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+python                    f329a2be145e9dc3957a25d3cd20595a1aaa5814  0.0.7                                    
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+1                            python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+1                                 python
+astropy                   4d079c1f2ee2e98c7771a0c61b15ffd17e211257  2.0.1                                    python
+boost                     ed2ba0af23c00eff59b44431769b6fc8ec719852  1.66.0                                   python
+numpy                     85b095f6f8cb5a3cd462de8d5762304427b1b233  1.13.1                                   python
+python_d2to1              1893c8d187b8f73cc91f0cf6c97564d1635934a0  0.2.12.lsst2+2                           python
+tmv                       db35f41b63bc9362e8241da22dd7dbb3a4a00c70  tickets.DM-13213-gdb35f41b63             scons
+stsci_distutils           4bba6935c89f769e59cec6780a68ba8509fccfb0  0.3.7.lsst1+3                            python_d2to1
+pyfits                    40c72f9bf25b2240d7b1b6b5b6547a451ab78a28  3.4.0+9                                  numpy,python_d2to1,stsci_distutils
+galsim                    b65590d2d0dafc5ed36eb9c0cedbf7c37ba8d889  tickets.DM-13213-gb65590d2d0             numpy,pyfits,python_future,boost,fftw,tmv,astropy
