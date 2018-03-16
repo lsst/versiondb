@@ -4370,3 +4370,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 14.0-9-g8a7a6f3	6	pex_policy	14.0-1-g4b114ac+18
 14.0-9-g8a7a6f3	6	ip_isr	14.0-10-g2094653+9
 14.0-9-g8a7a6f3	6	testdata_decam	14.0
+14.0-9-g8a7a6f3	7	utils	14.0-10-gaad1ee2
+14.0-9-g8a7a6f3	7	daf_persistence	14.0-15-gd412284
+14.0-9-g8a7a6f3	7	obs_base	14.0-28-gd4c92d7+2
+14.0-9-g8a7a6f3	7	afw	14.0-56-gfbf220870
+14.0-9-g8a7a6f3	7	meas_algorithms	14.0-18-gf7dca964+12
+14.0-9-g8a7a6f3	7	pipe_tasks	14.0-53-g87cac093+4
+14.0-9-g8a7a6f3	7	pipe_base	14.0-6-ge2c9487+57
+14.0-9-g8a7a6f3	7	pex_exceptions	14.0-1-g13ef843+12
+14.0-9-g8a7a6f3	7	pex_config	14.0-4-gae1598d
+14.0-9-g8a7a6f3	7	pex_policy	14.0-1-g4b114ac+18
+14.0-9-g8a7a6f3	7	ip_isr	14.0-10-g2094653+10
+14.0-9-g8a7a6f3	7	testdata_decam	14.0
