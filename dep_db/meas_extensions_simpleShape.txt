@@ -3487,3 +3487,13 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 14.0-1-ge993229	63	utils	14.0-10-gaad1ee2
 14.0-1-ge993229	63	pex_config	14.0-4-gae1598d
 14.0-1-ge993229	63	pex_exceptions	14.0-1-g13ef843+12
+14.0-1-ge993229	64	scons	3.0.0.lsst1+1
+14.0-1-ge993229	64	sconsUtils	14.0-15-g79b7e05
+14.0-1-ge993229	64	base	14.0-9-g6668b0b
+14.0-1-ge993229	64	numpy	1.13.1
+14.0-1-ge993229	64	pybind11	2.1.1-1-gbfe630d
+14.0-1-ge993229	64	afw	14.0-58-g91bfccb15
+14.0-1-ge993229	64	meas_base	14.0-21-gb9e430a+11
+14.0-1-ge993229	64	utils	14.0-10-gaad1ee2+1
+14.0-1-ge993229	64	pex_config	14.0-4-gae1598d+1
+14.0-1-ge993229	64	pex_exceptions	14.0-2-g14e9bfd

@@ -2875,3 +2875,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 6.0b0-hsc-20-g3029749	12	pex_config	14.0-4-gae1598d
 6.0b0-hsc-20-g3029749	12	pipe_base	14.0-6-ge2c9487+57
 6.0b0-hsc-20-g3029749	12	pipe_tasks	14.0-53-g87cac093+4
+6.0b0-hsc-21-g096812d	0	ctrl_pool	14.0-3-g388e494+12
+6.0b0-hsc-21-g096812d	0	afw	14.0-58-g91bfccb15
+6.0b0-hsc-21-g096812d	0	pex_exceptions	14.0-2-g14e9bfd
+6.0b0-hsc-21-g096812d	0	geom	14.0-1-g7257b6a+17
+6.0b0-hsc-21-g096812d	0	pex_config	14.0-4-gae1598d+1
+6.0b0-hsc-21-g096812d	0	pipe_base	14.0-6-ge2c9487+58
+6.0b0-hsc-21-g096812d	0	pipe_tasks	14.0-54-gb4e84373
