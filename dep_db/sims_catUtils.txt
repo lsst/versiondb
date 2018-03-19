@@ -17879,3 +17879,17 @@ u.danielsf.debug.connection_tests-gb22bccc07e	0	obs_lsstSim	13.0-17-gf21e97d+1
 2.5.1.sims	2	astropy	2.0.1
 2.5.1.sims	2	sqlalchemy	1.2.2
 2.5.1.sims	2	obs_lsstSim	14.0-11-gb4cc0c4+2
+2.5.1.sims	3	utils	14.0-10-gaad1ee2+1
+2.5.1.sims	3	sims_utils	2.6.0.sims+2
+2.5.1.sims	3	sims_catalogs	2.5.0.sims+2
+2.5.1.sims	3	sims_coordUtils	2.6.0.sims+3
+2.5.1.sims	3	sims_photUtils	2.4.0.sims+5
+2.5.1.sims	3	sims_data	2017.10.05
+2.5.1.sims	3	palpy	1.8.1+2
+2.5.1.sims	3	python	0.0.7
+2.5.1.sims	3	pymssql	2.1.1+7
+2.5.1.sims	3	daf_persistence	14.0-17-g2e0c876
+2.5.1.sims	3	sncosmo	12.0-1-g5e70e90+4
+2.5.1.sims	3	astropy	2.0.1
+2.5.1.sims	3	sqlalchemy	1.2.2
+2.5.1.sims	3	obs_lsstSim	14.0-11-gb4cc0c4+3
