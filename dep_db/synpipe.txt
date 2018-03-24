@@ -406,3 +406,9 @@ master-g7080d5729b	0	pex_config	14.0-4-gae1598d+1
 master-g7080d5729b	0	afw	14.0-59-g0c7cc230b
 master-g7080d5729b	0	pipe_base	14.0-6-ge2c9487+59
 master-g7080d5729b	0	pipe_tasks	14.0-55-g35e83f69
+master-g7080d5729b	1	astropy	2.0.1
+master-g7080d5729b	1	daf_persistence	14.0-17-g2e0c876
+master-g7080d5729b	1	pex_config	14.0-4-gae1598d+1
+master-g7080d5729b	1	afw	14.0-60-ga423a1d65
+master-g7080d5729b	1	pipe_base	14.0-6-ge2c9487+60
+master-g7080d5729b	1	pipe_tasks	14.0-55-g35e83f69+1
