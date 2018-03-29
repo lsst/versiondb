@@ -13901,3 +13901,13 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 14.0-14-g6f99b4d	0	pipe_tasks	14.0-56-gcf273cdb
 14.0-14-g6f99b4d	0	pybind11	2.1.1-1-gbfe630d
 14.0-14-g6f99b4d	0	utils	14.0-12-g9103c06
+14.0-14-g6f99b4d	1	daf_base	14.0-6-gf4f1c34+2
+14.0-14-g6f99b4d	1	pex_policy	14.0-1-g4b114ac+21
+14.0-14-g6f99b4d	1	afw	14.0-63-g921e36d6a
+14.0-14-g6f99b4d	1	daf_persistence	14.0-18-g45f767a+1
+14.0-14-g6f99b4d	1	obs_base	14.0-29-g0478fed+5
+14.0-14-g6f99b4d	1	meas_algorithms	14.0-21-ge7d40960+5
+14.0-14-g6f99b4d	1	ip_isr	14.0-12-g947dc0d+2
+14.0-14-g6f99b4d	1	pipe_tasks	14.0-56-gcf273cdb+1
+14.0-14-g6f99b4d	1	pybind11	2.1.1-1-gbfe630d
+14.0-14-g6f99b4d	1	utils	14.0-12-g9103c06
