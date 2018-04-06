@@ -6519,3 +6519,11 @@ w.2016.15	0	utils	w.2016.15
 15.0-4-gff20472	0	numpy	1.13.1
 15.0-4-gff20472	0	utils	15.0-3-g9103c06
 15.0-4-gff20472	0	python_future	0.16.0+1
+15.0-4-gff20472	1	afw	15.0-15-ge506bfb5f+1
+15.0-4-gff20472	1	daf_base	15.0-1-gf4f1c34
+15.0-4-gff20472	1	obs_base	15.0-4-g0478fed+1
+15.0-4-gff20472	1	pex_config	15.0-1-gae1598d
+15.0-4-gff20472	1	pex_policy	15.0
+15.0-4-gff20472	1	numpy	1.13.1
+15.0-4-gff20472	1	utils	15.0-3-g9103c06
+15.0-4-gff20472	1	python_future	0.16.0+1
