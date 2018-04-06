@@ -628,3 +628,14 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 14.0-10-g444b9f0	10	log	14.0-2-ga5af9b6+18
 14.0-10-g444b9f0	10	pytest_flake8	0.9.1+2
 14.0-10-g444b9f0	10	verify_metrics	14.0-2-g586ef34+6
+14.0-10-g444b9f0	11	python_future	0.16.0+1
+14.0-10-g444b9f0	11	pyyaml	3.11.lsst2
+14.0-10-g444b9f0	11	requests	2.9.1.lsst1+2
+14.0-10-g444b9f0	11	numpy	1.13.1
+14.0-10-g444b9f0	11	astropy	2.0.1
+14.0-10-g444b9f0	11	sconsUtils	15.0-1-gcea188a
+14.0-10-g444b9f0	11	utils	15.0-3-g9103c06
+14.0-10-g444b9f0	11	pex_exceptions	15.0-1-g14e9bfd
+14.0-10-g444b9f0	11	log	15.0
+14.0-10-g444b9f0	11	pytest_flake8	0.9.1+2
+14.0-10-g444b9f0	11	verify_metrics	14.0-2-g586ef34+7
