@@ -4538,3 +4538,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 14.0-14-gd0b0492	0	pex_policy	14.0-1-g4b114ac+22
 14.0-14-gd0b0492	0	ip_isr	14.0-12-g947dc0d+5
 14.0-14-gd0b0492	0	testdata_decam	14.0
+15.0	0	utils	15.0
+15.0	0	daf_persistence	15.0
+15.0	0	obs_base	15.0
+15.0	0	afw	15.0
+15.0	0	meas_algorithms	15.0
+15.0	0	pipe_tasks	15.0
+15.0	0	pipe_base	15.0
+15.0	0	pex_exceptions	15.0
+15.0	0	pex_config	15.0
+15.0	0	pex_policy	15.0+1
+15.0	0	ip_isr	15.0
+15.0	0	testdata_decam	15.0

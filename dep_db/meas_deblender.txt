@@ -6794,3 +6794,12 @@ w.2016.15	0	matplotlib	0.0.2
 14.0-1-g8b7e855	78	utils	14.0-12-g9103c06+1
 14.0-1-g8b7e855	78	pybind11	2.1.1-1-gbfe630d
 14.0-1-g8b7e855	78	matplotlib	2.0.2
+15.0	0	afw	15.0
+15.0	0	log	15.0+1
+15.0	0	meas_algorithms	15.0
+15.0	0	numpy	1.13.1
+15.0	0	scons	3.0.0.lsst1+1
+15.0	0	sconsUtils	15.0
+15.0	0	utils	15.0
+15.0	0	pybind11	2.1.1-1-gbfe630d
+15.0	0	matplotlib	2.0.2

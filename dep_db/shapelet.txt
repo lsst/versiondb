@@ -2269,3 +2269,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 14.0-1-ge6e5c2d	61	sconsUtils	14.0-16-gcea188a
 14.0-1-ge6e5c2d	61	pybind11	2.1.1-1-gbfe630d
 14.0-1-ge6e5c2d	61	scipy	0.0.1.lsst1+5
+15.0	0	afw	15.0
+15.0	0	numpy	1.13.1
+15.0	0	scons	3.0.0.lsst1+1
+15.0	0	sconsUtils	15.0
+15.0	0	pybind11	2.1.1-1-gbfe630d
+15.0	0	scipy	0.0.1.lsst1+5
