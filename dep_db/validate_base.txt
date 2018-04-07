@@ -184,3 +184,9 @@ master-g24db930f3a	23	sconsUtils	14.0-16-gcea188a
 15.0	0	numpy	1.13.1
 15.0	0	astropy	2.0.1
 15.0	0	sconsUtils	15.0
+15.0	1	python	0.0.7
+15.0	1	python_future	0.16.0+1
+15.0	1	pyyaml	3.11.lsst2
+15.0	1	numpy	1.13.1
+15.0	1	astropy	2.0.1
+15.0	1	sconsUtils	15.0-1-gcea188a

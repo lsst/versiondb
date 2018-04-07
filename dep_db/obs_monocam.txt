@@ -1957,3 +1957,12 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 15.0	0	skypix	15.0
 15.0	0	utils	15.0
 15.0	0	meas_extensions_astrometryNet	15.0
+15.0-2-gb417c4d	0	afw	15.0-16-g953e39cab
+15.0-2-gb417c4d	0	daf_base	15.0-1-gf4f1c34
+15.0-2-gb417c4d	0	obs_base	15.0-4-g0478fed+2
+15.0-2-gb417c4d	0	pex_config	15.0-1-gae1598d
+15.0-2-gb417c4d	0	pex_policy	15.0
+15.0-2-gb417c4d	0	python_future	0.16.0+1
+15.0-2-gb417c4d	0	numpy	1.13.1
+15.0-2-gb417c4d	0	utils	15.0-3-g9103c06
+15.0-2-gb417c4d	0	meas_extensions_astrometryNet	15.0-1-gc45031d
