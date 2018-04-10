@@ -11434,3 +11434,11 @@ u.danielsf.2.3.7.1.sims-g80c536f580	0	log	13.0-7-g73c05b9+1
 15.0-7-ga46e5ef	0	pipe_tasks	15.0-3-ga659d1f3
 15.0-7-ga46e5ef	0	utils	15.0-3-g9103c06
 15.0-7-ga46e5ef	0	log	15.0
+15.0-7-ga46e5ef	1	pex_policy	15.0
+15.0-7-ga46e5ef	1	obs_base	15.0-4-g0478fed+4
+15.0-7-ga46e5ef	1	afw	15.0-17-g0b88e3da8
+15.0-7-ga46e5ef	1	meas_algorithms	15.0-3-gd5b9ff95+1
+15.0-7-ga46e5ef	1	meas_astrom	15.0-1-g1eca518+1
+15.0-7-ga46e5ef	1	pipe_tasks	15.0-3-ga659d1f3+1
+15.0-7-ga46e5ef	1	utils	15.0-3-g9103c06
+15.0-7-ga46e5ef	1	log	15.0
