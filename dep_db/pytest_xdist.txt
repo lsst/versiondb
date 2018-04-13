@@ -18,3 +18,7 @@
 1.20.1.lsst2	0	pytest	3.2.0.lsst2
 1.20.1.lsst2	0	pytest_forked	0.2.lsst2
 1.20.1.lsst2	0	python_execnet	1.4.1.lsst2
+1.20.1.lsst2	1	python	0.0.7-1-g28a652d
+1.20.1.lsst2	1	pytest	3.2.0.lsst2+1
+1.20.1.lsst2	1	pytest_forked	0.2.lsst2+1
+1.20.1.lsst2	1	python_execnet	1.4.1.lsst2+1
