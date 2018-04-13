@@ -3008,3 +3008,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 15.0-3-ga03b4ca	4	pex_config	15.0-1-gae1598d+1
 15.0-3-ga03b4ca	4	pipe_base	15.0-4-g654b129
 15.0-3-ga03b4ca	4	pipe_tasks	15.0-5-g389937dc
+15.0-3-ga03b4ca	5	ctrl_pool	15.0-1-ga91101e+3
+15.0-3-ga03b4ca	5	afw	15.0-17-g0b88e3da8+2
+15.0-3-ga03b4ca	5	pex_exceptions	15.0-1-g14e9bfd+2
+15.0-3-ga03b4ca	5	geom	15.0+3
+15.0-3-ga03b4ca	5	pex_config	15.0-1-gae1598d+2
+15.0-3-ga03b4ca	5	pipe_base	15.0-4-g654b129+1
+15.0-3-ga03b4ca	5	pipe_tasks	15.0-5-g389937dc+1
