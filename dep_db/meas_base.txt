@@ -8220,3 +8220,15 @@ w.2016.15	0	sconsUtils	w.2016.15
 15.0-2-g2010ef9	4	pybind11	2.1.1-1-gbfe630d
 15.0-2-g2010ef9	4	scons	3.0.0.lsst1+2
 15.0-2-g2010ef9	4	sconsUtils	15.0-1-gcea188a+3
+15.0-2-g2010ef9	5	python_future	0.16.0+2
+15.0-2-g2010ef9	5	utils	15.0-3-g9103c06+4
+15.0-2-g2010ef9	5	afw	15.0-17-g0b88e3da8+4
+15.0-2-g2010ef9	5	coadd_utils	15.0-1-gfe1617d+5
+15.0-2-g2010ef9	5	daf_base	15.0-1-gf4f1c34+4
+15.0-2-g2010ef9	5	geom	15.0+5
+15.0-2-g2010ef9	5	numpy	1.13.1+1
+15.0-2-g2010ef9	5	pex_config	15.0-1-gae1598d+4
+15.0-2-g2010ef9	5	pipe_base	15.0-4-g654b129+3
+15.0-2-g2010ef9	5	pybind11	2.1.1-1-gbfe630d
+15.0-2-g2010ef9	5	scons	3.0.0.lsst1+2
+15.0-2-g2010ef9	5	sconsUtils	15.0-1-gcea188a+4

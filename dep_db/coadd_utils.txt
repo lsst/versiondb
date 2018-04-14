@@ -6646,3 +6646,14 @@ w.2016.15	0	afwdata	w.2016.15
 15.0-1-gfe1617d	4	utils	15.0-3-g9103c06+3
 15.0-1-gfe1617d	4	python_future	0.16.0+2
 15.0-1-gfe1617d	4	afwdata	14.0+16
+15.0-1-gfe1617d	5	afw	15.0-17-g0b88e3da8+4
+15.0-1-gfe1617d	5	log	15.0+5
+15.0-1-gfe1617d	5	pybind11	2.1.1-1-gbfe630d
+15.0-1-gfe1617d	5	numpy	1.13.1+1
+15.0-1-gfe1617d	5	pex_config	15.0-1-gae1598d+4
+15.0-1-gfe1617d	5	pipe_base	15.0-4-g654b129+3
+15.0-1-gfe1617d	5	scons	3.0.0.lsst1+2
+15.0-1-gfe1617d	5	sconsUtils	15.0-1-gcea188a+4
+15.0-1-gfe1617d	5	utils	15.0-3-g9103c06+4
+15.0-1-gfe1617d	5	python_future	0.16.0+2
+15.0-1-gfe1617d	5	afwdata	14.0+17
