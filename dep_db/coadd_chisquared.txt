@@ -3759,3 +3759,10 @@ w.2016.15	0	afwdata	w.2016.15
 15.0-1-g788a293	6	python_future	0.16.0+2
 15.0-1-g788a293	6	pybind11	2.1.1-1-gbfe630d
 15.0-1-g788a293	6	afwdata	14.0+17
+15.0-1-g788a293	7	coadd_utils	15.0-1-gfe1617d+6
+15.0-1-g788a293	7	numpy	1.13.1+1
+15.0-1-g788a293	7	scons	3.0.0.lsst1+2
+15.0-1-g788a293	7	sconsUtils	15.0-1-gcea188a+5
+15.0-1-g788a293	7	python_future	0.16.0+2
+15.0-1-g788a293	7	pybind11	2.1.1-1-gbfe630d
+15.0-1-g788a293	7	afwdata	15.0+2

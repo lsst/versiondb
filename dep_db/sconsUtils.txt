@@ -445,3 +445,10 @@ w.2016.15	0	doxygen	1.8.5.lsst1
 15.0-1-gcea188a	4	pytest_xdist	1.20.1.lsst3
 15.0-1-gcea188a	4	pytest_session2file	0.1.9+7
 15.0-1-gcea188a	4	doxygen	1.8.13.lsst1-1-g75bf114
+15.0-1-gcea188a	5	scons	3.0.0.lsst1+2
+15.0-1-gcea188a	5	python_future	0.16.0+2
+15.0-1-gcea188a	5	pytest	3.2.0.lsst4
+15.0-1-gcea188a	5	pytest_flake8	0.9.1+7
+15.0-1-gcea188a	5	pytest_xdist	1.20.1.lsst4
+15.0-1-gcea188a	5	pytest_session2file	0.1.9+8
+15.0-1-gcea188a	5	doxygen	1.8.13.lsst1-1-g75bf114
