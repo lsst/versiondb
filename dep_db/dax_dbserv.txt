@@ -1381,3 +1381,12 @@ tickets.DM-7415-g4f71715354	0	sqlalchemy	1.0.8.lsst3+3
 12.1-9-g5ed72d2	6	scons	3.0.0.lsst1+1
 12.1-9-g5ed72d2	6	sconsUtils	14.0-16-gcea188a
 12.1-9-g5ed72d2	6	sqlalchemy	1.2.2
+12.1-9-g5ed72d2	7	dax_webservcommon	12.1-3-g5b3c149+6
+12.1-9-g5ed72d2	7	db	14.0+33
+12.1-9-g5ed72d2	7	flask	0.12+2
+12.1-9-g5ed72d2	7	log	15.0-1-gdf18595+2
+12.1-9-g5ed72d2	7	python	0.0.7-1-g28a652d
+12.1-9-g5ed72d2	7	python_mysqlclient	1.3.12.lsst2+1
+12.1-9-g5ed72d2	7	scons	3.0.0.lsst1+2
+12.1-9-g5ed72d2	7	sconsUtils	15.0-1-gcea188a+5
+12.1-9-g5ed72d2	7	sqlalchemy	1.2.2+1
