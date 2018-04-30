@@ -1,0 +1,20 @@
+# product                 SHA1                                      Version                       
+BUILD=b3587
+doxygen                   75bf1144ea307806d65ecc1709226ca58866c1c4  1.8.13.lsst1-1-g75bf114                  
+pybind11                  bfe630dada77c6421032137d69208da9379e5e62  2.1.1-1-gbfe630d                         
+python                    28a652d3d6b1665eb14b9465e11af08269e99fc6  0.0.7-1-g28a652d                         
+pytest                    9c1788074e2c263ea418816d88f1c787c77946a7  3.2.0.lsst4                              python
+pytest_session2file       d5df8ace7d62308a5a692defccb5fdb7d5605152  0.1.9+8                                  python,pytest
+python_execnet            c0d69c65501b7cbf614e0059da7eb97f25b72518  1.4.1.lsst4                              python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+2                                 python
+pep8_naming               b6aae6642dff6400403e1b24945c6e157d30b7dc  0.4.1+2                                  python
+pyflakes                  2c8b201b94934f7fa7a3c7bff3d39731a7ac61aa  1.6.0+1                                  python
+python_mccabe             e8cfd9666d2bd843504181099c3b0d1e69a4ef62  0.6.1+8                                  python,pytest
+pycodestyle               cf95d84d724f579d1460dee026bf5a287b33bf04  2.3.1+2                                  python
+pytest_forked             c5fda7b5f4bfa5927d31829ba3a5adb919645ef6  0.2.lsst4                                python,pytest
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+2                            python
+pytest_xdist              a186ae77a9f6e991471d7f4003de959401946dcf  1.20.1.lsst4                             python,pytest,pytest_forked,python_execnet
+flake8                    1dbac37b5a4210c753f7cadc257d02a7a55e337e  3.5.0+7                                  python,python_mccabe,pycodestyle,pyflakes,pep8_naming
+pytest_flake8             4e9fb1f6078679e3ce100be8f76e8662dc5d5685  0.9.1+7                                  python,pytest,flake8
+sconsUtils                cea188afe3f0827d534fa38f9dfb1f9f6bf5d455  15.0-1-gcea188a+5                        scons,python_future,pytest,pytest_flake8,pytest_xdist,pytest_session2file,doxygen
+base                      6668b0b9773799502606e659ba5106c05b7d31e6  15.0-1-g6668b0b+5                        sconsUtils,pybind11,python,python_future,doxygen
