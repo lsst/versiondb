@@ -1560,3 +1560,10 @@ w.2016.15	0	utils	w.2016.15
 15.0-1-gae1598d	8	python_future	0.16.0+2
 15.0-1-gae1598d	8	pybind11	2.1.1-1-gbfe630d
 15.0-1-gae1598d	8	python	0.0.7-1-g28a652d
+15.0-1-gae1598d	9	daf_base	15.0-1-gf4f1c34+9
+15.0-1-gae1598d	9	pex_policy	15.0+10
+15.0-1-gae1598d	9	numpy	1.13.1+2
+15.0-1-gae1598d	9	utils	15.0-3-g9103c06+9
+15.0-1-gae1598d	9	python_future	0.16.0+3
+15.0-1-gae1598d	9	pybind11	2.1.1.lsst2
+15.0-1-gae1598d	9	python	0.0.8

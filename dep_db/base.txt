@@ -888,3 +888,8 @@ w.2016.15	0	doxygen	1.8.5.lsst1
 15.0-1-g6668b0b	5	python	0.0.7-1-g28a652d
 15.0-1-g6668b0b	5	python_future	0.16.0+2
 15.0-1-g6668b0b	5	doxygen	1.8.13.lsst1-1-g75bf114
+15.0-1-g6668b0b	6	sconsUtils	15.0-1-gcea188a+6
+15.0-1-g6668b0b	6	pybind11	2.1.1.lsst2
+15.0-1-g6668b0b	6	python	0.0.8
+15.0-1-g6668b0b	6	python_future	0.16.0+3
+15.0-1-g6668b0b	6	doxygen	1.8.13.lsst2
