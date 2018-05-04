@@ -852,3 +852,10 @@ master-gbe69b68c0a	98	pex_config	14.0-4-gae1598d+4
 15.0-1-gc5ddfd5	18	afw	15.0-24-g02ed2a30c
 15.0-1-gc5ddfd5	18	pipe_base	15.0-4-g654b129+14
 15.0-1-gc5ddfd5	18	pex_config	15.0-1-gae1598d+9
+15.0-1-gc5ddfd5	19	obs_ctio0m9	15.0-3-g3cbdd63+23
+15.0-1-gc5ddfd5	19	pipe_drivers	15.0-3-ga03b4ca+23
+15.0-1-gc5ddfd5	19	pipe_tasks	15.0-6-g9a9df217+12
+15.0-1-gc5ddfd5	19	sconsUtils	15.0-1-gcea188a+6
+15.0-1-gc5ddfd5	19	afw	15.0-24-g02ed2a30c+1
+15.0-1-gc5ddfd5	19	pipe_base	15.0-4-g654b129+15
+15.0-1-gc5ddfd5	19	pex_config	15.0-1-gae1598d+9
