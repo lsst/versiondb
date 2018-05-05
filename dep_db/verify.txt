@@ -771,3 +771,14 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 15.0	11	log	15.0-1-gdf18595+3
 15.0	11	pytest_flake8	0.9.1+8
 15.0	11	verify_metrics	15.0-1-gc1dfd1a
+15.0-1-g8f0875c	0	python_future	0.16.0+3
+15.0-1-g8f0875c	0	pyyaml	3.11.lsst2+2
+15.0-1-g8f0875c	0	requests	2.9.1.lsst1+4
+15.0-1-g8f0875c	0	numpy	1.13.1+2
+15.0-1-g8f0875c	0	astropy	2.0.1+2
+15.0-1-g8f0875c	0	sconsUtils	15.0-1-gcea188a+6
+15.0-1-g8f0875c	0	utils	15.0-3-g9103c06+9
+15.0-1-g8f0875c	0	pex_exceptions	15.0-3-g707930d+1
+15.0-1-g8f0875c	0	log	15.0-1-gdf18595+3
+15.0-1-g8f0875c	0	pytest_flake8	0.9.1+8
+15.0-1-g8f0875c	0	verify_metrics	15.0-1-gc1dfd1a
