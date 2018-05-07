@@ -816,3 +816,8 @@ w.2016.15	0	swig	3.0.2.lsst1
 15.0-3-g707930d	1	pybind11	2.1.1.lsst2
 15.0-3-g707930d	1	python	0.0.8
 15.0-3-g707930d	1	python_future	0.16.0+3
+15.0-1-g14e9bfd	6	base	15.0-1-g6668b0b+7
+15.0-1-g14e9bfd	6	boost	1.66.0
+15.0-1-g14e9bfd	6	pybind11	2.1.1.lsst2
+15.0-1-g14e9bfd	6	python	0.0.7
+15.0-1-g14e9bfd	6	python_future	0.16.0+1
