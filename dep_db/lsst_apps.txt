@@ -11666,3 +11666,12 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 15.0	2	meas_extensions_simpleShape	15.0+9
 15.0	2	display_ds9	15.0+2
 15.0	2	meas_extensions_psfex	15.0-1-g82223af+10
+14.0	114	meas_deblender	15.0-2-g35685a8+14
+14.0	114	meas_modelfit	15.0-4-g535e784+2
+14.0	114	pipe_tasks	15.0-7-g6bb3a066+1
+14.0	114	obs_lsstSim	15.0-7-ga00a9c6+24
+14.0	114	obs_sdss	15.0-7-ga46e5ef+25
+14.0	114	obs_test	15.0-5-g54bfcd9+1
+14.0	114	meas_extensions_simpleShape	15.0-1-g615e0bb+10
+14.0	114	display_ds9	15.0-1-g19261fa+10
+14.0	114	meas_extensions_psfex	15.0-3-g130a88a+1
