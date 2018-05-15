@@ -2076,3 +2076,7 @@ w.2016.15	0	afw	w.2016.15
 15.0-6-g6a116b5	0	sphgeom	12.1-5-gbdcc3ab
 15.0-6-g6a116b5	0	afw	15.0-25-gacd707fca
 15.0-6-g6a116b5	0	healpy	1.10.3.lsst1+6
+15.0-6-g6a116b5	1	numpy	1.13.1+2
+15.0-6-g6a116b5	1	sphgeom	12.1-5-gbdcc3ab
+15.0-6-g6a116b5	1	afw	15.0-26-g519dd82b0
+15.0-6-g6a116b5	1	healpy	1.10.3.lsst1+6
