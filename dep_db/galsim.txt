@@ -285,3 +285,10 @@ tickets.DM-13213-g127efc72d3	0	astropy	2.0.1
 1.5.2.lsst	2	fftw	3.3.4.lsst2
 1.5.2.lsst	2	tmv	0.73.lsst2+2
 1.5.2.lsst	2	astropy	2.0.1+2
+1.6.0.lsst	0	numpy	1.13.1+2
+1.6.0.lsst	0	pyfits	3.4.0+11
+1.6.0.lsst	0	python_future	0.16.0+3
+1.6.0.lsst	0	boost	1.66.0+2
+1.6.0.lsst	0	fftw	3.3.4.lsst2
+1.6.0.lsst	0	tmv	0.73.lsst2+2
+1.6.0.lsst	0	astropy	2.0.1+2
