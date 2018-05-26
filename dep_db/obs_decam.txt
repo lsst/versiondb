@@ -5006,3 +5006,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 15.0-8-g5f9149d	4	pex_policy	15.0+10
 15.0-8-g5f9149d	4	ip_isr	15.0-5-g23e394c+12
 15.0-8-g5f9149d	4	testdata_decam	14.0
+15.0-8-g5f9149d	5	utils	15.0-3-g9103c06+11
+15.0-8-g5f9149d	5	daf_persistence	15.0-9-g1e7c341
+15.0-8-g5f9149d	5	obs_base	15.0-12-g3681e7a+3
+15.0-8-g5f9149d	5	afw	15.0-28-g9c8871241
+15.0-8-g5f9149d	5	meas_algorithms	15.0-11-g7db6e543+3
+15.0-8-g5f9149d	5	pipe_tasks	15.0-13-g5992896b+1
+15.0-8-g5f9149d	5	pipe_base	15.0-6-gfa9b38f+3
+15.0-8-g5f9149d	5	pex_exceptions	15.0-3-g707930d+2
+15.0-8-g5f9149d	5	pex_config	15.0-1-gae1598d+11
+15.0-8-g5f9149d	5	pex_policy	15.0+12
+15.0-8-g5f9149d	5	ip_isr	15.0-5-g23e394c+13
+15.0-8-g5f9149d	5	testdata_decam	14.0
