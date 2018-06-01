@@ -5932,3 +5932,17 @@ master-g26753debd6	46	ci_ctio0m9	master-gbe69b68c0a+98
 15.0-2-g5cd1b70	18	validation_data_decam	master-g1cc1f66a89
 15.0-2-g5cd1b70	18	validate_drp	15.0-9-g7a26673+10
 15.0-2-g5cd1b70	18	ci_ctio0m9	15.0-1-gc5ddfd5+32
+15.0-2-g5cd1b70	19	lsst_apps	14.0+126
+15.0-2-g5cd1b70	19	lsst_distrib	15.0-2-gda316d8+46
+15.0-2-g5cd1b70	19	testdata_subaru	14.0
+15.0-2-g5cd1b70	19	testdata_cfht	14.0
+15.0-2-g5cd1b70	19	testdata_decam	14.0
+15.0-2-g5cd1b70	19	obs_subaru	15.0-9-gdaa3432a+7
+15.0-2-g5cd1b70	19	obs_cfht	15.0-4-gcf4074d+7
+15.0-2-g5cd1b70	19	obs_decam	15.0-8-g5f9149d+7
+15.0-2-g5cd1b70	19	obs_lsstSim	15.0-10-g6b25b86+7
+15.0-2-g5cd1b70	19	obs_sdss	15.0-8-g0b36734+8
+15.0-2-g5cd1b70	19	validation_data_cfht	15.0+36
+15.0-2-g5cd1b70	19	validation_data_decam	15.0
+15.0-2-g5cd1b70	19	validate_drp	15.0-9-g7a26673+10
+15.0-2-g5cd1b70	19	ci_ctio0m9	15.0-1-gc5ddfd5+32
