@@ -3281,3 +3281,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 15.0-6-g69628aa	5	pex_config	15.0-1-gae1598d+14
 15.0-6-g69628aa	5	pipe_base	15.0-6-gfa9b38f+7
 15.0-6-g69628aa	5	pipe_tasks	15.0-16-g6f0eb036+4
+15.0-6-g69628aa	6	ctrl_pool	15.0-1-ga91101e+31
+15.0-6-g69628aa	6	afw	15.0-33-g5c41f601f
+15.0-6-g69628aa	6	pex_exceptions	15.0-3-g707930d+4
+15.0-6-g69628aa	6	sphgeom	12.1-6-g7bb14cc+1
+15.0-6-g69628aa	6	pex_config	15.0-1-gae1598d+14
+15.0-6-g69628aa	6	pipe_base	15.0-6-gfa9b38f+9
+15.0-6-g69628aa	6	pipe_tasks	15.0-16-g6f0eb036+5
