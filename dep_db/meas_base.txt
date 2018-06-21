@@ -8630,3 +8630,15 @@ w.2016.15	0	sconsUtils	w.2016.15
 15.0-9-g3a12586	1	pybind11	2.1.1.lsst2
 15.0-9-g3a12586	1	scons	3.0.0.lsst1+3
 15.0-9-g3a12586	1	sconsUtils	15.0-6-gd93e90d
+15.0-9-g3a12586	2	utils	15.0-6-g958ce35
+15.0-9-g3a12586	2	geom	15.0-1-g417ea41+6
+15.0-9-g3a12586	2	afw	15.0-35-gdd706d521
+15.0-9-g3a12586	2	coadd_utils	15.0-2-g100d730+32
+15.0-9-g3a12586	2	daf_base	15.0-3-g94bc79c+2
+15.0-9-g3a12586	2	sphgeom	12.1-6-g7bb14cc+1
+15.0-9-g3a12586	2	numpy	1.13.1+2
+15.0-9-g3a12586	2	pex_config	15.0-1-gae1598d+17
+15.0-9-g3a12586	2	pipe_base	15.0-7-g598c41d+6
+15.0-9-g3a12586	2	pybind11	2.1.1.lsst2
+15.0-9-g3a12586	2	scons	3.0.0.lsst1+3
+15.0-9-g3a12586	2	sconsUtils	15.0-6-gd93e90d

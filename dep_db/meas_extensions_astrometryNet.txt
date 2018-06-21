@@ -2722,3 +2722,15 @@ master-gb035c22750	38	matplotlib	0.0.4+1
 15.0-5-g4be42a9	12	numpy	1.13.1+2
 15.0-5-g4be42a9	12	python_future	0.16.0+3
 15.0-5-g4be42a9	12	matplotlib	2.0.2+2
+15.0-5-g4be42a9	13	afw	15.0-35-gdd706d521
+15.0-5-g4be42a9	13	log	15.0-1-gdf18595+8
+15.0-5-g4be42a9	13	meas_algorithms	15.0-14-g20821bcf+2
+15.0-5-g4be42a9	13	meas_astrom	15.0-8-gb6a5594+2
+15.0-5-g4be42a9	13	pex_config	15.0-1-gae1598d+17
+15.0-5-g4be42a9	13	pipe_base	15.0-7-g598c41d+6
+15.0-5-g4be42a9	13	utils	15.0-6-g958ce35
+15.0-5-g4be42a9	13	wcslib	5.13.lsst1+2
+15.0-5-g4be42a9	13	astrometry_net	0.67.123ff3e.lsst1+8
+15.0-5-g4be42a9	13	numpy	1.13.1+2
+15.0-5-g4be42a9	13	python_future	0.16.0+3
+15.0-5-g4be42a9	13	matplotlib	2.0.2+2
