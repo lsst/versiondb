@@ -7064,3 +7064,14 @@ w.2016.15	0	afwdata	w.2016.15
 15.0-2-g100d730	34	utils	15.0-6-g958ce35
 15.0-2-g100d730	34	python_future	0.16.0+3
 15.0-2-g100d730	34	afwdata	14.0+22
+16.0	0	afw	16.0
+16.0	0	log	16.0
+16.0	0	pybind11	2.1.1.lsst2
+16.0	0	numpy	1.13.1+2
+16.0	0	pex_config	16.0
+16.0	0	pipe_base	16.0
+16.0	0	scons	3.0.0.lsst1+3
+16.0	0	sconsUtils	16.0
+16.0	0	utils	16.0
+16.0	0	python_future	0.16.0+3
+16.0	0	afwdata	16.0

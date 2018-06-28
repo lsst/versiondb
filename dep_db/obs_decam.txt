@@ -5258,3 +5258,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 15.0-9-g14af206	2	pex_policy	15.0+19
 15.0-9-g14af206	2	ip_isr	15.0-5-g23e394c+29
 15.0-9-g14af206	2	testdata_decam	14.0
+16.0	0	utils	16.0
+16.0	0	daf_persistence	16.0
+16.0	0	obs_base	16.0
+16.0	0	afw	16.0
+16.0	0	meas_algorithms	16.0
+16.0	0	pipe_tasks	16.0
+16.0	0	pipe_base	16.0
+16.0	0	pex_exceptions	16.0
+16.0	0	pex_config	16.0
+16.0	0	pex_policy	16.0
+16.0	0	ip_isr	16.0
+16.0	0	testdata_decam	16.0
