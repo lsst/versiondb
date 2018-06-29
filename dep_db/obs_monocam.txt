@@ -2416,3 +2416,12 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 16.0	0	numpy	1.13.1+2
 16.0	0	utils	16.0
 16.0	0	meas_extensions_astrometryNet	16.0
+16.0	1	afw	16.0+1
+16.0	1	daf_base	16.0
+16.0	1	obs_base	16.0+1
+16.0	1	pex_config	16.0
+16.0	1	pex_policy	16.0
+16.0	1	python_future	0.16.0+3
+16.0	1	numpy	1.13.1+2
+16.0	1	utils	16.0
+16.0	1	meas_extensions_astrometryNet	16.0+1
