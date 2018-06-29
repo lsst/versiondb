@@ -1072,3 +1072,6 @@
 16.0	1	meas_base	16.0+1
 16.0	1	pybind11	2.1.1.lsst2
 16.0	1	meas_algorithms	16.0+1
+16.0	2	meas_base	16.0-4-g0fc3614
+16.0	2	pybind11	2.1.1.lsst2
+16.0	2	meas_algorithms	16.0-3-g2f3508ec
