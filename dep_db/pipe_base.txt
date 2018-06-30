@@ -6472,3 +6472,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 16.0-2-g852da13	0	afw	16.0-8-g200ff00d7
 16.0-2-g852da13	0	python_future	0.16.0+3
 16.0-2-g852da13	0	obs_test	16.0-1-ga74c543
+16.0-2-g852da13	1	daf_persistence	16.0-1-gbdaa631
+16.0-2-g852da13	1	log	16.0+1
+16.0-2-g852da13	1	pex_config	16.0+1
+16.0-2-g852da13	1	utils	16.0-3-g958ce35
+16.0-2-g852da13	1	afw	16.0-9-gdf7162dbc
+16.0-2-g852da13	1	python_future	0.16.0+3
+16.0-2-g852da13	1	obs_test	16.0-1-ga74c543+1

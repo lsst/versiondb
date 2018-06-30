@@ -14572,3 +14572,13 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 16.0-1-g3215b9b	0	pipe_tasks	16.0-3-gcae3f1ab
 16.0-1-g3215b9b	0	pybind11	2.1.1.lsst2
 16.0-1-g3215b9b	0	utils	16.0-3-g958ce35
+16.0-1-g3215b9b	1	daf_base	16.0-2-gaa1012f
+16.0-1-g3215b9b	1	pex_policy	15.0+20
+16.0-1-g3215b9b	1	afw	16.0-9-gdf7162dbc
+16.0-1-g3215b9b	1	daf_persistence	16.0-1-gbdaa631
+16.0-1-g3215b9b	1	obs_base	16.0-2-gfe708a8+1
+16.0-1-g3215b9b	1	meas_algorithms	16.0-3-g2f3508ec+1
+16.0-1-g3215b9b	1	ip_isr	16.0+3
+16.0-1-g3215b9b	1	pipe_tasks	16.0-3-gcae3f1ab+1
+16.0-1-g3215b9b	1	pybind11	2.1.1.lsst2
+16.0-1-g3215b9b	1	utils	16.0-3-g958ce35
