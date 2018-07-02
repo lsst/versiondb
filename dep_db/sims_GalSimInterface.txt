@@ -5781,3 +5781,12 @@ u.danielsf.fix_rotskypos-gce9f1515e4	0	obs_lsstSim	13.0-13-g177be6f+6
 2.8.0.sims	2	sims_catalogs	2.8.0.sims+2
 2.8.0.sims	2	sims_catUtils	2.8.0.sims+2
 2.8.0.sims	2	obs_lsstSim	15.0-10-g6b25b86+14
+2.9.0.sims.rc1	0	galsim	1.6.0.lsst
+2.9.0.sims.rc1	0	astropy	2.0.1+2
+2.9.0.sims.rc1	0	meas_astrom	16.0-4-g1a325e7+1
+2.9.0.sims.rc1	0	afw	16.0-9-gdf7162dbc+1
+2.9.0.sims.rc1	0	sims_utils	2.9.0.sims.rc1
+2.9.0.sims.rc1	0	sims_coordUtils	2.9.0.sims.rc1
+2.9.0.sims.rc1	0	sims_catalogs	2.9.0.sims.rc1
+2.9.0.sims.rc1	0	sims_catUtils	2.9.0.sims.rc1
+2.9.0.sims.rc1	0	obs_lsstSim	16.0-1-g3215b9b+2

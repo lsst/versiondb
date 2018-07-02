@@ -832,3 +832,9 @@ master-g7080d5729b	9	pipe_tasks	14.0-57-ga659d1f3+2
 16.0-1-g682901a	1	afw	16.0-9-gdf7162dbc
 16.0-1-g682901a	1	pipe_base	16.0-2-g852da13+1
 16.0-1-g682901a	1	pipe_tasks	16.0-3-gcae3f1ab+1
+16.0-1-g682901a	2	astropy	2.0.1+2
+16.0-1-g682901a	2	daf_persistence	16.0-1-gbdaa631+1
+16.0-1-g682901a	2	pex_config	16.0+2
+16.0-1-g682901a	2	afw	16.0-9-gdf7162dbc+1
+16.0-1-g682901a	2	pipe_base	16.0-2-g852da13+2
+16.0-1-g682901a	2	pipe_tasks	16.0-3-gcae3f1ab+2
