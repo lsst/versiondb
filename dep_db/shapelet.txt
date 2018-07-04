@@ -2539,3 +2539,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 16.0-4-g84f75fb	1	sconsUtils	16.0-1-gd93e90d
 16.0-4-g84f75fb	1	pybind11	2.1.1.lsst2
 16.0-4-g84f75fb	1	scipy	0.0.1.lsst1+7
+16.0-4-g84f75fb	2	afw	16.0-10-gd1b3a1c94
+16.0-4-g84f75fb	2	numpy	1.13.1+2
+16.0-4-g84f75fb	2	scons	3.0.0.lsst1+3
+16.0-4-g84f75fb	2	sconsUtils	16.0-1-gd93e90d
+16.0-4-g84f75fb	2	pybind11	2.1.1.lsst2
+16.0-4-g84f75fb	2	scipy	0.0.1.lsst1+7
