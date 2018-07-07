@@ -11930,3 +11930,11 @@ u.danielsf.2.3.7.1.sims-g80c536f580	0	log	13.0-7-g73c05b9+1
 16.0-1-g059f8bf	3	pipe_tasks	16.0-3-gcae3f1ab+3
 16.0-1-g059f8bf	3	utils	16.0-3-g958ce35
 16.0-1-g059f8bf	3	log	16.0+1
+16.0-2-gec718de	0	pex_policy	15.0+21
+16.0-2-gec718de	0	obs_base	16.0-3-gfcceb14
+16.0-2-gec718de	0	afw	16.0-12-gf08c31002
+16.0-2-gec718de	0	meas_algorithms	16.0-6-g2dd73041
+16.0-2-gec718de	0	meas_astrom	16.0-4-g1a325e7+3
+16.0-2-gec718de	0	pipe_tasks	16.0-4-g08dccf71
+16.0-2-gec718de	0	utils	16.0-3-g958ce35
+16.0-2-gec718de	0	log	16.0+1

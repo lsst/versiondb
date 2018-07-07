@@ -4219,3 +4219,9 @@ w.2016.12	0	log	w.2016.12
 16.0-1-g9633d82	0	pex_config	16.0+1
 16.0-1-g9633d82	0	daf_persistence	16.0-1-gbdaa631
 16.0-1-g9633d82	0	log	16.0+1
+16.0-1-g9633d82	1	python_future	0.16.0+3
+16.0-1-g9633d82	1	utils	16.0-3-g958ce35
+16.0-1-g9633d82	1	pex_policy	15.0+21
+16.0-1-g9633d82	1	pex_config	16.0+3
+16.0-1-g9633d82	1	daf_persistence	16.0-2-g311bfd2
+16.0-1-g9633d82	1	log	16.0+1
