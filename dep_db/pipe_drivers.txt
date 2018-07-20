@@ -3456,3 +3456,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 16.0-1-g98efed3	5	pex_config	16.0+3
 16.0-1-g98efed3	5	pipe_base	16.0-2-g852da13+7
 16.0-1-g98efed3	5	pipe_tasks	16.0-4-g08dccf71+5
+16.0-1-g98efed3	6	ctrl_pool	16.0+10
+16.0-1-g98efed3	6	afw	16.0-18-g7a076d417
+16.0-1-g98efed3	6	pex_exceptions	16.0+1
+16.0-1-g98efed3	6	sphgeom	16.0-1-g7bb14cc
+16.0-1-g98efed3	6	pex_config	16.0+3
+16.0-1-g98efed3	6	pipe_base	16.0-5-gf14cb0b
+16.0-1-g98efed3	6	pipe_tasks	16.0-5-g81851deb
