@@ -886,3 +886,9 @@ master-g7080d5729b	9	pipe_tasks	14.0-57-ga659d1f3+2
 16.0-2-g568a347	5	afw	16.0-18-g7a076d417
 16.0-2-g568a347	5	pipe_base	16.0-5-gf14cb0b
 16.0-2-g568a347	5	pipe_tasks	16.0-5-g81851deb
+16.0-2-g568a347	6	astropy	2.0.1+2
+16.0-2-g568a347	6	daf_persistence	16.0-3-g3806c63
+16.0-2-g568a347	6	pex_config	16.0-1-g943889d
+16.0-2-g568a347	6	afw	16.0-19-g2da375352
+16.0-2-g568a347	6	pipe_base	16.0-5-gf14cb0b+1
+16.0-2-g568a347	6	pipe_tasks	16.0-5-g81851deb+1
