@@ -1368,3 +1368,9 @@ w.2016.15	0	fftw	3.3.4.lsst2
 1.5.1.lsst1	1	eigen	3.2.10-1-gc8ced58
 1.5.1.lsst1	1	pybind11	2.1.1.lsst2-1-gea7092a
 1.5.1.lsst1	1	fftw	3.3.4.lsst2
+1.5.1.lsst1	2	boost	1.66.0+2
+1.5.1.lsst1	2	python	0.0.8
+1.5.1.lsst1	2	numpy	1.13.1+2
+1.5.1.lsst1	2	eigen	3.2.10-1-gc8ced58
+1.5.1.lsst1	2	pybind11	2.2.3
+1.5.1.lsst1	2	fftw	3.3.4.lsst2
