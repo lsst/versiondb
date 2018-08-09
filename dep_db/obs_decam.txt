@@ -5510,3 +5510,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 16.0-4-gb463f2d	0	pex_policy	16.0-1-g16dcc35+1
 16.0-4-gb463f2d	0	ip_isr	16.0-4-g6c14c47+2
 16.0-4-gb463f2d	0	testdata_decam	14.0
+16.0-4-gb463f2d	1	utils	16.0-4-gd6aeece+1
+16.0-4-gb463f2d	1	daf_persistence	16.0-3-g3806c63+1
+16.0-4-gb463f2d	1	obs_base	16.0-7-g2664ab2+5
+16.0-4-gb463f2d	1	afw	16.0-22-g77dff6c9c
+16.0-4-gb463f2d	1	meas_algorithms	16.0-10-g36053158+1
+16.0-4-gb463f2d	1	pipe_tasks	16.0-8-g7b3fce8c+1
+16.0-4-gb463f2d	1	pipe_base	16.0-9-g41f434e+3
+16.0-4-gb463f2d	1	pex_exceptions	16.0-1-g9884240+1
+16.0-4-gb463f2d	1	pex_config	16.0-1-g943889d+1
+16.0-4-gb463f2d	1	pex_policy	16.0-1-g16dcc35+1
+16.0-4-gb463f2d	1	ip_isr	16.0-4-g6c14c47+3
+16.0-4-gb463f2d	1	testdata_decam	14.0
