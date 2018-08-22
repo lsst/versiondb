@@ -1643,3 +1643,10 @@ tickets.DM-5979-g76d91cf90e	0	python_psutil	4.1.0
 16.0-6-g3610b4f	0	pybind11	2.2.3
 16.0-6-g3610b4f	0	python	0.0.8
 16.0-6-g3610b4f	0	python_psutil	5.4.3+2
+16.0-6-g3610b4f	1	base	16.0-2-g55907dc+1
+16.0-6-g3610b4f	1	pex_exceptions	16.0-2-gf4e7cdd+1
+16.0-6-g3610b4f	1	boost	1.66.0+2
+16.0-6-g3610b4f	1	numpy	1.13.1+2
+16.0-6-g3610b4f	1	pybind11	2.2.3
+16.0-6-g3610b4f	1	python	0.0.8
+16.0-6-g3610b4f	1	python_psutil	5.4.3+2
