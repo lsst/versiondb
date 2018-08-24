@@ -2003,3 +2003,13 @@ master-g6eadbc38bc	2	pipe_tasks	14.0-57-ga659d1f3+2
 16.0-1-g4ef91f3	33	utils	16.0-6-g3610b4f+1
 16.0-1-g4ef91f3	33	ip_isr	16.0-7-g2c7e7ec+6
 16.0-1-g4ef91f3	33	pipe_tasks	16.0-10-g011c1fb2
+16.0-2-gea03357	0	afw	16.0-30-g4e9309de1
+16.0-2-gea03357	0	daf_base	16.0-4-g50d071e+5
+16.0-2-gea03357	0	obs_base	16.0-10-gc184c07
+16.0-2-gea03357	0	pex_config	16.0-3-g9645794+2
+16.0-2-gea03357	0	pex_policy	16.0-2-gf41ba6b+2
+16.0-2-gea03357	0	python_future	0.16.0+3
+16.0-2-gea03357	0	numpy	1.13.1+2
+16.0-2-gea03357	0	utils	16.0-6-g3610b4f+2
+16.0-2-gea03357	0	ip_isr	16.0-7-g2c7e7ec+7
+16.0-2-gea03357	0	pipe_tasks	16.0-11-g6feb3bbe
