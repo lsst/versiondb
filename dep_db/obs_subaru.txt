@@ -7258,3 +7258,17 @@ w.2016.12	0	testdata_subaru	w.2016.12
 16.0-20-gb58d072b	3	meas_extensions_psfex	16.0-8-gc315727+8
 16.0-20-gb58d072b	3	meas_extensions_shapeHSM	16.0-5-g3a22acd+8
 16.0-20-gb58d072b	3	testdata_subaru	14.0
+16.0-21-g2c097537	0	daf_persistence	16.0-3-g3806c63+6
+16.0-21-g2c097537	0	obs_base	16.0-12-g2c2f4fa
+16.0-21-g2c097537	0	pipe_tasks	16.0-13-g1e751bcc+3
+16.0-21-g2c097537	0	meas_astrom	16.0-11-g1b7a1d8
+16.0-21-g2c097537	0	astropy	2.0.1+2
+16.0-21-g2c097537	0	sconsUtils	16.0-5-ga6f992e
+16.0-21-g2c097537	0	pybind11	2.2.3.lsst1
+16.0-21-g2c097537	0	numpy	1.13.1+2
+16.0-21-g2c097537	0	astshim	16.0-2-g0febb12+5
+16.0-21-g2c097537	0	daf_butler	master-g5f6f71928e
+16.0-21-g2c097537	0	meas_modelfit	16.0-11-gce733cf+10
+16.0-21-g2c097537	0	meas_extensions_psfex	16.0-8-gc315727+9
+16.0-21-g2c097537	0	meas_extensions_shapeHSM	16.0-5-g3a22acd+9
+16.0-21-g2c097537	0	testdata_subaru	14.0
