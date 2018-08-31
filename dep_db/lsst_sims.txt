@@ -13024,3 +13024,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.3.5.sims	20	sims_alertsim	2.5.0.sims+5
 2.3.5.sims	20	ephem	3.7.6.0+2
 2.3.5.sims	20	sims_survey_fields	2.6.0.sims+1
+2.3.5.sims	21	sims_maf	u.danielsf.astropy_helpers-gae4042d311
+2.3.5.sims	21	sims_GalSimInterface	2.9.0.sims-7-g8a492df+2
+2.3.5.sims	21	sims_catUtils	u.danielsf.astropy_helpers-gdf253d92be
+2.3.5.sims	21	sims_catalogs	2.9.0.sims+1
+2.3.5.sims	21	sims_sed_library	2017.01.24
+2.3.5.sims	21	sims_maps	2017.05.08-3-g4c12c20
+2.3.5.sims	21	sims_skybrightness	2.9.0.sims-2-ga72786a
+2.3.5.sims	21	sims_skybrightness_pre	2.9.0.sims-7-g2b00f2d
+2.3.5.sims	21	sncosmo	u.danielsf.astropy_helpers-ge5aadb06cf
+2.3.5.sims	21	sims_alertsim	2.5.0.sims+6
+2.3.5.sims	21	ephem	3.7.6.0+2
+2.3.5.sims	21	sims_survey_fields	2.6.0.sims+1
