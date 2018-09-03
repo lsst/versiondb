@@ -2776,3 +2776,12 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 16.0-3-g8f08cb2	2	numpy	1.13.1+2
 16.0-3-g8f08cb2	2	utils	16.0-6-g3610b4f+4
 16.0-3-g8f08cb2	2	meas_extensions_astrometryNet	16.0-4-g347813e+21
+16.0-3-g8f08cb2	3	afw	16.0-33-ge7f9a7920
+16.0-3-g8f08cb2	3	daf_base	16.0-4-g50d071e+7
+16.0-3-g8f08cb2	3	obs_base	16.0-12-g2c2f4fa+3
+16.0-3-g8f08cb2	3	pex_config	16.0-3-g9645794+4
+16.0-3-g8f08cb2	3	pex_policy	16.0-2-gf41ba6b+4
+16.0-3-g8f08cb2	3	python_future	0.16.0+3
+16.0-3-g8f08cb2	3	numpy	1.13.1+2
+16.0-3-g8f08cb2	3	utils	16.0-6-g3610b4f+4
+16.0-3-g8f08cb2	3	meas_extensions_astrometryNet	16.0-4-g347813e+22
