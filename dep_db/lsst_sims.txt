@@ -13048,3 +13048,15 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.10.0.sims.rc1	0	sims_alertsim	2.10.0.sims.rc1
 2.10.0.sims.rc1	0	ephem	3.7.6.0+2
 2.10.0.sims.rc1	0	sims_survey_fields	2.10.0.sims.rc1
+2.10.0.sims.rc1	1	sims_maf	2.10.0.sims.rc1
+2.10.0.sims.rc1	1	sims_GalSimInterface	2.10.0.sims.rc1+1
+2.10.0.sims.rc1	1	sims_catUtils	2.10.0.sims.rc1+1
+2.10.0.sims.rc1	1	sims_catalogs	2.10.0.sims.rc1
+2.10.0.sims.rc1	1	sims_sed_library	2017.01.24
+2.10.0.sims.rc1	1	sims_maps	2017.05.08-3-g4c12c20
+2.10.0.sims.rc1	1	sims_skybrightness	2.10.0.sims.rc1
+2.10.0.sims.rc1	1	sims_skybrightness_pre	2.10.0.sims.rc1
+2.10.0.sims.rc1	1	sncosmo	1.3.0.lsst2
+2.10.0.sims.rc1	1	sims_alertsim	2.10.0.sims.rc1+1
+2.10.0.sims.rc1	1	ephem	3.7.6.0+2
+2.10.0.sims.rc1	1	sims_survey_fields	2.10.0.sims.rc1
