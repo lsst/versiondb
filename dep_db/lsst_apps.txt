@@ -12368,3 +12368,12 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 14.0	185	meas_extensions_simpleShape	16.0-5-gb3f8a4b+22
 14.0	185	display_ds9	16.0-2-g9d5294e+19
 14.0	185	meas_extensions_psfex	16.0-8-gc315727+12
+16.0	3	meas_deblender	16.0-8-g4dec96c+1
+16.0	3	meas_modelfit	16.0-11-gce733cf+11
+16.0	3	pipe_tasks	16.0-13-g1e751bcc+7
+16.0	3	obs_lsstSim	16.0-5-gc32b17b+4
+16.0	3	obs_sdss	16.0-4-g0a86d6a+4
+16.0	3	obs_test	16.0-5-g0da18be+1
+16.0	3	meas_extensions_simpleShape	16.0-5-gb3f8a4b+20
+16.0	3	display_ds9	16.0-2-g9d5294e+18
+16.0	3	meas_extensions_psfex	16.0-8-gc315727+10
