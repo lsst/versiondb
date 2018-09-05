@@ -581,3 +581,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 16.0-10-g230e10e	0	sphgeom	16.0-4-g5f3a788+6
 16.0-10-g230e10e	0	pex_exceptions	16.0-2-gf4e7cdd+4
 16.0-10-g230e10e	0	utils	16.0-6-g3610b4f+4
+16.0-10-g230e10e	1	boost	1.68
+16.0-10-g230e10e	1	ndarray	1.5.1.lsst1+6
+16.0-10-g230e10e	1	sconsUtils	16.0-6-g914fe58
+16.0-10-g230e10e	1	sphgeom	16.0-4-g5f3a788+7
+16.0-10-g230e10e	1	pex_exceptions	16.0-2-gf4e7cdd+5
+16.0-10-g230e10e	1	utils	16.0-6-g3610b4f+5

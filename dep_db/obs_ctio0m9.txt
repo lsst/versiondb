@@ -1663,3 +1663,12 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 16.0-2-g915e3cf	3	numpy	1.13.1+2
 16.0-2-g915e3cf	3	utils	16.0-6-g3610b4f+4
 16.0-2-g915e3cf	3	ip_isr	16.0-9-gcc4efb7+2
+16.0-2-g915e3cf	4	afw	16.0-33-ge7f9a7920+1
+16.0-2-g915e3cf	4	daf_base	16.0-4-g50d071e+8
+16.0-2-g915e3cf	4	obs_base	16.0-12-g2c2f4fa+4
+16.0-2-g915e3cf	4	pex_config	16.0-3-g9645794+5
+16.0-2-g915e3cf	4	pex_policy	16.0-2-gf41ba6b+5
+16.0-2-g915e3cf	4	python_future	0.16.0+3
+16.0-2-g915e3cf	4	numpy	1.13.1+2
+16.0-2-g915e3cf	4	utils	16.0-6-g3610b4f+5
+16.0-2-g915e3cf	4	ip_isr	16.0-9-gcc4efb7+3
