@@ -1726,3 +1726,12 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 16.0-2-g915e3cf	10	numpy	1.13.1+2
 16.0-2-g915e3cf	10	utils	16.0-7-gf4ebffa
 16.0-2-g915e3cf	10	ip_isr	16.0-9-gcc4efb7+9
+16.0-2-g915e3cf	11	afw	16.0-40-ga0fd27181
+16.0-2-g915e3cf	11	daf_base	16.0-7-gc370964
+16.0-2-g915e3cf	11	obs_base	16.0-13-gde155d7+6
+16.0-2-g915e3cf	11	pex_config	16.0-3-g9645794+8
+16.0-2-g915e3cf	11	pex_policy	16.0-3-g404ea43+1
+16.0-2-g915e3cf	11	python_future	0.16.0+3
+16.0-2-g915e3cf	11	numpy	1.13.1+2
+16.0-2-g915e3cf	11	utils	16.0-7-gf4ebffa
+16.0-2-g915e3cf	11	ip_isr	16.0-9-gcc4efb7+10
