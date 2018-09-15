@@ -1,0 +1,56 @@
+# product                 SHA1                                      Version                       
+BUILD=b3818
+libcurl                   7d074033c582db58e84f67fdaf33c26040a05065  7.53.1                                   
+libyaml                   fe04f4f6ffde41f44bfec6c6950136b4d224c8c9  0.1.7                                    
+xrootd                    a437be7aa147af2ae6600dc1d7a4c88793974892  master-ga437be7aa1                       
+doxygen                   75bf1144ea307806d65ecc1709226ca58866c1c4  1.8.13.lsst2                             
+python                    28a652d3d6b1665eb14b9465e11af08269e99fc6  0.0.8                                    
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+json_nlohmann             adac3a383c0236aa1f6efe4a2159547161cfc630  3.1.2                                    
+sqlalchemy                17feb0b4fc40b855a9837d92f0866c50f1b56d0e  1.2.2+2                                  python
+lua                       2ee54348d85a074bd790e93d914b4bb8b70e9cfa  5.1.4.lsst1-3-g2ee5434                   
+pyyaml                    3bcd4dccc5b99536f1d50e1a9026f982f74cb206  3.13                                     python,libyaml
+protobuf                  dbc86f2b0d009b8c785697bf3f44c1b733ec0dbb  2.6.1.lsst4-1-gdbc86f2+3                 python
+python_coverage           6860bf36802129f59bca5f0c8185ca3190587f35  4.5.1                                    python
+mariadbclient             c3b9d248e6b9b8c51c348b80d50dd198b28cd921  10.2.14.lsst2                            
+pytest                    9c1788074e2c263ea418816d88f1c787c77946a7  3.2.0.lsst4+1                            python
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+3                            python
+pyflakes                  2c8b201b94934f7fa7a3c7bff3d39731a7ac61aa  1.6.0+2                                  python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+3                                 python
+python_mccabe             e8cfd9666d2bd843504181099c3b0d1e69a4ef62  0.6.1+9                                  python,pytest
+pybind11                  d10a4638002010b28ebad440d9413a9f98165953  2.2.3.lsst2                              
+numpy                     85b095f6f8cb5a3cd462de8d5762304427b1b233  1.13.1+2                                 python
+boost                     c95036e05c29f825c366ecaa2ca50ab59fde8aca  1.68                                     python
+antlr                     d81cf0cd80e0ed4ab73314e1062ce2396bbd0a0e  2.7.7.lsst1                              
+mariadb                   414db2dfa80b91a3f2948287888a7e46d96735b8  10.2.14.lsst3                            
+pycodestyle               cf95d84d724f579d1460dee026bf5a287b33bf04  2.3.1+3                                  python
+jemalloc                  20ffad636e721dab2fb2e7b4e8a1266ef8f1188f  5.0.1.lsst1                              
+libevent                  7eda99b28260fef2aea6de76475b754e611df4a9  2.1.8                                    
+python_execnet            c0d69c65501b7cbf614e0059da7eb97f25b72518  1.4.1.lsst4+1                            python
+antlr4                    eea57ff57e2ee2f074eb588833361a1b90f44373  4.7.1.lsst1                              
+pytest_forked             c5fda7b5f4bfa5927d31829ba3a5adb919645ef6  0.2.lsst4+1                              python,pytest
+python_psutil             b73e0d4a8e65584c763ceb04b9f3e3b5206ff8b6  5.4.3+2                                  python
+flask                     f44895ae1750d69ddd6116721d00ec24477cf064  0.12+3                                   python
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2.9.1.lsst1+4                            python
+pep8_naming               b6aae6642dff6400403e1b24945c6e157d30b7dc  0.4.1+3                                  python
+apr_util                  78a90a1243a24ee961222bffa4b07d9033307fe4  1.5.4.lsst1                              apr
+python_mysqlclient        adfec1ab86b7fc86aadbdb0489e749789c501db4  1.3.12.lsst2+2                           python,mariadbclient
+pytest_xdist              a186ae77a9f6e991471d7f4003de959401946dcf  1.20.1.lsst4+1                           python,pytest,pytest_forked,python_execnet
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7+1                           apr,apr_util
+mysqlproxy                264b72a00fcacc6a15cdfe9a14446b59a67076d0  0.8.5.lsst3-1-g264b72a                   libevent,lua,mariadb
+pytest_session2file       d5df8ace7d62308a5a692defccb5fdb7d5605152  0.1.9+9                                  python,pytest
+pytest_cov                14fe2eda5c806cbe1b7336a444eb2ed25e124e87  2.5.1                                    python,pytest,python_coverage
+scisql                    b9ed5bba9b6f9e70dd11f8a9585b02eda5ae17a2  0.3.8.lsst3+3                            mariadb,python_mysqlclient,python
+flake8                    1dbac37b5a4210c753f7cadc257d02a7a55e337e  3.5.0+8                                  python,python_mccabe,pycodestyle,pyflakes,pep8_naming
+pytest_flake8             4e9fb1f6078679e3ce100be8f76e8662dc5d5685  0.9.1+8                                  python,pytest,flake8
+sconsUtils                aa5940740df34ec04916b703d7d930c92da65cf9  16.0-7-gaa59407                          scons,pytest,pytest_flake8,pytest_xdist,pytest_session2file,pytest_cov,doxygen
+base                      2cc461ccfc0cecc86fcd70d6fa40795b4070dd3f  16.0-4-g2cc461c                          sconsUtils,pybind11,python,doxygen
+sphgeom                   5f3a788d9c46c2fd337a6f4130d5c46487de6c53  16.0-4-g5f3a788+8                        base,sconsUtils,pybind11,doxygen
+pex_exceptions            aa49eb336f1afbf186d3d492d28327a6008dd1de  16.0-3-gaa49eb3                          base,boost,pybind11,python
+partition                 721d0e5f88ea91e921a5ef4abd4529579e6469a3  12.1-1-g721d0e5+64                       boost,sconsUtils,sphgeom
+utils                     f4ebffa1bbf92a21f1d499ba166b7cd7f3fe67b4  16.0-7-gf4ebffa                          base,pex_exceptions,boost,numpy,pybind11,python,python_psutil
+log                       ce273f51342984d75b2b47da0de60efb5eb2c326  16.0-1-gce273f5+10                       boost,log4cxx,base,pybind11,python,sconsUtils,utils
+db                        5a74774918e1600d25d388733ea843dfe7b07b73  14.0+47                                  log,python,python_future,mariadbclient,python_mysqlclient,sconsUtils,sqlalchemy
+qserv                     df6a045dc98d32109436bbdd9632719b038a6f41  12.1-170-gdf6a045d                       antlr,antlr4,boost,db,doxygen,flask,jemalloc,libcurl,log,log4cxx,lua,mariadb,mysqlproxy,json_nlohmann,python_mysqlclient,partition,protobuf,pybind11,python,python_future,requests,scisql,scons,sphgeom,sqlalchemy,xrootd
+qserv_testdata            7f1110ac815057977fd9e6260afe5c66f55f674e  2016_08-14-g7f1110a+3                    python,python_future,pyyaml,qserv,scons,sconsUtils
+qserv_distrib             76ecee9da3d174fe6e8e3ecfa52012c24ce259e0  2016_08-1-g76ecee9+179                   qserv,partition,qserv_testdata
