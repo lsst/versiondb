@@ -1,0 +1,132 @@
+# product                 SHA1                                      Version                       
+BUILD=b3820
+testdata_subaru           f61fcd2d64b7323c2f7aed34e3a45b2790a3a933  14.0                                     
+starlink_ast              d6cc4e835a9437c4b59277a244e876fd49850cad  lsst-dev-gd6cc4e835a                     
+minuit2                   dae2fb72f087c8d6dd1c4e0cfe8a828920f3412e  5.34.14                                  
+pybind11                  d10a4638002010b28ebad440d9413a9f98165953  2.2.3.lsst2                              
+doxygen                   75bf1144ea307806d65ecc1709226ca58866c1c4  1.8.13.lsst2                             
+python                    28a652d3d6b1665eb14b9465e11af08269e99fc6  0.0.8                                    
+testdata_decam            dd95a3b756cb1b6af5108f06ed7d2afa9202a39a  14.0                                     
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+pykg_config               b05b21c61a90f39eda4b18d505b9fe841ce5f178  1.3.0+4                                  python
+python_execnet            c0d69c65501b7cbf614e0059da7eb97f25b72518  1.4.1.lsst4+1                            python
+pycodestyle               cf95d84d724f579d1460dee026bf5a287b33bf04  2.3.1+3                                  python
+libyaml                   fe04f4f6ffde41f44bfec6c6950136b4d224c8c9  0.1.7                                    
+cfitsio                   f3986278b6dc7e897628a72bea8a211b8e833524  3360.lsst5                               
+testdata_deblender        76d7dc3446bdd13dbec01f3aa48771848b22ce3c  16.0                                     
+gsl                       b299622f4fcae00c4f1bdddcf05ccc6551b39440  2.4                                      
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+testdata_cfht             2bee09ef6fe206c85ef4c504c2f14afeef4acdd0  14.0                                     
+python_coverage           6860bf36802129f59bca5f0c8185ca3190587f35  4.5.1                                    python
+eigen                     c8ced58ce1fa144b84f38bd6a2da978d8242cb4c  3.3.4.lsst1                              
+boost                     c95036e05c29f825c366ecaa2ca50ab59fde8aca  1.68                                     python
+pep8_naming               b6aae6642dff6400403e1b24945c6e157d30b7dc  0.4.1+3                                  python
+xpa                       eb35b1105c2a44557af660104f2807e2b28255dd  2.1.15.lsst3                             
+sqlalchemy                17feb0b4fc40b855a9837d92f0866c50f1b56d0e  1.2.2+2                                  python
+mpich                     39a8536fa6b7e33f4d775c6dc3b59a3d0bf04cb0  3.2.1                                    
+python_psutil             b73e0d4a8e65584c763ceb04b9f3e3b5206ff8b6  5.4.3+2                                  python
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2.9.1.lsst1+4                            python
+pytest                    9c1788074e2c263ea418816d88f1c787c77946a7  3.2.0.lsst4+1                            python
+ws4py                     5ea348065392f65a2029e86483a6abca75117cd5  0.4.2+3                                  python
+pytest_forked             c5fda7b5f4bfa5927d31829ba3a5adb919645ef6  0.2.lsst4+1                              python,pytest
+pyflakes                  2c8b201b94934f7fa7a3c7bff3d39731a7ac61aa  1.6.0+2                                  python
+astropy                   4d079c1f2ee2e98c7771a0c61b15ffd17e211257  2.0.1+2                                  python
+numpy                     85b095f6f8cb5a3cd462de8d5762304427b1b233  1.13.1+2                                 python
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+3                            python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+3                                 python
+healpy                    9cd97ef29430e2726f91482b83e132622762b0fd  1.10.3.lsst1+6                           python,numpy,pykg_config,cfitsio,astropy
+pyyaml                    3bcd4dccc5b99536f1d50e1a9026f982f74cb206  3.13                                     python,libyaml
+pytest_xdist              a186ae77a9f6e991471d7f4003de959401946dcf  1.20.1.lsst4+1                           python,pytest,pytest_forked,python_execnet
+apr_util                  78a90a1243a24ee961222bffa4b07d9033307fe4  1.5.4.lsst1                              apr
+mpi                       6f350834c9ad5859cb069326232a27cdc6cfe17d  0.0.1+3                                  mpich
+wcslib                    373bd44add489cc091272d3393ae8d9857bcd34d  5.13.lsst1+2                             cfitsio
+coord                     6845867de72ca7a93e9b7ebe6abf60579d0c0751  1.0.5.lsst                               python,numpy,python_future
+python_mccabe             e8cfd9666d2bd843504181099c3b0d1e69a4ef62  0.6.1+9                                  python,pytest
+pytest_cov                14fe2eda5c806cbe1b7336a444eb2ed25e124e87  2.5.1                                    python,pytest,python_coverage
+pytest_session2file       d5df8ace7d62308a5a692defccb5fdb7d5605152  0.1.9+9                                  python,pytest
+firefly_client            d3d76961fa68ca2dfdca85101ba4eace277ef338  lsst-dev-gd3d76961fa                     ws4py,python_future
+galsim                    44d07677ff03b7dc52383c24bb2d86ed8a8f04ea  2.0.7.lsst2                              scons,numpy,python_future,fftw,astropy,pybind11,eigen,coord
+treecorr                  2722dd9d8f0cb5c3df05f51e0f83eb751e6b0903  3.2.3.lsst3+3                            numpy,pyyaml
+ndarray                   b3fb59ae4e34a86aa2a1cfb81b1f5af2660c9842  1.5.1.lsst1+6                            boost,python,numpy,eigen,pybind11,fftw
+scipy                     aedd72728b314c7adcb2bc108d85b02a75efc322  0.0.1.lsst1+7                            python,numpy
+esutil                    7cb0cf1c2fbb75c11a1c3c033fc4fa454b6b7470  0.6.2.5.lsst1+2                          python,numpy
+matplotlib                b4501be95a59aa8050fc6577f05cdf17be165b2d  2.0.2+2                                  python,numpy
+mpi4py                    6dc1747acc237c28db2b50ad95dbbe8667395789  2.0.0+6                                  python,mpi
+flake8                    1dbac37b5a4210c753f7cadc257d02a7a55e337e  3.5.0+8                                  python,python_mccabe,pycodestyle,pyflakes,pep8_naming
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7+1                           apr,apr_util
+lmfit                     0239b733156600f9ce4602ec7a1a266ee14856b0  0.9.3+8                                  python,numpy,scipy
+astrometry_net            614c69fbd662f97a354ed1e69cc46b2c82f552a8  0.67.123ff3e.lsst1+8                     cfitsio,wcslib,gsl,numpy
+proxmin                   87d7c0f1bbe5eb4f5a6783e01f00c95cd12ddcfe  lsst-dev-g87d7c0f1bb                     numpy,scipy
+pytest_flake8             4e9fb1f6078679e3ce100be8f76e8662dc5d5685  0.9.1+8                                  python,pytest,flake8
+sconsUtils                aa5940740df34ec04916b703d7d930c92da65cf9  16.0-7-gaa59407                          scons,pytest,pytest_flake8,pytest_xdist,pytest_session2file,pytest_cov,doxygen
+scarlet                   fdfbe1c24037acfb2a9f7f87f3f505e4df92f041  lsst-dev-gfdfbe1c240+2                   pybind11,scipy,numpy,eigen,proxmin
+jointcal_cholmod          48cb81d1452d66b6f52c02d3f3ec9ea99b564915  master-g48cb81d145+46                    scons,sconsUtils
+astshim                   0febb12f172f6aa92958d4a456aa3fc7795f3087  16.0-2-g0febb12+8                        sconsUtils,ndarray,numpy,starlink_ast,pybind11
+afwdata                   e3096bf6d57a7154f22a38a09eba35aa91b54a6e  16.0-1-ge3096bf+5                        sconsUtils
+base                      2cc461ccfc0cecc86fcd70d6fa40795b4070dd3f  16.0-4-g2cc461c                          sconsUtils,pybind11,python,doxygen
+verify_metrics            16e3d1ca4a635d3a35cf7e63de994d8ed592e1fc  16.0-2-g16e3d1c+5                        sconsUtils
+pex_exceptions            aa49eb336f1afbf186d3d492d28327a6008dd1de  16.0-3-gaa49eb3                          base,boost,pybind11,python
+astrometry_net_data       eaffc02df2119a5f17862630057df8974f07ca23  8.0.0.0+42                               sconsUtils
+psfex                     ee0c255054821e86103689bba663a75226793e5f  16.0+6                                   gsl,sconsUtils,fftw
+sphgeom                   5f3a788d9c46c2fd337a6f4130d5c46487de6c53  16.0-4-g5f3a788+8                        base,sconsUtils,pybind11,doxygen
+utils                     f4ebffa1bbf92a21f1d499ba166b7cd7f3fe67b4  16.0-7-gf4ebffa                          base,pex_exceptions,boost,numpy,pybind11,python,python_psutil
+daf_base                  c37096434ebb42e4c36c4bd3e86498c7b06d6b98  16.0-7-gc370964                          utils,pex_exceptions,pybind11,python,numpy,pyyaml
+pex_policy                404ea43d43b00bc6d085da84f02580eb1ddd4c69  16.0-3-g404ea43+1                        daf_base,utils,pybind11,python
+log                       ce273f51342984d75b2b47da0de60efb5eb2c326  16.0-1-gce273f5+10                       boost,log4cxx,base,pybind11,python,sconsUtils,utils
+geom                      230e10e24db3d8aea844638d7593131379fcf83b  16.0-10-g230e10e+2                       boost,ndarray,sconsUtils,sphgeom,pex_exceptions,utils
+pex_config                9645794ae45512275bbd3571f99ade6259e84983  16.0-3-g9645794+8                        daf_base,pex_policy,numpy,utils,pybind11,python
+daf_persistence           10498df05d4db0320b046681b17bff260eff3bd1  16.0-5-g10498df+1                        log,pex_policy,astropy,pyyaml,pybind11,python
+afw                       a0fd27181e3e778c343fb07db9ac20e7bf78706e  16.0-40-ga0fd27181                       daf_base,daf_persistence,pex_config,geom,log,ndarray,cfitsio,numpy,minuit2,eigen,gsl,fftw,sphgeom,utils,astropy,pybind11,astshim,matplotlib,afwdata
+ctrl_orca                 9633d822c601c422e950248b046d35adba9f08aa  16.0-1-g9633d82+14                       python_future,utils,pex_policy,pex_config,daf_persistence,log
+shapelet                  f0acd13e246ecb9c01539a9f8a569844a9f8d0f4  16.0-6-gf0acd13+17                       afw,numpy,scons,sconsUtils,pybind11,scipy
+display_matplotlib        cfd6c53fb2b2afaae4b6c783f7b86d332d41a7e9  16.0-3-gcfd6c53+23                       afw,matplotlib,python_future
+display_firefly           03cf288855deed6d7d3aedfddf06e06d647aa02c  16.0-4-g03cf288+14                       afw,log,firefly_client,python_future
+daf_butler                c2036689108bb33fa6323a1ca3daa481465bed6c  master-gc203668910                       sphgeom,sqlalchemy,numpy,scons,sconsUtils,utils,daf_persistence,afw
+verify                    0ee5b77afa3e0ec86e0d8326c80faace492b724c  16.0-1-g0ee5b77+10                       python_future,pyyaml,requests,numpy,astropy,sconsUtils,utils,pex_exceptions,log,pytest_flake8,verify_metrics
+display_ds9               9d5294e0e55208fb9c5d11dc0716d52959c879d6  16.0-2-g9d5294e+25                       afw,xpa,pybind11
+ctrl_execute              c2b038a13c2772bc608ffd1cf80d146672464789  15.0+39                                  python_future,ctrl_orca,pex_config,utils
+skymap                    13a27c568fe1a38c93be91724f76e1d111dadff8  16.0-4-g13a27c5                          numpy,sphgeom,afw,healpy
+obs_base                  de155d74f5c16746b4531e0de69e854b68194155  16.0-13-gde155d7+6                       daf_base,log,pex_policy,daf_persistence,afw,astropy,utils,daf_butler
+obs_test                  0da18be79f78cbadeb817fc0040ff3362725e2d8  16.0-5-g0da18be+11                       afw,daf_base,obs_base,pex_config,pex_policy,numpy,utils,astropy
+pipe_base                 9fe0e56c23a0ff9dc0c233848667df811b904b9b  16.0-11-g9fe0e56+21                      daf_butler,daf_persistence,log,pex_config,utils,afw,obs_test
+ctrl_platform_lsstvc      3865e40c38abb347490c64d33ab2e0120dfaaa35  15.0+39                                  ctrl_execute
+ctrl_pool                 ab3db494a6de24579547c32411459e69759a174a  16.0-2-gab3db49+11                       python_future,daf_persistence,pipe_base,log,utils,mpi4py
+coadd_utils               8a0f11ad41700031c1f401767dc69b6fdc8006be  16.0-4-g8a0f11a+20                       afw,log,pybind11,numpy,pex_config,pipe_base,scons,sconsUtils,utils,afwdata
+meas_base                 5ad1ebf752175d0d73d66f2744a22aef5b32a07b  16.0-12-g5ad1ebf+13                      utils,geom,afw,coadd_utils,daf_base,sphgeom,numpy,pex_config,pipe_base,pybind11,scons,sconsUtils
+cp_pipe                   60afb23e41d70bc0a8625a4375dfe02416088242  16.0+46                                  pex_config,pipe_base,daf_base,log
+coadd_chisquared          839ba837ce4a9dc49a930c7af54f43f78ec67327  16.0-2-g839ba83+36                       coadd_utils,numpy,scons,sconsUtils,pybind11,afwdata
+meas_algorithms           a49ff4338440d33abbdcffe49d3df00204062e45  16.0-16-ga49ff433+3                      astshim,daf_base,daf_persistence,geom,afw,esutil,log,meas_base,obs_test,minuit2,numpy,pex_config,pex_exceptions,pex_policy,pipe_base,scons,sconsUtils,utils,pybind11
+ip_isr                    cc4efb7d763d3663c9e989339505df9654f23fd9  16.0-9-gcc4efb7+10                       meas_algorithms,numpy,pipe_base,scons,sconsUtils,pybind11
+meas_extensions_psfex     efcefcb8de46a092f8ce9636795b8822e333d84f  16.0-9-gefcefcb+3                        afw,boost,daf_base,fftw,meas_algorithms,meas_base,numpy,psfex,scons,sconsUtils,pybind11,utils
+meas_extensions_simpleShape b3f8a4bae7472527b6ae8c4180753443f1554f94  16.0-5-gb3f8a4b+30                       scons,sconsUtils,base,numpy,pybind11,afw,meas_base,utils,pex_config,pex_exceptions
+obs_ctio0m9               915e3cf444f5aa5683744b315de7d0b4c06c6ae2  16.0-2-g915e3cf+11                       afw,daf_base,obs_base,pex_config,pex_policy,python_future,numpy,utils,ip_isr
+meas_astrom               c85596ebb23bef1b4a27b8aee3d12d495435fa87  16.0-12-gc85596e+6                       geom,sphgeom,afw,log,meas_algorithms,pex_config,pipe_base,utils,astrometry_net,numpy,matplotlib
+meas_extensions_photometryKron a5d8928b6df40e9ac2b7f10ca501bc2c0a5f2be1  16.0-4-ga5d8928+20                       meas_base,pybind11,meas_algorithms
+meas_modelfit             e9c3a017ea6302c8c21be470603a0da6e114d2db  16.0-12-ge9c3a01+3                       afw,meas_algorithms,meas_base,numpy,log,scons,sconsUtils,shapelet,pybind11,matplotlib
+meas_extensions_convolved a36a39fbe29cc0aaf92c6f60739eb9e1f8827c27  16.0-3-ga36a39f+20                       meas_algorithms,meas_extensions_photometryKron
+meas_deblender            4dec96c37e207122dcc113f5b58869c073e10ebe  16.0-8-g4dec96c+11                       afw,log,meas_algorithms,numpy,scons,sconsUtils,utils,pybind11,scarlet,matplotlib,testdata_deblender
+meas_extensions_shapeHSM  fda48a7a1806872895ec1bfc22b61629ecc97b3a  16.0-6-gfda48a7+10                       meas_base,meas_algorithms,galsim,afw,daf_base,numpy,pex_exceptions,pybind11,sconsUtils,utils
+ip_diffim                 1de645cc404c0820b584cc8a8d0e47d843ecc86e  16.0-9-g1de645c+11                       afw,daf_base,daf_persistence,log,meas_algorithms,meas_base,meas_deblender,minuit2,numpy,pex_config,pex_policy,pipe_base,utils,lmfit,pybind11,afwdata,matplotlib
+meas_extensions_astrometryNet 563880ac77928ddcb0f6a5277a3aa902fca37938  16.0-5-g563880a+6                        afw,log,meas_algorithms,meas_astrom,pex_config,pipe_base,utils,astropy,wcslib,astrometry_net,numpy,python_future,matplotlib
+pipe_tasks                9428de4d3d30aa5cf8b40ef4365f0b8c88f1d659  16.0-14-g9428de4d+4                      afw,daf_persistence,log,meas_base,pipe_base,pex_config,utils,obs_base,meas_algorithms,meas_astrom,meas_extensions_astrometryNet,meas_deblender,astrometry_net_data,ip_isr,ip_diffim,coadd_utils,coadd_chisquared,skymap,sphgeom,obs_test,matplotlib
+synpipe                   7690030b7dc75ab983d9e9f9d17a2ce698989b58  16.0-4-g7690030+34                       astropy,daf_persistence,pex_config,afw,pipe_base,pipe_tasks
+obs_subaru                bd2d067de6b3b6ab3348680d5445a44b499bf701  16.0-22-gbd2d067d+2                      daf_persistence,obs_base,pipe_tasks,meas_astrom,astropy,sconsUtils,pybind11,numpy,astshim,daf_butler,meas_modelfit,meas_extensions_psfex,meas_extensions_shapeHSM,testdata_subaru
+obs_sdss                  0a86d6a056537c8713d769209a4a1ae28b47e9e0  16.0-4-g0a86d6a+13                       pex_policy,obs_base,afw,meas_algorithms,meas_astrom,pipe_tasks,utils,log,astropy
+obs_cfht                  b881f7023f73cdfff7027e9acc54b014228bf063  16.0-3-gb881f70+13                       daf_persistence,obs_base,meas_algorithms,pipe_tasks,astropy,testdata_cfht
+pipe_drivers              77420712dad9e33ad0546a26f051164a31feb919  16.0-5-g7742071+6                        ctrl_pool,afw,pex_exceptions,sphgeom,pex_config,pipe_base,pipe_tasks
+obs_decam                 60534539578ecb721a3178dbb5caf4cd186db2a0  16.0-6-g6053453+6                        utils,daf_persistence,obs_base,afw,meas_algorithms,pipe_tasks,pipe_base,pex_exceptions,pex_config,pex_policy,ip_isr,testdata_decam
+obs_monocam               8f08cb246b353b0a495b1ede4d190cb425265cc9  16.0-3-g8f08cb2+11                       afw,daf_base,obs_base,pex_config,pex_policy,python_future,numpy,utils,meas_extensions_astrometryNet
+validation_data_decam     d5cb6675fc1d40511b9048230b2cefc8a57e3b3a  16.0-1-gd5cb667+6                        obs_decam
+ci_ctio0m9                e691f85275d625ba20023001eba35a0d18ce91ca  16.0-1-ge691f85+35                       obs_ctio0m9,pipe_drivers,pipe_tasks,sconsUtils,afw,pipe_base,pex_config
+validate_drp              f51232b7f7f773be96b0687007612599158993e7  16.0-9-gf51232b+23                       python,utils,daf_persistence,afw,pipe_base,verify,pyyaml,scipy,matplotlib,treecorr,pipe_tasks,pipe_drivers,obs_cfht,obs_decam,obs_subaru
+meas_mosaic               a5931cfe50fc565d81d595185ce13e717260acfb  16.0-11-ga5931cf+3                       sconsUtils,pybind11,python,boost,gsl,afw,numpy,eigen,log,ndarray,pex_config,pipe_tasks,meas_astrom,meas_base,meas_algorithms,minuit2,astropy,obs_subaru
+lsst_dm_stack_demo        64fbbc78027f8e92910a17d9a31de33bf35f46ee  10.1-38-g64fbbc7+3                       python,utils,sconsUtils,obs_sdss
+obs_comCam                a6da2073881c2f00248dd67bf739f0ef16af5def  16.0-3-ga6da207+13                       afw,daf_base,obs_base,pex_config,pex_policy,python_future,numpy,utils,ip_isr,pipe_tasks
+obs_lsstSim               c32b17b109f77fb797874169464945a249549a1f  16.0-5-gc32b17b+14                       daf_base,pex_policy,afw,daf_persistence,obs_base,meas_algorithms,ip_isr,pipe_tasks,pybind11,utils,astropy
+validation_data_cfht      7de73de9538ba803cef42dd2791f384e352d974c  16.0-1-g7de73de+6                        obs_cfht
+testdata_jointcal         bdc2990a0900dce2fe1d785e8021982ed9845277  16.0+56                                  obs_lsstSim,obs_cfht,obs_decam,obs_subaru
+jointcal                  8e16a5178727828e4f1d75903244e2376e73a1f9  16.0-15-g8e16a51+18                      scons,sconsUtils,pybind11,eigen,boost,afw,daf_persistence,obs_base,pex_exceptions,pex_config,meas_algorithms,pipe_tasks,jointcal_cholmod,meas_extensions_astrometryNet,verify,verify_metrics,obs_cfht,testdata_jointcal
+lsst_apps                 cc7d151676b57b3a582f0b44cdf1904dcab59a17  14.0+194                                 meas_deblender,meas_modelfit,pipe_tasks,obs_lsstSim,obs_sdss,obs_test,meas_extensions_simpleShape,display_ds9,meas_extensions_psfex
+lsst_obs                  89eebdb3ff7938827dae99c05efa0d84db0b2b2c  15.0+115                                 obs_cfht,obs_comCam,obs_ctio0m9,obs_decam,obs_lsstSim,obs_subaru,obs_test,obs_monocam,obs_sdss,testdata_cfht,testdata_subaru,testdata_decam
+lsst_distrib              da316d8ed5fcfdc1ad1c8dd70c43df304f0dadda  16.0+58                                  lsst_apps,ctrl_execute,ctrl_platform_lsstvc,meas_extensions_convolved,meas_extensions_shapeHSM,meas_extensions_photometryKron,pipe_drivers,lsst_obs,synpipe,jointcal,verify,display_firefly,display_matplotlib,cp_pipe,validate_drp,meas_mosaic
+lsst_ci                   bc167260ebfc3552863e7704268cb6ae1fbfd98a  16.0-1-gbc16726+3                        lsst_apps,lsst_distrib,lsst_dm_stack_demo,testdata_subaru,testdata_cfht,testdata_decam,obs_subaru,obs_cfht,obs_decam,obs_lsstSim,obs_sdss,validation_data_cfht,validation_data_decam,validate_drp,ci_ctio0m9
