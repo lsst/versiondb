@@ -1468,3 +1468,10 @@ master-gbe69b68c0a	98	pex_config	14.0-4-gae1598d+4
 16.0-1-ge691f85	39	afw	16.0-42-gaa8aebfeb
 16.0-1-ge691f85	39	pipe_base	16.0-12-g726f8f3
 16.0-1-ge691f85	39	pex_config	16.0-4-g0b03ad7
+16.0-1-ge691f85	40	obs_ctio0m9	16.0-2-g915e3cf+16
+16.0-1-ge691f85	40	pipe_drivers	16.0-6-gf9cb114+4
+16.0-1-ge691f85	40	pipe_tasks	16.0-17-gd75be2c9
+16.0-1-ge691f85	40	sconsUtils	16.0-9-g681d1af
+16.0-1-ge691f85	40	afw	16.0-42-gaa8aebfeb+1
+16.0-1-ge691f85	40	pipe_base	16.0-12-g726f8f3+1
+16.0-1-ge691f85	40	pex_config	16.0-5-gd0f1235
