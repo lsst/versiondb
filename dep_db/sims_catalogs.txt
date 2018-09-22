@@ -900,3 +900,9 @@ master-g68a5757bc4	12	utils	12.1-2-gd71c75d+4
 2.9.0.sims	4	sims_utils	2.10.0.sims+3
 2.9.0.sims	4	sqlalchemy	1.2.2+2
 2.9.0.sims	4	utils	16.0-7-gf4ebffa
+2.9.0.sims	5	daf_persistence	16.0-7-g88875c5
+2.9.0.sims	5	pymssql	2.1.1+8
+2.9.0.sims	5	python	0.0.8
+2.9.0.sims	5	sims_utils	2.10.0.sims-1-gc54bdbb
+2.9.0.sims	5	sqlalchemy	1.2.2+2
+2.9.0.sims	5	utils	16.0-8-gb99f628
