@@ -2849,3 +2849,11 @@ u.danielsf.2.3.7.1.sims-gc6b39a0de3	1	utils	13.0-9-gf29e843+2
 16.0-14-g71e547a	2	astropy	2.0.1+2
 16.0-14-g71e547a	2	utils	16.0-10-gbca2faa
 16.0-14-g71e547a	2	daf_butler	master-g37a24ae508
+16.0-14-g71e547a	3	daf_base	16.0-8-g23bbf3f+1
+16.0-14-g71e547a	3	log	16.0-1-gce273f5+15
+16.0-14-g71e547a	3	pex_policy	16.0-3-g404ea43+7
+16.0-14-g71e547a	3	daf_persistence	16.0-7-g88875c5+4
+16.0-14-g71e547a	3	afw	16.0-43-gaa65a4573+3
+16.0-14-g71e547a	3	astropy	2.0.1+2
+16.0-14-g71e547a	3	utils	16.0-11-g5cf5345
+16.0-14-g71e547a	3	daf_butler	master-gc39853184b

@@ -1287,3 +1287,9 @@ w.2016.15	0	numpy	0.0.2
 16.0-8-g23bbf3f	0	python	0.0.8
 16.0-8-g23bbf3f	0	numpy	1.13.1+2
 16.0-8-g23bbf3f	0	pyyaml	3.13
+16.0-8-g23bbf3f	1	utils	16.0-11-g5cf5345
+16.0-8-g23bbf3f	1	pex_exceptions	16.0-4-ga3eb747+1
+16.0-8-g23bbf3f	1	pybind11	2.2.3.lsst2
+16.0-8-g23bbf3f	1	python	0.0.8
+16.0-8-g23bbf3f	1	numpy	1.13.1+2
+16.0-8-g23bbf3f	1	pyyaml	3.13
