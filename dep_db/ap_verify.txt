@@ -8,3 +8,13 @@ master-ge11d0b3dde	0	verify	16.0-1-g0ee5b77+17
 master-ge11d0b3dde	0	ap_pipe	master-gc75de31078
 master-ge11d0b3dde	0	ap_verify_testdata	master-g776ca18277
 master-ge11d0b3dde	0	obs_test	16.0-7-ga8e1655+7
+master-ge11d0b3dde	1	python	0.0.8
+master-ge11d0b3dde	1	utils	16.0-12-ga22ed6e+1
+master-ge11d0b3dde	1	afw	16.0-45-g4805a823c
+master-ge11d0b3dde	1	daf_persistence	16.0-8-gfd407c0+2
+master-ge11d0b3dde	1	ip_isr	16.0-10-g5a5abec+8
+master-ge11d0b3dde	1	pipe_tasks	16.0-20-ga7ad2685
+master-ge11d0b3dde	1	verify	16.0-1-g0ee5b77+17
+master-ge11d0b3dde	1	ap_pipe	master-gc75de31078+1
+master-ge11d0b3dde	1	ap_verify_testdata	master-g776ca18277+1
+master-ge11d0b3dde	1	obs_test	16.0-7-ga8e1655+8
