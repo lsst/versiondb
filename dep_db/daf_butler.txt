@@ -366,3 +366,11 @@ master-g6a58b7f911	0	sconsUtils	16.0-11-gb79374a+1
 master-g6a58b7f911	0	utils	16.0-12-ga22ed6e+1
 master-g6a58b7f911	0	daf_persistence	16.0-8-gfd407c0+2
 master-g6a58b7f911	0	afw	16.0-45-g4805a823c
+master-g6a58b7f911	1	sphgeom	16.0-4-g5f3a788+13
+master-g6a58b7f911	1	sqlalchemy	1.2.2+2
+master-g6a58b7f911	1	numpy	1.13.1+2
+master-g6a58b7f911	1	scons	3.0.0.lsst1+3
+master-g6a58b7f911	1	sconsUtils	16.0-11-gb79374a+1
+master-g6a58b7f911	1	utils	16.0-13-g80874fd
+master-g6a58b7f911	1	daf_persistence	16.0-8-gfd407c0+3
+master-g6a58b7f911	1	afw	16.0-47-g715bc840a
