@@ -398,3 +398,11 @@ master-g225a9bd71e	0	sconsUtils	16.0-11-gb79374a+1
 master-g225a9bd71e	0	utils	16.0-13-g80874fd
 master-g225a9bd71e	0	daf_persistence	16.0-8-gfd407c0+3
 master-g225a9bd71e	0	afw	16.0-50-g95fea89d0
+master-g225a9bd71e	1	sphgeom	16.0-4-g5f3a788+13
+master-g225a9bd71e	1	sqlalchemy	1.2.2+2
+master-g225a9bd71e	1	numpy	1.13.1+2
+master-g225a9bd71e	1	scons	3.0.0.lsst1+3
+master-g225a9bd71e	1	sconsUtils	16.0-11-gb79374a+1
+master-g225a9bd71e	1	utils	16.0-13-g80874fd
+master-g225a9bd71e	1	daf_persistence	16.0-8-gfd407c0+3
+master-g225a9bd71e	1	afw	16.0-51-gb4b4a8566
