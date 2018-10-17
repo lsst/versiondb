@@ -1123,3 +1123,14 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 16.0-1-g0ee5b77	19	log	16.0-1-gce273f5+19
 16.0-1-g0ee5b77	19	pytest_flake8	1.0.1.lsst1
 16.0-1-g0ee5b77	19	verify_metrics	16.0-2-g16e3d1c+11
+16.0-1-g0ee5b77	20	python_future	0.16.0+3
+16.0-1-g0ee5b77	20	pyyaml	3.13
+16.0-1-g0ee5b77	20	requests	2.9.1.lsst1+4
+16.0-1-g0ee5b77	20	numpy	1.13.1+2
+16.0-1-g0ee5b77	20	astropy	2.0.1+2
+16.0-1-g0ee5b77	20	sconsUtils	16.0-13-g645024f
+16.0-1-g0ee5b77	20	utils	16.0-13-g80874fd+2
+16.0-1-g0ee5b77	20	pex_exceptions	16.0-4-ga3eb747+5
+16.0-1-g0ee5b77	20	log	16.0-1-gce273f5+20
+16.0-1-g0ee5b77	20	pytest_flake8	1.0.1.lsst1
+16.0-1-g0ee5b77	20	verify_metrics	16.0-2-g16e3d1c+12
