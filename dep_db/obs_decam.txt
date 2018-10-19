@@ -6194,3 +6194,15 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 16.0-11-g0300050	3	pex_policy	16.0-3-g404ea43+12
 16.0-11-g0300050	3	ip_isr	16.0-12-g6065a46+2
 16.0-11-g0300050	3	testdata_decam	14.0
+16.0-11-g0300050	4	utils	16.0-13-g80874fd+2
+16.0-11-g0300050	4	daf_persistence	16.0-8-gfd407c0+5
+16.0-11-g0300050	4	obs_base	16.0-17-ged3ab9d
+16.0-11-g0300050	4	afw	16.0-51-gb4b4a8566+2
+16.0-11-g0300050	4	meas_algorithms	16.0-17-g6a7bfb3b+20
+16.0-11-g0300050	4	pipe_tasks	16.0-23-ge8a9b866+2
+16.0-11-g0300050	4	pipe_base	16.0-13-gb122224+11
+16.0-11-g0300050	4	pex_exceptions	16.0-4-ga3eb747+5
+16.0-11-g0300050	4	pex_config	16.0-5-gd0f1235+9
+16.0-11-g0300050	4	pex_policy	16.0-3-g404ea43+12
+16.0-11-g0300050	4	ip_isr	16.0-13-g5f20d24
+16.0-11-g0300050	4	testdata_decam	14.0
