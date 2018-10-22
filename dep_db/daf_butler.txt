@@ -438,3 +438,11 @@ master-ga208f4eb74	2	sconsUtils	16.0-13-g645024f
 master-ga208f4eb74	2	utils	16.0-13-g80874fd+2
 master-ga208f4eb74	2	daf_persistence	16.0-9-g52c50f7
 master-ga208f4eb74	2	afw	16.0-54-g7f11d9897
+master-ga208f4eb74	3	sphgeom	16.0-4-g5f3a788+15
+master-ga208f4eb74	3	sqlalchemy	1.2.2+2
+master-ga208f4eb74	3	numpy	1.13.1+2
+master-ga208f4eb74	3	scons	3.0.0.lsst1+3
+master-ga208f4eb74	3	sconsUtils	16.0-13-g645024f
+master-ga208f4eb74	3	utils	16.0-13-g80874fd+2
+master-ga208f4eb74	3	daf_persistence	16.0-9-g52c50f7
+master-ga208f4eb74	3	afw	16.0-55-ged26810fc

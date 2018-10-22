@@ -1930,3 +1930,10 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 16.0-5-g9bba941	1	numpy	1.13.1+2
 16.0-5-g9bba941	1	utils	16.0-13-g80874fd+2
 16.0-5-g9bba941	1	ip_isr	16.0-13-g5f20d24+2
+16.0-5-g9bba941	2	afw	16.0-55-ged26810fc
+16.0-5-g9bba941	2	daf_base	16.0-10-g1758552
+16.0-5-g9bba941	2	obs_base	16.0-18-ge18fa5b+2
+16.0-5-g9bba941	2	pex_config	16.0-5-gd0f1235+10
+16.0-5-g9bba941	2	numpy	1.13.1+2
+16.0-5-g9bba941	2	utils	16.0-13-g80874fd+2
+16.0-5-g9bba941	2	ip_isr	16.0-13-g5f20d24+3
