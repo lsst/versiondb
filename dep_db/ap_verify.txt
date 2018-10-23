@@ -148,3 +148,13 @@ master-g5efc332078	10	verify	16.0-1-g0ee5b77+20
 master-g5efc332078	10	ap_pipe	master-g02a361ce6c+10
 master-g5efc332078	10	ap_verify_testdata	master-gad2fcd81dc+9
 master-g5efc332078	10	obs_test	16.0-8-g0e813a6+3
+master-g5efc332078	11	python	0.0.8
+master-g5efc332078	11	utils	16.0-13-g80874fd+2
+master-g5efc332078	11	afw	16.0-55-ged26810fc
+master-g5efc332078	11	daf_persistence	16.0-9-g52c50f7
+master-g5efc332078	11	ip_isr	16.0-13-g5f20d24+4
+master-g5efc332078	11	pipe_tasks	16.0-25-g9c0e765e
+master-g5efc332078	11	verify	16.0-1-g0ee5b77+20
+master-g5efc332078	11	ap_pipe	master-g02a361ce6c+11
+master-g5efc332078	11	ap_verify_testdata	master-gad2fcd81dc+10
+master-g5efc332078	11	obs_test	16.0-8-g0e813a6+4
