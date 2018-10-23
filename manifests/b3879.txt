@@ -1,0 +1,5 @@
+# product                 SHA1                                      Version                       
+BUILD=b3879
+python                    28a652d3d6b1665eb14b9465e11af08269e99fc6  0.0.8                                    
+numpy                     85b095f6f8cb5a3cd462de8d5762304427b1b233  1.13.1+2                                 python
+ngmix                     05fc057e5021538aa7946b931e13765dbe0d0ea3  tickets.DM-16268-g05fc057e50             python,numpy
