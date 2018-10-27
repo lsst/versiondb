@@ -7070,3 +7070,8 @@ sims_2.2.6	0	astropy	0.0.1.lsst2
 2.11.0.sims	1	python	0.0.8
 2.11.0.sims	1	throughputs	2017.01.31-6-g29ce4f5
 2.11.0.sims	1	astropy	2.0.1+2
+2.11.0.sims	2	utils	16.0-14-gd373004+1
+2.11.0.sims	2	sims_utils	2.11.0.sims+2
+2.11.0.sims	2	python	0.0.8
+2.11.0.sims	2	throughputs	2017.01.31-6-g29ce4f5
+2.11.0.sims	2	astropy	3.0.3
