@@ -4492,3 +4492,9 @@ w.2016.15	0	afwdata	w.2016.15
 16.0-3-ge00e371	7	sconsUtils	16.0-14-g280d363+1
 16.0-3-ge00e371	7	pybind11	2.2.3.lsst2
 16.0-3-ge00e371	7	afwdata	16.0-1-ge3096bf+14
+16.0-3-ge00e371	8	coadd_utils	16.0-5-g6a53317+8
+16.0-3-ge00e371	8	numpy	1.14.5
+16.0-3-ge00e371	8	scons	3.0.0.lsst1+3
+16.0-3-ge00e371	8	sconsUtils	16.0-15-g57c515d
+16.0-3-ge00e371	8	pybind11	2.2.3.lsst2
+16.0-3-ge00e371	8	afwdata	16.0-1-ge3096bf+15

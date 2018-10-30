@@ -198,3 +198,13 @@ master-g0560dcaae5	2	verify	16.0-2-gbe4bee2+1
 master-g0560dcaae5	2	ap_pipe	master-g02a361ce6c+15
 master-g0560dcaae5	2	ap_verify_testdata	master-gad2fcd81dc+14
 master-g0560dcaae5	2	obs_test	16.0-9-g85d1a16+2
+master-g0560dcaae5	3	python	0.0.8
+master-g0560dcaae5	3	utils	16.0-14-gd373004+2
+master-g0560dcaae5	3	afw	16.0-57-g90e7ba260+1
+master-g0560dcaae5	3	daf_persistence	16.0-11-g39ac3c7+1
+master-g0560dcaae5	3	ip_isr	16.0-14-g6c7ed55+3
+master-g0560dcaae5	3	pipe_tasks	16.0-27-g78173a71+2
+master-g0560dcaae5	3	verify	16.0-2-gbe4bee2+2
+master-g0560dcaae5	3	ap_pipe	master-g02a361ce6c+16
+master-g0560dcaae5	3	ap_verify_testdata	master-gad2fcd81dc+15
+master-g0560dcaae5	3	obs_test	16.0-9-g85d1a16+3
