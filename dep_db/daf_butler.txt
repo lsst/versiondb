@@ -509,3 +509,12 @@ master-g0373348f1c	3	utils	16.0-14-gd373004+3
 master-g0373348f1c	3	astro_metadata_translator	master-g80ce5686c2+4
 master-g0373348f1c	3	daf_persistence	16.0-11-g39ac3c7+2
 master-g0373348f1c	3	afw	16.0-57-g90e7ba260+2
+master-g0373348f1c	4	sphgeom	16.0-4-g5f3a788+19
+master-g0373348f1c	4	sqlalchemy	1.2.2+2
+master-g0373348f1c	4	numpy	1.14.5
+master-g0373348f1c	4	scons	3.0.0.lsst1+3
+master-g0373348f1c	4	sconsUtils	16.0-15-g57c515d+1
+master-g0373348f1c	4	utils	16.0-14-gd373004+3
+master-g0373348f1c	4	astro_metadata_translator	master-g6f82b7b8ee
+master-g0373348f1c	4	daf_persistence	16.0-11-g39ac3c7+2
+master-g0373348f1c	4	afw	16.0-59-gb58eec0ea
