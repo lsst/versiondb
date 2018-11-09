@@ -15679,3 +15679,14 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 16.0-9-g28cebc3	11	pybind11	2.2.3.lsst2
 16.0-9-g28cebc3	11	utils	16.0-15-ga29f190
 16.0-9-g28cebc3	11	astropy	3.0.3
+16.0-9-g28cebc3	12	daf_base	16.0-11-g09ed895
+16.0-9-g28cebc3	12	pex_policy	16.0-4-gb13d127+4
+16.0-9-g28cebc3	12	afw	16.0-61-g8d4b44b59
+16.0-9-g28cebc3	12	daf_persistence	16.0-11-g39ac3c7+3
+16.0-9-g28cebc3	12	obs_base	16.0-24-gc1c7f52+2
+16.0-9-g28cebc3	12	meas_algorithms	16.0-19-gb830ed4e+9
+16.0-9-g28cebc3	12	ip_isr	16.0-14-g6c7ed55+9
+16.0-9-g28cebc3	12	pipe_tasks	16.0-30-g0d149e73
+16.0-9-g28cebc3	12	pybind11	2.2.3.lsst2
+16.0-9-g28cebc3	12	utils	16.0-15-ga29f190
+16.0-9-g28cebc3	12	astropy	3.0.3
