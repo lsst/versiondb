@@ -298,3 +298,13 @@ master-g796a60e746	1	verify	16.0-2-gbe4bee2+5
 master-g796a60e746	1	ap_pipe	master-gd2692b69d2+2
 master-g796a60e746	1	ap_verify_testdata	master-gad2fcd81dc+21
 master-g796a60e746	1	obs_test	16.0-9-g85d1a16+9
+master-g796a60e746	2	python	0.0.8
+master-g796a60e746	2	utils	16.0-15-ga29f190
+master-g796a60e746	2	afw	16.0-61-g8d4b44b59
+master-g796a60e746	2	daf_persistence	16.0-11-g39ac3c7+3
+master-g796a60e746	2	ip_isr	16.0-14-g6c7ed55+10
+master-g796a60e746	2	pipe_tasks	16.0-32-g044e2860+2
+master-g796a60e746	2	verify	16.0-2-gbe4bee2+5
+master-g796a60e746	2	ap_pipe	master-gd2692b69d2+3
+master-g796a60e746	2	ap_verify_testdata	master-gad2fcd81dc+22
+master-g796a60e746	2	obs_test	16.0-9-g85d1a16+10
