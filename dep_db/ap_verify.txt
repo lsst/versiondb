@@ -338,3 +338,13 @@ master-g7a7f8d8920	2	verify	16.0-2-gbe4bee2+6
 master-g7a7f8d8920	2	ap_pipe	master-gd2692b69d2+6
 master-g7a7f8d8920	2	ap_verify_testdata	master-gad2fcd81dc+25
 master-g7a7f8d8920	2	obs_test	16.0-9-g85d1a16+13
+master-g7a7f8d8920	3	python	0.0.8
+master-g7a7f8d8920	3	utils	16.0-15-ga29f190
+master-g7a7f8d8920	3	afw	16.0-61-g8d4b44b59+2
+master-g7a7f8d8920	3	daf_persistence	16.0-12-g4477fe7
+master-g7a7f8d8920	3	ip_isr	16.0-14-g6c7ed55+13
+master-g7a7f8d8920	3	pipe_tasks	16.0-33-g83da4dfe
+master-g7a7f8d8920	3	verify	16.0-2-gbe4bee2+6
+master-g7a7f8d8920	3	ap_pipe	master-gd2692b69d2+7
+master-g7a7f8d8920	3	ap_verify_testdata	master-gad2fcd81dc+25
+master-g7a7f8d8920	3	obs_test	16.0-9-g85d1a16+13
