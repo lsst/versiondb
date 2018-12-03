@@ -3298,3 +3298,9 @@ tickets.DM-12994-gf957400995	1	python_mysqlclient	1.3.12.lsst2+1
 12.1-17-gf15dc10	1	dax_imgserv	12.1-26-ge3995cf+2
 12.1-17-gf15dc10	1	dax_metaserv	12.1-7-g030ccdd+2
 12.1-17-gf15dc10	1	python_mysqlclient	1.3.12.lsst2+2
+12.1-21-gae92b6d	0	db	14.0+55
+12.1-21-gae92b6d	0	flask	0.12+3
+12.1-21-gae92b6d	0	dax_dbserv	12.1-13-g00b4ace
+12.1-21-gae92b6d	0	dax_imgserv	12.1-30-g1467d10
+12.1-21-gae92b6d	0	dax_metaserv	12.1-9-g79df75d
+12.1-21-gae92b6d	0	python_mysqlclient	1.3.12.lsst2+2
