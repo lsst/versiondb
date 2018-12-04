@@ -1462,3 +1462,9 @@ master-g7080d5729b	9	pipe_tasks	14.0-57-ga659d1f3+2
 16.0-6-gcbc7b31	23	afw	16.0-63-gae20905ba
 16.0-6-gcbc7b31	23	pipe_base	16.0-16-ge6a35c8+6
 16.0-6-gcbc7b31	23	pipe_tasks	16.0-36-g07840cb1+1
+16.0-6-gcbc7b31	24	astropy	3.0.3
+16.0-6-gcbc7b31	24	daf_persistence	16.0-13-g7649090
+16.0-6-gcbc7b31	24	pex_config	16.0-8-g4734f7a
+16.0-6-gcbc7b31	24	afw	16.0-64-gf8c4409ec
+16.0-6-gcbc7b31	24	pipe_base	16.0-16-ge6a35c8+7
+16.0-6-gcbc7b31	24	pipe_tasks	16.0-37-gdefe6db9
