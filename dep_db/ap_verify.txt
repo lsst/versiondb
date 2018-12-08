@@ -459,3 +459,14 @@ master-g594ae7fb82	0	ap_pipe	master-gf17f406c98+4
 master-g594ae7fb82	0	ap_association	master-ge5e593e080
 master-g594ae7fb82	0	ap_verify_testdata	master-gad2fcd81dc+29
 master-g594ae7fb82	0	obs_test	16.0-9-g85d1a16+17
+master-g594ae7fb82	1	python	0.0.8
+master-g594ae7fb82	1	utils	16.0-15-ga29f190+1
+master-g594ae7fb82	1	afw	16.0-64-gf8c4409ec
+master-g594ae7fb82	1	daf_persistence	16.0-13-g7649090
+master-g594ae7fb82	1	ip_isr	16.0-14-g6c7ed55+17
+master-g594ae7fb82	1	pipe_tasks	16.0-42-g47a0cbbb
+master-g594ae7fb82	1	verify	16.0-3-g37d7794
+master-g594ae7fb82	1	ap_pipe	master-gf17f406c98+5
+master-g594ae7fb82	1	ap_association	master-ge5e593e080
+master-g594ae7fb82	1	ap_verify_testdata	master-gad2fcd81dc+29
+master-g594ae7fb82	1	obs_test	16.0-9-g85d1a16+17
