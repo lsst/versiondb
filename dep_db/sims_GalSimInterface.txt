@@ -6058,3 +6058,13 @@ u.danielsf.fix_rotskypos-gce9f1515e4	0	obs_lsstSim	13.0-13-g177be6f+6
 2.13.0.sims	1	sims_catalogs	2.13.0.sims+1
 2.13.0.sims	1	sims_catUtils	2.12.0.sims+8
 2.13.0.sims	1	obs_lsstSim	16.0-9-g28cebc3+33
+2.13.0.sims	2	galsim	2.1.1.lsst
+2.13.0.sims	2	astropy	3.0.3
+2.13.0.sims	2	meas_astrom	16.0-16-gd8e3590+17
+2.13.0.sims	2	afw	16.0-64-gf8c4409ec
+2.13.0.sims	2	geom	16.0-14-g0a28612+1
+2.13.0.sims	2	sims_utils	2.13.0.sims
+2.13.0.sims	2	sims_coordUtils	2.13.0.sims+2
+2.13.0.sims	2	sims_catalogs	2.13.0.sims
+2.13.0.sims	2	sims_catUtils	2.13.0.sims+1
+2.13.0.sims	2	obs_lsstSim	16.0-9-g28cebc3+33
