@@ -525,3 +525,14 @@ master-gf7077f97ae	2	ap_pipe	master-gf17f406c98+10
 master-gf7077f97ae	2	ap_association	master-g701a88b8d2+3
 master-gf7077f97ae	2	ap_verify_testdata	master-gad2fcd81dc+32
 master-gf7077f97ae	2	obs_test	16.0-9-g85d1a16+20
+master-gf7077f97ae	3	python	0.0.8
+master-gf7077f97ae	3	utils	16.0-15-ga29f190+1
+master-gf7077f97ae	3	afw	16.0-66-g44ffc98c2
+master-gf7077f97ae	3	daf_persistence	16.0-13-g7649090
+master-gf7077f97ae	3	ip_isr	16.0-14-g6c7ed55+21
+master-gf7077f97ae	3	pipe_tasks	16.0-44-ga6515cd1+4
+master-gf7077f97ae	3	verify	16.0-4-gf1ab111+3
+master-gf7077f97ae	3	ap_pipe	master-g390d556d7c
+master-gf7077f97ae	3	ap_association	master-g701a88b8d2+4
+master-gf7077f97ae	3	ap_verify_testdata	master-gad2fcd81dc+33
+master-gf7077f97ae	3	obs_test	16.0-10-g6e41885
