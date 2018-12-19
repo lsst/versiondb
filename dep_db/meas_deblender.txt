@@ -8396,3 +8396,14 @@ w.2016.15	0	matplotlib	0.0.2
 16.0-11-gffd197f	4	scarlet	lsst-dev-g62a773d79d
 16.0-11-gffd197f	4	matplotlib	2.2.2
 16.0-11-gffd197f	4	testdata_deblender	16.0
+16.0-11-gffd197f	5	afw	16.0-66-g44ffc98c2+1
+16.0-11-gffd197f	5	log	16.0-2-ga8830df+5
+16.0-11-gffd197f	5	meas_algorithms	16.0-20-g21842373
+16.0-11-gffd197f	5	numpy	1.14.5
+16.0-11-gffd197f	5	scons	3.0.0.lsst1+3
+16.0-11-gffd197f	5	sconsUtils	16.0-15-g57c515d+2
+16.0-11-gffd197f	5	utils	16.0-15-ga29f190+1
+16.0-11-gffd197f	5	pybind11	2.2.3.lsst2
+16.0-11-gffd197f	5	scarlet	lsst-dev-g62a773d79d
+16.0-11-gffd197f	5	matplotlib	2.2.2
+16.0-11-gffd197f	5	testdata_deblender	16.0
