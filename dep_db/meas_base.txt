@@ -9926,3 +9926,15 @@ w.2016.15	0	sconsUtils	w.2016.15
 16.0-17-g7e0e4ff	21	pybind11	2.2.3.lsst2
 16.0-17-g7e0e4ff	21	scons	3.0.0.lsst1+3
 16.0-17-g7e0e4ff	21	sconsUtils	16.0-15-g57c515d+2
+16.0-18-ga4d4bcb	0	utils	16.0-16-gf0259e2
+16.0-18-ga4d4bcb	0	geom	16.0-15-gdd5ca33+1
+16.0-18-ga4d4bcb	0	afw	16.0-71-ge89f8615e
+16.0-18-ga4d4bcb	0	coadd_utils	16.0-5-g6a53317+33
+16.0-18-ga4d4bcb	0	daf_base	16.0-11-g09ed895+2
+16.0-18-ga4d4bcb	0	sphgeom	16.0-4-g5f3a788+20
+16.0-18-ga4d4bcb	0	numpy	1.14.5
+16.0-18-ga4d4bcb	0	pex_config	16.0-8-g4734f7a+1
+16.0-18-ga4d4bcb	0	pipe_base	16.0-22-g76b0903
+16.0-18-ga4d4bcb	0	pybind11	2.2.3.lsst2
+16.0-18-ga4d4bcb	0	scons	3.0.0.lsst1+3
+16.0-18-ga4d4bcb	0	sconsUtils	16.0-15-g57c515d+2
