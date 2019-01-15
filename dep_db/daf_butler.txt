@@ -725,3 +725,12 @@ master-geaab2dcbd1	0	utils	16.0-16-gf0259e2+1
 master-geaab2dcbd1	0	astro_metadata_translator	master-g6f82b7b8ee+4
 master-geaab2dcbd1	0	daf_persistence	16.0-15-g7af1f30
 master-geaab2dcbd1	0	afw	16.0-73-g5633548bc
+master-geaab2dcbd1	1	sphgeom	16.0-4-g5f3a788+21
+master-geaab2dcbd1	1	sqlalchemy	1.2.2+2
+master-geaab2dcbd1	1	numpy	1.14.5
+master-geaab2dcbd1	1	scons	3.0.0.lsst1+3
+master-geaab2dcbd1	1	sconsUtils	16.0-15-g57c515d+3
+master-geaab2dcbd1	1	utils	16.0-16-gf0259e2+1
+master-geaab2dcbd1	1	astro_metadata_translator	master-g6f82b7b8ee+4
+master-geaab2dcbd1	1	daf_persistence	16.0-15-g7af1f30
+master-geaab2dcbd1	1	afw	16.0-74-g3fb617902
