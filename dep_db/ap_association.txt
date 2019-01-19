@@ -430,3 +430,11 @@ master-g7cc58e0bbb	0	dax_ppdb	master-gc237143d49
 master-g7cc58e0bbb	0	numpy	1.14.5
 master-g7cc58e0bbb	0	scipy	1.1.0
 master-g7cc58e0bbb	0	python_future	0.16.0+3
+master-g7cc58e0bbb	1	afw	16.0-75-gbf7a9a820
+master-g7cc58e0bbb	1	meas_algorithms	16.0-21-g3d035912+3
+master-g7cc58e0bbb	1	pex_config	16.0-10-g9d3e444
+master-g7cc58e0bbb	1	pipe_base	16.0-27-g529579c
+master-g7cc58e0bbb	1	dax_ppdb	master-gc237143d49+1
+master-g7cc58e0bbb	1	numpy	1.14.5
+master-g7cc58e0bbb	1	scipy	1.1.0
+master-g7cc58e0bbb	1	python_future	0.16.0+3

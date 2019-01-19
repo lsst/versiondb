@@ -10757,3 +10757,13 @@ w.2016.15	0	matplotlib	0.0.2
 16.0-18-gcf94535	2	shapelet	16.0-8-g3a9f023+24
 16.0-18-gcf94535	2	pybind11	2.2.3.lsst2
 16.0-18-gcf94535	2	matplotlib	2.2.2
+16.0-18-gcf94535	3	afw	16.0-75-gbf7a9a820
+16.0-18-gcf94535	3	meas_algorithms	16.0-21-g3d035912+3
+16.0-18-gcf94535	3	meas_base	16.0-18-ga4d4bcb+6
+16.0-18-gcf94535	3	numpy	1.14.5
+16.0-18-gcf94535	3	log	16.0-2-ga8830df+7
+16.0-18-gcf94535	3	scons	3.0.0.lsst1+3
+16.0-18-gcf94535	3	sconsUtils	16.0-15-g57c515d+3
+16.0-18-gcf94535	3	shapelet	16.0-8-g3a9f023+24
+16.0-18-gcf94535	3	pybind11	2.2.3.lsst2
+16.0-18-gcf94535	3	matplotlib	2.2.2
