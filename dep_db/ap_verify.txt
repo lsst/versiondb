@@ -734,3 +734,14 @@ master-gb6fc462423	4	ap_pipe	master-g390d556d7c+18
 master-gb6fc462423	4	ap_association	master-g7cc58e0bbb+3
 master-gb6fc462423	4	ap_verify_testdata	master-gad2fcd81dc+46
 master-gb6fc462423	4	obs_test	16.0-11-g12e47bd+6
+master-g3593c698e5	0	python	0.0.8
+master-g3593c698e5	0	utils	16.0-16-gf0259e2+1
+master-g3593c698e5	0	afw	16.0-75-gbf7a9a820
+master-g3593c698e5	0	daf_persistence	16.0-15-g7af1f30
+master-g3593c698e5	0	ip_isr	16.0-17-g5cf0468+7
+master-g3593c698e5	0	pipe_tasks	16.0-54-gbf35a124+1
+master-g3593c698e5	0	verify	16.0-6-g9a9af5f+6
+master-g3593c698e5	0	ap_pipe	master-g390d556d7c+19
+master-g3593c698e5	0	ap_association	master-g7cc58e0bbb+4
+master-g3593c698e5	0	ap_verify_testdata	master-gad2fcd81dc+46
+master-g3593c698e5	0	obs_test	16.0-11-g12e47bd+6
