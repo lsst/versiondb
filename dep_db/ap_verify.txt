@@ -789,3 +789,14 @@ master-gf96e121bed	0	ap_pipe	master-g720764c253+1
 master-gf96e121bed	0	ap_association	master-gd9d6fc47a6+1
 master-gf96e121bed	0	ap_verify_testdata	master-gad2fcd81dc+49
 master-gf96e121bed	0	obs_test	16.0-11-g12e47bd+9
+master-gf96e121bed	1	python	0.0.8
+master-gf96e121bed	1	utils	16.0-16-gf0259e2+1
+master-gf96e121bed	1	afw	16.0-76-g802307b6d+1
+master-gf96e121bed	1	daf_persistence	16.0-15-g7af1f30+1
+master-gf96e121bed	1	ip_isr	16.0-20-g8d11721
+master-gf96e121bed	1	pipe_tasks	16.0-64-gd8935e55
+master-gf96e121bed	1	verify	16.0-8-g42b5c64+1
+master-gf96e121bed	1	ap_pipe	master-g720764c253+2
+master-gf96e121bed	1	ap_association	master-gd9d6fc47a6+2
+master-gf96e121bed	1	ap_verify_testdata	master-gad2fcd81dc+50
+master-gf96e121bed	1	obs_test	16.0-11-g12e47bd+10
