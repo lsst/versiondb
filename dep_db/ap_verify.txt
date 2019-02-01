@@ -800,3 +800,14 @@ master-gf96e121bed	1	ap_pipe	master-g720764c253+2
 master-gf96e121bed	1	ap_association	master-gd9d6fc47a6+2
 master-gf96e121bed	1	ap_verify_testdata	master-gad2fcd81dc+50
 master-gf96e121bed	1	obs_test	16.0-11-g12e47bd+10
+master-g4698db16f3	0	python	0.0.8
+master-g4698db16f3	0	utils	16.0-16-gf0259e2+1
+master-g4698db16f3	0	afw	16.0-76-g802307b6d+1
+master-g4698db16f3	0	daf_persistence	16.0-15-g7af1f30+1
+master-g4698db16f3	0	ip_isr	16.0-20-g8d11721+1
+master-g4698db16f3	0	pipe_tasks	16.0-64-gd8935e55+1
+master-g4698db16f3	0	verify	16.0-9-ga476001
+master-g4698db16f3	0	ap_pipe	master-g720764c253+3
+master-g4698db16f3	0	ap_association	master-gd9d6fc47a6+3
+master-g4698db16f3	0	ap_verify_testdata	master-gad2fcd81dc+50
+master-g4698db16f3	0	obs_test	16.0-11-g12e47bd+10
