@@ -7040,3 +7040,16 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 16.0-19-g9d290d5	12	ip_isr	16.0-20-g8d11721+1
 16.0-19-g9d290d5	12	astro_metadata_translator	master-g24fba81b13
 16.0-19-g9d290d5	12	testdata_decam	14.0
+16.0-19-g9d290d5	13	utils	16.0-16-gf0259e2+1
+16.0-19-g9d290d5	13	daf_persistence	16.0-15-g7af1f30+2
+16.0-19-g9d290d5	13	obs_base	16.0-32-gc794025+1
+16.0-19-g9d290d5	13	afw	16.0-76-g802307b6d+2
+16.0-19-g9d290d5	13	meas_algorithms	16.0-25-g723f23e8+2
+16.0-19-g9d290d5	13	pipe_tasks	16.0-65-g12857137
+16.0-19-g9d290d5	13	pipe_base	16.0-32-ga392cb8+2
+16.0-19-g9d290d5	13	pex_exceptions	16.0-4-ga3eb747+11
+16.0-19-g9d290d5	13	pex_config	16.0-10-g9d3e444
+16.0-19-g9d290d5	13	pex_policy	16.0-4-gb13d127+7
+16.0-19-g9d290d5	13	ip_isr	16.0-20-g8d11721+2
+16.0-19-g9d290d5	13	astro_metadata_translator	master-g24fba81b13
+16.0-19-g9d290d5	13	testdata_decam	14.0
