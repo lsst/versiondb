@@ -13426,3 +13426,16 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.13.0.sims-1-gc8724f7	5	ephem	3.7.6.0+2
 2.13.0.sims-1-gc8724f7	5	sims_survey_fields	2.6.0.sims+13
 2.13.0.sims-1-gc8724f7	5	sims_featureScheduler	master-gd4d04f97b3+3
+2.13.0.sims-1-gc8724f7	6	sims_maf	2.13.0.sims-2-g814a2fee+6
+2.13.0.sims-1-gc8724f7	6	sims_GalSimInterface	2.13.0.sims-1-g83b753d
+2.13.0.sims-1-gc8724f7	6	sims_catUtils	2.12.0.sims+16
+2.13.0.sims-1-gc8724f7	6	sims_catalogs	2.13.0.sims-1-g182d327+1
+2.13.0.sims-1-gc8724f7	6	sims_sed_library	2017.01.24
+2.13.0.sims-1-gc8724f7	6	sims_maps	2017.05.08-3-g4c12c20+1
+2.13.0.sims-1-gc8724f7	6	sims_skybrightness	2.11.0.sims+7
+2.13.0.sims-1-gc8724f7	6	sims_skybrightness_pre	2.13.0.sims-4-g1063b10
+2.13.0.sims-1-gc8724f7	6	sncosmo	1.3.0.lsst2+1
+2.13.0.sims-1-gc8724f7	6	sims_alertsim	2.5.0.sims+29
+2.13.0.sims-1-gc8724f7	6	ephem	3.7.6.0+2
+2.13.0.sims-1-gc8724f7	6	sims_survey_fields	2.6.0.sims+13
+2.13.0.sims-1-gc8724f7	6	sims_featureScheduler	master-gd4d04f97b3+3
