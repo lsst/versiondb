@@ -4387,3 +4387,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 16.0-8-gc11f1cf	11	pex_config	16.0-10-g9d3e444
 16.0-8-gc11f1cf	11	pipe_base	16.0-32-ga392cb8+2
 16.0-8-gc11f1cf	11	pipe_tasks	16.0-65-g12857137
+16.0-8-gc11f1cf	12	ctrl_pool	16.0-4-gabf74b7+43
+16.0-8-gc11f1cf	12	afw	16.0-78-gb94a58eab
+16.0-8-gc11f1cf	12	pex_exceptions	16.0-4-ga3eb747+12
+16.0-8-gc11f1cf	12	sphgeom	16.0-4-g5f3a788+22
+16.0-8-gc11f1cf	12	pex_config	16.0-10-g9d3e444+1
+16.0-8-gc11f1cf	12	pipe_base	16.0-33-g75597a4
+16.0-8-gc11f1cf	12	pipe_tasks	16.0-65-g12857137+2

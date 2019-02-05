@@ -635,3 +635,11 @@ w.2016.15	0	doxygen	1.8.5.lsst1
 16.0-15-g57c515d	3	pytest_session2file	0.1.9+13
 16.0-15-g57c515d	3	pytest_cov	2.5.1+4
 16.0-15-g57c515d	3	doxygen	1.8.13.lsst3
+16.0-16-gb9c9723	0	scons	3.0.0.lsst1+3
+16.0-16-gb9c9723	0	pytest	3.6.2.lsst2
+16.0-16-gb9c9723	0	pytest_flake8	1.0.1.lsst2+2
+16.0-16-gb9c9723	0	pep8_naming	0.7.0.lsst1+5
+16.0-16-gb9c9723	0	pytest_xdist	1.20.1.lsst4+5
+16.0-16-gb9c9723	0	pytest_session2file	0.1.9+13
+16.0-16-gb9c9723	0	pytest_cov	2.5.1+4
+16.0-16-gb9c9723	0	doxygen	1.8.13.lsst3
