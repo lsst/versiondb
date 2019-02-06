@@ -833,3 +833,14 @@ master-g4698db16f3	2	ap_pipe	master-g720764c253+5
 master-g4698db16f3	2	ap_association	master-gd9d6fc47a6+5
 master-g4698db16f3	2	ap_verify_testdata	master-gad2fcd81dc+52
 master-g4698db16f3	2	obs_test	16.0-11-g12e47bd+12
+master-g4698db16f3	3	python	0.0.8
+master-g4698db16f3	3	utils	16.0-17-g860de37
+master-g4698db16f3	3	afw	16.0-79-g81b2eb930
+master-g4698db16f3	3	daf_persistence	16.0-17-g7c01f5c
+master-g4698db16f3	3	ip_isr	16.0-20-g8d11721+4
+master-g4698db16f3	3	pipe_tasks	16.0-66-gee4061e1
+master-g4698db16f3	3	verify	16.0-9-ga476001+3
+master-g4698db16f3	3	ap_pipe	master-g720764c253+6
+master-g4698db16f3	3	ap_association	master-gd9d6fc47a6+6
+master-g4698db16f3	3	ap_verify_testdata	master-gad2fcd81dc+53
+master-g4698db16f3	3	obs_test	16.0-12-gcc29c43

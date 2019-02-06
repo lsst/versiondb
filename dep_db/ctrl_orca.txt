@@ -4469,3 +4469,8 @@ w.2016.12	0	log	w.2016.12
 16.0-4-g279a489	0	pex_config	16.0-10-g9d3e444+1
 16.0-4-g279a489	0	daf_persistence	16.0-16-g9359913
 16.0-4-g279a489	0	log	16.0-4-g6d309fa+1
+16.0-4-g279a489	1	python_future	0.16.0+3
+16.0-4-g279a489	1	utils	16.0-17-g860de37
+16.0-4-g279a489	1	pex_config	16.0-13-g118c103
+16.0-4-g279a489	1	daf_persistence	16.0-17-g7c01f5c
+16.0-4-g279a489	1	log	16.0-5-g87bceb6
