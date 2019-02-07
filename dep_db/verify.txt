@@ -1597,3 +1597,16 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 16.0-9-ga476001	3	pex_config	16.0-13-g118c103
 16.0-9-ga476001	3	pipe_base	16.0-34-gf0cd4b8
 16.0-9-ga476001	3	verify_metrics	16.0-4-gd6b74a9+4
+16.0-9-ga476001	4	python_future	0.16.0+3
+16.0-9-ga476001	4	pyyaml	3.13
+16.0-9-ga476001	4	requests	2.9.1.lsst1+4
+16.0-9-ga476001	4	numpy	1.14.5
+16.0-9-ga476001	4	astropy	3.0.3
+16.0-9-ga476001	4	sconsUtils	16.0-17-gd9d95e9+1
+16.0-9-ga476001	4	utils	16.0-17-g860de37+1
+16.0-9-ga476001	4	pex_exceptions	16.0-4-ga3eb747+14
+16.0-9-ga476001	4	log	16.0-6-g79eef58
+16.0-9-ga476001	4	pytest_flake8	1.0.1.lsst2+4
+16.0-9-ga476001	4	pex_config	16.0-13-g118c103+1
+16.0-9-ga476001	4	pipe_base	16.0-35-gd804aed
+16.0-9-ga476001	4	verify_metrics	16.0-4-gd6b74a9+5
