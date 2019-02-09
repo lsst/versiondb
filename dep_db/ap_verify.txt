@@ -877,3 +877,14 @@ master-gf24e082aab	0	ap_pipe	master-g720764c253+8
 master-gf24e082aab	0	ap_association	master-g300ae8b1a0
 master-gf24e082aab	0	ap_verify_testdata	master-gad2fcd81dc+54
 master-gf24e082aab	0	obs_test	16.0-12-gcc29c43+1
+master-gf24e082aab	1	python	0.0.8
+master-gf24e082aab	1	utils	16.0-18-g0a50484
+master-gf24e082aab	1	afw	16.0-81-g9604f5049
+master-gf24e082aab	1	daf_persistence	16.0-17-g7c01f5c+2
+master-gf24e082aab	1	ip_isr	16.0-22-g62d8060
+master-gf24e082aab	1	pipe_tasks	16.0-68-gb45e8e9d
+master-gf24e082aab	1	verify	16.0-11-g5455209
+master-gf24e082aab	1	ap_pipe	master-g720764c253+9
+master-gf24e082aab	1	ap_association	master-g300ae8b1a0+1
+master-gf24e082aab	1	ap_verify_testdata	master-gad2fcd81dc+55
+master-gf24e082aab	1	obs_test	16.0-13-g8f68b0a

@@ -550,3 +550,11 @@ master-g300ae8b1a0	0	dax_ppdb	master-g2880f2d8cf
 master-g300ae8b1a0	0	numpy	1.14.5
 master-g300ae8b1a0	0	scipy	1.1.0
 master-g300ae8b1a0	0	python_future	0.16.0+3
+master-g300ae8b1a0	1	afw	16.0-81-g9604f5049
+master-g300ae8b1a0	1	meas_algorithms	16.0-28-g3990c221
+master-g300ae8b1a0	1	pex_config	16.0-13-g118c103+2
+master-g300ae8b1a0	1	pipe_base	16.0-36-g6d07a18
+master-g300ae8b1a0	1	dax_ppdb	master-g2880f2d8cf+1
+master-g300ae8b1a0	1	numpy	1.14.5
+master-g300ae8b1a0	1	scipy	1.1.0
+master-g300ae8b1a0	1	python_future	0.16.0+3

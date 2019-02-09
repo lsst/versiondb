@@ -703,3 +703,8 @@ master-gf6b1fd7af3	7	pybind11	2.1.1
 16.0-3-gf928089	1	numpy	1.14.5
 16.0-3-gf928089	1	starlink_ast	lsst-dev-gd6cc4e835a
 16.0-3-gf928089	1	pybind11	2.2.3.lsst2
+16.0-3-gf928089	2	sconsUtils	16.0-17-gd9d95e9+2
+16.0-3-gf928089	2	ndarray	1.5.2+1
+16.0-3-gf928089	2	numpy	1.14.5
+16.0-3-gf928089	2	starlink_ast	lsst-dev-gd6cc4e835a
+16.0-3-gf928089	2	pybind11	2.2.3.lsst2
