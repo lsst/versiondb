@@ -64,3 +64,14 @@ master-g48d3154357	1	utils	16.0-18-g0a50484
 master-g48d3154357	1	ip_isr	16.0-22-g62d8060+1
 master-g48d3154357	1	pipe_tasks	16.0-68-gb45e8e9d+2
 master-g48d3154357	1	astro_metadata_translator	master-gcd94f09513
+master-g48d3154357	2	afw	16.0-81-g9604f5049
+master-g48d3154357	2	daf_base	16.0-12-gbdf3636+2
+master-g48d3154357	2	obs_base	16.0-34-gd7987ad
+master-g48d3154357	2	pex_config	16.0-13-g118c103+2
+master-g48d3154357	2	pex_policy	16.0-6-g4412fcd+2
+master-g48d3154357	2	astropy	3.0.3
+master-g48d3154357	2	numpy	1.14.5
+master-g48d3154357	2	utils	16.0-18-g0a50484
+master-g48d3154357	2	ip_isr	16.0-22-g62d8060
+master-g48d3154357	2	pipe_tasks	16.0-68-gb45e8e9d+1
+master-g48d3154357	2	astro_metadata_translator	master-g52a9d609b2
