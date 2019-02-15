@@ -5441,3 +5441,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 16.0-22-g62d8060	3	scons	3.0.0.lsst1+3
 16.0-22-g62d8060	3	sconsUtils	16.0-17-gd9d95e9+2
 16.0-22-g62d8060	3	pybind11	2.2.3.lsst2
+16.0-22-g62d8060	4	meas_algorithms	16.0-28-g3990c221+4
+16.0-22-g62d8060	4	numpy	1.14.5
+16.0-22-g62d8060	4	pipe_base	16.0-37-gc7333cb+2
+16.0-22-g62d8060	4	scons	3.0.0.lsst1+3
+16.0-22-g62d8060	4	sconsUtils	16.0-18-gedfe965
+16.0-22-g62d8060	4	pybind11	2.2.3.lsst2
