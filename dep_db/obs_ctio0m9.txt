@@ -2336,3 +2336,10 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 16.0-8-g1ba1b1a	6	numpy	1.14.5
 16.0-8-g1ba1b1a	6	utils	16.0-18-g0a50484+1
 16.0-8-g1ba1b1a	6	ip_isr	16.0-22-g62d8060+5
+16.0-8-g1ba1b1a	7	afw	16.0-83-g9e0d0724e
+16.0-8-g1ba1b1a	7	daf_base	16.0-12-gbdf3636+3
+16.0-8-g1ba1b1a	7	obs_base	16.0-34-gd7987ad+5
+16.0-8-g1ba1b1a	7	pex_config	16.0-13-g118c103+3
+16.0-8-g1ba1b1a	7	numpy	1.14.5
+16.0-8-g1ba1b1a	7	utils	16.0-18-g0a50484+1
+16.0-8-g1ba1b1a	7	ip_isr	16.0-22-g62d8060+6
