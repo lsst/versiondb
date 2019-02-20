@@ -7343,3 +7343,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 16.0-37-gc7333cb	4	utils	16.0-18-g0a50484+1
 16.0-37-gc7333cb	4	afw	16.0-83-g9e0d0724e
 16.0-37-gc7333cb	4	obs_test	16.0-13-g8f68b0a+5
+16.0-37-gc7333cb	5	daf_butler	master-gde9774baa2+1
+16.0-37-gc7333cb	5	daf_persistence	16.0-17-g7c01f5c+3
+16.0-37-gc7333cb	5	log	16.0-8-gfc7ad86
+16.0-37-gc7333cb	5	pex_config	16.0-14-g703d48b
+16.0-37-gc7333cb	5	utils	16.0-18-g0a50484+1
+16.0-37-gc7333cb	5	afw	16.0-83-g9e0d0724e+1
+16.0-37-gc7333cb	5	obs_test	16.0-13-g8f68b0a+6
