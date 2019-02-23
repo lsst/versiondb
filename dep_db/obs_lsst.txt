@@ -174,3 +174,14 @@ master-gce26ee3a18	1	utils	16.0-18-g0a50484+1
 master-gce26ee3a18	1	ip_isr	16.0-24-g587d83f
 master-gce26ee3a18	1	pipe_tasks	16.0-70-g8e97068c+4
 master-gce26ee3a18	1	astro_metadata_translator	master-ge4a94b1f35
+master-gce26ee3a18	2	afw	16.0-83-g9e0d0724e+1
+master-gce26ee3a18	2	daf_base	16.0-12-gbdf3636+3
+master-gce26ee3a18	2	obs_base	16.0-34-gd7987ad+6
+master-gce26ee3a18	2	pex_config	16.0-14-g703d48b
+master-gce26ee3a18	2	pex_policy	16.0-6-g4412fcd+3
+master-gce26ee3a18	2	astropy	3.0.3
+master-gce26ee3a18	2	numpy	1.14.5
+master-gce26ee3a18	2	utils	16.0-18-g0a50484+1
+master-gce26ee3a18	2	ip_isr	16.0-24-g587d83f
+master-gce26ee3a18	2	pipe_tasks	16.0-70-g8e97068c+5
+master-gce26ee3a18	2	astro_metadata_translator	master-ge4a94b1f35
