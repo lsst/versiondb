@@ -2610,3 +2610,8 @@ w.2016.15	0	afw	w.2016.15
 17.0	0	afw	17.0
 17.0	0	daf_butler	17.0
 17.0	0	healpy	1.10.3.lsst2+1
+17.0	1	numpy	1.14.5
+17.0	1	sphgeom	17.0
+17.0	1	afw	17.0-1-g013df5a29
+17.0	1	daf_butler	17.0-2-gfa6888d
+17.0	1	healpy	1.10.3.lsst2+1

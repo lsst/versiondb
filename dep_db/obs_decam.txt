@@ -7326,3 +7326,16 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 17.0	0	ip_isr	17.0
 17.0	0	astro_metadata_translator	master-ge4a94b1f35+1
 17.0	0	testdata_decam	17.0
+17.0-1-g46e6382	0	utils	17.0
+17.0-1-g46e6382	0	daf_persistence	17.0
+17.0-1-g46e6382	0	obs_base	17.0-3-g9260420
+17.0-1-g46e6382	0	afw	17.0-1-g013df5a29
+17.0-1-g46e6382	0	meas_algorithms	17.0+1
+17.0-1-g46e6382	0	pipe_tasks	17.0-2-g77d0fd14
+17.0-1-g46e6382	0	pipe_base	17.0+1
+17.0-1-g46e6382	0	pex_exceptions	17.0
+17.0-1-g46e6382	0	pex_config	17.0-1-g703d48b
+17.0-1-g46e6382	0	pex_policy	17.0
+17.0-1-g46e6382	0	ip_isr	17.0-3-g5e2e023
+17.0-1-g46e6382	0	astro_metadata_translator	master-ge4a94b1f35+1
+17.0-1-g46e6382	0	testdata_decam	14.0
