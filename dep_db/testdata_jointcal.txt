@@ -1658,3 +1658,7 @@ master-g9b8753233a	58	obs_subaru	13.0-43-g79ed8b21+2
 17.0-1-g06639e6	0	obs_cfht	17.0-1-gf1e2985
 17.0-1-g06639e6	0	obs_decam	17.0-1-g46e6382
 17.0-1-g06639e6	0	obs_subaru	17.0-2-g0aa6a961
+17.0-1-g06639e6	1	obs_lsstSim	17.0+2
+17.0-1-g06639e6	1	obs_cfht	17.0-2-g9f65534
+17.0-1-g06639e6	1	obs_decam	17.0-1-g46e6382+1
+17.0-1-g06639e6	1	obs_subaru	17.0-4-g62054a34
