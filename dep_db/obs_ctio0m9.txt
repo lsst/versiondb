@@ -2413,3 +2413,10 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 17.0-1-g662de30	1	numpy	1.14.5
 17.0-1-g662de30	1	utils	17.0
 17.0-1-g662de30	1	ip_isr	17.0-5-g16fbfff
+17.0-1-g662de30	2	afw	17.0-3-gab96a428d
+17.0-1-g662de30	2	daf_base	17.0
+17.0-1-g662de30	2	obs_base	17.0-3-g9260420+2
+17.0-1-g662de30	2	pex_config	17.0-1-g703d48b
+17.0-1-g662de30	2	numpy	1.14.5
+17.0-1-g662de30	2	utils	17.0
+17.0-1-g662de30	2	ip_isr	17.0-5-g16fbfff+1

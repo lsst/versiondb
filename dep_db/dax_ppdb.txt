@@ -520,3 +520,12 @@ master-g2880f2d8cf	5	utils	16.0-18-g0a50484+1
 17.0-1-ge961eae	0	sphgeom	17.0
 17.0-1-ge961eae	0	sqlalchemy	1.2.16
 17.0-1-ge961eae	0	utils	17.0
+17.0-1-ge961eae	1	afw	17.0-3-gab96a428d
+17.0-1-ge961eae	1	pex_config	17.0-1-g703d48b
+17.0-1-ge961eae	1	python	0.0.8
+17.0-1-ge961eae	1	pyyaml	3.13
+17.0-1-ge961eae	1	scons	3.0.0.lsst1+3
+17.0-1-ge961eae	1	sconsUtils	17.0
+17.0-1-ge961eae	1	sphgeom	17.0
+17.0-1-ge961eae	1	sqlalchemy	1.2.16
+17.0-1-ge961eae	1	utils	17.0

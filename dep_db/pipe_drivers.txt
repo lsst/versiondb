@@ -4548,3 +4548,10 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 17.0	2	pex_config	17.0-1-g703d48b
 17.0	2	pipe_base	17.0-1-g0d345a5
 17.0	2	pipe_tasks	17.0-5-gf0ac6446
+17.0-1-gbd7047b	0	ctrl_pool	17.0+3
+17.0-1-gbd7047b	0	afw	17.0-3-gab96a428d
+17.0-1-gbd7047b	0	pex_exceptions	17.0
+17.0-1-gbd7047b	0	sphgeom	17.0
+17.0-1-gbd7047b	0	pex_config	17.0-1-g703d48b
+17.0-1-gbd7047b	0	pipe_base	17.0-1-g0d345a5+1
+17.0-1-gbd7047b	0	pipe_tasks	17.0-5-gf0ac6446+1
