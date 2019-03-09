@@ -3454,3 +3454,11 @@ u.danielsf.2.3.7.1.sims-gc6b39a0de3	1	utils	13.0-9-gf29e843+2
 17.0-3-g9260420	2	utils	17.0
 17.0-3-g9260420	2	astro_metadata_translator	master-ge4a94b1f35+1
 17.0-3-g9260420	2	daf_butler	17.0-3-g8481d27+1
+17.0-3-g9260420	3	daf_base	17.0
+17.0-3-g9260420	3	log	17.0
+17.0-3-g9260420	3	daf_persistence	17.0
+17.0-3-g9260420	3	afw	17.0-4-g41c8d5dc0
+17.0-3-g9260420	3	astropy	3.0.3
+17.0-3-g9260420	3	utils	17.0
+17.0-3-g9260420	3	astro_metadata_translator	master-ge4a94b1f35+1
+17.0-3-g9260420	3	daf_butler	17.0-3-g8481d27+2
