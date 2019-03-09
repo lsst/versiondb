@@ -1050,3 +1050,9 @@ master-g68a5757bc4	12	utils	12.1-2-gd71c75d+4
 2.13.0.sims-1-g182d327	3	sims_utils	2.11.0.sims+9
 2.13.0.sims-1-g182d327	3	sqlalchemy	1.2.16
 2.13.0.sims-1-g182d327	3	utils	16.0-18-g0a50484+1
+2.13.0.sims-1-g182d327	4	daf_persistence	17.0
+2.13.0.sims-1-g182d327	4	pymssql	2.1.1+8
+2.13.0.sims-1-g182d327	4	python	0.0.8
+2.13.0.sims-1-g182d327	4	sims_utils	2.11.0.sims+10
+2.13.0.sims-1-g182d327	4	sqlalchemy	1.2.16
+2.13.0.sims-1-g182d327	4	utils	17.0
