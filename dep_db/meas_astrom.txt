@@ -14446,3 +14446,14 @@ u.danielsf.2.3.7.1.sims-gb5e44412c0	1	matplotlib	0.0.4+1
 17.0-3-gb71a564	0	astrometry_net	0.67.123ff3e.lsst1+10
 17.0-3-gb71a564	0	numpy	1.14.5
 17.0-3-gb71a564	0	matplotlib	2.2.2
+17.0-3-gb71a564	1	geom	17.0
+17.0-3-gb71a564	1	sphgeom	17.0
+17.0-3-gb71a564	1	afw	17.0-4-g41c8d5dc0
+17.0-3-gb71a564	1	log	17.0
+17.0-3-gb71a564	1	meas_algorithms	17.0-2-g2a2f1b99
+17.0-3-gb71a564	1	pex_config	17.0-1-g703d48b
+17.0-3-gb71a564	1	pipe_base	17.0-1-g0d345a5+2
+17.0-3-gb71a564	1	utils	17.0
+17.0-3-gb71a564	1	astrometry_net	0.67.123ff3e.lsst1+10
+17.0-3-gb71a564	1	numpy	1.14.5
+17.0-3-gb71a564	1	matplotlib	2.2.2
