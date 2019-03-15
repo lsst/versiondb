@@ -1844,3 +1844,16 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 17.0	6	pex_config	17.0-1-g703d48b
 17.0	6	pipe_base	17.0-1-g0d345a5+3
 17.0	6	verify_metrics	17.0-1-gaef553d
+17.0	7	python_future	0.16.0+3
+17.0	7	pyyaml	3.13
+17.0	7	requests	2.9.1.lsst1+4
+17.0	7	numpy	1.14.5
+17.0	7	astropy	3.0.3
+17.0	7	sconsUtils	17.0
+17.0	7	utils	17.0
+17.0	7	pex_exceptions	17.0
+17.0	7	log	17.0
+17.0	7	pytest_flake8	1.0.4
+17.0	7	pex_config	17.0-1-g703d48b
+17.0	7	pipe_base	17.0-1-g0d345a5+4
+17.0	7	verify_metrics	17.0-1-gaef553d
