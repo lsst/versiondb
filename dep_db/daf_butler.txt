@@ -993,3 +993,12 @@ master-gfa6888da3d	0	afw	16.0-83-g9e0d0724e+1
 17.0-5-gbca4981	1	base	17.0
 17.0-5-gbca4981	1	daf_persistence	17.0
 17.0-5-gbca4981	1	afw	17.0-4-g41c8d5dc0
+17.0.1	0	sphgeom	17.0.1
+17.0.1	0	sqlalchemy	1.2.16
+17.0.1	0	numpy	1.14.5
+17.0.1	0	scons	3.0.0.lsst1+3
+17.0.1	0	sconsUtils	17.0.1
+17.0.1	0	utils	17.0.1
+17.0.1	0	astro_metadata_translator	master-g6e72ed3b81+1
+17.0.1	0	daf_persistence	17.0.1
+17.0.1	0	afw	17.0.1
