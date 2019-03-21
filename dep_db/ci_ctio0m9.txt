@@ -2280,3 +2280,10 @@ master-gbe69b68c0a	98	pex_config	14.0-4-gae1598d+4
 17.0.1	0	afw	17.0.1
 17.0.1	0	pipe_base	17.0.1
 17.0.1	0	pex_config	17.0.1
+17.0	12	obs_ctio0m9	17.0.1-1-g662de30
+17.0	12	pipe_drivers	17.0.1-2-gd73ec07
+17.0	12	pipe_tasks	17.0.1-5-gf0ac6446
+17.0	12	sconsUtils	17.0
+17.0	12	afw	17.0.1-4-g41c8d5dc0
+17.0	12	pipe_base	17.0.1-1-g0d345a5
+17.0	12	pex_config	17.0.1-1-g703d48b
