@@ -2476,3 +2476,10 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 17.0.1-1-g662de30	0	numpy	1.14.5
 17.0.1-1-g662de30	0	utils	17.0
 17.0.1-1-g662de30	0	ip_isr	17.0.1-6-gedb141a
+17.0.1-1-g662de30	1	afw	17.0.1-4-g41c8d5dc0+1
+17.0.1-1-g662de30	1	daf_base	17.0.1-1-gaef33af
+17.0.1-1-g662de30	1	obs_base	17.0.1-5-gb7d1e01
+17.0.1-1-g662de30	1	pex_config	17.0.1-1-g703d48b+1
+17.0.1-1-g662de30	1	numpy	1.14.5
+17.0.1-1-g662de30	1	utils	17.0
+17.0.1-1-g662de30	1	ip_isr	17.0.1-7-g69836a1
