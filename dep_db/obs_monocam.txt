@@ -3802,3 +3802,12 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 17.0	15	numpy	1.14.5
 17.0	15	utils	17.0
 17.0	15	meas_extensions_astrometryNet	17.0.1-1-g444bd44+4
+17.0	16	afw	17.0.1-5-g81fa8e03f
+17.0	16	daf_base	17.0.1-1-gaef33af+2
+17.0	16	obs_base	17.0.1-5-gb7d1e01+5
+17.0	16	pex_config	17.0.1-1-g703d48b+3
+17.0	16	pex_policy	17.0+2
+17.0	16	python_future	0.16.0+4
+17.0	16	numpy	1.14.5+1
+17.0	16	utils	17.0+2
+17.0	16	meas_extensions_astrometryNet	17.0.1-1-g444bd44+5

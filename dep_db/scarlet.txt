@@ -23,3 +23,8 @@ lsst-dev-g62a773d79d	0	scipy	1.1.0
 lsst-dev-g62a773d79d	0	numpy	1.14.5
 lsst-dev-g62a773d79d	0	eigen	3.3.4.lsst1
 lsst-dev-g62a773d79d	0	proxmin	lsst-dev-g87d7c0f1bb+1
+lsst-dev-g62a773d79d	1	pybind11	2.2.3.lsst2
+lsst-dev-g62a773d79d	1	scipy	1.1.0+1
+lsst-dev-g62a773d79d	1	numpy	1.14.5+1
+lsst-dev-g62a773d79d	1	eigen	3.3.4.lsst1
+lsst-dev-g62a773d79d	1	proxmin	lsst-dev-g87d7c0f1bb+2
