@@ -7057,3 +7057,10 @@ u.danielsf.fix_rotskypos-g6b744ce090	1	obs_lsstSim	13.0-15-g29533ec+8
 2.13.0.sims-3-g9b0053e	0	afw	17.0.1-4-g41c8d5dc0+2
 2.13.0.sims-3-g9b0053e	0	sims_utils	2.11.0.sims+11
 2.13.0.sims-3-g9b0053e	0	obs_lsstSim	17.0.1+1
+2.13.0.sims-3-g9b0053e	1	base	17.0.1+1
+2.13.0.sims-3-g9b0053e	1	python	0.0.9
+2.13.0.sims-3-g9b0053e	1	utils	17.0.1+1
+2.13.0.sims-3-g9b0053e	1	geom	17.0.1+1
+2.13.0.sims-3-g9b0053e	1	afw	17.0.1-6-gc7a4417c8+1
+2.13.0.sims-3-g9b0053e	1	sims_utils	2.11.0.sims+12
+2.13.0.sims-3-g9b0053e	1	obs_lsstSim	17.0.1+2
