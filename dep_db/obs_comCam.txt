@@ -3523,3 +3523,13 @@ master-g6eadbc38bc	2	pipe_tasks	14.0-57-ga659d1f3+2
 17.0	22	utils	17.0+3
 17.0	22	ip_isr	17.0.1-7-g69836a1+9
 17.0	22	pipe_tasks	17.0.1-5-gf0ac6446+11
+17.0	23	afw	17.0.1-7-gf7766dbc3
+17.0	23	daf_base	17.0.1-2-g3bdf598
+17.0	23	obs_base	17.0.1-6-g7bb9714
+17.0	23	pex_config	17.0.1-1-g703d48b+6
+17.0	23	pex_policy	17.0+4
+17.0	23	python_future	0.16.0+4
+17.0	23	numpy	1.14.5+1
+17.0	23	utils	17.0+3
+17.0	23	ip_isr	17.0.1-7-g69836a1+10
+17.0	23	pipe_tasks	17.0.1-5-gf0ac6446+12

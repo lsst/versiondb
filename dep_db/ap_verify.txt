@@ -1339,3 +1339,14 @@ master-gf24e082aab	17	obs_test	16.0-13-g8f68b0a+9
 17.0.1-3-g4ca0d7b	1	ap_association	17.0.1-3-ga24dd6c+9
 17.0.1-3-g4ca0d7b	1	ap_verify_testdata	17.0+16
 17.0.1-3-g4ca0d7b	1	obs_test	17.0+16
+17.0.1-3-g4ca0d7b	2	python	0.0.9
+17.0.1-3-g4ca0d7b	2	utils	17.0+3
+17.0.1-3-g4ca0d7b	2	afw	17.0.1-7-gf7766dbc3
+17.0.1-3-g4ca0d7b	2	daf_persistence	17.0.1-1-gfc6fb1f+5
+17.0.1-3-g4ca0d7b	2	ip_isr	17.0.1-7-g69836a1+10
+17.0.1-3-g4ca0d7b	2	pipe_tasks	17.0.1-5-gf0ac6446+12
+17.0.1-3-g4ca0d7b	2	verify	17.0.1-1-g84a5949+11
+17.0.1-3-g4ca0d7b	2	ap_pipe	17.0.1-2-gdb5c761+2
+17.0.1-3-g4ca0d7b	2	ap_association	17.0.1-3-ga24dd6c+10
+17.0.1-3-g4ca0d7b	2	ap_verify_testdata	17.0+17
+17.0.1-3-g4ca0d7b	2	obs_test	17.0+17
