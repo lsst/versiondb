@@ -1145,3 +1145,14 @@ master-gfa6888da3d	0	afw	16.0-83-g9e0d0724e+1
 17.0.1-12-gd4f779f	1	base	17.0.1+1
 17.0.1-12-gd4f779f	1	daf_persistence	17.0.1-1-gfc6fb1f+6
 17.0.1-12-gd4f779f	1	afw	17.0.1-8-g7c0af834f+1
+17.0.1-12-gd4f779f	2	sphgeom	17.0+2
+17.0.1-12-gd4f779f	2	sqlalchemy	1.2.16+2
+17.0.1-12-gd4f779f	2	numpy	1.16.2
+17.0.1-12-gd4f779f	2	scons	3.0.0.lsst1+5
+17.0.1-12-gd4f779f	2	sconsUtils	17.0+2
+17.0.1-12-gd4f779f	2	utils	17.0+4
+17.0.1-12-gd4f779f	2	astro_metadata_translator	master-gc339726c8c
+17.0.1-12-gd4f779f	2	geom	17.0+3
+17.0.1-12-gd4f779f	2	base	17.0+2
+17.0.1-12-gd4f779f	2	daf_persistence	17.0.1-1-gfc6fb1f+7
+17.0.1-12-gd4f779f	2	afw	17.0.1-8-g7c0af834f+2
