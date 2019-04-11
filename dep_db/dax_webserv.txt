@@ -3370,3 +3370,9 @@ tickets.DM-17658-gb2014cce42	0	dax_dbserv	12.1-13-g00b4ace+4
 tickets.DM-17658-gb2014cce42	0	dax_imgserv	tickets.DM-17658-g7b79841b18
 tickets.DM-17658-gb2014cce42	0	dax_metaserv	tickets.DM-17658-gfc1bd5b045+3
 tickets.DM-17658-gb2014cce42	0	python_mysqlclient	1.3.12.lsst2+4
+tickets.DM-17658-gb2014cce42	1	db	14.0+67
+tickets.DM-17658-gb2014cce42	1	flask	tickets.DM-17658-g0467f2c494+2
+tickets.DM-17658-gb2014cce42	1	dax_dbserv	12.1-13-g00b4ace+4
+tickets.DM-17658-gb2014cce42	1	dax_imgserv	tickets.DM-17658-g7b79841b18+1
+tickets.DM-17658-gb2014cce42	1	dax_metaserv	tickets.DM-17658-gfc1bd5b045+3
+tickets.DM-17658-gb2014cce42	1	python_mysqlclient	1.3.12.lsst2+4
