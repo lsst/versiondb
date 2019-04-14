@@ -3388,3 +3388,9 @@ tickets.DM-17658-gb2014cce42	1	python_mysqlclient	1.3.12.lsst2+4
 12.1-25-gf3476dd	1	dax_imgserv	12.1-31-g8bca172+1
 12.1-25-gf3476dd	1	dax_metaserv	12.1-10-g26c0b16+1
 12.1-25-gf3476dd	1	python_mysqlclient	1.3.12.lsst2+4
+12.1-25-gf3476dd	2	db	14.0+67
+12.1-25-gf3476dd	2	flask	1.0.2
+12.1-25-gf3476dd	2	dax_dbserv	12.1-13-g00b4ace+6
+12.1-25-gf3476dd	2	dax_imgserv	12.1-31-g8bca172+2
+12.1-25-gf3476dd	2	dax_metaserv	12.1-10-g26c0b16+1
+12.1-25-gf3476dd	2	python_mysqlclient	1.3.12.lsst2+4
