@@ -2262,3 +2262,17 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 7.0-hsc	0	pipe_base	17.0.1-2-g3e5d191+13
 7.0-hsc	0	dax_ppdb	17.0.1-5-g09f63bc+3
 7.0-hsc	0	verify_metrics	17.0.1-4-gfaba333+1
+7.0-hsc	1	python_future	0.16.0+5
+7.0-hsc	1	pyyaml	5.1+2
+7.0-hsc	1	requests	2.9.1.lsst1+6
+7.0-hsc	1	numpy	1.16.2
+7.0-hsc	1	astropy	3.1.2
+7.0-hsc	1	sconsUtils	17.0+2
+7.0-hsc	1	utils	17.0+4
+7.0-hsc	1	pex_exceptions	17.0.1-1-g8de6c91+2
+7.0-hsc	1	log	17.0+4
+7.0-hsc	1	pytest_flake8	1.0.4+2
+7.0-hsc	1	pex_config	17.0.1-1-g703d48b+8
+7.0-hsc	1	pipe_base	17.0.1-2-g3e5d191+13
+7.0-hsc	1	dax_ppdb	17.0.1-6-g3441610
+7.0-hsc	1	verify_metrics	17.0.1-4-gfaba333+1
