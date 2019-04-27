@@ -2016,3 +2016,9 @@ w.2016.15	0	utils	w.2016.15
 17.0.1-2-g54f2ebc	0	utils	17.0+6
 17.0.1-2-g54f2ebc	0	pybind11	2.2.4.lsst1
 17.0.1-2-g54f2ebc	0	python	3.7
+17.0.1-2-g54f2ebc	1	daf_base	17.0.1-2-g3bdf598+5
+17.0.1-2-g54f2ebc	1	pex_policy	17.0.1+5
+17.0.1-2-g54f2ebc	1	numpy	1.16.2
+17.0.1-2-g54f2ebc	1	utils	17.0.1+4
+17.0.1-2-g54f2ebc	1	pybind11	2.2.4.lsst1
+17.0.1-2-g54f2ebc	1	python	3.7
