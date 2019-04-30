@@ -1711,3 +1711,10 @@ tickets.DM-6989-g5033cb892f	0	sconsUtils	12.0-1-g08b90fd
 17.0.1	4	python	3.7
 17.0.1	4	sconsUtils	17.0.1+2
 17.0.1	4	utils	17.0.1+4
+17.0	7	boost	1.69+1
+17.0	7	log4cxx	0.10.0.lsst7+1
+17.0	7	base	17.0+4
+17.0	7	pybind11	2.2.4.lsst1
+17.0	7	python	3.7
+17.0	7	sconsUtils	17.0+2
+17.0	7	utils	17.0.1-1-ge9fec5e
