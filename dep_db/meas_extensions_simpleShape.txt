@@ -5727,3 +5727,13 @@ master-gc06b201c33	7	pex_exceptions	2016_01.0-1-gfde6942+1
 17.0	33	utils	17.0.1-1-ge9fec5e
 17.0	33	pex_config	17.0.1-2-g54f2ebc+2
 17.0	33	pex_exceptions	17.0.1-1-g8de6c91+5
+17.0	34	scons	3.0.0.lsst1+5
+17.0	34	sconsUtils	17.0+2
+17.0	34	base	17.0+5
+17.0	34	numpy	1.16.2
+17.0	34	pybind11	2.2.4.lsst1+1
+17.0	34	afw	17.0.1-20-g89cff3a03+1
+17.0	34	meas_base	17.0.1-6-gaad6eea+5
+17.0	34	utils	17.0.1-1-ge9fec5e+1
+17.0	34	pex_config	17.0.1-2-g54f2ebc+3
+17.0	34	pex_exceptions	17.0.1-1-g8de6c91+7
