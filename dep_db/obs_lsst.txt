@@ -878,3 +878,14 @@ master-ga34209cb66	1	astro_metadata_translator	master-ge4a94b1f35
 17.0.1-23-g8af8d91	0	ip_isr	17.0.1-15-g4fb9762
 17.0.1-23-g8af8d91	0	pipe_tasks	17.0.1-13-gc40cdd80+1
 17.0.1-23-g8af8d91	0	astro_metadata_translator	master-g434b85063d
+17.0.1-23-g8af8d91	1	afw	17.0.1-24-g0055ebd3c
+17.0.1-23-g8af8d91	1	daf_base	17.0.1-2-g3bdf598+9
+17.0.1-23-g8af8d91	1	obs_base	17.0.1-11-g20c7f65+2
+17.0.1-23-g8af8d91	1	pex_config	17.0.1-2-g54f2ebc+5
+17.0.1-23-g8af8d91	1	pex_policy	17.0+9
+17.0.1-23-g8af8d91	1	astropy	3.1.2
+17.0.1-23-g8af8d91	1	numpy	1.16.2
+17.0.1-23-g8af8d91	1	utils	17.0.1-1-ge9fec5e+3
+17.0.1-23-g8af8d91	1	ip_isr	17.0.1-16-gdf99185
+17.0.1-23-g8af8d91	1	pipe_tasks	17.0.1-14-g303e8d74
+17.0.1-23-g8af8d91	1	astro_metadata_translator	master-g434b85063d
