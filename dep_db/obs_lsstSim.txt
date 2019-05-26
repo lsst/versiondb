@@ -17351,3 +17351,14 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 17.0.1-1-g97a7738	40	pybind11	2.2.4.lsst1+1
 17.0.1-1-g97a7738	40	utils	17.0.1-1-ge9fec5e+6
 17.0.1-1-g97a7738	40	astropy	3.1.2
+17.0.1-1-g97a7738	41	daf_base	17.0.1-2-g3bdf598+11
+17.0.1-1-g97a7738	41	pex_policy	17.0+10
+17.0.1-1-g97a7738	41	afw	17.0.1-24-g0055ebd3c+5
+17.0.1-1-g97a7738	41	daf_persistence	17.0.1-1-gfc6fb1f+18
+17.0.1-1-g97a7738	41	obs_base	17.0.1-14-g9a818eb
+17.0.1-1-g97a7738	41	meas_algorithms	17.0.1-14-gd9e67d69+5
+17.0.1-1-g97a7738	41	ip_isr	17.0.1-19-g1d02dc0
+17.0.1-1-g97a7738	41	pipe_tasks	17.0.1-17-g6ead2241
+17.0.1-1-g97a7738	41	pybind11	2.2.4.lsst1+1
+17.0.1-1-g97a7738	41	utils	17.0.1-1-ge9fec5e+5
+17.0.1-1-g97a7738	41	astropy	3.1.2
