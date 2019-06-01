@@ -7847,3 +7847,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 17.0.1-4-gc69c472	1	utils	17.0.1-1-ge9fec5e+5
 17.0.1-4-gc69c472	1	afw	17.0.1-25-gedeebbf6d
 17.0.1-4-gc69c472	1	obs_test	17.0.1-1-g55520dc+45
+17.0.1-4-gc69c472	2	daf_butler	17.0.1-28-gc4e5d60+2
+17.0.1-4-gc69c472	2	daf_persistence	17.0.1-1-gfc6fb1f+21
+17.0.1-4-gc69c472	2	log	17.0.1-1-g114240f+3
+17.0.1-4-gc69c472	2	pex_config	17.0.1-2-g54f2ebc+10
+17.0.1-4-gc69c472	2	utils	17.0.1-1-ge9fec5e+6
+17.0.1-4-gc69c472	2	afw	17.0.1-25-gedeebbf6d+1
+17.0.1-4-gc69c472	2	obs_test	17.0.1-1-g55520dc+46
