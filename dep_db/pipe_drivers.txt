@@ -5058,3 +5058,11 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 17.0.1-9-gcb87309	3	pipe_base	17.0.1-4-gc69c472+1
 17.0.1-9-gcb87309	3	pipe_tasks	17.0.1-21-g52d92e20+3
 17.0.1-9-gcb87309	3	astro_metadata_translator	master-g77e2c91a09+2
+17.0.1-9-gcb87309	4	ctrl_pool	17.0+54
+17.0.1-9-gcb87309	4	afw	17.0.1-26-ga1fda76f0
+17.0.1-9-gcb87309	4	pex_exceptions	17.0.1-1-g8de6c91+11
+17.0.1-9-gcb87309	4	sphgeom	17.0+7
+17.0.1-9-gcb87309	4	pex_config	17.0.1-2-g54f2ebc+9
+17.0.1-9-gcb87309	4	pipe_base	17.0.1-4-gc69c472+3
+17.0.1-9-gcb87309	4	pipe_tasks	17.0.1-22-g2b5c57b5
+17.0.1-9-gcb87309	4	astro_metadata_translator	master-g77e2c91a09+2
