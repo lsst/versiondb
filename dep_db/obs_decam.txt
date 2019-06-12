@@ -8236,3 +8236,16 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 17.0.1-6-g5afd9b9	5	ip_isr	17.0.1-20-g2ca2f74+8
 17.0.1-6-g5afd9b9	5	astro_metadata_translator	master-g77e2c91a09+2
 17.0.1-6-g5afd9b9	5	testdata_decam	14.0
+17.0.1-7-gcb7da53	0	utils	17.0.1-1-ge9fec5e+5
+17.0.1-7-gcb7da53	0	daf_persistence	17.0.1-1-gfc6fb1f+20
+17.0.1-7-gcb7da53	0	obs_base	17.0.1-17-gc79d625+1
+17.0.1-7-gcb7da53	0	afw	17.0.1-30-g596af8797
+17.0.1-7-gcb7da53	0	meas_algorithms	17.0.1-17-gab9750a3
+17.0.1-7-gcb7da53	0	pipe_tasks	17.0.1-24-g538cf2b7
+17.0.1-7-gcb7da53	0	pipe_base	17.0.1-4-gc69c472+5
+17.0.1-7-gcb7da53	0	pex_exceptions	17.0.1-1-g8de6c91+11
+17.0.1-7-gcb7da53	0	pex_config	17.0.1-2-g54f2ebc+9
+17.0.1-7-gcb7da53	0	pex_policy	17.0+11
+17.0.1-7-gcb7da53	0	ip_isr	17.0.1-21-g52a398f
+17.0.1-7-gcb7da53	0	astro_metadata_translator	master-g77e2c91a09+2
+17.0.1-7-gcb7da53	0	testdata_decam	14.0

@@ -870,3 +870,9 @@ master-g92b5316c43	6	ap_association	master-g2cd068832a+7
 17.0.1-4-g1054f17	16	pipe_tasks	17.0.1-23-gf3eadeb7+3
 17.0.1-4-g1054f17	16	ap_association	17.0.1-5-g3c24ab0+40
 17.0.1-4-g1054f17	16	ap_pipe_testdata	master-g20ca293bfb+16
+17.0.1-5-g77a5af3	0	utils	17.0.1-1-ge9fec5e+5
+17.0.1-5-g77a5af3	0	pex_config	17.0.1-2-g54f2ebc+9
+17.0.1-5-g77a5af3	0	pipe_base	17.0.1-4-gc69c472+5
+17.0.1-5-g77a5af3	0	pipe_tasks	17.0.1-24-g538cf2b7
+17.0.1-5-g77a5af3	0	ap_association	17.0.1-6-ga2de75c
+17.0.1-5-g77a5af3	0	ap_pipe_testdata	master-g20ca293bfb+17
