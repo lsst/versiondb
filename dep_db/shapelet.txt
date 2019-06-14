@@ -3307,3 +3307,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 17.0.1	1	sconsUtils	17.0.1-2-g4fc2656
 17.0.1	1	pybind11	2.2.4.lsst1+1
 17.0.1	1	scipy	1.2.1
+17.0	35	afw	17.0.1-31-gb0791f330
+17.0	35	numpy	1.16.2
+17.0	35	scons	3.0.0.lsst1+5
+17.0	35	sconsUtils	17.0.1-2-g4fc2656
+17.0	35	pybind11	2.2.4.lsst1+1
+17.0	35	scipy	1.2.1
