@@ -8409,3 +8409,17 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 17.0.1-9-gb4677f3	2	astro_metadata_translator	master-g05d1804a7f
 17.0.1-9-gb4677f3	2	obs_decam_data	master-g608677b38e
 17.0.1-9-gb4677f3	2	testdata_decam	17.0.1-1-g0927df5
+17.0.1-9-gb4677f3	3	utils	17.0.1-2-g93e5d73
+17.0.1-9-gb4677f3	3	daf_persistence	17.0.1-2-g5e4b7ea
+17.0.1-9-gb4677f3	3	obs_base	17.0.1-21-ga02730c+2
+17.0.1-9-gb4677f3	3	afw	17.0.1-33-ge89e07684
+17.0.1-9-gb4677f3	3	meas_algorithms	17.0.1-20-g003e6933
+17.0.1-9-gb4677f3	3	pipe_tasks	17.0.1-28-g03367ae0
+17.0.1-9-gb4677f3	3	pipe_base	17.0.1-5-g3877d06+9
+17.0.1-9-gb4677f3	3	pex_exceptions	17.0.1-1-g8de6c91+11
+17.0.1-9-gb4677f3	3	pex_config	17.0.1-2-g54f2ebc+11
+17.0.1-9-gb4677f3	3	pex_policy	17.0.1-1-g0001055
+17.0.1-9-gb4677f3	3	ip_isr	17.0.1-24-g44c3907+3
+17.0.1-9-gb4677f3	3	astro_metadata_translator	master-g05d1804a7f+2
+17.0.1-9-gb4677f3	3	obs_decam_data	master-g608677b38e
+17.0.1-9-gb4677f3	3	testdata_decam	17.0.1-1-g0927df5
