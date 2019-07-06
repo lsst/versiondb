@@ -2092,3 +2092,14 @@ sims_2.2.6	0	healpy	1.8.1.lsst2+1
 2.13.0.sims-1-g72b3e2a	0	sims_skybrightness_data	2017.05.05-1-g01a98f8
 2.13.0.sims-1-g72b3e2a	0	healpy	1.10.3.lsst2+3
 2.13.0.sims-1-g72b3e2a	0	python_future	0.16.0+5
+2.13.0.sims-1-g72b3e2a	1	base	17.0.1+6
+2.13.0.sims-1-g72b3e2a	1	numpy	1.16.2
+2.13.0.sims-1-g72b3e2a	1	matplotlib	3.0.3
+2.13.0.sims-1-g72b3e2a	1	ephem	3.7.6.0+4
+2.13.0.sims-1-g72b3e2a	1	sims_utils	2.13.0.sims-2-g90cfd6a+1
+2.13.0.sims-1-g72b3e2a	1	sims_photUtils	2.13.0.sims-1-g60d0775+9
+2.13.0.sims-1-g72b3e2a	1	utils	17.0.1-2-g93e5d73+1
+2.13.0.sims-1-g72b3e2a	1	throughputs	2019.07.02
+2.13.0.sims-1-g72b3e2a	1	sims_skybrightness_data	2017.05.05-1-g01a98f8
+2.13.0.sims-1-g72b3e2a	1	healpy	1.10.3.lsst2+3
+2.13.0.sims-1-g72b3e2a	1	python_future	0.16.0+5
