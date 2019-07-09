@@ -2812,3 +2812,10 @@ master-gbe69b68c0a	98	pex_config	14.0-4-gae1598d+4
 18.0.0	0	afw	18.0.0
 18.0.0	0	pipe_base	18.0.0
 18.0.0	0	pex_config	18.0.0
+18.0.0	1	obs_ctio0m9	18.0.0+1
+18.0.0	1	pipe_drivers	18.0.0+1
+18.0.0	1	pipe_tasks	18.0.0+1
+18.0.0	1	sconsUtils	18.0.0
+18.0.0	1	afw	18.0.0
+18.0.0	1	pipe_base	18.0.0+1
+18.0.0	1	pex_config	18.0.0

@@ -1794,3 +1794,14 @@ master-gfa6888da3d	0	afw	16.0-83-g9e0d0724e+1
 18.0.0	0	base	18.0.0
 18.0.0	0	daf_persistence	18.0.0
 18.0.0	0	afw	18.0.0
+18.0.0	1	sphgeom	18.0.0
+18.0.0	1	sqlalchemy	1.2.16+2
+18.0.0	1	numpy	1.16.2
+18.0.0	1	scons	3.0.0.lsst1+5
+18.0.0	1	sconsUtils	18.0.0
+18.0.0	1	utils	18.0.0
+18.0.0	1	astro_metadata_translator	master-g77e2c91a09+4
+18.0.0	1	geom	18.0.0
+18.0.0	1	base	18.0.0
+18.0.0	1	daf_persistence	18.0.0
+18.0.0	1	afw	18.0.0

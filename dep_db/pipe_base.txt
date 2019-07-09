@@ -7987,3 +7987,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 18.0.0	0	utils	18.0.0
 18.0.0	0	afw	18.0.0
 18.0.0	0	obs_test	18.0.0
+18.0.0	1	daf_butler	18.0.0+1
+18.0.0	1	daf_persistence	18.0.0
+18.0.0	1	log	18.0.0
+18.0.0	1	pex_config	18.0.0
+18.0.0	1	utils	18.0.0
+18.0.0	1	afw	18.0.0
+18.0.0	1	obs_test	18.0.0+1

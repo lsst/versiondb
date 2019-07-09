@@ -9282,3 +9282,13 @@ w.2016.15	0	afwdata	w.2016.15
 18.0.0	0	sconsUtils	18.0.0
 18.0.0	0	utils	18.0.0
 18.0.0	0	afwdata	18.0.0
+18.0.0	1	afw	18.0.0
+18.0.0	1	log	18.0.0
+18.0.0	1	pybind11	2.2.4.lsst1+1
+18.0.0	1	numpy	1.16.2
+18.0.0	1	pex_config	18.0.0
+18.0.0	1	pipe_base	18.0.0+1
+18.0.0	1	scons	3.0.0.lsst1+5
+18.0.0	1	sconsUtils	18.0.0
+18.0.0	1	utils	18.0.0
+18.0.0	1	afwdata	18.0.0
