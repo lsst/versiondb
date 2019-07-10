@@ -5234,3 +5234,11 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 18.0.0	1	pipe_base	18.0.0+1
 18.0.0	1	pipe_tasks	18.0.0+1
 18.0.0	1	astro_metadata_translator	master-g77e2c91a09+4
+18.0.0	2	ctrl_pool	17.0+67
+18.0.0	2	afw	18.0.0-4-g9c9a1f00d
+18.0.0	2	pex_exceptions	18.0.0+1
+18.0.0	2	sphgeom	17.0+8
+18.0.0	2	pex_config	18.0.0+1
+18.0.0	2	pipe_base	18.0.0-1-g3877d06
+18.0.0	2	pipe_tasks	18.0.0-5-g03367ae0
+18.0.0	2	astro_metadata_translator	master-g05d1804a7f+5
