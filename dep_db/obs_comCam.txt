@@ -4183,3 +4183,13 @@ master-g6eadbc38bc	2	pipe_tasks	14.0-57-ga659d1f3+2
 17.0	85	utils	18.0.0-1-g93e5d73
 17.0	85	ip_isr	18.0.0-5-g86f9585
 17.0	85	pipe_tasks	18.0.0-5-g03367ae0
+17.0	86	afw	18.0.0-4-g9c9a1f00d
+17.0	86	daf_base	18.0.0-1-gf8bf62c
+17.0	86	obs_base	18.0.0-5-ga900cbd
+17.0	86	pex_config	18.0.0+1
+17.0	86	pex_policy	18.0.0-1-g0001055
+17.0	86	python_future	0.16.0+5
+17.0	86	numpy	1.16.2
+17.0	86	utils	18.0.0-1-g93e5d73
+17.0	86	ip_isr	18.0.0-5-g86f9585+1
+17.0	86	pipe_tasks	18.0.0-7-g4840a288
