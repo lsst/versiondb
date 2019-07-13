@@ -11402,3 +11402,15 @@ w.2016.15	0	sconsUtils	w.2016.15
 18.0.0-1-g9a2b1cb	2	pybind11	2.2.4.lsst1+1
 18.0.0-1-g9a2b1cb	2	scons	3.0.0.lsst1+5
 18.0.0-1-g9a2b1cb	2	sconsUtils	18.0.0
+18.0.0-1-g9a2b1cb	3	utils	18.0.0-2-gf03bb23+1
+18.0.0-1-g9a2b1cb	3	geom	18.0.0+3
+18.0.0-1-g9a2b1cb	3	afw	18.0.0-5-g7cc0dbfb1+1
+18.0.0-1-g9a2b1cb	3	coadd_utils	18.0.0+2
+18.0.0-1-g9a2b1cb	3	daf_base	18.0.0-1-gf8bf62c+2
+18.0.0-1-g9a2b1cb	3	sphgeom	18.0.0
+18.0.0-1-g9a2b1cb	3	numpy	1.16.2
+18.0.0-1-g9a2b1cb	3	pex_config	18.0.0+3
+18.0.0-1-g9a2b1cb	3	pipe_base	18.0.0-2-g0ee56d7+1
+18.0.0-1-g9a2b1cb	3	pybind11	2.2.4.lsst1+1
+18.0.0-1-g9a2b1cb	3	scons	3.0.0.lsst1+5
+18.0.0-1-g9a2b1cb	3	sconsUtils	18.0.0
