@@ -1,0 +1,51 @@
+# product                 SHA1                                      Version                       
+BUILD=b4371
+starlink_ast              d6cc4e835a9437c4b59277a244e876fd49850cad  lsst-dev-gd6cc4e835a                     
+libyaml                   fe04f4f6ffde41f44bfec6c6950136b4d224c8c9  0.1.7                                    
+cfitsio                   fc68e3c458900712f0b7938936ce70f46fa4ba7f  3360.lsst6                               
+gsl                       b299622f4fcae00c4f1bdddcf05ccc6551b39440  2.4                                      
+doxygen                   524ee4ee18a8ea2be55a677f925dc1f92df1e323  1.8.13.lsst3                             
+fftw                      30c2cc419e7200314efbef8d0c432ac11e9d41be  3.3.4.lsst2                              
+eigen                     221959b4fc8e4e2496cfbc875b457c3cf0f153d7  3.3.4.lsst1-1-g221959b                   
+python                    85c3855c56fdbd3304bda946ee9f0899487c30f6  3.7                                      
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+minuit2                   dae2fb72f087c8d6dd1c4e0cfe8a828920f3412e  5.34.14                                  
+pyyaml                    a7699fc59fab93365d152e9fb5974073fc6e238e  5.1+2                                    python,libyaml
+apr_util                  78a90a1243a24ee961222bffa4b07d9033307fe4  1.5.4.lsst1                              apr
+astropy                   b0b7760bd505a8167b507de06c871b84daf1b494  3.1.2                                    python
+python_py                 fe1347d431593dfe05770f286b3070db4afaeffd  1.7.0+2                                  python
+python_coverage           6860bf36802129f59bca5f0c8185ca3190587f35  4.5.1+2                                  python
+python_psutil             b73e0d4a8e65584c763ceb04b9f3e3b5206ff8b6  5.4.3+4                                  python
+pytest                    e2a44db8088df514751154930bd648aede4d4c28  3.6.2.lsst2+2                            python,python_py
+numpy                     36a8a3613488940afc4ac5a6049a34afb0f4c9cd  1.16.2                                   python
+boost                     1c4857aab764a237db2c3bb6e70c6888d580834b  1.69+1                                   python
+python_execnet            c0d69c65501b7cbf614e0059da7eb97f25b72518  1.4.1.lsst4+3                            python
+pyflakes                  b8a7d8b2ebb5710c044d1050e7cd5fba4372c5bb  2.1.0+2                                  python
+pytest_forked             c5fda7b5f4bfa5927d31829ba3a5adb919645ef6  0.2.lsst4+7                              python,pytest
+pycodestyle               0d131b0df8a8e973cb5162d8f589028249b0f3b7  2.5.0+2                                  python
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+5                            python
+pytest_session2file       d5df8ace7d62308a5a692defccb5fdb7d5605152  0.1.9+15                                 python,pytest
+python_mccabe             e8cfd9666d2bd843504181099c3b0d1e69a4ef62  0.6.1+15                                 python,pytest
+matplotlib                ce61d8e1aea9427809103534ca8387c00dc79de4  3.0.3                                    python,numpy
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7+1                           apr,apr_util
+flake8                    1298ec5f4bac5e794a81816758b0fdfec29cb2fc  3.7.5+2                                  python,python_mccabe,pycodestyle,pyflakes
+pybind11                  1e6abe836db51192b96b5c2ad8a5a1f42a229333  2.2.4.lsst1+1                            python,numpy,eigen
+pep8_naming               e968bca498880c9571dc943a0b9a825eeab1ac33  0.8.2+2                                  python,flake8
+pytest_xdist              a186ae77a9f6e991471d7f4003de959401946dcf  1.20.1.lsst4+7                           python,pytest,pytest_forked,python_execnet
+pytest_cov                14fe2eda5c806cbe1b7336a444eb2ed25e124e87  2.5.1+6                                  python,pytest,python_coverage
+pytest_flake8             14151febd0563b0059ef8d39ce2da1b8d0bd1f8c  1.0.4+2                                  python,pytest,flake8
+ndarray                   8273558ad0155a96a3a3b8be89882c96678e5f55  1.5.3                                    boost,python,numpy,eigen,pybind11,fftw
+sconsUtils                4fc265629fc6f8090ca51ad87829ee7055339f76  18.0.0                                   scons,pytest,pytest_flake8,pep8_naming,pytest_xdist,pytest_session2file,pytest_cov,doxygen
+afwdata                   e3096bf6d57a7154f22a38a09eba35aa91b54a6e  17.0+5                                   sconsUtils
+astshim                   f403422b54c5c483eb0984b6953cf6fb1e6a4bda  18.0.0                                   sconsUtils,ndarray,numpy,starlink_ast,pybind11
+base                      2df868b9b7c36216440322cb75358efe5fea4aea  17.0+8                                   sconsUtils,pybind11,python,doxygen
+sphgeom                   5f3a788d9c46c2fd337a6f4130d5c46487de6c53  17.0+8                                   base,sconsUtils,pybind11,doxygen
+pex_exceptions            d03fce9939a128a30d54c53a925ea7d0467e5385  u.bvan.boost_no_dyn_link-gd03fce9939     base,boost,pybind11,python
+utils                     f03bb2315087bb11f2f2aa4931954c94acf0179e  18.0.0-2-gf03bb23+3                      base,pex_exceptions,boost,numpy,pybind11,python,python_psutil
+daf_base                  3c0411f80f92a12ab403b0243d84ba8f750d425c  u.bvan.boost_no_dyn_link-g3c0411f80f+1   utils,pex_exceptions,pybind11,python,numpy,pyyaml
+geom                      af80eaefd0f0c9512d6051718d6de9bad5aa4e11  u.bvan.boost_no_dyn_link-gaf80eaefd0+1   boost,ndarray,sconsUtils,sphgeom,pex_exceptions,utils
+pex_policy                3d80328d66d7311f673e7fbfbb8b72f32d20b601  u.bvan.boost_no_dyn_link-g3d80328d66+1   daf_base,utils,pybind11,python
+log                       f818ee7c77f0369959c36817284861e4247563b5  u.bvan.boost_no_dyn_link-gf818ee7c77+1   boost,log4cxx,base,pybind11,python,sconsUtils,utils
+pex_config                54f2ebc1e698607b9a41dd8e3b459b2383212fdd  18.0.0+5                                 daf_base,pex_policy,numpy,utils,pybind11,python
+daf_persistence           5e4b7eaaff07baf724c43a67eea22ee864980889  18.0.0-1-g5e4b7ea+4                      log,pex_policy,astropy,pyyaml,pybind11,python
+afw                       b11577a9a4465ac2ad9268f0b4f7458045c5d828  u.bvan.boost_no_dyn_link-gb11577a9a4+1   daf_base,daf_persistence,pex_config,geom,log,ndarray,cfitsio,numpy,minuit2,eigen,gsl,fftw,sphgeom,utils,astropy,pybind11,astshim,matplotlib,afwdata
