@@ -1140,3 +1140,7 @@ u.bvan.boost_no_dyn_link-g3d80328d66	1	daf_base	u.bvan.boost_no_dyn_link-g3c0411
 u.bvan.boost_no_dyn_link-g3d80328d66	1	utils	18.0.0-2-gf03bb23+3
 u.bvan.boost_no_dyn_link-g3d80328d66	1	pybind11	2.2.4.lsst1+1
 u.bvan.boost_no_dyn_link-g3d80328d66	1	python	3.7
+u.bvan.boost_no_dyn_link-g3d80328d66	2	daf_base	u.bvan.boost_no_dyn_link-g3c0411f80f+2
+u.bvan.boost_no_dyn_link-g3d80328d66	2	utils	18.0.0-2-gf03bb23+4
+u.bvan.boost_no_dyn_link-g3d80328d66	2	pybind11	2.2.4.lsst1+1
+u.bvan.boost_no_dyn_link-g3d80328d66	2	python	3.7

@@ -1830,3 +1830,10 @@ u.bvan.boost_no_dyn_link-gf818ee7c77	1	pybind11	2.2.4.lsst1+1
 u.bvan.boost_no_dyn_link-gf818ee7c77	1	python	3.7
 u.bvan.boost_no_dyn_link-gf818ee7c77	1	sconsUtils	18.0.0
 u.bvan.boost_no_dyn_link-gf818ee7c77	1	utils	18.0.0-2-gf03bb23+3
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	boost	1.69+1
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	log4cxx	0.10.0.lsst7+1
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	base	17.0+8
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	pybind11	2.2.4.lsst1+1
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	python	3.7
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	sconsUtils	18.0.0
+u.bvan.boost_no_dyn_link-gf818ee7c77	2	utils	18.0.0-2-gf03bb23+4
