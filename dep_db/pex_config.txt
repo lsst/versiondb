@@ -2130,3 +2130,9 @@ w.2016.15	0	utils	w.2016.15
 18.0.0	6	utils	18.0.0-2-gf03bb23+4
 18.0.0	6	pybind11	2.2.4.lsst1+1
 18.0.0	6	python	3.7
+18.0.0	7	daf_base	u.bvan.boost_no_dyn_link-g3c0411f80f+3
+18.0.0	7	pex_policy	u.bvan.boost_no_dyn_link-g6a1b5ba0c3
+18.0.0	7	numpy	1.16.2
+18.0.0	7	utils	18.0.0-2-gf03bb23+5
+18.0.0	7	pybind11	2.2.4.lsst1+1
+18.0.0	7	python	3.7
