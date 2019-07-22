@@ -4253,3 +4253,13 @@ master-g6eadbc38bc	2	pipe_tasks	14.0-57-ga659d1f3+2
 17.0	92	utils	18.0.0-2-gf03bb23
 17.0	92	ip_isr	18.0.0-8-g697fdba
 17.0	92	pipe_tasks	18.0.0-8-g24ce6f0f+1
+17.0	93	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+17.0	93	daf_base	u.bvan.boost_no_dyn_link-g3c0411f80f
+17.0	93	obs_base	18.0.0-6-gc37ddf8+3
+17.0	93	pex_config	18.0.0+4
+17.0	93	pex_policy	u.bvan.boost_no_dyn_link-g3d80328d66
+17.0	93	python_future	0.16.0+5
+17.0	93	numpy	1.16.2
+17.0	93	utils	18.0.0-2-gf03bb23+2
+17.0	93	ip_isr	18.0.0-8-g697fdba+2
+17.0	93	pipe_tasks	18.0.0-8-g24ce6f0f+3

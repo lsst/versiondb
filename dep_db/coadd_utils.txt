@@ -9372,3 +9372,13 @@ w.2016.15	0	afwdata	w.2016.15
 18.0.0-1-g1349e88	2	sconsUtils	18.0.0
 18.0.0-1-g1349e88	2	utils	18.0.0-2-gf03bb23+1
 18.0.0-1-g1349e88	2	afwdata	18.0.0
+18.0.0-1-g1349e88	3	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-1-g1349e88	3	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0-1-g1349e88	3	pybind11	2.2.4.lsst1+1
+18.0.0-1-g1349e88	3	numpy	1.16.2
+18.0.0-1-g1349e88	3	pex_config	18.0.0+4
+18.0.0-1-g1349e88	3	pipe_base	18.0.0-2-g0ee56d7+6
+18.0.0-1-g1349e88	3	scons	3.0.0.lsst1+5
+18.0.0-1-g1349e88	3	sconsUtils	18.0.0
+18.0.0-1-g1349e88	3	utils	18.0.0-2-gf03bb23+2
+18.0.0-1-g1349e88	3	afwdata	17.0+5

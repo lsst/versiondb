@@ -1030,3 +1030,7 @@ b17.0.x-g5b7419b028	0	python_future	0.16.0+3
 18.0.0-1-g8d41266	4	log	18.0.0+2
 18.0.0-1-g8d41266	4	firefly_client	2.2.0.lsst1
 18.0.0-1-g8d41266	4	python_future	0.16.0+5
+18.0.0-1-g8d41266	5	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-1-g8d41266	5	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0-1-g8d41266	5	firefly_client	2.2.0.lsst1
+18.0.0-1-g8d41266	5	python_future	0.16.0+5

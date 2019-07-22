@@ -2142,3 +2142,14 @@ master-gf24e082aab	17	obs_test	16.0-13-g8f68b0a+9
 18.0.0-1-g24cc678	7	obs_test	18.0.0-4-g329782e+1
 18.0.0-1-g24cc678	7	ip_diffim	18.0.0-5-gba33251+1
 18.0.0-1-g24cc678	7	ap_association	18.0.0-1-ga2de75c+5
+18.0.0-1-g24cc678	8	python	3.7
+18.0.0-1-g24cc678	8	utils	18.0.0-2-gf03bb23+2
+18.0.0-1-g24cc678	8	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-1-g24cc678	8	daf_persistence	18.0.0-1-g5e4b7ea+3
+18.0.0-1-g24cc678	8	pipe_tasks	18.0.0-8-g24ce6f0f+3
+18.0.0-1-g24cc678	8	verify	18.0.0-1-g9c1f36f+8
+18.0.0-1-g24cc678	8	ap_pipe	18.0.0-1-g77a5af3+8
+18.0.0-1-g24cc678	8	ap_verify_testdata	18.0.0-1-g835a405+6
+18.0.0-1-g24cc678	8	obs_test	18.0.0-4-g329782e+3
+18.0.0-1-g24cc678	8	ip_diffim	18.0.0-5-gba33251+3
+18.0.0-1-g24cc678	8	ap_association	18.0.0-1-ga2de75c+6

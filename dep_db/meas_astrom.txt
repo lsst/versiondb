@@ -15535,3 +15535,14 @@ u.danielsf.2.3.7.1.sims-gb5e44412c0	1	matplotlib	0.0.4+1
 18.0.0-3-g230d21f	1	astrometry_net	0.67.123ff3e.lsst1+12
 18.0.0-3-g230d21f	1	numpy	1.16.2
 18.0.0-3-g230d21f	1	matplotlib	3.0.3
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	geom	u.bvan.boost_no_dyn_link-gaf80eaefd0
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	sphgeom	17.0+8
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	meas_algorithms	u.bvan.boost_no_dyn_link-g6322b43749
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	pex_config	18.0.0+4
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	pipe_base	18.0.0-2-g0ee56d7+6
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	utils	18.0.0-2-gf03bb23+2
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	astrometry_net	0.67.123ff3e.lsst1+12
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	numpy	1.16.2
+u.bvan.boost_no_dyn_link-g08f6fd463a	0	matplotlib	3.0.3

@@ -6397,3 +6397,13 @@ w.2016.15	0	sconsUtils	w.2016.15
 18.0.0-8-g697fdba	1	geom	18.0.0+3
 18.0.0-8-g697fdba	1	utils	18.0.0-2-gf03bb23+1
 18.0.0-8-g697fdba	1	pex_exceptions	18.0.0
+18.0.0-8-g697fdba	2	meas_algorithms	u.bvan.boost_no_dyn_link-g6322b43749
+18.0.0-8-g697fdba	2	numpy	1.16.2
+18.0.0-8-g697fdba	2	pipe_base	18.0.0-2-g0ee56d7+6
+18.0.0-8-g697fdba	2	scons	3.0.0.lsst1+5
+18.0.0-8-g697fdba	2	sconsUtils	18.0.0
+18.0.0-8-g697fdba	2	pybind11	2.2.4.lsst1+1
+18.0.0-8-g697fdba	2	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-8-g697fdba	2	geom	u.bvan.boost_no_dyn_link-gaf80eaefd0
+18.0.0-8-g697fdba	2	utils	18.0.0-2-gf03bb23+2
+18.0.0-8-g697fdba	2	pex_exceptions	u.bvan.boost_no_dyn_link-ge1db90b90a

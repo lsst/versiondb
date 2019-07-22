@@ -903,3 +903,10 @@ master-gaffd610453	46	meas_extensions_photometryKron	13.0-6-gd233a4b+13
 18.0.0-1-g9667f11	0	meas_base	18.0.0-2-g9c63283
 18.0.0-1-g9667f11	0	utils	18.0.0-2-gf03bb23
 18.0.0-1-g9667f11	0	daf_base	18.0.0-1-gf8bf62c+1
+18.0.0-1-g9667f11	1	meas_algorithms	u.bvan.boost_no_dyn_link-g6322b43749
+18.0.0-1-g9667f11	1	meas_extensions_photometryKron	18.0.0-1-ge10677a+1
+18.0.0-1-g9667f11	1	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-1-g9667f11	1	geom	u.bvan.boost_no_dyn_link-gaf80eaefd0
+18.0.0-1-g9667f11	1	meas_base	18.0.0-2-g9c63283+2
+18.0.0-1-g9667f11	1	utils	18.0.0-2-gf03bb23+2
+18.0.0-1-g9667f11	1	daf_base	u.bvan.boost_no_dyn_link-g3c0411f80f

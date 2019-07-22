@@ -14287,3 +14287,12 @@ u.danielsf.2.3.7.1.sims-g80c536f580	0	log	13.0-7-g73c05b9+1
 18.0.0	9	utils	18.0.0-2-gf03bb23
 18.0.0	9	log	18.0.0+2
 18.0.0	9	astropy	3.1.2
+18.0.0	10	pex_policy	u.bvan.boost_no_dyn_link-g3d80328d66
+18.0.0	10	obs_base	18.0.0-6-gc37ddf8+3
+18.0.0	10	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0	10	meas_algorithms	u.bvan.boost_no_dyn_link-g6322b43749
+18.0.0	10	meas_astrom	u.bvan.boost_no_dyn_link-g08f6fd463a
+18.0.0	10	pipe_tasks	18.0.0-8-g24ce6f0f+3
+18.0.0	10	utils	18.0.0-2-gf03bb23+2
+18.0.0	10	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0	10	astropy	3.1.2

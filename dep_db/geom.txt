@@ -887,3 +887,9 @@ w.2016.15	0	sconsUtils	w.2016.15
 18.0.0	3	sphgeom	18.0.0
 18.0.0	3	pex_exceptions	18.0.0
 18.0.0	3	utils	18.0.0-2-gf03bb23+1
+u.bvan.boost_no_dyn_link-gaf80eaefd0	0	boost	1.69+1
+u.bvan.boost_no_dyn_link-gaf80eaefd0	0	ndarray	1.5.3
+u.bvan.boost_no_dyn_link-gaf80eaefd0	0	sconsUtils	18.0.0
+u.bvan.boost_no_dyn_link-gaf80eaefd0	0	sphgeom	17.0+8
+u.bvan.boost_no_dyn_link-gaf80eaefd0	0	pex_exceptions	u.bvan.boost_no_dyn_link-ge1db90b90a
+u.bvan.boost_no_dyn_link-gaf80eaefd0	0	utils	18.0.0-2-gf03bb23+2

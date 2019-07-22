@@ -5650,3 +5650,16 @@ master-gb035c22750	38	matplotlib	0.0.4+1
 18.0.0-2-g31c43f9	0	astrometry_net	0.67.123ff3e.lsst1+12
 18.0.0-2-g31c43f9	0	numpy	1.16.2
 18.0.0-2-g31c43f9	0	matplotlib	3.0.3
+18.0.0-2-g31c43f9	1	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-2-g31c43f9	1	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0-2-g31c43f9	1	meas_algorithms	u.bvan.boost_no_dyn_link-g6322b43749
+18.0.0-2-g31c43f9	1	meas_astrom	u.bvan.boost_no_dyn_link-g08f6fd463a
+18.0.0-2-g31c43f9	1	pex_config	18.0.0+4
+18.0.0-2-g31c43f9	1	pipe_base	18.0.0-2-g0ee56d7+6
+18.0.0-2-g31c43f9	1	utils	18.0.0-2-gf03bb23+2
+18.0.0-2-g31c43f9	1	astropy	3.1.2
+18.0.0-2-g31c43f9	1	geom	u.bvan.boost_no_dyn_link-gaf80eaefd0
+18.0.0-2-g31c43f9	1	wcslib	5.13.lsst1+3
+18.0.0-2-g31c43f9	1	astrometry_net	0.67.123ff3e.lsst1+12
+18.0.0-2-g31c43f9	1	numpy	1.16.2
+18.0.0-2-g31c43f9	1	matplotlib	3.0.3

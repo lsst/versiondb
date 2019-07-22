@@ -3186,3 +3186,17 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 18.0.0-1-g9c1f36f	7	pipe_base	18.0.0-2-g0ee56d7+5
 18.0.0-1-g9c1f36f	7	dax_ppdb	18.0.0+6
 18.0.0-1-g9c1f36f	7	verify_metrics	18.0.0
+18.0.0-1-g9c1f36f	8	python_future	0.16.0+5
+18.0.0-1-g9c1f36f	8	pyyaml	5.1+2
+18.0.0-1-g9c1f36f	8	requests	2.9.1.lsst1+6
+18.0.0-1-g9c1f36f	8	numpy	1.16.2
+18.0.0-1-g9c1f36f	8	astropy	3.1.2
+18.0.0-1-g9c1f36f	8	sconsUtils	18.0.0
+18.0.0-1-g9c1f36f	8	utils	18.0.0-2-gf03bb23+2
+18.0.0-1-g9c1f36f	8	pex_exceptions	u.bvan.boost_no_dyn_link-ge1db90b90a
+18.0.0-1-g9c1f36f	8	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0-1-g9c1f36f	8	pytest_flake8	1.0.4+2
+18.0.0-1-g9c1f36f	8	pex_config	18.0.0+4
+18.0.0-1-g9c1f36f	8	pipe_base	18.0.0-2-g0ee56d7+6
+18.0.0-1-g9c1f36f	8	dax_ppdb	18.0.0+7
+18.0.0-1-g9c1f36f	8	verify_metrics	18.0.0

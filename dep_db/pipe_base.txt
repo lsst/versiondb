@@ -8050,3 +8050,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 18.0.0-2-g0ee56d7	5	utils	18.0.0-2-gf03bb23+1
 18.0.0-2-g0ee56d7	5	afw	18.0.0-8-g01e196b65+1
 18.0.0-2-g0ee56d7	5	obs_test	18.0.0-4-g329782e+2
+18.0.0-2-g0ee56d7	6	daf_butler	18.0.0-5-g43e9eed+4
+18.0.0-2-g0ee56d7	6	daf_persistence	18.0.0-1-g5e4b7ea+3
+18.0.0-2-g0ee56d7	6	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0-2-g0ee56d7	6	pex_config	18.0.0+4
+18.0.0-2-g0ee56d7	6	utils	18.0.0-2-gf03bb23+2
+18.0.0-2-g0ee56d7	6	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-2-g0ee56d7	6	obs_test	18.0.0-4-g329782e+3

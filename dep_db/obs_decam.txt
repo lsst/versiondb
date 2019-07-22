@@ -8589,3 +8589,17 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 18.0.0-3-gb4677f3	7	astro_metadata_translator	master-g05d1804a7f+6
 18.0.0-3-gb4677f3	7	obs_decam_data	master-g608677b38e
 18.0.0-3-gb4677f3	7	testdata_decam	18.0.0-1-g0927df5
+18.0.0-3-gb4677f3	8	utils	18.0.0-2-gf03bb23+2
+18.0.0-3-gb4677f3	8	daf_persistence	18.0.0-1-g5e4b7ea+3
+18.0.0-3-gb4677f3	8	obs_base	18.0.0-6-gc37ddf8+3
+18.0.0-3-gb4677f3	8	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-3-gb4677f3	8	meas_algorithms	u.bvan.boost_no_dyn_link-g6322b43749
+18.0.0-3-gb4677f3	8	pipe_tasks	18.0.0-8-g24ce6f0f+3
+18.0.0-3-gb4677f3	8	pipe_base	18.0.0-2-g0ee56d7+6
+18.0.0-3-gb4677f3	8	pex_exceptions	u.bvan.boost_no_dyn_link-ge1db90b90a
+18.0.0-3-gb4677f3	8	pex_config	18.0.0+4
+18.0.0-3-gb4677f3	8	pex_policy	u.bvan.boost_no_dyn_link-g3d80328d66
+18.0.0-3-gb4677f3	8	ip_isr	18.0.0-8-g697fdba+2
+18.0.0-3-gb4677f3	8	astro_metadata_translator	master-g05d1804a7f+8
+18.0.0-3-gb4677f3	8	obs_decam_data	master-g608677b38e
+18.0.0-3-gb4677f3	8	testdata_decam	18.0.0-1-g0927df5

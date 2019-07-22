@@ -1041,3 +1041,7 @@ w.2016.15	0	swig	3.0.2.lsst1
 18.0.0	1	boost	1.69+1
 18.0.0	1	pybind11	2.2.4.lsst1+1
 18.0.0	1	python	3.7
+u.bvan.boost_no_dyn_link-ge1db90b90a	0	base	17.0+8
+u.bvan.boost_no_dyn_link-ge1db90b90a	0	boost	1.69+1
+u.bvan.boost_no_dyn_link-ge1db90b90a	0	pybind11	2.2.4.lsst1+1
+u.bvan.boost_no_dyn_link-ge1db90b90a	0	python	3.7

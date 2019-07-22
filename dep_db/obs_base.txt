@@ -4234,3 +4234,13 @@ u.danielsf.2.3.7.1.sims-gc6b39a0de3	1	utils	13.0-9-gf29e843+2
 18.0.0-6-gc37ddf8	2	geom	18.0.0+3
 18.0.0-6-gc37ddf8	2	skymap	18.0.0+8
 18.0.0-6-gc37ddf8	2	daf_butler	18.0.0-5-g43e9eed+3
+18.0.0-6-gc37ddf8	3	daf_base	u.bvan.boost_no_dyn_link-g3c0411f80f
+18.0.0-6-gc37ddf8	3	log	u.bvan.boost_no_dyn_link-gf818ee7c77
+18.0.0-6-gc37ddf8	3	daf_persistence	18.0.0-1-g5e4b7ea+3
+18.0.0-6-gc37ddf8	3	afw	u.bvan.boost_no_dyn_link-gb11577a9a4
+18.0.0-6-gc37ddf8	3	astropy	3.1.2
+18.0.0-6-gc37ddf8	3	utils	18.0.0-2-gf03bb23+2
+18.0.0-6-gc37ddf8	3	astro_metadata_translator	master-g05d1804a7f+8
+18.0.0-6-gc37ddf8	3	geom	u.bvan.boost_no_dyn_link-gaf80eaefd0
+18.0.0-6-gc37ddf8	3	skymap	18.0.0+9
+18.0.0-6-gc37ddf8	3	daf_butler	18.0.0-5-g43e9eed+4
