@@ -8646,3 +8646,16 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 18.0.0	2	ip_isr	18.0.0+2
 18.0.0	2	astro_metadata_translator	master-g05d1804a7f+10
 18.0.0	2	testdata_decam	18.0.0
+18.0.0	3	utils	18.0.0+1
+18.0.0	3	daf_persistence	18.0.0+1
+18.0.0	3	obs_base	18.0.0+2
+18.0.0	3	afw	18.0.0+1
+18.0.0	3	meas_algorithms	18.0.0+2
+18.0.0	3	pipe_tasks	18.0.0+3
+18.0.0	3	pipe_base	18.0.0+2
+18.0.0	3	pex_exceptions	18.0.0+2
+18.0.0	3	pex_config	18.0.0+8
+18.0.0	3	pex_policy	18.0.0+1
+18.0.0	3	ip_isr	18.0.0+2
+18.0.0	3	astro_metadata_translator	master-g05d1804a7f+10
+18.0.0	3	testdata_decam	18.0.0
