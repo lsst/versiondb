@@ -14595,3 +14595,13 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 17.0	95	meas_extensions_simpleShape	18.0.0-1-g2505f39+3
 17.0	95	display_ds9	18.0.0+6
 17.0	95	meas_extensions_psfex	18.0.0-1-g85f8cd4+4
+18.0.0	2	meas_deblender	18.0.0+7
+18.0.0	2	meas_modelfit	18.0.0+6
+18.0.0	2	pipe_tasks	18.0.0+2
+18.0.0	2	ap_pipe	18.0.0+2
+18.0.0	2	obs_lsstSim	18.0.0+2
+18.0.0	2	obs_sdss	18.0.0+12
+18.0.0	2	obs_test	18.0.0+2
+18.0.0	2	meas_extensions_simpleShape	18.0.0+2
+18.0.0	2	display_ds9	18.0.0+7
+18.0.0	2	meas_extensions_psfex	18.0.0+7

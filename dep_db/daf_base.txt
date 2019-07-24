@@ -1605,3 +1605,9 @@ u.bvan.boost_no_dyn_link-g3c0411f80f	3	pyyaml	5.1+2
 18.0.0-2-ge43143a	0	python	3.7
 18.0.0-2-ge43143a	0	numpy	1.16.2
 18.0.0-2-ge43143a	0	pyyaml	5.1+2
+18.1.x-g7d52569dd8	0	utils	18.0.0+1
+18.1.x-g7d52569dd8	0	pex_exceptions	18.0.0+2
+18.1.x-g7d52569dd8	0	pybind11	2.2.4.lsst1+1
+18.1.x-g7d52569dd8	0	python	3.7
+18.1.x-g7d52569dd8	0	numpy	1.16.2
+18.1.x-g7d52569dd8	0	pyyaml	5.1+2
