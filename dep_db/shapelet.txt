@@ -3370,3 +3370,10 @@ w.2016.15	0	sconsUtils	w.2016.15
 18.0.0-1-g9a6769a	2	pybind11	2.2.4.lsst1+1
 18.0.0-1-g9a6769a	2	geom	u.bvan.boost_no_dyn_link-gaf80eaefd0
 18.0.0-1-g9a6769a	2	scipy	1.2.1
+18.0.0-1-g9a6769a	3	afw	18.0.0-8-g01e196b65+2
+18.0.0-1-g9a6769a	3	numpy	1.16.2
+18.0.0-1-g9a6769a	3	scons	3.0.0.lsst1+5
+18.0.0-1-g9a6769a	3	sconsUtils	18.0.0
+18.0.0-1-g9a6769a	3	pybind11	2.2.4.lsst1+1
+18.0.0-1-g9a6769a	3	geom	18.0.0+2
+18.0.0-1-g9a6769a	3	scipy	1.2.1
