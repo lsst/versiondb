@@ -2903,3 +2903,10 @@ master-gbe69b68c0a	98	pex_config	14.0-4-gae1598d+4
 18.0.0	3	afw	18.0.0+1
 18.0.0	3	pipe_base	18.0.0+2
 18.0.0	3	pex_config	18.0.0+8
+17.0	96	obs_ctio0m9	18.0.0-1-g5cf46b3+9
+17.0	96	pipe_drivers	18.0.0-2-g8693031
+17.0	96	pipe_tasks	18.0.0-8-g24ce6f0f+6
+17.0	96	sconsUtils	18.0.0
+17.0	96	afw	18.0.0-9-ga83fda388
+17.0	96	pipe_base	18.0.0-2-g0ee56d7+9
+17.0	96	pex_config	18.0.0-1-gc037db8+1

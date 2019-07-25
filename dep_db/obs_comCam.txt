@@ -4303,3 +4303,13 @@ master-g6eadbc38bc	2	pipe_tasks	14.0-57-ga659d1f3+2
 18.0.0	3	utils	18.0.0+1
 18.0.0	3	ip_isr	18.0.0+2
 18.0.0	3	pipe_tasks	18.0.0+3
+17.0	96	afw	18.0.0-9-ga83fda388
+17.0	96	daf_base	18.0.0-2-ge43143a+1
+17.0	96	obs_base	18.0.0-7-g898c2a1+2
+17.0	96	pex_config	18.0.0-1-gc037db8+1
+17.0	96	pex_policy	18.0.0-1-g0001055+4
+17.0	96	python_future	0.16.0+5
+17.0	96	numpy	1.16.2
+17.0	96	utils	18.0.0-2-gf03bb23+6
+17.0	96	ip_isr	18.0.0-9-g4b17231
+17.0	96	pipe_tasks	18.0.0-8-g24ce6f0f+6
