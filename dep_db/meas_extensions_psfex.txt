@@ -10134,3 +10134,15 @@ w.2016.15	0	utils	w.2016.15
 18.0.0-1-g85f8cd4	7	pybind11	2.2.4.lsst1+2
 18.0.0-1-g85f8cd4	7	utils	18.0.0-2-gf03bb23+8
 18.0.0-1-g85f8cd4	7	geom	18.0.0+7
+18.0.0	8	afw	18.0.0+2
+18.0.0	8	boost	1.69+1
+18.0.0	8	daf_base	18.1.x-g7d52569dd8+1
+18.0.0	8	fftw	3.3.4.lsst2
+18.0.0	8	meas_algorithms	18.0.0+3
+18.0.0	8	meas_base	18.0.0+3
+18.0.0	8	numpy	1.16.2
+18.0.0	8	psfex	18.0.0
+18.0.0	8	scons	3.0.0.lsst1+5
+18.0.0	8	sconsUtils	18.0.0
+18.0.0	8	pybind11	2.2.4.lsst1+2
+18.0.0	8	utils	18.0.0+2

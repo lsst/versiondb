@@ -1665,3 +1665,14 @@ master-ga34209cb66	1	astro_metadata_translator	master-ge4a94b1f35
 18.0.0-4-gce492fc	3	pipe_tasks	18.0.0-10-g73b8679e
 18.0.0-4-gce492fc	3	astro_metadata_translator	master-g05d1804a7f+13
 18.0.0-4-gce492fc	3	obs_lsst_data	master-g9e259a4199
+18.0.0	4	afw	18.0.0+2
+18.0.0	4	daf_base	18.1.x-g7d52569dd8+1
+18.0.0	4	obs_base	18.0.0+3
+18.0.0	4	pex_config	18.0.0+9
+18.0.0	4	pex_policy	18.0.0+2
+18.0.0	4	astropy	3.1.2
+18.0.0	4	numpy	1.16.2
+18.0.0	4	utils	18.0.0+2
+18.0.0	4	ip_isr	18.0.0+3
+18.0.0	4	pipe_tasks	18.0.0+4
+18.0.0	4	astro_metadata_translator	master-g77e2c91a09+5
