@@ -1750,3 +1750,6 @@
 18.0.0	8	meas_base	18.0.0+3
 18.0.0	8	pybind11	2.2.4.lsst1+2
 18.0.0	8	meas_algorithms	18.0.0+3
+18.0.0-1-ge10677a	7	meas_base	18.0.0-2-g9c63283+9
+18.0.0-1-ge10677a	7	pybind11	2.2.4.lsst1+2
+18.0.0-1-ge10677a	7	meas_algorithms	18.0.0-7-g89824ecc+3
