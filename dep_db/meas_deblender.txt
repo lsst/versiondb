@@ -10101,3 +10101,14 @@ w.2016.15	0	matplotlib	0.0.2
 18.0.0-2-gdf0b915	12	scarlet	lsst-dev-g15dae0f2cb+1
 18.0.0-2-gdf0b915	12	matplotlib	3.0.3
 18.0.0-2-gdf0b915	12	testdata_deblender	16.0
+18.1.0	0	afw	18.1.0
+18.1.0	0	log	18.1.0
+18.1.0	0	meas_algorithms	18.1.0
+18.1.0	0	numpy	1.16.2
+18.1.0	0	scons	3.0.0.lsst1+5
+18.1.0	0	sconsUtils	18.1.0
+18.1.0	0	utils	18.1.0
+18.1.0	0	pybind11	2.2.4.lsst1+2
+18.1.0	0	scarlet	lsst-dev-g62a773d79d+5
+18.1.0	0	matplotlib	3.0.3
+18.1.0	0	testdata_deblender	18.1.0
