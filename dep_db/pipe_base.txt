@@ -8134,3 +8134,10 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 18.1.0	0	utils	18.1.0
 18.1.0	0	afw	18.1.0
 18.1.0	0	obs_test	18.1.0
+18.1.0-2-g0ee56d7	0	daf_butler	18.1.0-10-gd6f848e
+18.1.0-2-g0ee56d7	0	daf_persistence	18.1.0-1-g5e4b7ea
+18.1.0-2-g0ee56d7	0	log	18.0.0+9
+18.1.0-2-g0ee56d7	0	pex_config	18.1.0-1-gc037db8
+18.1.0-2-g0ee56d7	0	utils	18.1.0-2-gf03bb23
+18.1.0-2-g0ee56d7	0	afw	18.1.0-10-g6da83990c
+18.1.0-2-g0ee56d7	0	obs_test	18.1.0-4-g329782e
