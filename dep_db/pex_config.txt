@@ -2184,3 +2184,9 @@ w.2016.15	0	utils	w.2016.15
 18.1.0-1-gc037db8	0	utils	18.1.0-2-gf03bb23
 18.1.0-1-gc037db8	0	pybind11	2.2.4.lsst1+2
 18.1.0-1-gc037db8	0	python	3.7
+18.1.0-1-gc037db8	1	daf_base	18.0.0-2-ge43143a+5
+18.1.0-1-gc037db8	1	pex_policy	18.1.0-1-g0001055+1
+18.1.0-1-gc037db8	1	numpy	1.16.2
+18.1.0-1-gc037db8	1	utils	18.1.0-2-gf03bb23+1
+18.1.0-1-gc037db8	1	pybind11	2.2.4.lsst1+2
+18.1.0-1-gc037db8	1	python	3.7
