@@ -12009,3 +12009,14 @@ w.2016.15	0	matplotlib	0.0.2
 18.1.0-2-g000ad9a	1	pybind11	2.2.4.lsst1+2
 18.1.0-2-g000ad9a	1	geom	18.0.0+9
 18.1.0-2-g000ad9a	1	matplotlib	3.0.3
+18.1.0-2-g000ad9a	2	afw	18.1.0-11-gf570990de
+18.1.0-2-g000ad9a	2	meas_algorithms	18.1.0-7-g89824ecc+3
+18.1.0-2-g000ad9a	2	meas_base	18.1.0-2-g9c63283+3
+18.1.0-2-g000ad9a	2	numpy	1.16.2
+18.1.0-2-g000ad9a	2	log	18.0.0+9
+18.1.0-2-g000ad9a	2	scons	3.0.0.lsst1+5
+18.1.0-2-g000ad9a	2	sconsUtils	18.0.0
+18.1.0-2-g000ad9a	2	shapelet	18.1.0-1-g9a6769a+1
+18.1.0-2-g000ad9a	2	pybind11	2.2.4.lsst1+2
+18.1.0-2-g000ad9a	2	geom	18.0.0+9
+18.1.0-2-g000ad9a	2	matplotlib	3.0.3
