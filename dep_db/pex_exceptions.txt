@@ -1081,3 +1081,7 @@ u.bvan.boost_no_dyn_link-g5e742ab915	0	python	3.7
 18.1.0	1	boost	1.69.lsst1
 18.1.0	1	pybind11	2.2.4.lsst1+2
 18.1.0	1	python	3.7
+18.0.0	6	base	18.1.0-1-g7e8fceb
+18.0.0	6	boost	1.69.lsst1
+18.0.0	6	pybind11	2.2.4.lsst1+2
+18.0.0	6	python	3.7
