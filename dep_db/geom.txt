@@ -971,3 +971,9 @@ u.bvan.boost_no_dyn_link-g38a8924310	0	utils	18.0.0-2-gf03bb23+5
 18.1.0	2	sphgeom	18.1.0+1
 18.1.0	2	pex_exceptions	18.1.0+2
 18.1.0	2	utils	18.1.0-2-gf03bb23+3
+18.0.0	11	boost	1.69.lsst1
+18.0.0	11	ndarray	1.5.3+2
+18.0.0	11	sconsUtils	18.1.0-1-g24f25a3
+18.0.0	11	sphgeom	17.0+10
+18.0.0	11	pex_exceptions	18.1.0-1-g5315e5e
+18.0.0	11	utils	18.1.0-3-gab23065

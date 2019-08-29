@@ -1921,3 +1921,10 @@ u.bvan.boost_no_dyn_link-g6d33a439c0	0	utils	18.0.0-2-gf03bb23+5
 18.1.0	2	python	3.7
 18.1.0	2	sconsUtils	18.1.0-1-g24f25a3
 18.1.0	2	utils	18.1.0-2-gf03bb23+3
+18.0.0	11	boost	1.69.lsst1
+18.0.0	11	log4cxx	0.10.0.lsst7+1
+18.0.0	11	base	18.1.0-1-g7e8fceb
+18.0.0	11	pybind11	2.2.4.lsst1+2
+18.0.0	11	python	3.7
+18.0.0	11	sconsUtils	18.1.0-1-g24f25a3
+18.0.0	11	utils	18.1.0-3-gab23065
