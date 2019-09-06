@@ -4666,3 +4666,16 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 18.0.0	34	numpy	1.16.2
 18.0.0	34	utils	18.1.0-4-g1ee41a7
 18.0.0	34	meas_extensions_astrometryNet	18.1.0-2-g31c43f9+15
+18.1.0-1-g095c73b	0	afw	18.1.0-15-gbf79fb8fa
+18.1.0-1-g095c73b	0	daf_base	18.0.0-2-ge43143a+9
+18.1.0-1-g095c73b	0	obs_base	18.1.0-16-g069e110+1
+18.1.0-1-g095c73b	0	pex_config	18.1.0-4-gc96e915
+18.1.0-1-g095c73b	0	daf_persistence	18.1.0-1-g5e4b7ea+7
+18.1.0-1-g095c73b	0	numpy	1.16.2
+18.1.0-1-g095c73b	0	utils	18.1.0-4-g1ee41a7
+18.1.0-1-g095c73b	0	pipe_base	18.1.0-4-g6c9d669+5
+18.1.0-1-g095c73b	0	pipe_tasks	18.1.0-14-g64ac3b14
+18.1.0-1-g095c73b	0	ip_isr	18.1.0-14-gd04256d+6
+18.1.0-1-g095c73b	0	geom	18.0.0+12
+18.1.0-1-g095c73b	0	meas_extensions_astrometryNet	18.1.0-2-g31c43f9+16
+18.1.0-1-g095c73b	0	meas_extensions_psfex	18.1.0-1-g85f8cd4+16
