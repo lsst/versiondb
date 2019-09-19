@@ -4744,3 +4744,16 @@ master-ga69512cc5f	10	utils	12.1-5-g648ee80+4
 18.1.0-1-g095c73b	5	geom	18.0.0+13
 18.1.0-1-g095c73b	5	meas_extensions_astrometryNet	18.1.0-3-g9bc06b8+4
 18.1.0-1-g095c73b	5	meas_extensions_psfex	18.1.0-1-g85f8cd4+20
+18.1.0-1-g095c73b	6	afw	18.1.0-16-g27f8efa26+3
+18.1.0-1-g095c73b	6	daf_base	18.0.0-3-gf033a76
+18.1.0-1-g095c73b	6	obs_base	18.1.0-17-ga047fbb+1
+18.1.0-1-g095c73b	6	pex_config	18.1.0-5-gc286bb7+2
+18.1.0-1-g095c73b	6	daf_persistence	18.1.0-1-g5e4b7ea+9
+18.1.0-1-g095c73b	6	numpy	1.16.2
+18.1.0-1-g095c73b	6	utils	18.1.0-4-g1ee41a7+1
+18.1.0-1-g095c73b	6	pipe_base	18.1.0-6-g48bdcd3
+18.1.0-1-g095c73b	6	pipe_tasks	18.1.0-15-gc153667b+7
+18.1.0-1-g095c73b	6	ip_isr	18.1.0-14-gd04256d+13
+18.1.0-1-g095c73b	6	geom	18.0.0+13
+18.1.0-1-g095c73b	6	meas_extensions_astrometryNet	18.1.0-3-g9bc06b8+5
+18.1.0-1-g095c73b	6	meas_extensions_psfex	18.1.0-1-g85f8cd4+21
