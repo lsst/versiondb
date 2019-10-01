@@ -2334,3 +2334,12 @@ master-gfa6888da3d	0	afw	16.0-83-g9e0d0724e+1
 18.1.0-27-g3eabce6	0	astro_metadata_translator	0.1.0-5-g1039c3c
 18.1.0-27-g3eabce6	0	geom	18.0.0+13
 18.1.0-27-g3eabce6	0	afw	18.1.0-17-gd2166b6e4
+18.1.0-27-g3eabce6	1	sphgeom	17.0+11
+18.1.0-27-g3eabce6	1	sqlalchemy	1.3.8
+18.1.0-27-g3eabce6	1	numpy	1.16.2
+18.1.0-27-g3eabce6	1	scons	3.0.0.lsst1+5
+18.1.0-27-g3eabce6	1	sconsUtils	18.1.0-2-ga35c153
+18.1.0-27-g3eabce6	1	utils	18.1.0-4-g1ee41a7+1
+18.1.0-27-g3eabce6	1	astro_metadata_translator	0.1.0-5-g1039c3c
+18.1.0-27-g3eabce6	1	geom	18.0.0+13
+18.1.0-27-g3eabce6	1	afw	18.1.0-18-gf57f4888d
