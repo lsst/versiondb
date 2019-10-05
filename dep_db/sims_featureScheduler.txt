@@ -446,3 +446,17 @@ master-gf371fa8bb7	3	sims_downtimeModel	master-g0bec6a0449+9
 master-gf371fa8bb7	3	sims_survey_fields	2.6.0.sims+31
 master-gf371fa8bb7	3	sims_almanac	master-g420e492ac3+2
 master-gf371fa8bb7	3	ts_observatory_model	master-g3d307a5f45+22
+master-g4cc63973bc	0	base	18.1.0-1-g7e8fceb+1
+master-g4cc63973bc	0	numpy	1.16.2
+master-g4cc63973bc	0	sims_utils	2.13.0.sims-3-g7728c7d
+master-g4cc63973bc	0	sims_skybrightness_pre	2.13.0.sims-8-gcc59254
+master-g4cc63973bc	0	scipy	1.2.1
+master-g4cc63973bc	0	healpy	1.10.3.lsst2+3
+master-g4cc63973bc	0	astropy	3.1.2
+master-g4cc63973bc	0	ephem	3.7.6.0+4
+master-g4cc63973bc	0	sims_seeingModel	master-g4cb10b5e67+10
+master-g4cc63973bc	0	sims_cloudModel	master-ge759d156b8+10
+master-g4cc63973bc	0	sims_downtimeModel	master-g0bec6a0449+9
+master-g4cc63973bc	0	sims_survey_fields	2.6.0.sims+31
+master-g4cc63973bc	0	sims_almanac	master-g420e492ac3+2
+master-g4cc63973bc	0	ts_observatory_model	master-g3d307a5f45+23
