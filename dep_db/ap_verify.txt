@@ -2736,3 +2736,14 @@ master-gf24e082aab	17	obs_test	16.0-13-g8f68b0a+9
 18.1.0-5-g1dd6499	21	obs_test	18.1.0-8-g42b2ab3+1
 18.1.0-5-g1dd6499	21	ip_diffim	18.1.0-12-g6c26a0a
 18.1.0-5-g1dd6499	21	ap_association	18.1.0-10-g7c54f71+1
+18.1.0-5-g1dd6499	22	python	3.7
+18.1.0-5-g1dd6499	22	utils	18.1.0-4-g1ee41a7+1
+18.1.0-5-g1dd6499	22	afw	18.1.0-18-gf57f4888d
+18.1.0-5-g1dd6499	22	daf_persistence	18.1.0-1-g5e4b7ea+10
+18.1.0-5-g1dd6499	22	pipe_tasks	18.1.0-21-gb3d55290+5
+18.1.0-5-g1dd6499	22	verify	18.1.0-10-gfe635fa+1
+18.1.0-5-g1dd6499	22	ap_pipe	18.1.0-4-gcd8f52c+26
+18.1.0-5-g1dd6499	22	ap_verify_testdata	18.1.0-2-gd950ce2+7
+18.1.0-5-g1dd6499	22	obs_test	18.1.0-8-g42b2ab3+1
+18.1.0-5-g1dd6499	22	ip_diffim	18.1.0-12-g6c26a0a+1
+18.1.0-5-g1dd6499	22	ap_association	18.1.0-11-g4d47238
