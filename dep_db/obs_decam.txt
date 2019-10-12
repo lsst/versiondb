@@ -9343,3 +9343,17 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 18.1.0-8-gc69d46e	7	obs_decam_data	master-g608677b38e
 18.1.0-8-gc69d46e	7	geom	18.0.0+13
 18.1.0-8-gc69d46e	7	testdata_decam	18.1.0-1-g0927df5
+18.1.0-8-gc69d46e	8	utils	18.1.0-4-g1ee41a7+1
+18.1.0-8-gc69d46e	8	daf_persistence	18.1.0-1-g5e4b7ea+10
+18.1.0-8-gc69d46e	8	obs_base	18.1.0-21-gde80ed3+2
+18.1.0-8-gc69d46e	8	afw	18.1.0-18-gf57f4888d
+18.1.0-8-gc69d46e	8	meas_algorithms	18.1.0-12-g42eabe8e+19
+18.1.0-8-gc69d46e	8	pipe_tasks	18.1.0-21-gb3d55290+6
+18.1.0-8-gc69d46e	8	pipe_base	18.1.0-8-ge99a47f
+18.1.0-8-gc69d46e	8	pex_exceptions	18.1.0-1-g5315e5e+1
+18.1.0-8-gc69d46e	8	pex_config	18.1.0-5-gc286bb7+3
+18.1.0-8-gc69d46e	8	ip_isr	18.1.0-14-gd04256d+24
+18.1.0-8-gc69d46e	8	astro_metadata_translator	0.1.0-5-g1039c3c
+18.1.0-8-gc69d46e	8	obs_decam_data	master-g608677b38e
+18.1.0-8-gc69d46e	8	geom	18.0.0+13
+18.1.0-8-gc69d46e	8	testdata_decam	18.1.0-1-g0927df5
