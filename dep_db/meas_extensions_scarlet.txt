@@ -405,3 +405,14 @@ master-g27024eed42	1	pipe_base	18.1.0-8-ge99a47f
 master-g27024eed42	1	meas_algorithms	18.1.0-12-g42eabe8e+19
 master-g27024eed42	1	matplotlib	3.0.3
 master-g27024eed42	1	testdata_deblender	16.0
+master-g27024eed42	2	base	18.1.0-1-g7e8fceb+1
+master-g27024eed42	2	afw	18.1.0-19-gd38a7138a
+master-g27024eed42	2	log	18.1.0-1-g03d53ef+1
+master-g27024eed42	2	numpy	1.16.2
+master-g27024eed42	2	scarlet	lsst-dev-g169b417050
+master-g27024eed42	2	log	18.1.0-1-g03d53ef+1
+master-g27024eed42	2	pex_config	18.1.0-5-gc286bb7+3
+master-g27024eed42	2	pipe_base	18.1.0-8-ge99a47f+2
+master-g27024eed42	2	meas_algorithms	18.1.0-12-g42eabe8e+21
+master-g27024eed42	2	matplotlib	3.0.3
+master-g27024eed42	2	testdata_deblender	16.0
