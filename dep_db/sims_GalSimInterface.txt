@@ -6508,3 +6508,13 @@ u.danielsf.fix_rotskypos-gce9f1515e4	0	obs_lsstSim	13.0-13-g177be6f+6
 2.13.0.sims-10-g52aa252	1	sims_catalogs	2.13.0.sims-4-g0f53241+4
 2.13.0.sims-10-g52aa252	1	sims_catUtils	2.13.0.sims-2-gcb1fab61+29
 2.13.0.sims-10-g52aa252	1	obs_lsstSim	18.1.0-5-gb05d41e+22
+2.13.0.sims-10-g52aa252	2	galsim	2.2.1.lsst
+2.13.0.sims-10-g52aa252	2	astropy	3.1.2
+2.13.0.sims-10-g52aa252	2	meas_astrom	18.1.0-7-gae09a6d+11
+2.13.0.sims-10-g52aa252	2	afw	18.1.0-19-gd38a7138a+1
+2.13.0.sims-10-g52aa252	2	geom	18.1.0+4
+2.13.0.sims-10-g52aa252	2	sims_utils	2.13.0.sims-4-g46f9fdc
+2.13.0.sims-10-g52aa252	2	sims_coordUtils	2.13.0.sims-3-g9b0053e+28
+2.13.0.sims-10-g52aa252	2	sims_catalogs	2.13.0.sims-4-g0f53241+5
+2.13.0.sims-10-g52aa252	2	sims_catUtils	2.13.0.sims-3-g83f1f783
+2.13.0.sims-10-g52aa252	2	obs_lsstSim	18.1.0-5-gb05d41e+25
