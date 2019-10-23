@@ -3860,3 +3860,14 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 18.1.0-10-gfe635fa	7	pipe_base	18.1.0-8-ge99a47f+5
 18.1.0-10-gfe635fa	7	dax_ppdb	18.1.0-1-gd55f500+22
 18.1.0-10-gfe635fa	7	verify_metrics	18.1.0-2-g872f9b5
+18.1.0-10-gfe635fa	8	astropy	3.1.2
+18.1.0-10-gfe635fa	8	pyyaml	5.1+2
+18.1.0-10-gfe635fa	8	requests	2.9.1.lsst1+6
+18.1.0-10-gfe635fa	8	numpy	1.16.2
+18.1.0-10-gfe635fa	8	sconsUtils	18.1.0-2-ga35c153
+18.1.0-10-gfe635fa	8	utils	18.1.0-4-g1ee41a7+1
+18.1.0-10-gfe635fa	8	log	18.1.0-1-g03d53ef+1
+18.1.0-10-gfe635fa	8	pex_config	18.1.0-5-gc286bb7+3
+18.1.0-10-gfe635fa	8	pipe_base	18.1.0-9-gee19f03
+18.1.0-10-gfe635fa	8	dax_ppdb	18.1.0-1-gd55f500+24
+18.1.0-10-gfe635fa	8	verify_metrics	18.1.0-2-g872f9b5
