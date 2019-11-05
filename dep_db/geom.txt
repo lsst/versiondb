@@ -1019,3 +1019,9 @@ u.bvan.boost_no_dyn_link-g38a8924310	0	utils	18.0.0-2-gf03bb23+5
 18.1.0-1-g8ff0b9f	0	sphgeom	17.0+12
 18.1.0-1-g8ff0b9f	0	pex_exceptions	18.1.0-1-g5315e5e+2
 18.1.0-1-g8ff0b9f	0	utils	18.1.0-4-g1ee41a7+2
+18.1.0-1-g8ff0b9f	1	boost	1.69.lsst1
+18.1.0-1-g8ff0b9f	1	ndarray	1.5.3+2
+18.1.0-1-g8ff0b9f	1	sconsUtils	18.1.0-3-g946de54
+18.1.0-1-g8ff0b9f	1	sphgeom	17.0+12
+18.1.0-1-g8ff0b9f	1	pex_exceptions	18.1.0-1-g5315e5e+2
+18.1.0-1-g8ff0b9f	1	utils	18.1.0-5-g1dd662b

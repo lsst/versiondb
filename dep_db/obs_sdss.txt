@@ -14883,3 +14883,12 @@ u.danielsf.2.3.7.1.sims-g80c536f580	0	log	13.0-7-g73c05b9+1
 18.1.0-4-gace4019	0	log	18.1.0-1-g03d53ef+2
 18.1.0-4-gace4019	0	astropy	3.1.2
 18.1.0-4-gace4019	0	geom	18.1.0-1-g8ff0b9f
+18.1.0-4-gace4019	1	obs_base	18.1.0-24-ged780bc+1
+18.1.0-4-gace4019	1	afw	18.1.0-25-gacbdb2155
+18.1.0-4-gace4019	1	meas_algorithms	18.1.0-13-gfe4edf0b+3
+18.1.0-4-gace4019	1	meas_astrom	18.1.0-7-gae09a6d+21
+18.1.0-4-gace4019	1	pipe_tasks	18.1.0-24-gd64d31bc+1
+18.1.0-4-gace4019	1	utils	18.1.0-5-g1dd662b
+18.1.0-4-gace4019	1	log	18.1.0-1-g03d53ef+3
+18.1.0-4-gace4019	1	astropy	3.1.2
+18.1.0-4-gace4019	1	geom	18.1.0-1-g8ff0b9f+1
