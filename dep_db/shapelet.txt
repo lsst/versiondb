@@ -3577,3 +3577,10 @@ w.2016.15	0	sconsUtils	w.2016.15
 18.1.0-2-gd3b74e5	7	pybind11	2.2.4.lsst1+2
 18.1.0-2-gd3b74e5	7	geom	18.1.0-1-g8ff0b9f+2
 18.1.0-2-gd3b74e5	7	scipy	1.2.1
+18.1.0-2-gd3b74e5	8	afw	18.1.0-28-ge996dbe42+1
+18.1.0-2-gd3b74e5	8	numpy	1.16.2
+18.1.0-2-gd3b74e5	8	scons	3.0.0.lsst1+5
+18.1.0-2-gd3b74e5	8	sconsUtils	18.1.0-4-ga49c802
+18.1.0-2-gd3b74e5	8	pybind11	2.2.4.lsst1+2
+18.1.0-2-gd3b74e5	8	geom	18.1.0-1-g8ff0b9f+2
+18.1.0-2-gd3b74e5	8	scipy	1.2.1
