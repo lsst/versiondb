@@ -9209,3 +9209,12 @@ w.2016.15	0	utils	w.2016.15
 18.1.0-10-gb58edde	0	obs_test_data	master-gb4dcb135d7
 18.1.0-10-gb58edde	0	pipe_base	18.1.0-11-g0997b02+2
 18.1.0-10-gb58edde	0	astropy	3.1.2
+18.1.0-10-gb58edde	1	afw	18.1.0-31-ga6d04e39e
+18.1.0-10-gb58edde	1	daf_base	18.0.0-4-g68ffd23+4
+18.1.0-10-gb58edde	1	obs_base	18.1.0-27-g6ff7ca9+1
+18.1.0-10-gb58edde	1	pex_config	18.1.0-6-gae77429+3
+18.1.0-10-gb58edde	1	numpy	1.16.2
+18.1.0-10-gb58edde	1	utils	18.1.0-5-g1dd662b+2
+18.1.0-10-gb58edde	1	obs_test_data	master-gb4dcb135d7
+18.1.0-10-gb58edde	1	pipe_base	18.1.0-11-g0997b02+3
+18.1.0-10-gb58edde	1	astropy	3.1.2
