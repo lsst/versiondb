@@ -2015,3 +2015,12 @@ master-g2cd068832a	7	python_future	0.16.0+3
 18.1.0-15-gcd486d8	0	numpy	1.16.2
 18.1.0-15-gcd486d8	0	scipy	1.2.1
 18.1.0-15-gcd486d8	0	python_future	0.16.0+5
+18.1.0-15-gcd486d8	1	afw	18.1.0-32-gd8786685a
+18.1.0-15-gcd486d8	1	meas_algorithms	18.1.0-13-gfe4edf0b+12
+18.1.0-15-gcd486d8	1	pex_config	18.1.0-6-gae77429+3
+18.1.0-15-gcd486d8	1	pipe_base	18.1.0-11-g0997b02+4
+18.1.0-15-gcd486d8	1	dax_ppdb	18.1.0-1-gd55f500+35
+18.1.0-15-gcd486d8	1	verify	18.1.0-11-g0fb94c9+5
+18.1.0-15-gcd486d8	1	numpy	1.16.2
+18.1.0-15-gcd486d8	1	scipy	1.2.1
+18.1.0-15-gcd486d8	1	python_future	0.16.0+5
