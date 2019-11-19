@@ -1210,3 +1210,8 @@ b17.0.x-g5b7419b028	0	python_future	0.16.0+3
 18.1.0-4-g8c57eb9	0	geom	18.1.0-1-g8ff0b9f+6
 18.1.0-4-g8c57eb9	0	log	18.1.0-1-g03d53ef+6
 18.1.0-4-g8c57eb9	0	firefly_client	2.2.0.lsst1
+18.1.0-3-g52aa583	26	afw	18.1.0-32-gd8786685a+1
+18.1.0-3-g52aa583	26	geom	18.1.0-1-g8ff0b9f+5
+18.1.0-3-g52aa583	26	log	18.1.0-1-g03d53ef+5
+18.1.0-3-g52aa583	26	firefly_client	lsst-dev-g97c9674977
+18.1.0-3-g52aa583	26	python_future	0.16.0+5
