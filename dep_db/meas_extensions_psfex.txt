@@ -10899,3 +10899,16 @@ w.2016.15	0	utils	w.2016.15
 18.1.0-1-g85f8cd4	54	pybind11	2.2.4.lsst1+2
 18.1.0-1-g85f8cd4	54	utils	18.1.0-7-g49ebcaf
 18.1.0-1-g85f8cd4	54	geom	18.1.0-1-g8ff0b9f+7
+18.1.0-1-g85f8cd4	55	afw	18.1.0-33-g2fc8869d4+3
+18.1.0-1-g85f8cd4	55	boost	1.69.lsst1
+18.1.0-1-g85f8cd4	55	daf_base	18.0.0-4-g68ffd23+5
+18.1.0-1-g85f8cd4	55	fftw	3.3.4.lsst2
+18.1.0-1-g85f8cd4	55	meas_algorithms	18.1.0-14-ga47c0f16
+18.1.0-1-g85f8cd4	55	meas_base	18.1.0-8-gdc0e4a7+5
+18.1.0-1-g85f8cd4	55	numpy	1.16.2
+18.1.0-1-g85f8cd4	55	psfex	16.0+36
+18.1.0-1-g85f8cd4	55	scons	3.0.0.lsst1+5
+18.1.0-1-g85f8cd4	55	sconsUtils	18.1.0-5-g4251656
+18.1.0-1-g85f8cd4	55	pybind11	2.2.4.lsst1+2
+18.1.0-1-g85f8cd4	55	utils	18.1.0-7-g49ebcaf
+18.1.0-1-g85f8cd4	55	geom	18.1.0-1-g8ff0b9f+7
