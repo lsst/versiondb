@@ -9819,3 +9819,17 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 19.0.0	1	obs_decam_data	19.0.0
 19.0.0	1	geom	19.0.0
 19.0.0	1	testdata_decam	19.0.0
+19.0.0	2	utils	19.0.0
+19.0.0	2	daf_persistence	19.0.0
+19.0.0	2	obs_base	19.0.0
+19.0.0	2	afw	19.0.0
+19.0.0	2	meas_algorithms	19.0.0
+19.0.0	2	pipe_tasks	19.0.0+2
+19.0.0	2	pipe_base	19.0.0
+19.0.0	2	pex_exceptions	19.0.0
+19.0.0	2	pex_config	19.0.0
+19.0.0	2	ip_isr	19.0.0
+19.0.0	2	astro_metadata_translator	0.1.0-5-g1039c3c+8
+19.0.0	2	obs_decam_data	19.0.0
+19.0.0	2	geom	19.0.0
+19.0.0	2	testdata_decam	19.0.0
