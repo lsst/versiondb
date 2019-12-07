@@ -7267,3 +7267,13 @@ w.2016.15	0	sconsUtils	w.2016.15
 19.0.0	1	geom	19.0.0+1
 19.0.0	1	utils	19.0.0-2-g49ebcaf
 19.0.0	1	pex_exceptions	19.0.0+1
+19.0.0	2	meas_algorithms	19.0.0-2-g3d9e4fb2+1
+19.0.0	2	numpy	1.16.2
+19.0.0	2	pipe_base	19.0.0-1-g3dc8cbe+1
+19.0.0	2	scons	3.0.0.lsst1+5
+19.0.0	2	sconsUtils	19.0.0
+19.0.0	2	pybind11	2.2.4.lsst1+2
+19.0.0	2	afw	19.0.0-2-g1c703f9ef
+19.0.0	2	geom	19.0.0+1
+19.0.0	2	utils	19.0.0-2-g49ebcaf
+19.0.0	2	pex_exceptions	19.0.0+1
