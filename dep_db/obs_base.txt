@@ -5125,3 +5125,14 @@ u.danielsf.2.3.7.1.sims-gc6b39a0de3	1	utils	13.0-9-gf29e843+2
 19.0.0-8-g608b899	1	daf_butler	19.0.0-9-g74a011d
 19.0.0-8-g608b899	1	pipe_base	19.0.0-3-g3c38ad5
 19.0.0-8-g608b899	1	skymap	19.0.0+4
+19.0.0-8-g608b899	2	daf_base	19.0.0+2
+19.0.0-8-g608b899	2	log	19.0.0+2
+19.0.0-8-g608b899	2	daf_persistence	19.0.0-1-g6fe20d0+1
+19.0.0-8-g608b899	2	afw	19.0.0-2-g1c703f9ef+1
+19.0.0-8-g608b899	2	astropy	3.1.2.lsst2
+19.0.0-8-g608b899	2	utils	19.0.0-3-g2d13df8
+19.0.0-8-g608b899	2	astro_metadata_translator	0.1.0-6-gaf58843
+19.0.0-8-g608b899	2	geom	19.0.0+2
+19.0.0-8-g608b899	2	daf_butler	19.0.0-9-g74a011d+1
+19.0.0-8-g608b899	2	pipe_base	19.0.0-4-g80b229a
+19.0.0-8-g608b899	2	skymap	19.0.0+5
