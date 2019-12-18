@@ -1629,3 +1629,9 @@ master-g60afb23e41	1	log	14.0-2-ga5af9b6+18
 19.0.0-2-gdbc0a5a	4	ip_isr	19.0.0-1-gf46fa72+3
 19.0.0-2-gdbc0a5a	4	afw	19.0.0-3-g87c0a3903+1
 19.0.0-2-gdbc0a5a	4	meas_algorithms	19.0.0-2-g3d9e4fb2+7
+19.0.0-2-gdbc0a5a	5	pex_config	19.0.0+2
+19.0.0-2-gdbc0a5a	5	pipe_base	19.0.0-5-gfe96e6c
+19.0.0-2-gdbc0a5a	5	log	19.0.0+2
+19.0.0-2-gdbc0a5a	5	ip_isr	19.0.0-2-ga3d1195
+19.0.0-2-gdbc0a5a	5	afw	19.0.0-3-g87c0a3903+1
+19.0.0-2-gdbc0a5a	5	meas_algorithms	19.0.0-2-g3d9e4fb2+7
