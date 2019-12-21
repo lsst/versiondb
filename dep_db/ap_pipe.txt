@@ -1632,3 +1632,9 @@ master-g92b5316c43	6	ap_association	master-g2cd068832a+7
 19.0.0-3-gf17a6c2	4	pipe_tasks	19.0.0-7-gf796fef9+11
 19.0.0-3-gf17a6c2	4	ap_association	19.0.0-7-g0448a4c+3
 19.0.0-3-gf17a6c2	4	ap_pipe_testdata	18.0.0+100
+19.0.0-4-gd936764	0	utils	19.0.0-3-g2d13df8
+19.0.0-4-gd936764	0	pex_config	19.0.0+2
+19.0.0-4-gd936764	0	pipe_base	19.0.0-5-gfe96e6c+1
+19.0.0-4-gd936764	0	pipe_tasks	19.0.0-7-gf796fef9+11
+19.0.0-4-gd936764	0	ap_association	19.0.0-8-gedb17df
+19.0.0-4-gd936764	0	ap_pipe_testdata	18.0.0+100
