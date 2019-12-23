@@ -15189,3 +15189,12 @@ u.danielsf.2.3.7.1.sims-g80c536f580	0	log	13.0-7-g73c05b9+1
 19.0.0	12	log	19.0.0+2
 19.0.0	12	astropy	3.1.2.lsst2
 19.0.0	12	geom	19.0.0-1-ge3aa853
+19.0.0	13	obs_base	19.0.0+1
+19.0.0	13	afw	19.0.0+1
+19.0.0	13	meas_algorithms	tickets.DM-22703-ga158cbef15
+19.0.0	13	meas_astrom	19.0.0+10
+19.0.0	13	pipe_tasks	19.0.0+3
+19.0.0	13	utils	19.0.0
+19.0.0	13	log	19.0.0
+19.0.0	13	astropy	3.1.2.lsst2
+19.0.0	13	geom	19.0.0

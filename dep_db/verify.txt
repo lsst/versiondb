@@ -4291,3 +4291,14 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 19.0.0-9-g80cafe3	1	pipe_base	19.0.0-5-gfe96e6c+1
 19.0.0-9-g80cafe3	1	dax_apdb	19.0.0-1-ge272bc4+5
 19.0.0-9-g80cafe3	1	verify_metrics	19.0.0-1-g8efd64f
+19.0.0	3	astropy	3.1.2.lsst2
+19.0.0	3	pyyaml	5.1+2
+19.0.0	3	requests	2.9.1.lsst1+6
+19.0.0	3	numpy	1.16.2
+19.0.0	3	sconsUtils	19.0.0
+19.0.0	3	utils	19.0.0
+19.0.0	3	log	19.0.0
+19.0.0	3	pex_config	19.0.0
+19.0.0	3	pipe_base	19.0.0+1
+19.0.0	3	dax_ppdb	19.0.0+1
+19.0.0	3	verify_metrics	19.0.0

@@ -9973,3 +9973,17 @@ master-g9cfb98effe	19	testdata_decam	master-gfea4835579
 19.0.0-4-g725f80e	5	obs_decam_data	19.0.0
 19.0.0-4-g725f80e	5	geom	19.0.0-1-ge3aa853
 19.0.0-4-g725f80e	5	testdata_decam	19.0.0
+19.0.0	3	utils	19.0.0
+19.0.0	3	daf_persistence	19.0.0+1
+19.0.0	3	obs_base	19.0.0+1
+19.0.0	3	afw	19.0.0+1
+19.0.0	3	meas_algorithms	tickets.DM-22703-ga158cbef15
+19.0.0	3	pipe_tasks	19.0.0+3
+19.0.0	3	pipe_base	19.0.0+1
+19.0.0	3	pex_exceptions	19.0.0
+19.0.0	3	pex_config	19.0.0
+19.0.0	3	ip_isr	19.0.0+5
+19.0.0	3	astro_metadata_translator	0.1.0-6-gaf58843+1
+19.0.0	3	obs_decam_data	19.0.0
+19.0.0	3	geom	19.0.0
+19.0.0	3	testdata_decam	19.0.0
