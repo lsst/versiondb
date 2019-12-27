@@ -6174,3 +6174,12 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 19.0.0	3	pipe_tasks	19.0.0+3
 19.0.0	3	astro_metadata_translator	0.1.0-6-gaf58843+1
 19.0.0	3	geom	19.0.0
+19.0.0-2-gd955cfd	10	ctrl_pool	19.0.0-1-g7011481+8
+19.0.0-2-gd955cfd	10	afw	19.0.0-4-ga671dab3b
+19.0.0-2-gd955cfd	10	pex_exceptions	19.0.0+1
+19.0.0-2-gd955cfd	10	sphgeom	19.0.0-1-g5549ca4
+19.0.0-2-gd955cfd	10	pex_config	19.0.0+2
+19.0.0-2-gd955cfd	10	pipe_base	19.0.0-5-gfe96e6c+1
+19.0.0-2-gd955cfd	10	pipe_tasks	19.0.0-8-gdc1c05fd
+19.0.0-2-gd955cfd	10	astro_metadata_translator	0.1.0-6-gaf58843
+19.0.0-2-gd955cfd	10	geom	19.0.0-1-ge3aa853
