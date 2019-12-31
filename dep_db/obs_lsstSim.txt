@@ -19076,3 +19076,13 @@ u.danielsf.2.3.7.1.sims-g29533ececd	1	utils	13.0-9-gf29e843+2
 19.0.0-1-ga8543ac	14	pybind11	2.2.4.lsst1+2
 19.0.0-1-ga8543ac	14	utils	19.0.0-3-g2d13df8
 19.0.0-1-ga8543ac	14	astropy	3.1.2.lsst2
+19.0.0-1-ga8543ac	15	daf_base	19.0.0+2
+19.0.0-1-ga8543ac	15	afw	19.0.0-4-ga671dab3b
+19.0.0-1-ga8543ac	15	daf_persistence	19.0.0-1-g6fe20d0+1
+19.0.0-1-ga8543ac	15	obs_base	19.0.0-10-gea245dd
+19.0.0-1-ga8543ac	15	meas_algorithms	19.0.0-2-g3d9e4fb2+9
+19.0.0-1-ga8543ac	15	ip_isr	19.0.0-4-g87f98d0+1
+19.0.0-1-ga8543ac	15	pipe_tasks	19.0.0-9-gb6f011c2
+19.0.0-1-ga8543ac	15	pybind11	2.2.4.lsst1+2
+19.0.0-1-ga8543ac	15	utils	19.0.0-3-g2d13df8
+19.0.0-1-ga8543ac	15	astropy	3.1.2.lsst2
