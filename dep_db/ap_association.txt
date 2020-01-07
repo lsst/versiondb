@@ -2247,3 +2247,11 @@ master-g2cd068832a	7	python_future	0.16.0+3
 19.0.0-9-g9dd679e	0	verify	19.0.0-9-g80cafe3+1
 19.0.0-9-g9dd679e	0	numpy	1.16.2
 19.0.0-9-g9dd679e	0	scipy	1.2.1
+19.0.0-9-g9dd679e	1	afw	19.0.0-4-ga671dab3b
+19.0.0-9-g9dd679e	1	meas_algorithms	19.0.0-2-g3d9e4fb2+10
+19.0.0-9-g9dd679e	1	pex_config	19.0.0+2
+19.0.0-9-g9dd679e	1	pipe_base	19.0.0-5-gfe96e6c+1
+19.0.0-9-g9dd679e	1	dax_apdb	19.0.0-1-ge272bc4+5
+19.0.0-9-g9dd679e	1	verify	19.0.0-9-g80cafe3+1
+19.0.0-9-g9dd679e	1	numpy	1.16.2
+19.0.0-9-g9dd679e	1	scipy	1.2.1
