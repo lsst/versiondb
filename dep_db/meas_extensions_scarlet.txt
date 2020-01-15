@@ -966,3 +966,14 @@ master-g8af5fe2447	1	testdata_deblender	16.0
 19.0.0-2-g62b7f63	13	meas_algorithms	19.0.0-2-g3d9e4fb2+12
 19.0.0-2-g62b7f63	13	matplotlib	3.0.3
 19.0.0-2-g62b7f63	13	testdata_deblender	16.0
+19.0.0-2-g62b7f63	14	base	19.0.0-1-g425ff20
+19.0.0-2-g62b7f63	14	afw	19.0.0-5-gb9a06e236
+19.0.0-2-g62b7f63	14	log	19.0.0+2
+19.0.0-2-g62b7f63	14	numpy	1.16.2
+19.0.0-2-g62b7f63	14	scarlet	lsst-dev-g169b417050
+19.0.0-2-g62b7f63	14	log	19.0.0+2
+19.0.0-2-g62b7f63	14	pex_config	19.0.0-2-g5037de4
+19.0.0-2-g62b7f63	14	pipe_base	19.0.0-5-gfe96e6c+4
+19.0.0-2-g62b7f63	14	meas_algorithms	19.0.0-2-g3d9e4fb2+13
+19.0.0-2-g62b7f63	14	matplotlib	3.0.3
+19.0.0-2-g62b7f63	14	testdata_deblender	16.0
