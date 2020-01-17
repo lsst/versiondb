@@ -8640,3 +8640,9 @@ u.hfc.DM-5979-g7ce9f2eb71	1	obs_test	2016_01.0-3-gafa6dd0+14
 19.0.0-5-gfe96e6c	5	pex_config	19.0.0-2-g5037de4
 19.0.0-5-gfe96e6c	5	utils	19.0.0-3-g2d13df8
 19.0.0-5-gfe96e6c	5	afw	19.0.0-5-gb9a06e236
+19.0.0-5-gfe96e6c	6	daf_butler	19.0.0-15-ga6c9b551
+19.0.0-5-gfe96e6c	6	daf_persistence	19.0.0-1-g6fe20d0+2
+19.0.0-5-gfe96e6c	6	log	19.0.0+3
+19.0.0-5-gfe96e6c	6	pex_config	19.0.0-2-g5037de4+1
+19.0.0-5-gfe96e6c	6	utils	19.0.0-4-ga8eba22
+19.0.0-5-gfe96e6c	6	afw	19.0.0-5-gb9a06e236+1
