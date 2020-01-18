@@ -7467,3 +7467,13 @@ w.2016.15	0	sconsUtils	w.2016.15
 19.0.0-7-gea0a0fe	4	geom	19.0.0-1-ge3aa853+1
 19.0.0-7-gea0a0fe	4	utils	19.0.0-4-ga8eba22
 19.0.0-7-gea0a0fe	4	pex_exceptions	19.0.0+1
+19.0.0-7-gea0a0fe	5	meas_algorithms	19.0.0-4-g75300c1e
+19.0.0-7-gea0a0fe	5	numpy	1.16.2
+19.0.0-7-gea0a0fe	5	pipe_base	19.0.0-6-gb6b8b0a
+19.0.0-7-gea0a0fe	5	scons	3.0.0.lsst1+5
+19.0.0-7-gea0a0fe	5	sconsUtils	19.0.0
+19.0.0-7-gea0a0fe	5	pybind11	2.2.4.lsst1+2
+19.0.0-7-gea0a0fe	5	afw	19.0.0-6-g6637c4fb6
+19.0.0-7-gea0a0fe	5	geom	19.0.0-1-ge3aa853+1
+19.0.0-7-gea0a0fe	5	utils	19.0.0-4-ga8eba22
+19.0.0-7-gea0a0fe	5	pex_exceptions	19.0.0+1
