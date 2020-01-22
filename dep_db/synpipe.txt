@@ -3040,3 +3040,9 @@ master-g7080d5729b	9	pipe_tasks	14.0-57-ga659d1f3+2
 19.0.0-1-gbfe0924	0	afw	19.0.0-6-g6637c4fb6
 19.0.0-1-gbfe0924	0	pipe_base	19.0.0-6-gb6b8b0a
 19.0.0-1-gbfe0924	0	pipe_tasks	19.0.0-14-gbb28fe44
+19.0.0-1-gbfe0924	1	astropy	3.1.2.lsst2
+19.0.0-1-gbfe0924	1	daf_persistence	19.0.0-1-g6fe20d0+2
+19.0.0-1-gbfe0924	1	pex_config	19.0.0-3-gc4f6e04
+19.0.0-1-gbfe0924	1	afw	19.0.0-7-ge358e0fc4
+19.0.0-1-gbfe0924	1	pipe_base	19.0.0-6-gb6b8b0a+1
+19.0.0-1-gbfe0924	1	pipe_tasks	19.0.0-14-gbb28fe44+1
