@@ -1256,3 +1256,7 @@ u.bvan.boost_no_dyn_link-g6a1b5ba0c3	0	python	3.7
 19.0.0	5	utils	19.0.0-7-g686a884
 19.0.0	5	pybind11	2.2.4.lsst1+2
 19.0.0	5	python	3.7
+19.0.0	6	daf_base	19.0.0-1-g49a97f9
+19.0.0	6	utils	19.0.0-7-g686a884+1
+19.0.0	6	pybind11	2.2.4.lsst1+2
+19.0.0	6	python	3.7
