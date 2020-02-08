@@ -6408,3 +6408,12 @@ master-g5cd3f853bf	4	pipe_tasks	2016_01.0-48-g7bf2411
 19.0.0-3-gce3f959	0	pipe_tasks	19.0.0-23-g5d8da22d
 19.0.0-3-gce3f959	0	astro_metadata_translator	0.1.0-10-gb976306
 19.0.0-3-gce3f959	0	geom	19.0.0-2-gde8e5e3
+19.0.0-3-gce3f959	1	ctrl_pool	19.0.0-2-g260436e+14
+19.0.0-3-gce3f959	1	afw	19.0.0-12-g03a29998f+1
+19.0.0-3-gce3f959	1	pex_exceptions	19.0.0+2
+19.0.0-3-gce3f959	1	sphgeom	19.0.0-1-g5549ca4+1
+19.0.0-3-gce3f959	1	pex_config	19.0.0-4-g98b4a13
+19.0.0-3-gce3f959	1	pipe_base	19.0.0-7-g2584c99+1
+19.0.0-3-gce3f959	1	pipe_tasks	19.0.0-23-g5d8da22d+1
+19.0.0-3-gce3f959	1	astro_metadata_translator	0.1.0-10-gb976306
+19.0.0-3-gce3f959	1	geom	19.0.0-2-gde8e5e3
