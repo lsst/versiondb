@@ -3356,3 +3356,15 @@ master-ga34209cb66	1	astro_metadata_translator	master-ge4a94b1f35
 19.0.0-22-g1f34043	0	astro_metadata_translator	0.1.0-10-gb976306
 19.0.0-22-g1f34043	0	obs_lsst_data	19.0.0-1-gac8c27c
 19.0.0-22-g1f34043	0	daf_butler	19.0.0-24-ga17dedf2+1
+19.0.0-22-g1f34043	1	afw	19.0.0-12-g03a29998f+1
+19.0.0-22-g1f34043	1	daf_base	19.0.0-1-g49a97f9
+19.0.0-22-g1f34043	1	obs_base	19.0.0-20-g6de566f+6
+19.0.0-22-g1f34043	1	pex_config	19.0.0-4-g98b4a13
+19.0.0-22-g1f34043	1	astropy	3.1.2.lsst2
+19.0.0-22-g1f34043	1	numpy	1.16.2
+19.0.0-22-g1f34043	1	utils	19.0.0-7-g686a884+1
+19.0.0-22-g1f34043	1	ip_isr	19.0.0-9-g8509940+5
+19.0.0-22-g1f34043	1	pipe_tasks	19.0.0-24-g74640d5c
+19.0.0-22-g1f34043	1	astro_metadata_translator	0.1.0-10-gb976306
+19.0.0-22-g1f34043	1	obs_lsst_data	19.0.0-1-gac8c27c
+19.0.0-22-g1f34043	1	daf_butler	19.0.0-24-ga17dedf2+1
