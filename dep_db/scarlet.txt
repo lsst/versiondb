@@ -84,3 +84,9 @@ lsst-dev-g5b72d4495c	0	numpy	1.16.2
 lsst-dev-g5b72d4495c	0	eigen	3.3.7
 lsst-dev-g5b72d4495c	0	proxmin	lsst-dev-gefd6ccc7f7
 lsst-dev-g5b72d4495c	0	autograd	1.1.54170B
+lsst-dev-g5b72d4495c	1	pybind11	2.2.4.lsst2
+lsst-dev-g5b72d4495c	1	scipy	1.2.1
+lsst-dev-g5b72d4495c	1	numpy	1.16.2
+lsst-dev-g5b72d4495c	1	eigen	3.3.7.lsst2
+lsst-dev-g5b72d4495c	1	proxmin	lsst-dev-gefd6ccc7f7
+lsst-dev-g5b72d4495c	1	autograd	1.1.54170B

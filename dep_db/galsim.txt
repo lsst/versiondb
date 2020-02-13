@@ -438,3 +438,11 @@ tickets.DM-13213-g127efc72d3	0	astropy	2.0.1
 2.2.1.lsst	2	pybind11	2.2.4.lsst1+2
 2.2.1.lsst	2	eigen	3.3.7
 2.2.1.lsst	2	coord	1.1.lsst+2
+2.2.1.lsst	3	scons	3.0.0.lsst1+5
+2.2.1.lsst	3	numpy	1.16.2
+2.2.1.lsst	3	python_future	0.16.0+5
+2.2.1.lsst	3	fftw	3.3.4.lsst2
+2.2.1.lsst	3	astropy	3.1.2.lsst2
+2.2.1.lsst	3	pybind11	2.2.4.lsst2
+2.2.1.lsst	3	eigen	3.3.7.lsst2
+2.2.1.lsst	3	coord	1.1.lsst+2
