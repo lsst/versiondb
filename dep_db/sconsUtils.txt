@@ -791,3 +791,8 @@ w.2016.15	0	doxygen	1.8.5.lsst1
 19.0.0	0	pep8_naming	0.8.2+3
 19.0.0	0	pytest_session2file	0.1.9-1-gc58ee16
 19.0.0	0	doxygen	1.8.13.lsst3
+19.0.0	1	scons	3.0.0.lsst1+5
+19.0.0	1	pytest_flake8	1.0.4-1-g8dd8c06+1
+19.0.0	1	pep8_naming	0.8.2+4
+19.0.0	1	pytest_session2file	0.1.9-1-gc58ee16
+19.0.0	1	doxygen	1.8.13.lsst3
