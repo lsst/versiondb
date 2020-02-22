@@ -14159,3 +14159,16 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.13.0.sims-3-gec5618e	48	sims_survey_fields	2.6.0.sims+40
 2.13.0.sims-3-gec5618e	48	sims_featureScheduler	master-gc080e5df1c+4
 2.13.0.sims-3-gec5618e	48	obs_lsst	19.0.0-26-g77be09c
+2.13.0.sims-3-gec5618e	49	sims_maf	2.13.0.sims-24-gbe21ed04+3
+2.13.0.sims-3-gec5618e	49	sims_GalSimInterface	2.13.0.sims-12-g1d3da73+10
+2.13.0.sims-3-gec5618e	49	sims_catUtils	2.13.0.sims-6-g96b8827d+1
+2.13.0.sims-3-gec5618e	49	sims_catalogs	2.13.0.sims-5-g0316a32+9
+2.13.0.sims-3-gec5618e	49	sims_sed_library	2017.01.24
+2.13.0.sims-3-gec5618e	49	sims_maps	2017.05.08-4-gac432e6
+2.13.0.sims-3-gec5618e	49	sims_skybrightness	2.13.0.sims-2-g79b6a57+4
+2.13.0.sims-3-gec5618e	49	sims_skybrightness_pre	2.13.0.sims-8-gcc59254+13
+2.13.0.sims-3-gec5618e	49	sncosmo	1.3.0.lsst2+4
+2.13.0.sims-3-gec5618e	49	ephem	3.7.6.0+4
+2.13.0.sims-3-gec5618e	49	sims_survey_fields	2.6.0.sims+41
+2.13.0.sims-3-gec5618e	49	sims_featureScheduler	master-gc080e5df1c+5
+2.13.0.sims-3-gec5618e	49	obs_lsst	19.0.0-29-g2df1a92
