@@ -4588,3 +4588,14 @@ master-gdec7a2c927	6	verify_metrics	master-gefb3fcf52b+14
 19.0.0-10-g8226a54	25	pipe_base	19.0.0-9-g0ae078d+3
 19.0.0-10-g8226a54	25	dax_apdb	19.0.0-1-ge272bc4+20
 19.0.0-10-g8226a54	25	verify_metrics	19.0.0-1-g8efd64f+1
+19.0.0-10-g8226a54	26	astropy	3.1.2.lsst2
+19.0.0-10-g8226a54	26	pyyaml	5.1+2
+19.0.0-10-g8226a54	26	numpy	1.16.2
+19.0.0-10-g8226a54	26	sconsUtils	19.0.0+1
+19.0.0-10-g8226a54	26	utils	19.0.0-7-g686a884+3
+19.0.0-10-g8226a54	26	log	19.0.0+8
+19.0.0-10-g8226a54	26	pex_config	19.0.0-5-g9aa49c1+1
+19.0.0-10-g8226a54	26	daf_butler	19.0.0-28-g4ef4177
+19.0.0-10-g8226a54	26	pipe_base	19.0.0-9-g0ae078d+4
+19.0.0-10-g8226a54	26	dax_apdb	19.0.0-1-ge272bc4+20
+19.0.0-10-g8226a54	26	verify_metrics	19.0.0-1-g8efd64f+1
