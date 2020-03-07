@@ -2756,3 +2756,9 @@ u.danielsf.2.3.7.1.sims-g674f0d60ff	1	python	0.0.6
 19.0.0-2-gf01c5b1	0	pyyaml	5.1+2
 19.0.0-2-gf01c5b1	0	pybind11	2.2.4.lsst2
 19.0.0-2-gf01c5b1	0	python	3.7
+19.0.0-2-gf01c5b1	1	log	19.0.0+9
+19.0.0-2-gf01c5b1	1	pex_policy	19.0.0+9
+19.0.0-2-gf01c5b1	1	astropy	3.1.2.lsst2
+19.0.0-2-gf01c5b1	1	pyyaml	5.1+2
+19.0.0-2-gf01c5b1	1	pybind11	2.2.4.lsst2
+19.0.0-2-gf01c5b1	1	python	3.7
