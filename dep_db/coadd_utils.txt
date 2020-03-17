@@ -10572,3 +10572,13 @@ w.2016.15	0	afwdata	w.2016.15
 19.0.0-1-gefe1d0d	22	sconsUtils	19.0.0-1-g80d1608
 19.0.0-1-gefe1d0d	22	utils	19.0.0-7-g686a884+4
 19.0.0-1-gefe1d0d	22	afwdata	19.0.0-1-gd1c39c2
+19.0.0-1-gefe1d0d	23	afw	19.0.0-13-g154200d1e+2
+19.0.0-1-gefe1d0d	23	log	19.0.0+9
+19.0.0-1-gefe1d0d	23	pybind11	2.2.4.lsst2
+19.0.0-1-gefe1d0d	23	numpy	1.16.2
+19.0.0-1-gefe1d0d	23	pex_config	19.0.0-5-g9aa49c1+2
+19.0.0-1-gefe1d0d	23	pipe_base	19.0.0-13-gafd90fe
+19.0.0-1-gefe1d0d	23	scons	3.0.0.lsst1+5
+19.0.0-1-gefe1d0d	23	sconsUtils	19.0.0-1-g80d1608
+19.0.0-1-gefe1d0d	23	utils	19.0.0-7-g686a884+4
+19.0.0-1-gefe1d0d	23	afwdata	19.0.0-1-gd1c39c2
