@@ -2245,3 +2245,5 @@ tickets.DM-5979-g76d91cf90e	0	python_psutil	4.1.0
 19.0.0-7-g686a884	4	pybind11	2.2.4.lsst2
 19.0.0-7-g686a884	4	python	3.7
 19.0.0-7-g686a884	4	python_psutil	5.4.3+4
+tickets.DM-23835-gcc4927c4f1	0	base	tickets.DM-23835-g79916f63b5
+tickets.DM-23835-gcc4927c4f1	0	pex_exceptions	tickets.DM-23835-g9970d2ee91

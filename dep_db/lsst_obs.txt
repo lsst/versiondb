@@ -8660,3 +8660,14 @@ master-g489e6e60e2	41	testdata_decam	12.1-3-gfbd6eff
 19.0.0	72	testdata_cfht	14.0
 19.0.0	72	testdata_subaru	19.0.0
 19.0.0	72	testdata_decam	19.0.0-2-g9a3ee7c
+19.0.0	73	obs_cfht	tickets.DM-23835-g0a4b3dabc0
+19.0.0	73	obs_ctio0m9	tickets.DM-23835-gd2e4f7b082
+19.0.0	73	obs_decam	tickets.DM-23835-g99cd2d52ca
+19.0.0	73	obs_lsst	tickets.DM-23835-gc33c0dd0c3
+19.0.0	73	obs_lsstSim	tickets.DM-23835-g6bef42d3c4
+19.0.0	73	obs_subaru	tickets.DM-23835-g45b371edf0
+19.0.0	73	obs_test	tickets.DM-23835-ga5e717932e
+19.0.0	73	obs_sdss	tickets.DM-23835-gdbbb071be2
+19.0.0	73	testdata_cfht	14.0
+19.0.0	73	testdata_subaru	19.0.0
+19.0.0	73	testdata_decam	tickets.DM-23835-gceb8033df3

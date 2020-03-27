@@ -3913,3 +3913,13 @@ master-gf24e082aab	17	obs_test	16.0-13-g8f68b0a+9
 19.0.0-6-gf386f01	54	obs_test	19.0.0-2-g0d9f9cd+51
 19.0.0-6-gf386f01	54	ip_diffim	19.0.0-12-g7faf153+4
 19.0.0-6-gf386f01	54	ap_association	19.0.0-14-g7adedf7+12
+tickets.DM-23835-g021c9f87c0	0	utils	tickets.DM-23835-gcc4927c4f1
+tickets.DM-23835-g021c9f87c0	0	afw	tickets.DM-23835-g31c64b24f1
+tickets.DM-23835-g021c9f87c0	0	daf_persistence	tickets.DM-23835-g9ab1aedb5f
+tickets.DM-23835-g021c9f87c0	0	pipe_tasks	tickets.DM-23835-g425218d84a
+tickets.DM-23835-g021c9f87c0	0	verify	tickets.DM-23835-g999f169a4c
+tickets.DM-23835-g021c9f87c0	0	ap_pipe	tickets.DM-23835-g8dfed85431
+tickets.DM-23835-g021c9f87c0	0	ap_verify_testdata	19.0.0+54
+tickets.DM-23835-g021c9f87c0	0	obs_test	tickets.DM-23835-ga5e717932e
+tickets.DM-23835-g021c9f87c0	0	ip_diffim	tickets.DM-23835-gc122a6f8d5
+tickets.DM-23835-g021c9f87c0	0	ap_association	tickets.DM-23835-gc7c5b82721

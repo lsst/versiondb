@@ -1986,3 +1986,9 @@ master-g92b5316c43	6	ap_association	master-g2cd068832a+7
 19.0.0-6-g8dfed85	25	pipe_tasks	19.0.0-37-gc7474b80
 19.0.0-6-g8dfed85	25	ap_association	19.0.0-14-g7adedf7+12
 19.0.0-6-g8dfed85	25	ap_pipe_testdata	19.0.0-1-g90fac64
+tickets.DM-23835-g8dfed85431	0	utils	tickets.DM-23835-gcc4927c4f1
+tickets.DM-23835-g8dfed85431	0	pex_config	tickets.DM-23835-geaed86bee5
+tickets.DM-23835-g8dfed85431	0	pipe_base	tickets.DM-23835-g42cd5aae5d
+tickets.DM-23835-g8dfed85431	0	pipe_tasks	tickets.DM-23835-g425218d84a
+tickets.DM-23835-g8dfed85431	0	ap_association	tickets.DM-23835-gc7c5b82721
+tickets.DM-23835-g8dfed85431	0	ap_pipe_testdata	18.0.0+155

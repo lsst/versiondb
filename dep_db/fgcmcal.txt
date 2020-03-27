@@ -5549,3 +5549,12 @@ master-g434ef062eb	16	testdata_jointcal	16.0-2-g06639e6+6
 19.0.0-16-g2c93450	10	fgcm	lsst-dev-g78fc56007b
 19.0.0-16-g2c93450	10	jointcal	19.0.0-3-g6513920+43
 19.0.0-16-g2c93450	10	testdata_jointcal	19.0.0-1-g6096a76+53
+tickets.DM-23835-gf192986d5f	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
+tickets.DM-23835-gf192986d5f	0	afw	tickets.DM-23835-g31c64b24f1
+tickets.DM-23835-gf192986d5f	0	daf_persistence	tickets.DM-23835-g9ab1aedb5f
+tickets.DM-23835-gf192986d5f	0	obs_base	tickets.DM-23835-g2f59a1585e
+tickets.DM-23835-gf192986d5f	0	pex_config	tickets.DM-23835-geaed86bee5
+tickets.DM-23835-gf192986d5f	0	pipe_tasks	tickets.DM-23835-g425218d84a
+tickets.DM-23835-gf192986d5f	0	fgcm	tickets.DM-23835-geb24413433
+tickets.DM-23835-gf192986d5f	0	jointcal	tickets.DM-23835-gb462ae569f
+tickets.DM-23835-gf192986d5f	0	testdata_jointcal	tickets.DM-23835-g6096a76cb0

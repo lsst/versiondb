@@ -3286,3 +3286,8 @@ master-g7080d5729b	9	pipe_tasks	14.0-57-ga659d1f3+2
 19.0.0-1-gbfe0924	41	afw	19.0.0-14-g706b86db4
 19.0.0-1-gbfe0924	41	pipe_base	19.0.0-15-g557baf8
 19.0.0-1-gbfe0924	41	pipe_tasks	19.0.0-37-gc7474b80
+tickets.DM-23835-gb182ee1d63	0	daf_persistence	tickets.DM-23835-g9ab1aedb5f
+tickets.DM-23835-gb182ee1d63	0	pex_config	tickets.DM-23835-geaed86bee5
+tickets.DM-23835-gb182ee1d63	0	afw	tickets.DM-23835-g31c64b24f1
+tickets.DM-23835-gb182ee1d63	0	pipe_base	tickets.DM-23835-g42cd5aae5d
+tickets.DM-23835-gb182ee1d63	0	pipe_tasks	tickets.DM-23835-g425218d84a

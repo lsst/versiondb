@@ -1,0 +1,87 @@
+# product                 SHA1                                      Version                       
+BUILD=b4787
+fgcm                      eb24413433721e758ffc5b1d40d2ea00e837dd26  tickets.DM-23835-geb24413433             
+firefly_client            2f7191361c95bf70c3c206c0a249e7b5c0d47077  tickets.DM-23835-g2f7191361c             
+testdata_subaru           095be34edd615fa0c9837435b2cbb58cd5080f14  19.0.0                                   
+obs_decam_data            608677b38e11754a76534dda2db05f5f7911ef80  19.0.0                                   
+proxmin                   9ef6562b68df5f7a32e27fc65bfdcc9a670c5547  tickets.DM-23835-g9ef6562b68             
+testdata_cfht             2bee09ef6fe206c85ef4c504c2f14afeef4acdd0  14.0                                     
+eigen                     fd995628f7aa5534ef73c13f6d9660d0cbe3e416  3.3.7.lsst2                              
+testdata_decam            ceb8033df3cfb72258b34257bac1b2649f7282dc  tickets.DM-23835-gceb8033df3             
+obs_test_data             b4dcb135d7fe475262c0b982b6f574d74ef90754  19.0.0                                   
+obs_lsst_data             ac8c27c4c23e16d1810f0071737ba296776fa35f  tickets.DM-23835-gac8c27c4c2             
+sconsUtils                bdbbd40d45b88a7fb074dc76be63cbfdb9db2453  tickets.DM-23835-gbdbbd40d45             
+testdata_deblender        8af30cc6eeffc3554cc7b3aee2e66f46f21279de  tickets.DM-23835-g8af30cc6ee             
+obs_subaru_data           81f4c9d68cf177131792b9b3154afa53b545b045  tickets.DM-23835-g81f4c9d68c             
+afwdata                   e3096bf6d57a7154f22a38a09eba35aa91b54a6e  17.0+11                                  sconsUtils
+verify_metrics            8efd64f9af59e8e6342bbf0c28d59adfcf5d20f1  19.0.0-1-g8efd64f+3                      sconsUtils
+scarlet                   505857978430f0ef058a2d8786c174d993581d92  tickets.DM-23835-g5058579784             proxmin
+jointcal_cholmod          6983b14497c1091da20920a86c9dc2b4146b0178  tickets.DM-23835-g6983b14497             sconsUtils
+base                      79916f63b5c92d2df3d8a0c76ee57bcb9fe00b4a  tickets.DM-23835-g79916f63b5             sconsUtils
+psfex                     26b66986980ca9dd7205929393573124d533b0ac  tickets.DM-23835-g26b6698698             sconsUtils
+astshim                   6b7c2f671fa580af0642cadf2843ff620009bd08  tickets.DM-23835-g6b7c2f671f             sconsUtils
+pex_exceptions            9970d2ee910ded7435bb7ee3f238cd7052fe81ba  tickets.DM-23835-g9970d2ee91             base
+sphgeom                   c343bd300a44c1ccdf2e553225a42d100419ff96  tickets.DM-23835-gc343bd300a             base,sconsUtils
+utils                     cc4927c4f11aaa6e4c787a46749df1527aabc95e  tickets.DM-23835-gcc4927c4f1             base,pex_exceptions
+log                       a043d0ed6099c290f9db46cebc527c44836e1a7e  tickets.DM-23835-ga043d0ed60             base,sconsUtils,utils
+geom                      1b0a77db9fb65d029cb05b449ee4f0e9ad0a8ace  tickets.DM-23835-g1b0a77db9f             sconsUtils,sphgeom,pex_exceptions,utils
+daf_base                  c4ebd1af5c8109588ecd71228458036329f3ab7c  tickets.DM-23835-gc4ebd1af5c             utils,pex_exceptions
+astro_metadata_translator 592071df3b58ddc531f0ac2f8084072c7b771289  tickets.DM-23835-g592071df3b             sconsUtils,daf_base
+pex_policy                cf878a0e591500af7d2b84c729342f9cc938a8c7  tickets.DM-23835-gcf878a0e59             daf_base,utils
+pex_config                eaed86bee54a3792cdb954e4d3174db55259c849  tickets.DM-23835-geaed86bee5             daf_base,pex_policy
+daf_persistence           9ab1aedb5fecc4a92175895038102f04472f05dc  tickets.DM-23835-g9ab1aedb5f             log,pex_policy
+afw                       31c64b24f13e12ae62149a066696ea5e859cd7c3  tickets.DM-23835-g31c64b24f1             daf_base,daf_persistence,pex_config,geom,log,sphgeom,utils,astshim,afwdata
+display_ds9               3963cd5c2c68d16e4505d2c04b1531afd4d13aef  tickets.DM-23835-g3963cd5c2c             afw
+ctrl_orca                 36382b0fdec280e89d3ae8aa1e7c3f4941d831a3  tickets.DM-23835-g36382b0fde             utils,pex_config,daf_persistence,log
+shapelet                  1eb20aa80b093a94009e16f22400e70db7b10b02  tickets.DM-23835-g1eb20aa80b             afw,sconsUtils,geom
+display_firefly           8c57eb963c0c17ac75b2466a93c44ca8b330b821  tickets.DM-23835-g8c57eb963c             afw,geom,log,firefly_client
+dax_apdb                  2c6020387dd97281ec1cf6c431612226db5c82d0  tickets.DM-23835-g2c6020387d             afw,pex_config,sconsUtils,sphgeom,utils
+display_matplotlib        8cb2f1c20f567a18ab4a13c9a63b279f02ae1bbb  tickets.DM-23835-g8cb2f1c20f             afw
+ctrl_execute              7fa7663e7155b3eff9f506bb5735a8204170633b  tickets.DM-23835-g7fa7663e71             ctrl_orca,pex_config,utils
+cbp                       f6afde4f5a672e938b224b4dc8a44f67c3de4b3c  tickets.DM-23835-gf6afde4f5a             geom,sphgeom,afw
+daf_butler                7094ce33910109885637dfc654049c82b352ed1a  tickets.DM-23835-g7094ce3391             sphgeom,sconsUtils,utils,astro_metadata_translator,geom,afw
+ctrl_platform_lsstvc      1b224f6350ad8892996b600c078569d9a6a49750  18.0.0+42                                ctrl_execute
+pipe_base                 42cd5aae5d7676f69a243b450f5d8f6d5d379e3d  tickets.DM-23835-g42cd5aae5d             daf_butler,daf_persistence,log,pex_config,utils,afw
+skymap                    41aa061e6a5929869af2d3f0dde5b9f93584887f  tickets.DM-23835-g41aa061e6a             sphgeom,geom,afw,daf_butler
+ctrl_mpexec               3f344182b2f4372a50fcca55941a4cd9f2a6845d  tickets.DM-23835-g3f344182b2             daf_butler,log,pex_config,pipe_base
+ctrl_pool                 3a731fc9b4e5ab00a6e468d8248eb860a3a94349  tickets.DM-23835-g3a731fc9b4             daf_persistence,pipe_base,log,utils
+verify                    999f169a4c840fdb4abf0346a0550632d7705533  tickets.DM-23835-g999f169a4c             sconsUtils,utils,log,pex_config,daf_butler,pipe_base,dax_apdb,verify_metrics
+obs_base                  2f59a1585efd8b4c97208ea1648132ec42c04ba8  tickets.DM-23835-g2f59a1585e             daf_base,pipe_base,log,daf_persistence,afw,utils,astro_metadata_translator,geom,daf_butler,skymap
+coadd_utils               4034c044748312d346dd13d04db1c143ce0fa716  tickets.DM-23835-g4034c04474             afw,log,pex_config,pipe_base,sconsUtils,utils,afwdata
+obs_test                  a5e717932ec8bdd502526c1fe09043ec6980a83f  tickets.DM-23835-ga5e717932e             afw,daf_base,obs_base,pex_config,utils,obs_test_data,pipe_base
+meas_base                 914efbff1e045e287ed34f2f3d3b96b53fff1946  tickets.DM-23835-g914efbff1e             utils,geom,afw,coadd_utils,daf_base,sphgeom,pex_config,pipe_base,sconsUtils
+meas_extensions_simpleShape dee1d8262485a3412e5261d33ead620997de7762  tickets.DM-23835-gdee1d82624             sconsUtils,base,afw,meas_base,utils,pex_config,pex_exceptions,geom
+meas_algorithms           a6ed9de83237749174408f3be625b90d58e14203  tickets.DM-23835-ga6ed9de832             astshim,daf_base,daf_persistence,geom,afw,log,meas_base,obs_test,pex_config,pex_exceptions,pex_policy,pipe_base,sconsUtils,utils
+meas_extensions_shapeHSM  a878f8cdbecd46134674639f306d439784611b3c  tickets.DM-23835-ga878f8cdbe             meas_base,meas_algorithms,geom,afw,daf_base,pex_exceptions,sconsUtils,utils
+meas_extensions_photometryKron 8cd49221d957b2f72265c86998d54f848ea55136  tickets.DM-23835-g8cd49221d9             meas_base,meas_algorithms
+meas_modelfit             e415fe5f37147b7bace6f43c5f71941023ed0f42  tickets.DM-23835-ge415fe5f37             afw,meas_algorithms,meas_base,log,sconsUtils,shapelet,geom
+ap_association            c7c5b82721000e3dfcd299a1045f2883850c6716  tickets.DM-23835-gc7c5b82721             afw,meas_algorithms,pex_config,pipe_base,dax_apdb,verify
+meas_extensions_psfex     a4f73e9a4265d8370a0c337baab7476602af5edd  tickets.DM-23835-ga4f73e9a42             afw,daf_base,meas_algorithms,meas_base,psfex,sconsUtils,utils,geom
+meas_astrom               5ea3a5f9f2f87d2799167867de38c46ad488efd6  tickets.DM-23835-g5ea3a5f9f2             geom,sphgeom,afw,log,meas_algorithms,pex_config,pipe_base,utils
+meas_extensions_scarlet   eef1caaf5c36f454cddb24699115a6e93b98c4b4  tickets.DM-23835-geef1caaf5c             base,afw,log,scarlet,log,pex_config,pipe_base,meas_algorithms,testdata_deblender
+ip_isr                    1cd95b795105f5eb14942acab07aa8ba4652cb04  tickets.DM-23835-g1cd95b7951             meas_algorithms,pipe_base,sconsUtils,afw,geom,utils,pex_exceptions
+ap_verify_testdata        d950ce2a3f0a451bb03463301f99facacc51d79b  19.0.0+54                                obs_test
+meas_deblender            cde2890dbe2223099d73ec60f0c436b589943082  tickets.DM-23835-gcde2890dbe             afw,log,meas_algorithms,sconsUtils,utils,testdata_deblender
+obs_ctio0m9               d2e4f7b0829d2c7adde4877e00382e27a0595dfa  tickets.DM-23835-gd2e4f7b082             afw,daf_base,obs_base,pex_config,utils,ip_isr
+meas_extensions_convolved c364b07b0b44b9705252c57a42b8b0c7c9e477d9  19.0.0+55                                meas_algorithms,meas_extensions_photometryKron,afw,geom,meas_base,utils,daf_base
+cp_pipe                   079e42630d196365e17059b9d17e370cde574eac  tickets.DM-23835-g079e42630d             pex_config,pipe_base,log,ip_isr,afw,meas_algorithms
+ip_diffim                 c122a6f8d542e50d93d113826a7d2376971e6468  tickets.DM-23835-gc122a6f8d5             afw,daf_base,daf_persistence,log,meas_algorithms,meas_base,meas_deblender,pex_config,pex_policy,pipe_base,utils,verify,geom,afwdata
+pipe_tasks                425218d84af02d051d610134e1206dacd34b4745  tickets.DM-23835-g425218d84a             afw,daf_persistence,log,meas_base,pipe_base,pex_config,utils,obs_base,meas_algorithms,meas_extensions_scarlet,meas_astrom,meas_deblender,ip_isr,ip_diffim,coadd_utils,skymap,sphgeom,obs_test
+synpipe                   b182ee1d635b6d6a0310e622d41ace5961af7895  tickets.DM-23835-gb182ee1d63             daf_persistence,pex_config,afw,pipe_base,pipe_tasks
+pipe_drivers              ce3f959b9ab7df9eab0e5b67082194816776efd8  tickets.DM-23835-gce3f959b9a             ctrl_pool,afw,pex_exceptions,sphgeom,pex_config,pipe_base,pipe_tasks,astro_metadata_translator,geom
+obs_cfht                  0a4b3dabc054b8e5f3eb6186ef410dfa62809921  tickets.DM-23835-g0a4b3dabc0             daf_persistence,obs_base,meas_algorithms,meas_astrom,pipe_tasks,astro_metadata_translator,geom,testdata_cfht
+obs_sdss                  dbbb071be22505b662b8147e7a115509f9e95658  tickets.DM-23835-gdbbb071be2             obs_base,afw,meas_algorithms,meas_astrom,pipe_tasks,utils,log,geom
+obs_subaru                45b371edf0355e63af1680b88937676e86e7c337  tickets.DM-23835-g45b371edf0             daf_persistence,obs_base,pipe_tasks,meas_astrom,sconsUtils,astshim,astro_metadata_translator,obs_subaru_data,geom,daf_butler,meas_modelfit,meas_extensions_psfex,meas_extensions_shapeHSM,testdata_subaru
+obs_lsstSim               6bef42d3c40c27be4752685f5cea5fbac0194916  tickets.DM-23835-g6bef42d3c4             daf_base,afw,daf_persistence,obs_base,meas_algorithms,ip_isr,pipe_tasks,utils
+obs_decam                 99cd2d52cae521bf9567302bc226128ab4ad29cc  tickets.DM-23835-g99cd2d52ca             utils,daf_persistence,obs_base,afw,meas_algorithms,pipe_tasks,pipe_base,pex_exceptions,pex_config,ip_isr,astro_metadata_translator,obs_decam_data,geom,testdata_decam
+obs_lsst                  c33c0dd0c38f7ff97680823e84763f5599a40e2d  tickets.DM-23835-gc33c0dd0c3             afw,daf_base,obs_base,pex_config,utils,ip_isr,pipe_tasks,astro_metadata_translator,obs_lsst_data,daf_butler
+validate_drp              136baddafda4de58bd36cb469ecbe7a318489ee7  tickets.DM-23835-g136baddafd             utils,daf_persistence,afw,pipe_base,verify,pipe_tasks,pipe_drivers,obs_cfht,obs_decam,obs_subaru
+lsst_obs                  79a6842f88d4772e78b85d692f480a7ac44c17d5  19.0.0+73                                obs_cfht,obs_ctio0m9,obs_decam,obs_lsst,obs_lsstSim,obs_subaru,obs_test,obs_sdss,testdata_cfht,testdata_subaru,testdata_decam
+ap_pipe_testdata          20ca293bfb5baff4f44463fb2902b661b2be383e  18.0.0+155                               obs_decam
+testdata_jointcal         6096a76cb05a63b84311f634a9b9f1aa6f029137  tickets.DM-23835-g6096a76cb0             obs_lsstSim,obs_cfht,obs_decam,obs_subaru
+ap_pipe                   8dfed85431de3050141683b20c976046ad4fea5c  tickets.DM-23835-g8dfed85431             utils,pex_config,pipe_base,pipe_tasks,ap_association,ap_pipe_testdata
+jointcal                  b462ae569fa1c9ec40c0793931f9bc8eb5f80e63  tickets.DM-23835-gb462ae569f             sconsUtils,eigen,afw,daf_persistence,obs_base,pex_exceptions,pex_config,meas_algorithms,pipe_tasks,jointcal_cholmod,verify,verify_metrics,obs_cfht,testdata_jointcal
+lsst_apps                 e7f95acdbc98c351bcdf5ca22c7765c035c82bba  17.0+243                                 meas_deblender,meas_modelfit,pipe_tasks,ap_pipe,obs_lsstSim,obs_sdss,obs_test,meas_extensions_simpleShape,display_ds9,meas_extensions_psfex
+fgcmcal                   f192986d5ffb3cdf5b4b122a1016df7a2c6c4414  tickets.DM-23835-gf192986d5f             sconsUtils,afw,daf_persistence,obs_base,pex_config,pipe_tasks,fgcm,jointcal,testdata_jointcal
+ap_verify                 021c9f87c0d9bf781ff1c306093a5524f1a2b6e7  tickets.DM-23835-g021c9f87c0             utils,afw,daf_persistence,pipe_tasks,verify,ap_pipe,ap_verify_testdata,obs_test,ip_diffim,ap_association
+lsst_distrib              c154f85acc49bb082938c283f7b52dce6afd4be0  tickets.DM-23835-gc154f85acc             lsst_apps,ctrl_execute,ctrl_mpexec,ctrl_platform_lsstvc,meas_extensions_convolved,meas_extensions_shapeHSM,meas_extensions_photometryKron,meas_extensions_scarlet,pipe_drivers,lsst_obs,synpipe,cbp,jointcal,verify,ap_verify,display_firefly,display_matplotlib,cp_pipe,validate_drp,fgcmcal

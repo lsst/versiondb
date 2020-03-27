@@ -13168,3 +13168,17 @@ w.2016.12	0	testdata_subaru	w.2016.12
 19.0.0-29-g8bf55467	0	meas_extensions_psfex	19.0.0+54
 19.0.0-29-g8bf55467	0	meas_extensions_shapeHSM	19.0.0+54
 19.0.0-29-g8bf55467	0	testdata_subaru	19.0.0
+tickets.DM-23835-g45b371edf0	0	daf_persistence	tickets.DM-23835-g9ab1aedb5f
+tickets.DM-23835-g45b371edf0	0	obs_base	tickets.DM-23835-g2f59a1585e
+tickets.DM-23835-g45b371edf0	0	pipe_tasks	tickets.DM-23835-g425218d84a
+tickets.DM-23835-g45b371edf0	0	meas_astrom	tickets.DM-23835-g5ea3a5f9f2
+tickets.DM-23835-g45b371edf0	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
+tickets.DM-23835-g45b371edf0	0	astshim	tickets.DM-23835-g6b7c2f671f
+tickets.DM-23835-g45b371edf0	0	astro_metadata_translator	tickets.DM-23835-g592071df3b
+tickets.DM-23835-g45b371edf0	0	obs_subaru_data	tickets.DM-23835-g81f4c9d68c
+tickets.DM-23835-g45b371edf0	0	geom	tickets.DM-23835-g1b0a77db9f
+tickets.DM-23835-g45b371edf0	0	daf_butler	tickets.DM-23835-g7094ce3391
+tickets.DM-23835-g45b371edf0	0	meas_modelfit	tickets.DM-23835-ge415fe5f37
+tickets.DM-23835-g45b371edf0	0	meas_extensions_psfex	tickets.DM-23835-ga4f73e9a42
+tickets.DM-23835-g45b371edf0	0	meas_extensions_shapeHSM	tickets.DM-23835-ga878f8cdbe
+tickets.DM-23835-g45b371edf0	0	testdata_subaru	19.0.0

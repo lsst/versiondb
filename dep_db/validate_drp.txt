@@ -10955,3 +10955,13 @@ master-ga2edb16d1e	9	obs_subaru	14.0-43-g3dc38e5b
 19.0.0-11-gb3cf4f6	1	obs_cfht	19.0.0-1-gc6cf8f7+63
 19.0.0-11-gb3cf4f6	1	obs_decam	19.0.0-12-g4648504
 19.0.0-11-gb3cf4f6	1	obs_subaru	19.0.0-29-g8bf55467
+tickets.DM-23835-g136baddafd	0	utils	tickets.DM-23835-gcc4927c4f1
+tickets.DM-23835-g136baddafd	0	daf_persistence	tickets.DM-23835-g9ab1aedb5f
+tickets.DM-23835-g136baddafd	0	afw	tickets.DM-23835-g31c64b24f1
+tickets.DM-23835-g136baddafd	0	pipe_base	tickets.DM-23835-g42cd5aae5d
+tickets.DM-23835-g136baddafd	0	verify	tickets.DM-23835-g999f169a4c
+tickets.DM-23835-g136baddafd	0	pipe_tasks	tickets.DM-23835-g425218d84a
+tickets.DM-23835-g136baddafd	0	pipe_drivers	tickets.DM-23835-gce3f959b9a
+tickets.DM-23835-g136baddafd	0	obs_cfht	tickets.DM-23835-g0a4b3dabc0
+tickets.DM-23835-g136baddafd	0	obs_decam	tickets.DM-23835-g99cd2d52ca
+tickets.DM-23835-g136baddafd	0	obs_subaru	tickets.DM-23835-g45b371edf0

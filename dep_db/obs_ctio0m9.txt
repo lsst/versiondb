@@ -3925,3 +3925,9 @@ master-g3cbdd6381b	1	ip_isr	14.0-12-g947dc0d+5
 19.0.0	60	numpy	1.16.2
 19.0.0	60	utils	19.0.0-7-g686a884+4
 19.0.0	60	ip_isr	19.0.0-14-g5673ca6+6
+tickets.DM-23835-gd2e4f7b082	0	afw	tickets.DM-23835-g31c64b24f1
+tickets.DM-23835-gd2e4f7b082	0	daf_base	tickets.DM-23835-gc4ebd1af5c
+tickets.DM-23835-gd2e4f7b082	0	obs_base	tickets.DM-23835-g2f59a1585e
+tickets.DM-23835-gd2e4f7b082	0	pex_config	tickets.DM-23835-geaed86bee5
+tickets.DM-23835-gd2e4f7b082	0	utils	tickets.DM-23835-gcc4927c4f1
+tickets.DM-23835-gd2e4f7b082	0	ip_isr	tickets.DM-23835-g1cd95b7951

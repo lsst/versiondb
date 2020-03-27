@@ -11494,3 +11494,17 @@ u.bvan.boost_no_dyn_link-gb0dc8ff817	0	testdata_jointcal	18.0.0+10
 19.0.0-3-g6513920	43	verify_metrics	19.0.0-1-g8efd64f+2
 19.0.0-3-g6513920	43	obs_cfht	19.0.0-1-gc6cf8f7+63
 19.0.0-3-g6513920	43	testdata_jointcal	19.0.0-1-g6096a76+53
+tickets.DM-23835-gb462ae569f	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
+tickets.DM-23835-gb462ae569f	0	eigen	3.3.7.lsst2
+tickets.DM-23835-gb462ae569f	0	afw	tickets.DM-23835-g31c64b24f1
+tickets.DM-23835-gb462ae569f	0	daf_persistence	tickets.DM-23835-g9ab1aedb5f
+tickets.DM-23835-gb462ae569f	0	obs_base	tickets.DM-23835-g2f59a1585e
+tickets.DM-23835-gb462ae569f	0	pex_exceptions	tickets.DM-23835-g9970d2ee91
+tickets.DM-23835-gb462ae569f	0	pex_config	tickets.DM-23835-geaed86bee5
+tickets.DM-23835-gb462ae569f	0	meas_algorithms	tickets.DM-23835-ga6ed9de832
+tickets.DM-23835-gb462ae569f	0	pipe_tasks	tickets.DM-23835-g425218d84a
+tickets.DM-23835-gb462ae569f	0	jointcal_cholmod	tickets.DM-23835-g6983b14497
+tickets.DM-23835-gb462ae569f	0	verify	tickets.DM-23835-g999f169a4c
+tickets.DM-23835-gb462ae569f	0	verify_metrics	19.0.0-1-g8efd64f+3
+tickets.DM-23835-gb462ae569f	0	obs_cfht	tickets.DM-23835-g0a4b3dabc0
+tickets.DM-23835-gb462ae569f	0	testdata_jointcal	tickets.DM-23835-g6096a76cb0
