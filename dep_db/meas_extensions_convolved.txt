@@ -1770,3 +1770,10 @@ master-gaffd610453	46	meas_extensions_photometryKron	13.0-6-gd233a4b+13
 19.0.0	55	meas_base	tickets.DM-23835-g914efbff1e
 19.0.0	55	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0	55	daf_base	tickets.DM-23835-gc4ebd1af5c
+19.0.0	56	meas_algorithms	19.0.0-8-gfbacb601
+19.0.0	56	meas_extensions_photometryKron	19.0.0+55
+19.0.0	56	afw	19.0.0-14-g706b86db4
+19.0.0	56	geom	19.0.0-2-gde8e5e3+3
+19.0.0	56	meas_base	19.0.0-3-g27e4659+18
+19.0.0	56	utils	19.0.0-7-g686a884+4
+19.0.0	56	daf_base	19.0.0-1-g49a97f9+3

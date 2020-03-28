@@ -11598,3 +11598,13 @@ tickets.DM-23835-gcde2890dbe	0	meas_algorithms	tickets.DM-23835-ga6ed9de832
 tickets.DM-23835-gcde2890dbe	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
 tickets.DM-23835-gcde2890dbe	0	utils	tickets.DM-23835-gcc4927c4f1
 tickets.DM-23835-gcde2890dbe	0	testdata_deblender	tickets.DM-23835-g8af30cc6ee
+19.0.0-1-g8e6e14c	5	afw	19.0.0-14-g706b86db4
+19.0.0-1-g8e6e14c	5	log	19.0.0+9
+19.0.0-1-g8e6e14c	5	meas_algorithms	19.0.0-8-gfbacb601
+19.0.0-1-g8e6e14c	5	numpy	1.16.2
+19.0.0-1-g8e6e14c	5	scons	3.0.0.lsst1+5
+19.0.0-1-g8e6e14c	5	sconsUtils	19.0.0-1-g80d1608
+19.0.0-1-g8e6e14c	5	utils	19.0.0-7-g686a884+4
+19.0.0-1-g8e6e14c	5	pybind11	2.2.4.lsst2
+19.0.0-1-g8e6e14c	5	matplotlib	3.0.3
+19.0.0-1-g8e6e14c	5	testdata_deblender	19.0.0-1-g8af30cc

@@ -11661,3 +11661,16 @@ tickets.DM-23835-ga4f73e9a42	0	psfex	tickets.DM-23835-g26b6698698
 tickets.DM-23835-ga4f73e9a42	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
 tickets.DM-23835-ga4f73e9a42	0	utils	tickets.DM-23835-gcc4927c4f1
 tickets.DM-23835-ga4f73e9a42	0	geom	tickets.DM-23835-g1b0a77db9f
+19.0.0	55	afw	19.0.0-14-g706b86db4
+19.0.0	55	boost	1.69.lsst1
+19.0.0	55	daf_base	19.0.0-1-g49a97f9+3
+19.0.0	55	fftw	3.3.4.lsst2
+19.0.0	55	meas_algorithms	19.0.0-8-gfbacb601
+19.0.0	55	meas_base	19.0.0-3-g27e4659+18
+19.0.0	55	numpy	1.16.2
+19.0.0	55	psfex	19.0.0-1-g5e8aa59
+19.0.0	55	scons	3.0.0.lsst1+5
+19.0.0	55	sconsUtils	19.0.0-1-g80d1608
+19.0.0	55	pybind11	2.2.4.lsst2
+19.0.0	55	utils	19.0.0-7-g686a884+4
+19.0.0	55	geom	19.0.0-2-gde8e5e3+3

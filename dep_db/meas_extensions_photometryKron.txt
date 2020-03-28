@@ -2100,3 +2100,6 @@
 19.0.0	54	meas_algorithms	19.0.0-7-ga57c4689+26
 tickets.DM-23835-g8cd49221d9	0	meas_base	tickets.DM-23835-g914efbff1e
 tickets.DM-23835-g8cd49221d9	0	meas_algorithms	tickets.DM-23835-ga6ed9de832
+19.0.0	55	meas_base	19.0.0-3-g27e4659+18
+19.0.0	55	pybind11	2.2.4.lsst2
+19.0.0	55	meas_algorithms	19.0.0-8-gfbacb601

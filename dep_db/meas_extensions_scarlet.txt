@@ -1426,3 +1426,14 @@ tickets.DM-23835-geef1caaf5c	0	pex_config	tickets.DM-23835-geaed86bee5
 tickets.DM-23835-geef1caaf5c	0	pipe_base	tickets.DM-23835-g42cd5aae5d
 tickets.DM-23835-geef1caaf5c	0	meas_algorithms	tickets.DM-23835-ga6ed9de832
 tickets.DM-23835-geef1caaf5c	0	testdata_deblender	tickets.DM-23835-g8af30cc6ee
+19.0.0-6-g6fc6edd	14	base	19.0.0-2-g9675b69+3
+19.0.0-6-g6fc6edd	14	afw	19.0.0-14-g706b86db4
+19.0.0-6-g6fc6edd	14	log	19.0.0+9
+19.0.0-6-g6fc6edd	14	numpy	1.16.2
+19.0.0-6-g6fc6edd	14	scarlet	lsst-dev-g5b72d4495c+1
+19.0.0-6-g6fc6edd	14	log	19.0.0+9
+19.0.0-6-g6fc6edd	14	pex_config	19.0.0-5-g9aa49c1+2
+19.0.0-6-g6fc6edd	14	pipe_base	19.0.0-15-g557baf8+1
+19.0.0-6-g6fc6edd	14	meas_algorithms	19.0.0-8-gfbacb601
+19.0.0-6-g6fc6edd	14	matplotlib	3.0.3
+19.0.0-6-g6fc6edd	14	testdata_deblender	19.0.0-1-g8af30cc

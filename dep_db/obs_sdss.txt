@@ -15692,3 +15692,12 @@ tickets.DM-23835-gdbbb071be2	0	pipe_tasks	tickets.DM-23835-g425218d84a
 tickets.DM-23835-gdbbb071be2	0	utils	tickets.DM-23835-gcc4927c4f1
 tickets.DM-23835-gdbbb071be2	0	log	tickets.DM-23835-ga043d0ed60
 tickets.DM-23835-gdbbb071be2	0	geom	tickets.DM-23835-g1b0a77db9f
+19.0.0	68	obs_base	19.0.0-31-gb0bf75d+1
+19.0.0	68	afw	19.0.0-14-g706b86db4
+19.0.0	68	meas_algorithms	19.0.0-8-gfbacb601
+19.0.0	68	meas_astrom	19.0.0+55
+19.0.0	68	pipe_tasks	19.0.0-38-g66da9aab
+19.0.0	68	utils	19.0.0-7-g686a884+4
+19.0.0	68	log	19.0.0+9
+19.0.0	68	astropy	3.1.2.lsst2
+19.0.0	68	geom	19.0.0-2-gde8e5e3+3

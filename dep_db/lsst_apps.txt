@@ -16175,3 +16175,13 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 17.0	243	meas_extensions_simpleShape	tickets.DM-23835-gdee1d82624
 17.0	243	display_ds9	tickets.DM-23835-g3963cd5c2c
 17.0	243	meas_extensions_psfex	tickets.DM-23835-ga4f73e9a42
+17.0	244	meas_deblender	19.0.0-1-g8e6e14c+5
+17.0	244	meas_modelfit	19.0.0-2-g9b11441+40
+17.0	244	pipe_tasks	19.0.0-38-g66da9aab
+17.0	244	ap_pipe	19.0.0-6-g8dfed85+26
+17.0	244	obs_lsstSim	19.0.0-1-ga8543ac+70
+17.0	244	obs_sdss	19.0.0+68
+17.0	244	obs_test	19.0.0-2-g0d9f9cd+52
+17.0	244	meas_extensions_simpleShape	19.0.0+50
+17.0	244	display_ds9	18.0.0+66
+17.0	244	meas_extensions_psfex	19.0.0+55
