@@ -2334,3 +2334,8 @@ w.2016.15	0	utils	w.2016.15
 19.0.0-5-g9aa49c1	2	pex_policy	19.0.0+9
 tickets.DM-23835-geaed86bee5	0	daf_base	tickets.DM-23835-gc4ebd1af5c
 tickets.DM-23835-geaed86bee5	0	pex_policy	tickets.DM-23835-gcf878a0e59
+19.0.0-6-gdd6eb13	0	numpy	1.16.2
+19.0.0-6-gdd6eb13	0	pybind11	2.2.4.lsst2
+19.0.0-6-gdd6eb13	0	python	3.7
+19.0.0-6-gdd6eb13	0	daf_base	19.0.0-1-g49a97f9+3
+19.0.0-6-gdd6eb13	0	pex_policy	19.0.0+9

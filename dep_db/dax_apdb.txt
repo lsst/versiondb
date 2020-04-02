@@ -264,3 +264,12 @@ tickets.DM-23835-g2c6020387d	0	pex_config	tickets.DM-23835-geaed86bee5
 tickets.DM-23835-g2c6020387d	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
 tickets.DM-23835-g2c6020387d	0	sphgeom	tickets.DM-23835-gc343bd300a
 tickets.DM-23835-g2c6020387d	0	utils	tickets.DM-23835-gcc4927c4f1
+19.0.0-1-ge272bc4	23	afw	19.0.0-14-g706b86db4+1
+19.0.0-1-ge272bc4	23	pex_config	19.0.0-6-gdd6eb13
+19.0.0-1-ge272bc4	23	python	3.7
+19.0.0-1-ge272bc4	23	pyyaml	5.1+2
+19.0.0-1-ge272bc4	23	scons	3.0.0.lsst1+5
+19.0.0-1-ge272bc4	23	sconsUtils	19.0.0-1-g80d1608
+19.0.0-1-ge272bc4	23	sphgeom	19.0.0-1-g5549ca4+4
+19.0.0-1-ge272bc4	23	sqlalchemy	1.3.8
+19.0.0-1-ge272bc4	23	utils	19.0.0-7-g686a884+4
