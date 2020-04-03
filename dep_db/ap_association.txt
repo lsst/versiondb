@@ -2653,3 +2653,11 @@ tickets.DM-23835-gc7c5b82721	0	verify	tickets.DM-23835-g999f169a4c
 19.0.0-14-g7adedf7	16	verify	19.0.0-10-g8226a54+40
 19.0.0-14-g7adedf7	16	numpy	1.16.2
 19.0.0-14-g7adedf7	16	scipy	1.2.1
+19.0.0-15-gcb2ec15	0	afw	19.0.0-14-g706b86db4+1
+19.0.0-15-gcb2ec15	0	meas_algorithms	19.0.0-9-gce87a591+3
+19.0.0-15-gcb2ec15	0	pex_config	19.0.0-6-gdd6eb13
+19.0.0-15-gcb2ec15	0	pipe_base	19.0.0-15-g557baf8+4
+19.0.0-15-gcb2ec15	0	dax_apdb	19.0.0-1-ge272bc4+23
+19.0.0-15-gcb2ec15	0	verify	19.0.0-11-ga3fec04
+19.0.0-15-gcb2ec15	0	numpy	1.16.2
+19.0.0-15-gcb2ec15	0	scipy	1.2.1
