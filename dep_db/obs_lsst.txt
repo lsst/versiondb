@@ -3834,3 +3834,15 @@ tickets.DM-23835-gc33c0dd0c3	0	daf_butler	tickets.DM-23835-g7094ce3391
 19.0.0-42-g1652893	0	astro_metadata_translator	0.1.0-10-gb976306+3
 19.0.0-42-g1652893	0	obs_lsst_data	19.0.0-3-g62ccb58
 19.0.0-42-g1652893	0	daf_butler	19.0.0-50-g09080728
+19.0.0-42-g1652893	1	afw	19.0.0-14-g706b86db4+2
+19.0.0-42-g1652893	1	daf_base	19.0.0-1-g49a97f9+3
+19.0.0-42-g1652893	1	obs_base	19.0.0-43-gbcf6a3c+1
+19.0.0-42-g1652893	1	pex_config	19.0.0-6-gdd6eb13
+19.0.0-42-g1652893	1	astropy	3.1.2.lsst2
+19.0.0-42-g1652893	1	numpy	1.16.2
+19.0.0-42-g1652893	1	utils	19.0.0-7-g686a884+4
+19.0.0-42-g1652893	1	ip_isr	19.0.0-16-gdc8ce7c+2
+19.0.0-42-g1652893	1	pipe_tasks	19.0.0-41-g13db8fbc+2
+19.0.0-42-g1652893	1	astro_metadata_translator	0.1.0-10-gb976306+3
+19.0.0-42-g1652893	1	obs_lsst_data	19.0.0-3-g62ccb58
+19.0.0-42-g1652893	1	daf_butler	19.0.0-50-g09080728+1

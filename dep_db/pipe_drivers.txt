@@ -6750,3 +6750,12 @@ tickets.DM-23835-gce3f959b9a	0	geom	tickets.DM-23835-g1b0a77db9f
 19.0.0-4-gac56cce	1	pipe_tasks	19.0.0-41-g13db8fbc+1
 19.0.0-4-gac56cce	1	astro_metadata_translator	0.1.0-10-gb976306+3
 19.0.0-4-gac56cce	1	geom	19.0.0-2-gde8e5e3+3
+19.0.0-4-gac56cce	2	ctrl_pool	19.0.0-2-g260436e+41
+19.0.0-4-gac56cce	2	afw	19.0.0-14-g706b86db4+2
+19.0.0-4-gac56cce	2	pex_exceptions	19.0.0+5
+19.0.0-4-gac56cce	2	sphgeom	19.0.0-1-g5549ca4+4
+19.0.0-4-gac56cce	2	pex_config	19.0.0-6-gdd6eb13
+19.0.0-4-gac56cce	2	pipe_base	19.0.0-16-g224c443
+19.0.0-4-gac56cce	2	pipe_tasks	19.0.0-41-g13db8fbc+2
+19.0.0-4-gac56cce	2	astro_metadata_translator	0.1.0-10-gb976306+3
+19.0.0-4-gac56cce	2	geom	19.0.0-2-gde8e5e3+3
