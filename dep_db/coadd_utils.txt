@@ -10729,3 +10729,13 @@ tickets.DM-23835-g4034c04474	0	afwdata	17.0+11
 19.0.0-1-gefe1d0d	37	sconsUtils	19.0.0-1-g80d1608
 19.0.0-1-gefe1d0d	37	utils	19.0.0-7-g686a884+4
 19.0.0-1-gefe1d0d	37	afwdata	19.0.0-1-gd1c39c2
+19.0.0-1-gefe1d0d	38	afw	19.0.0-14-g706b86db4+2
+19.0.0-1-gefe1d0d	38	log	19.0.0+9
+19.0.0-1-gefe1d0d	38	pybind11	2.2.4.lsst2
+19.0.0-1-gefe1d0d	38	numpy	1.16.2
+19.0.0-1-gefe1d0d	38	pex_config	19.0.0-6-gdd6eb13
+19.0.0-1-gefe1d0d	38	pipe_base	19.0.0-16-g224c443+1
+19.0.0-1-gefe1d0d	38	scons	3.0.0.lsst1+5
+19.0.0-1-gefe1d0d	38	sconsUtils	19.0.0-1-g80d1608
+19.0.0-1-gefe1d0d	38	utils	19.0.0-7-g686a884+4
+19.0.0-1-gefe1d0d	38	afwdata	19.0.0-1-gd1c39c2

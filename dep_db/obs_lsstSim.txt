@@ -19734,3 +19734,13 @@ tickets.DM-23835-g6bef42d3c4	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0-2-g6d6cf70	1	pybind11	2.2.4.lsst2
 19.0.0-2-g6d6cf70	1	utils	19.0.0-7-g686a884+4
 19.0.0-2-g6d6cf70	1	astropy	3.1.2.lsst2
+19.0.0-2-g6d6cf70	2	daf_base	19.0.0-1-g49a97f9+3
+19.0.0-2-g6d6cf70	2	afw	19.0.0-14-g706b86db4+2
+19.0.0-2-g6d6cf70	2	daf_persistence	19.0.0-3-ga642a0f
+19.0.0-2-g6d6cf70	2	obs_base	19.0.0-43-gbcf6a3c+2
+19.0.0-2-g6d6cf70	2	meas_algorithms	19.0.0-11-g90346d2c+1
+19.0.0-2-g6d6cf70	2	ip_isr	19.0.0-16-gdc8ce7c+3
+19.0.0-2-g6d6cf70	2	pipe_tasks	19.0.0-41-g13db8fbc+3
+19.0.0-2-g6d6cf70	2	pybind11	2.2.4.lsst2
+19.0.0-2-g6d6cf70	2	utils	19.0.0-7-g686a884+4
+19.0.0-2-g6d6cf70	2	astropy	3.1.2.lsst2

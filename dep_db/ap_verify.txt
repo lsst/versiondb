@@ -4033,3 +4033,14 @@ tickets.DM-23835-g021c9f87c0	0	ap_association	tickets.DM-23835-gc7c5b82721
 19.0.0-6-gf386f01	64	obs_test	19.0.0-2-g0d9f9cd+60
 19.0.0-6-gf386f01	64	ip_diffim	19.0.0-13-g8db0348+5
 19.0.0-6-gf386f01	64	ap_association	19.0.0-15-gcb2ec15+5
+19.0.0-6-gf386f01	65	python	3.7
+19.0.0-6-gf386f01	65	utils	19.0.0-7-g686a884+4
+19.0.0-6-gf386f01	65	afw	19.0.0-14-g706b86db4+2
+19.0.0-6-gf386f01	65	daf_persistence	19.0.0-3-ga642a0f
+19.0.0-6-gf386f01	65	pipe_tasks	19.0.0-41-g13db8fbc+3
+19.0.0-6-gf386f01	65	verify	19.0.0-11-ga3fec04+6
+19.0.0-6-gf386f01	65	ap_pipe	19.0.0-6-g8dfed85+36
+19.0.0-6-gf386f01	65	ap_verify_testdata	19.0.0+64
+19.0.0-6-gf386f01	65	obs_test	19.0.0-2-g0d9f9cd+61
+19.0.0-6-gf386f01	65	ip_diffim	19.0.0-13-g8db0348+6
+19.0.0-6-gf386f01	65	ap_association	19.0.0-15-gcb2ec15+6
