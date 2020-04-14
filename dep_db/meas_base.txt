@@ -13127,3 +13127,15 @@ tickets.DM-23835-g914efbff1e	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
 19.0.0-4-gb4013cc	1	pybind11	2.2.4.lsst2
 19.0.0-4-gb4013cc	1	scons	3.0.0.lsst1+5
 19.0.0-4-gb4013cc	1	sconsUtils	19.0.0-1-g80d1608
+19.0.0-4-gb4013cc	2	utils	19.0.0-7-g686a884+4
+19.0.0-4-gb4013cc	2	geom	19.0.0-2-gde8e5e3+3
+19.0.0-4-gb4013cc	2	afw	19.0.0-14-g706b86db4+3
+19.0.0-4-gb4013cc	2	coadd_utils	19.0.0-1-gefe1d0d+39
+19.0.0-4-gb4013cc	2	daf_base	19.0.0-1-g49a97f9+3
+19.0.0-4-gb4013cc	2	sphgeom	19.0.0-1-g5549ca4+4
+19.0.0-4-gb4013cc	2	numpy	1.16.2
+19.0.0-4-gb4013cc	2	pex_config	19.0.0-7-g3343160
+19.0.0-4-gb4013cc	2	pipe_base	19.0.0-16-g224c443+2
+19.0.0-4-gb4013cc	2	pybind11	2.2.4.lsst2
+19.0.0-4-gb4013cc	2	scons	3.0.0.lsst1+5
+19.0.0-4-gb4013cc	2	sconsUtils	19.0.0-1-g80d1608
