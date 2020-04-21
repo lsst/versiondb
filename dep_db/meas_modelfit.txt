@@ -13402,3 +13402,14 @@ tickets.DM-23835-ge415fe5f37	0	geom	tickets.DM-23835-g1b0a77db9f
 19.0.0-4-gdb4f201	5	pybind11	2.2.4.lsst2
 19.0.0-4-gdb4f201	5	geom	19.0.0-2-gde8e5e3+3
 19.0.0-4-gdb4f201	5	matplotlib	3.0.3
+19.0.0-4-gdb4f201	6	afw	19.0.0-15-g2c1ca84f1
+19.0.0-4-gdb4f201	6	meas_algorithms	19.0.0-13-gc12c6924
+19.0.0-4-gdb4f201	6	meas_base	19.0.0-5-g50cbe22+2
+19.0.0-4-gdb4f201	6	numpy	1.16.2
+19.0.0-4-gdb4f201	6	log	19.0.0+9
+19.0.0-4-gdb4f201	6	scons	3.0.0.lsst1+5
+19.0.0-4-gdb4f201	6	sconsUtils	19.0.0-1-g80d1608
+19.0.0-4-gdb4f201	6	shapelet	19.0.0-1-g20d9b18+26
+19.0.0-4-gdb4f201	6	pybind11	2.2.4.lsst2
+19.0.0-4-gdb4f201	6	geom	19.0.0-2-gde8e5e3+3
+19.0.0-4-gdb4f201	6	matplotlib	3.0.3

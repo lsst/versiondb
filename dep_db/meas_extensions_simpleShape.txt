@@ -7560,3 +7560,14 @@ tickets.DM-23835-gdee1d82624	0	geom	tickets.DM-23835-g1b0a77db9f
 19.0.0-1-g9a028c0	4	pex_config	19.0.0-7-g3343160
 19.0.0-1-g9a028c0	4	pex_exceptions	19.0.0+5
 19.0.0-1-g9a028c0	4	geom	19.0.0-2-gde8e5e3+3
+19.0.0-1-g9a028c0	5	scons	3.0.0.lsst1+5
+19.0.0-1-g9a028c0	5	sconsUtils	19.0.0-1-g80d1608
+19.0.0-1-g9a028c0	5	base	19.0.0-2-g9675b69+3
+19.0.0-1-g9a028c0	5	numpy	1.16.2
+19.0.0-1-g9a028c0	5	pybind11	2.2.4.lsst2
+19.0.0-1-g9a028c0	5	afw	19.0.0-15-g2c1ca84f1
+19.0.0-1-g9a028c0	5	meas_base	19.0.0-5-g50cbe22+2
+19.0.0-1-g9a028c0	5	utils	19.0.0-7-g686a884+4
+19.0.0-1-g9a028c0	5	pex_config	19.0.0-7-g3343160
+19.0.0-1-g9a028c0	5	pex_exceptions	19.0.0+5
+19.0.0-1-g9a028c0	5	geom	19.0.0-2-gde8e5e3+3
