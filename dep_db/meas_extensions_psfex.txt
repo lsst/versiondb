@@ -11882,3 +11882,16 @@ tickets.DM-23835-ga4f73e9a42	0	geom	tickets.DM-23835-g1b0a77db9f
 19.0.0-1-gb77924a	7	pybind11	2.2.4.lsst2
 19.0.0-1-gb77924a	7	utils	19.0.0-7-g686a884+4
 19.0.0-1-gb77924a	7	geom	19.0.0-2-gde8e5e3+3
+19.0.0-1-gb77924a	8	afw	19.0.0-17-gdb7423665
+19.0.0-1-gb77924a	8	boost	1.69.lsst1
+19.0.0-1-gb77924a	8	daf_base	19.0.0-1-g49a97f9+3
+19.0.0-1-gb77924a	8	fftw	3.3.4.lsst2
+19.0.0-1-gb77924a	8	meas_algorithms	19.0.0-14-g983d7abd+1
+19.0.0-1-gb77924a	8	meas_base	19.0.0-6-g28bbdb8+1
+19.0.0-1-gb77924a	8	numpy	1.16.2
+19.0.0-1-gb77924a	8	psfex	19.0.0-1-g5e8aa59
+19.0.0-1-gb77924a	8	scons	3.0.0.lsst1+5
+19.0.0-1-gb77924a	8	sconsUtils	19.0.0-1-g80d1608
+19.0.0-1-gb77924a	8	pybind11	2.2.4.lsst2
+19.0.0-1-gb77924a	8	utils	19.0.0-7-g686a884+4
+19.0.0-1-gb77924a	8	geom	19.0.0-2-gde8e5e3+3

@@ -1613,3 +1613,14 @@ tickets.DM-23835-geef1caaf5c	0	testdata_deblender	tickets.DM-23835-g8af30cc6ee
 19.0.0-7-gdd218f3	7	meas_algorithms	19.0.0-14-g983d7abd
 19.0.0-7-gdd218f3	7	matplotlib	3.0.3
 19.0.0-7-gdd218f3	7	testdata_deblender	19.0.0-1-g8af30cc
+19.0.0-7-gdd218f3	8	base	19.0.0-2-g9675b69+3
+19.0.0-7-gdd218f3	8	afw	19.0.0-17-gdb7423665
+19.0.0-7-gdd218f3	8	log	19.0.0+9
+19.0.0-7-gdd218f3	8	numpy	1.16.2
+19.0.0-7-gdd218f3	8	scarlet	lsst-dev-g5b72d4495c+1
+19.0.0-7-gdd218f3	8	log	19.0.0+9
+19.0.0-7-gdd218f3	8	pex_config	19.0.0-7-g3343160
+19.0.0-7-gdd218f3	8	pipe_base	19.0.0-17-g9c22e3c+3
+19.0.0-7-gdd218f3	8	meas_algorithms	19.0.0-14-g983d7abd+1
+19.0.0-7-gdd218f3	8	matplotlib	3.0.3
+19.0.0-7-gdd218f3	8	testdata_deblender	19.0.0-1-g8af30cc
