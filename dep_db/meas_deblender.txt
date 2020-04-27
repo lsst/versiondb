@@ -11818,3 +11818,14 @@ tickets.DM-23835-gcde2890dbe	0	testdata_deblender	tickets.DM-23835-g8af30cc6ee
 19.0.0-3-gf3b1435	3	pybind11	2.2.4.lsst2
 19.0.0-3-gf3b1435	3	matplotlib	3.0.3
 19.0.0-3-gf3b1435	3	testdata_deblender	19.0.0-1-g8af30cc
+19.0.0	55	afw	19.0.0+2
+19.0.0	55	log	19.0.0+11
+19.0.0	55	meas_algorithms	19.0.0+1
+19.0.0	55	numpy	1.16.2
+19.0.0	55	scons	3.0.0.lsst1+5
+19.0.0	55	sconsUtils	19.0.0+1
+19.0.0	55	utils	19.0.0+1
+19.0.0	55	pybind11	2.2.4.lsst1+2
+19.0.0	55	scarlet	fix_centering-g169b417050
+19.0.0	55	matplotlib	3.0.3
+19.0.0	55	testdata_deblender	19.0.0

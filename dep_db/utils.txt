@@ -2254,3 +2254,10 @@ tickets.DM-23835-gcc4927c4f1	0	pex_exceptions	tickets.DM-23835-g9970d2ee91
 19.0.0-7-g686a884	5	pybind11	2.2.4.lsst2
 19.0.0-7-g686a884	5	python	3.7
 19.0.0-7-g686a884	5	python_psutil	5.4.3+4
+19.0.0	1	base	19.0.0+1
+19.0.0	1	pex_exceptions	19.0.0+6
+19.0.0	1	boost	1.69.lsst1
+19.0.0	1	numpy	1.16.2
+19.0.0	1	pybind11	2.2.4.lsst1+2
+19.0.0	1	python	3.7
+19.0.0	1	python_psutil	5.4.3+4

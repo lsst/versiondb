@@ -91,3 +91,9 @@ lsst-dev-g5b72d4495c	1	eigen	3.3.7.lsst2
 lsst-dev-g5b72d4495c	1	proxmin	lsst-dev-gefd6ccc7f7
 lsst-dev-g5b72d4495c	1	autograd	1.1.54170B
 tickets.DM-23835-g5058579784	0	proxmin	tickets.DM-23835-g9ef6562b68
+fix_centering-g169b417050	0	pybind11	2.2.4.lsst1+2
+fix_centering-g169b417050	0	scipy	1.2.1
+fix_centering-g169b417050	0	numpy	1.16.2
+fix_centering-g169b417050	0	eigen	3.3.7
+fix_centering-g169b417050	0	proxmin	tickets.DM-20864-gf7baf2a6dd
+fix_centering-g169b417050	0	autograd	1.1.54170B

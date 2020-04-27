@@ -17218,3 +17218,13 @@ tickets.DM-23835-g5ea3a5f9f2	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0-2-gd6f004e	3	utils	19.0.0-7-g686a884+5
 19.0.0-2-gd6f004e	3	numpy	1.16.2
 19.0.0-2-gd6f004e	3	matplotlib	3.0.3
+19.0.0	64	geom	19.0.0+3
+19.0.0	64	sphgeom	19.0.0+1
+19.0.0	64	afw	19.0.0+2
+19.0.0	64	log	19.0.0+11
+19.0.0	64	meas_algorithms	19.0.0+1
+19.0.0	64	pex_config	19.0.0+3
+19.0.0	64	pipe_base	19.0.0+2
+19.0.0	64	utils	19.0.0+1
+19.0.0	64	numpy	1.16.2
+19.0.0	64	matplotlib	3.0.3

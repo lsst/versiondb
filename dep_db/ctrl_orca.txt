@@ -4827,3 +4827,8 @@ tickets.DM-23835-g36382b0fde	0	log	tickets.DM-23835-ga043d0ed60
 19.0.0-1-g36382b0	16	pex_config	19.0.0-8-g305ff64
 19.0.0-1-g36382b0	16	daf_persistence	19.0.0-4-g56feb96
 19.0.0-1-g36382b0	16	log	19.0.0+10
+19.0.0	2	python_future	0.16.0+5
+19.0.0	2	utils	19.0.0+1
+19.0.0	2	pex_config	19.0.0+3
+19.0.0	2	daf_persistence	19.0.0+2
+19.0.0	2	log	19.0.0+11

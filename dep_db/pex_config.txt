@@ -2347,3 +2347,8 @@ tickets.DM-23835-geaed86bee5	0	pex_policy	tickets.DM-23835-gcf878a0e59
 19.0.0-8-g305ff64	0	pybind11	2.2.4.lsst2
 19.0.0-8-g305ff64	0	python	3.7
 19.0.0-8-g305ff64	0	daf_base	19.0.0-1-g49a97f9+4
+19.0.0	3	numpy	1.16.2
+19.0.0	3	pybind11	2.2.4.lsst1+2
+19.0.0	3	python	3.7
+19.0.0	3	daf_base	19.0.0+6
+19.0.0	3	pex_policy	19.0.0+11

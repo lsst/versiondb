@@ -4079,3 +4079,10 @@ master-gbe69b68c0a	98	pex_config	14.0-4-gae1598d+4
 17.0	256	afw	19.0.0-18-g35bb99870+2
 17.0	256	pipe_base	19.0.0-17-g9c22e3c+7
 17.0	256	pex_config	19.0.0-8-g305ff64
+19.0.0	3	obs_ctio0m9	19.0.0+83
+19.0.0	3	pipe_drivers	19.0.0+4
+19.0.0	3	pipe_tasks	19.0.0+4
+19.0.0	3	sconsUtils	19.0.0+1
+19.0.0	3	afw	19.0.0+2
+19.0.0	3	pipe_base	19.0.0+2
+19.0.0	3	pex_config	19.0.0+3

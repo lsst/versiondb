@@ -1793,3 +1793,9 @@ tickets.DM-23835-gc4ebd1af5c	0	pex_exceptions	tickets.DM-23835-g9970d2ee91
 19.0.0-1-g49a97f9	4	python	3.7
 19.0.0-1-g49a97f9	4	numpy	1.16.2
 19.0.0-1-g49a97f9	4	pyyaml	5.1+2
+19.0.0	6	utils	19.0.0+1
+19.0.0	6	pex_exceptions	19.0.0+6
+19.0.0	6	pybind11	2.2.4.lsst1+2
+19.0.0	6	python	3.7
+19.0.0	6	numpy	1.16.2
+19.0.0	6	pyyaml	5.1+2

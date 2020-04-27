@@ -1167,3 +1167,7 @@ w.2016.15	0	doxygen	1.8.5.lsst1
 19.0.0-2-g9675b69	3	python	3.7
 19.0.0-2-g9675b69	3	doxygen	1.8.13.lsst3
 tickets.DM-23835-g79916f63b5	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
+19.0.0	1	sconsUtils	19.0.0+1
+19.0.0	1	pybind11	2.2.4.lsst1+2
+19.0.0	1	python	3.7
+19.0.0	1	doxygen	1.8.13.lsst3

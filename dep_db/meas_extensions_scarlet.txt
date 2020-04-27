@@ -1668,3 +1668,14 @@ tickets.DM-23835-geef1caaf5c	0	testdata_deblender	tickets.DM-23835-g8af30cc6ee
 19.0.0-7-gdd218f3	12	meas_algorithms	19.0.0-16-g3dc1a33c+3
 19.0.0-7-gdd218f3	12	matplotlib	3.0.3
 19.0.0-7-gdd218f3	12	testdata_deblender	19.0.0-1-g8af30cc
+19.0.0	2	base	19.0.0+1
+19.0.0	2	afw	19.0.0+2
+19.0.0	2	log	19.0.0+11
+19.0.0	2	numpy	1.16.2
+19.0.0	2	scarlet	fix_centering-g169b417050
+19.0.0	2	log	19.0.0+11
+19.0.0	2	pex_config	19.0.0+3
+19.0.0	2	pipe_base	19.0.0+2
+19.0.0	2	meas_algorithms	19.0.0+1
+19.0.0	2	matplotlib	3.0.3
+19.0.0	2	testdata_deblender	19.0.0

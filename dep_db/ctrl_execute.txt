@@ -2302,3 +2302,7 @@ tickets.DM-23835-g7fa7663e71	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0-1-g7fa7663	16	ctrl_orca	19.0.0-1-g36382b0+16
 19.0.0-1-g7fa7663	16	pex_config	19.0.0-8-g305ff64
 19.0.0-1-g7fa7663	16	utils	19.0.0-7-g686a884+5
+19.0.0	2	python_future	0.16.0+5
+19.0.0	2	ctrl_orca	19.0.0+2
+19.0.0	2	pex_config	19.0.0+3
+19.0.0	2	utils	19.0.0+1

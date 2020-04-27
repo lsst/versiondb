@@ -686,3 +686,7 @@ tickets.DM-23835-gc343bd300a	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
 19.0.0-2-gbcc4de1	0	sconsUtils	19.0.0-1-g80d1608
 19.0.0-2-gbcc4de1	0	pybind11	2.2.4.lsst2
 19.0.0-2-gbcc4de1	0	doxygen	1.8.13.lsst3
+19.0.0	1	base	19.0.0+1
+19.0.0	1	sconsUtils	19.0.0+1
+19.0.0	1	pybind11	2.2.4.lsst1+2
+19.0.0	1	doxygen	1.8.13.lsst3

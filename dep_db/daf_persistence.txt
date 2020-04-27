@@ -2776,3 +2776,9 @@ tickets.DM-23835-g9ab1aedb5f	0	pex_policy	tickets.DM-23835-gcf878a0e59
 19.0.0-4-g56feb96	0	pyyaml	5.1+2
 19.0.0-4-g56feb96	0	pybind11	2.2.4.lsst2
 19.0.0-4-g56feb96	0	python	3.7
+19.0.0	2	log	19.0.0+11
+19.0.0	2	pex_policy	19.0.0+11
+19.0.0	2	astropy	3.1.2
+19.0.0	2	pyyaml	5.1+2
+19.0.0	2	pybind11	2.2.4.lsst1+2
+19.0.0	2	python	3.7
