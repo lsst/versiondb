@@ -530,3 +530,8 @@ master-g05d1804a7f	14	daf_base	18.0.0-2-ge43143a+4
 0.1.0-10-gb976306	3	daf_base	19.0.0-1-g49a97f9+3
 tickets.DM-23835-g592071df3b	0	sconsUtils	tickets.DM-23835-gbdbbd40d45
 tickets.DM-23835-g592071df3b	0	daf_base	tickets.DM-23835-gc4ebd1af5c
+0.1.0-10-gb976306	4	scons	3.0.0.lsst1+5
+0.1.0-10-gb976306	4	sconsUtils	19.0.0-1-g80d1608
+0.1.0-10-gb976306	4	pyyaml	5.1+2
+0.1.0-10-gb976306	4	astropy	3.1.2.lsst2
+0.1.0-10-gb976306	4	daf_base	19.0.0-1-g49a97f9+4

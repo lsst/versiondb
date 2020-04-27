@@ -4926,3 +4926,14 @@ tickets.DM-23835-g999f169a4c	0	verify_metrics	19.0.0-1-g8efd64f+3
 19.0.0-11-ga3fec04	14	pipe_base	19.0.0-17-g9c22e3c+6
 19.0.0-11-ga3fec04	14	dax_apdb	19.0.0-1-ge272bc4+30
 19.0.0-11-ga3fec04	14	verify_metrics	19.0.0-1-g8efd64f+2
+19.0.0-11-ga3fec04	15	astropy	3.1.2.lsst2
+19.0.0-11-ga3fec04	15	pyyaml	5.1+2
+19.0.0-11-ga3fec04	15	numpy	1.16.2
+19.0.0-11-ga3fec04	15	sconsUtils	19.0.0-1-g80d1608
+19.0.0-11-ga3fec04	15	utils	19.0.0-7-g686a884+5
+19.0.0-11-ga3fec04	15	log	19.0.0+10
+19.0.0-11-ga3fec04	15	pex_config	19.0.0-8-g305ff64
+19.0.0-11-ga3fec04	15	daf_butler	19.0.0-57-g57de52e3+2
+19.0.0-11-ga3fec04	15	pipe_base	19.0.0-17-g9c22e3c+7
+19.0.0-11-ga3fec04	15	dax_apdb	19.0.0-1-ge272bc4+31
+19.0.0-11-ga3fec04	15	verify_metrics	19.0.0-1-g8efd64f+2

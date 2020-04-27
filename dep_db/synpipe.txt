@@ -3417,3 +3417,9 @@ tickets.DM-23835-gb182ee1d63	0	pipe_tasks	tickets.DM-23835-g425218d84a
 19.0.0-1-gbfe0924	62	afw	19.0.0-18-g35bb99870+1
 19.0.0-1-gbfe0924	62	pipe_base	19.0.0-17-g9c22e3c+6
 19.0.0-1-gbfe0924	62	pipe_tasks	19.0.0-49-g6858528b
+19.0.0-1-gbfe0924	63	astropy	3.1.2.lsst2
+19.0.0-1-gbfe0924	63	daf_persistence	19.0.0-4-g56feb96
+19.0.0-1-gbfe0924	63	pex_config	19.0.0-8-g305ff64
+19.0.0-1-gbfe0924	63	afw	19.0.0-18-g35bb99870+2
+19.0.0-1-gbfe0924	63	pipe_base	19.0.0-17-g9c22e3c+7
+19.0.0-1-gbfe0924	63	pipe_tasks	19.0.0-49-g6858528b+1
