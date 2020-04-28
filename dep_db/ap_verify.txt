@@ -4187,3 +4187,14 @@ b.19.0.x-ga1ad2d47bc	0	ap_verify_testdata	19.0.0+75
 b.19.0.x-ga1ad2d47bc	0	obs_test	19.0.0+2
 b.19.0.x-ga1ad2d47bc	0	ip_diffim	19.0.0+4
 b.19.0.x-ga1ad2d47bc	0	ap_association	19.0.0+4
+19.0.0-8-gdae7771	0	python	3.7
+19.0.0-8-gdae7771	0	utils	19.0.0-7-g686a884+5
+19.0.0-8-gdae7771	0	afw	19.0.0-18-g35bb99870+2
+19.0.0-8-gdae7771	0	daf_persistence	19.0.0-4-g56feb96
+19.0.0-8-gdae7771	0	pipe_tasks	19.0.0-50-gd80f8f78
+19.0.0-8-gdae7771	0	verify	19.0.0-11-ga3fec04+16
+19.0.0-8-gdae7771	0	ap_pipe	19.0.0-8-g326ba0f
+19.0.0-8-gdae7771	0	ap_verify_testdata	19.0.0+76
+19.0.0-8-gdae7771	0	obs_test	19.0.0-3-g2d43a51
+19.0.0-8-gdae7771	0	ip_diffim	19.0.0-17-g59f0e8a+2
+19.0.0-8-gdae7771	0	ap_association	19.0.0-17-g87367c6+1
