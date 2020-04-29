@@ -3944,3 +3944,9 @@ tickets.DM-23835-g41aa061e6a	0	daf_butler	tickets.DM-23835-g7094ce3391
 19.0.0	64	afw	19.0.0+2
 19.0.0	64	daf_butler	19.0.0+2
 19.0.0	64	healpy	1.10.3.lsst2+3
+19.0.0-1-gf8cb8b4	2	numpy	1.16.2
+19.0.0-1-gf8cb8b4	2	sphgeom	19.0.0-2-gbcc4de1
+19.0.0-1-gf8cb8b4	2	geom	19.0.0-2-gde8e5e3+5
+19.0.0-1-gf8cb8b4	2	afw	19.0.0-18-g35bb99870+2
+19.0.0-1-gf8cb8b4	2	daf_butler	19.0.0-59-gbf3f18d4
+19.0.0-1-gf8cb8b4	2	healpy	1.10.3.lsst2+5

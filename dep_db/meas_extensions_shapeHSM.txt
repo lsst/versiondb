@@ -7985,3 +7985,14 @@ tickets.DM-23835-ga878f8cdbe	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0	78	pybind11	2.2.4.lsst2
 19.0.0	78	sconsUtils	19.0.0-1-g80d1608
 19.0.0	78	utils	19.0.0-7-g686a884+5
+19.0.0	79	meas_base	19.0.0-7-g886f805+4
+19.0.0	79	meas_algorithms	19.0.0-16-g3dc1a33c+5
+19.0.0	79	galsim	2.2.1.lsst+3
+19.0.0	79	geom	19.0.0-2-gde8e5e3+5
+19.0.0	79	afw	19.0.0-18-g35bb99870+2
+19.0.0	79	daf_base	19.0.0-1-g49a97f9+4
+19.0.0	79	numpy	1.16.2
+19.0.0	79	pex_exceptions	19.0.0-2-gaa2795f
+19.0.0	79	pybind11	2.2.4.lsst2
+19.0.0	79	sconsUtils	19.0.0-1-g80d1608
+19.0.0	79	utils	19.0.0-7-g686a884+5
