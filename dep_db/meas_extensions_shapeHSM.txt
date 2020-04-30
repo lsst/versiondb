@@ -8023,3 +8023,11 @@ tickets.DM-23835-ga878f8cdbe	1	utils	tickets.DM-23835-gcc4927c4f1+1
 19.0.0-1-gd0d6709	0	pex_exceptions	19.0.0-3-ga84a0ef
 19.0.0-1-gd0d6709	0	sconsUtils	19.0.0-2-g1fb10ab
 19.0.0-1-gd0d6709	0	utils	19.0.0-8-g967c747
+19.0.0-1-gd0d6709	1	meas_base	19.0.0-8-gb750100
+19.0.0-1-gd0d6709	1	meas_algorithms	19.0.0-17-gde1f5b76+1
+19.0.0-1-gd0d6709	1	geom	19.0.0-3-g99a058e
+19.0.0-1-gd0d6709	1	afw	19.0.0-19-gda55c62e5
+19.0.0-1-gd0d6709	1	daf_base	19.0.0-2-g4aada73
+19.0.0-1-gd0d6709	1	pex_exceptions	19.0.0-3-ga84a0ef
+19.0.0-1-gd0d6709	1	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-1-gd0d6709	1	utils	19.0.0-8-g967c747

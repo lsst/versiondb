@@ -12015,3 +12015,11 @@ tickets.DM-23835-gcd5aab4176	0	geom	tickets.DM-23835-g1b0a77db9f+1
 19.0.0-2-gd82b0d5	0	sconsUtils	19.0.0-2-g1fb10ab
 19.0.0-2-gd82b0d5	0	utils	19.0.0-8-g967c747
 19.0.0-2-gd82b0d5	0	geom	19.0.0-3-g99a058e
+19.0.0-2-gd82b0d5	1	afw	19.0.0-19-gda55c62e5
+19.0.0-2-gd82b0d5	1	daf_base	19.0.0-2-g4aada73
+19.0.0-2-gd82b0d5	1	meas_algorithms	19.0.0-17-gde1f5b76+1
+19.0.0-2-gd82b0d5	1	meas_base	19.0.0-8-gb750100
+19.0.0-2-gd82b0d5	1	psfex	19.0.0-2-g082f1ba
+19.0.0-2-gd82b0d5	1	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-2-gd82b0d5	1	utils	19.0.0-8-g967c747
+19.0.0-2-gd82b0d5	1	geom	19.0.0-3-g99a058e

@@ -11871,3 +11871,9 @@ tickets.DM-23835-gbbca22be13	0	testdata_deblender	19.0.0-1-g8af30cc
 19.0.0-4-gc799371	0	sconsUtils	19.0.0-2-g1fb10ab
 19.0.0-4-gc799371	0	utils	19.0.0-8-g967c747
 19.0.0-4-gc799371	0	testdata_deblender	19.0.0-1-g8af30cc
+19.0.0-4-gc799371	1	afw	19.0.0-19-gda55c62e5
+19.0.0-4-gc799371	1	log	19.0.0-1-g1faeb96
+19.0.0-4-gc799371	1	meas_algorithms	19.0.0-17-gde1f5b76+1
+19.0.0-4-gc799371	1	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-4-gc799371	1	utils	19.0.0-8-g967c747
+19.0.0-4-gc799371	1	testdata_deblender	19.0.0-1-g8af30cc
