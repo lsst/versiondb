@@ -1712,3 +1712,12 @@ tickets.DM-23835-geef1caaf5c	0	testdata_deblender	tickets.DM-23835-g8af30cc6ee
 19.0.0-7-gdd218f3	15	meas_algorithms	19.0.0-16-g3dc1a33c+6
 19.0.0-7-gdd218f3	15	matplotlib	3.0.3
 19.0.0-7-gdd218f3	15	testdata_deblender	19.0.0-1-g8af30cc
+tickets.DM-23835-g462203a5fd	0	base	tickets.DM-23835-g79916f63b5+1
+tickets.DM-23835-g462203a5fd	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-g462203a5fd	0	log	tickets.DM-23835-ga043d0ed60+1
+tickets.DM-23835-g462203a5fd	0	scarlet	tickets.DM-23835-g5058579784
+tickets.DM-23835-g462203a5fd	0	log	tickets.DM-23835-ga043d0ed60+1
+tickets.DM-23835-g462203a5fd	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-g462203a5fd	0	pipe_base	tickets.DM-23835-gf5b21541de
+tickets.DM-23835-g462203a5fd	0	meas_algorithms	tickets.DM-23835-g64e252fb03
+tickets.DM-23835-g462203a5fd	0	testdata_deblender	19.0.0-1-g8af30cc

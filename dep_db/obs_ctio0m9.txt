@@ -4113,3 +4113,9 @@ tickets.DM-23835-gd2e4f7b082	0	ip_isr	tickets.DM-23835-g1cd95b7951
 19.0.0	86	numpy	1.16.2
 19.0.0	86	utils	19.0.0-7-g686a884+5
 19.0.0	86	ip_isr	19.0.0-21-ge306cd8
+tickets.DM-23835-gd2e4f7b082	1	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-gd2e4f7b082	1	daf_base	tickets.DM-23835-gc4ebd1af5c+1
+tickets.DM-23835-gd2e4f7b082	1	obs_base	tickets.DM-23835-g035f69d2bc
+tickets.DM-23835-gd2e4f7b082	1	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-gd2e4f7b082	1	utils	tickets.DM-23835-gcc4927c4f1+1
+tickets.DM-23835-gd2e4f7b082	1	ip_isr	tickets.DM-23835-g4bcadb93f8

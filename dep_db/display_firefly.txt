@@ -1382,3 +1382,7 @@ tickets.DM-23835-g8c57eb963c	0	firefly_client	tickets.DM-23835-g2f7191361c
 19.0.0	2	log	19.0.0+11
 19.0.0	2	firefly_client	lsst-dev-g97c9674977
 19.0.0	2	python_future	0.16.0+5
+19.0.0-1-g8c57eb9	32	afw	tickets.DM-23835-g747d2c249b
+19.0.0-1-g8c57eb9	32	geom	tickets.DM-23835-g1b0a77db9f+1
+19.0.0-1-g8c57eb9	32	log	tickets.DM-23835-ga043d0ed60+1
+19.0.0-1-g8c57eb9	32	firefly_client	tickets.DM-23835-g2f7191361c

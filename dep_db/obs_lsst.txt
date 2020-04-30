@@ -4038,3 +4038,13 @@ tickets.DM-23835-gc33c0dd0c3	0	daf_butler	tickets.DM-23835-g7094ce3391
 19.0.0-50-g973659e	2	astro_metadata_translator	0.1.0-10-gb976306+4
 19.0.0-50-g973659e	2	obs_lsst_data	19.0.0-3-g62ccb58
 19.0.0-50-g973659e	2	daf_butler	19.0.0-61-g682a47ad
+tickets.DM-23835-gba9c365275	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-gba9c365275	0	daf_base	tickets.DM-23835-gc4ebd1af5c+1
+tickets.DM-23835-gba9c365275	0	obs_base	tickets.DM-23835-g035f69d2bc
+tickets.DM-23835-gba9c365275	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-gba9c365275	0	utils	tickets.DM-23835-gcc4927c4f1+1
+tickets.DM-23835-gba9c365275	0	ip_isr	tickets.DM-23835-g4bcadb93f8
+tickets.DM-23835-gba9c365275	0	pipe_tasks	tickets.DM-23835-g8216a32ba5
+tickets.DM-23835-gba9c365275	0	astro_metadata_translator	tickets.DM-23835-g592071df3b+1
+tickets.DM-23835-gba9c365275	0	obs_lsst_data	19.0.0-3-g62ccb58
+tickets.DM-23835-gba9c365275	0	daf_butler	tickets.DM-23835-gf66795ffd9

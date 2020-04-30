@@ -2770,3 +2770,7 @@ tickets.DM-23835-g6096a76cb0	0	obs_subaru	tickets.DM-23835-g45b371edf0
 19.0.0-3-g176239d	9	obs_cfht	19.0.0-2-g1c952fe
 19.0.0-3-g176239d	9	obs_decam	19.0.0-21-gf122e69+2
 19.0.0-3-g176239d	9	obs_subaru	19.0.0-40-g59c90c19+2
+19.0.0-3-g176239d	10	obs_lsstSim	tickets.DM-23835-g196226c06f
+19.0.0-3-g176239d	10	obs_cfht	tickets.DM-23835-ge8a75b64ec
+19.0.0-3-g176239d	10	obs_decam	19.0.0-21-gf122e69+3
+19.0.0-3-g176239d	10	obs_subaru	tickets.DM-23835-g8660a1b5b0

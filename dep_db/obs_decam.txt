@@ -11149,3 +11149,17 @@ tickets.DM-23835-g99cd2d52ca	0	testdata_decam	tickets.DM-23835-gceb8033df3
 19.0.0-21-gf122e69	2	obs_decam_data	19.0.0
 19.0.0-21-gf122e69	2	geom	19.0.0-2-gde8e5e3+5
 19.0.0-21-gf122e69	2	testdata_decam	19.0.0-2-g9a3ee7c
+19.0.0-21-gf122e69	3	utils	tickets.DM-23835-gcc4927c4f1+1
+19.0.0-21-gf122e69	3	daf_persistence	tickets.DM-23835-gf6c78417ee
+19.0.0-21-gf122e69	3	obs_base	tickets.DM-23835-g035f69d2bc
+19.0.0-21-gf122e69	3	afw	tickets.DM-23835-g747d2c249b
+19.0.0-21-gf122e69	3	meas_algorithms	tickets.DM-23835-g64e252fb03
+19.0.0-21-gf122e69	3	pipe_tasks	tickets.DM-23835-g8216a32ba5
+19.0.0-21-gf122e69	3	pipe_base	tickets.DM-23835-gf5b21541de
+19.0.0-21-gf122e69	3	pex_exceptions	tickets.DM-23835-g2777954c74
+19.0.0-21-gf122e69	3	pex_config	tickets.DM-23835-g6f53a3f269
+19.0.0-21-gf122e69	3	ip_isr	tickets.DM-23835-g4bcadb93f8
+19.0.0-21-gf122e69	3	astro_metadata_translator	tickets.DM-23835-g592071df3b+1
+19.0.0-21-gf122e69	3	obs_decam_data	19.0.0
+19.0.0-21-gf122e69	3	geom	tickets.DM-23835-g1b0a77db9f+1
+19.0.0-21-gf122e69	3	testdata_decam	19.0.0-2-g9a3ee7c

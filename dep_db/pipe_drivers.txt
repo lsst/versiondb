@@ -6903,3 +6903,12 @@ tickets.DM-23835-gce3f959b9a	0	geom	tickets.DM-23835-g1b0a77db9f
 19.0.0-4-gac56cce	17	pipe_tasks	19.0.0-51-gfc4a647e
 19.0.0-4-gac56cce	17	astro_metadata_translator	0.1.0-10-gb976306+4
 19.0.0-4-gac56cce	17	geom	19.0.0-2-gde8e5e3+5
+19.0.0-4-gac56cce	18	ctrl_pool	tickets.DM-23835-g3a731fc9b4+1
+19.0.0-4-gac56cce	18	afw	tickets.DM-23835-g747d2c249b
+19.0.0-4-gac56cce	18	pex_exceptions	tickets.DM-23835-g2777954c74
+19.0.0-4-gac56cce	18	sphgeom	tickets.DM-23835-g652e91866a
+19.0.0-4-gac56cce	18	pex_config	tickets.DM-23835-g6f53a3f269
+19.0.0-4-gac56cce	18	pipe_base	tickets.DM-23835-gf5b21541de
+19.0.0-4-gac56cce	18	pipe_tasks	tickets.DM-23835-g8216a32ba5
+19.0.0-4-gac56cce	18	astro_metadata_translator	tickets.DM-23835-g592071df3b+1
+19.0.0-4-gac56cce	18	geom	tickets.DM-23835-g1b0a77db9f+1

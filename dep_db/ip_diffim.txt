@@ -22779,3 +22779,16 @@ tickets.DM-23835-gc122a6f8d5	0	afwdata	17.0+11
 19.0.0-17-g59f0e8a	4	geom	19.0.0-2-gde8e5e3+5
 19.0.0-17-g59f0e8a	4	afwdata	19.0.0-1-gd1c39c2
 19.0.0-17-g59f0e8a	4	matplotlib	3.0.3
+tickets.DM-23835-g1a4d734039	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-g1a4d734039	0	daf_base	tickets.DM-23835-gc4ebd1af5c+1
+tickets.DM-23835-g1a4d734039	0	daf_persistence	tickets.DM-23835-gf6c78417ee
+tickets.DM-23835-g1a4d734039	0	log	tickets.DM-23835-ga043d0ed60+1
+tickets.DM-23835-g1a4d734039	0	meas_algorithms	tickets.DM-23835-g64e252fb03
+tickets.DM-23835-g1a4d734039	0	meas_base	tickets.DM-23835-g45352d6373
+tickets.DM-23835-g1a4d734039	0	meas_deblender	tickets.DM-23835-gbbca22be13
+tickets.DM-23835-g1a4d734039	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-g1a4d734039	0	pipe_base	tickets.DM-23835-gf5b21541de
+tickets.DM-23835-g1a4d734039	0	utils	tickets.DM-23835-gcc4927c4f1+1
+tickets.DM-23835-g1a4d734039	0	verify	tickets.DM-23835-g8e76a75e71
+tickets.DM-23835-g1a4d734039	0	geom	tickets.DM-23835-g1b0a77db9f+1
+tickets.DM-23835-g1a4d734039	0	afwdata	19.0.0-1-gd1c39c2

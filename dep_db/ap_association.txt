@@ -2830,3 +2830,9 @@ tickets.DM-23835-gc7c5b82721	0	verify	tickets.DM-23835-g999f169a4c
 19.0.0-17-g87367c6	3	verify	19.0.0-11-ga3fec04+18
 19.0.0-17-g87367c6	3	numpy	1.16.2
 19.0.0-17-g87367c6	3	scipy	1.2.1
+tickets.DM-23835-g07bb665303	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-g07bb665303	0	meas_algorithms	tickets.DM-23835-g64e252fb03
+tickets.DM-23835-g07bb665303	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-g07bb665303	0	pipe_base	tickets.DM-23835-gf5b21541de
+tickets.DM-23835-g07bb665303	0	dax_apdb	tickets.DM-23835-g3326dc74b0
+tickets.DM-23835-g07bb665303	0	verify	tickets.DM-23835-g8e76a75e71

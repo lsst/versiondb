@@ -15926,3 +15926,11 @@ tickets.DM-23835-gdbbb071be2	0	geom	tickets.DM-23835-g1b0a77db9f
 19.0.0-1-g8e7b9c6	2	log	19.0.0+10
 19.0.0-1-g8e7b9c6	2	astropy	3.1.2.lsst2
 19.0.0-1-g8e7b9c6	2	geom	19.0.0-2-gde8e5e3+5
+tickets.DM-23835-ga05d9a4f9b	0	obs_base	tickets.DM-23835-g035f69d2bc
+tickets.DM-23835-ga05d9a4f9b	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-ga05d9a4f9b	0	meas_algorithms	tickets.DM-23835-g64e252fb03
+tickets.DM-23835-ga05d9a4f9b	0	meas_astrom	tickets.DM-23835-g2dcc972015
+tickets.DM-23835-ga05d9a4f9b	0	pipe_tasks	tickets.DM-23835-g8216a32ba5
+tickets.DM-23835-ga05d9a4f9b	0	utils	tickets.DM-23835-gcc4927c4f1+1
+tickets.DM-23835-ga05d9a4f9b	0	log	tickets.DM-23835-ga043d0ed60+1
+tickets.DM-23835-ga05d9a4f9b	0	geom	tickets.DM-23835-g1b0a77db9f+1

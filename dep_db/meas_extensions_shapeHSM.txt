@@ -8007,3 +8007,11 @@ tickets.DM-23835-ga878f8cdbe	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0	80	pybind11	2.2.4.lsst2
 19.0.0	80	sconsUtils	19.0.0-1-g80d1608
 19.0.0	80	utils	19.0.0-7-g686a884+5
+tickets.DM-23835-ga878f8cdbe	1	meas_base	tickets.DM-23835-g45352d6373
+tickets.DM-23835-ga878f8cdbe	1	meas_algorithms	tickets.DM-23835-g64e252fb03
+tickets.DM-23835-ga878f8cdbe	1	geom	tickets.DM-23835-g1b0a77db9f+1
+tickets.DM-23835-ga878f8cdbe	1	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-ga878f8cdbe	1	daf_base	tickets.DM-23835-gc4ebd1af5c+1
+tickets.DM-23835-ga878f8cdbe	1	pex_exceptions	tickets.DM-23835-g2777954c74
+tickets.DM-23835-ga878f8cdbe	1	sconsUtils	tickets.DM-23835-g48994a59fc
+tickets.DM-23835-ga878f8cdbe	1	utils	tickets.DM-23835-gcc4927c4f1+1

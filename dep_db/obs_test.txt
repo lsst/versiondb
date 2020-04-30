@@ -10026,3 +10026,10 @@ tickets.DM-23835-ga5e717932e	0	pipe_base	tickets.DM-23835-g42cd5aae5d
 19.0.0-3-g2d43a51	2	obs_test_data	19.0.0
 19.0.0-3-g2d43a51	2	pipe_base	19.0.0-17-g9c22e3c+9
 19.0.0-3-g2d43a51	2	astropy	3.1.2.lsst2
+tickets.DM-23835-g4f66f03920	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-g4f66f03920	0	daf_base	tickets.DM-23835-gc4ebd1af5c+1
+tickets.DM-23835-g4f66f03920	0	obs_base	tickets.DM-23835-g035f69d2bc
+tickets.DM-23835-g4f66f03920	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-g4f66f03920	0	utils	tickets.DM-23835-gcc4927c4f1+1
+tickets.DM-23835-g4f66f03920	0	obs_test_data	19.0.0
+tickets.DM-23835-g4f66f03920	0	pipe_base	tickets.DM-23835-gf5b21541de

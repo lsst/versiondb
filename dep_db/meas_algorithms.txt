@@ -19392,3 +19392,16 @@ tickets.DM-23835-ga6ed9de832	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0-16-g3dc1a33c	6	sconsUtils	19.0.0-1-g80d1608
 19.0.0-16-g3dc1a33c	6	utils	19.0.0-7-g686a884+5
 19.0.0-16-g3dc1a33c	6	pybind11	2.2.4.lsst2
+tickets.DM-23835-g64e252fb03	0	astshim	tickets.DM-23835-g6b7c2f671f+1
+tickets.DM-23835-g64e252fb03	0	daf_base	tickets.DM-23835-gc4ebd1af5c+1
+tickets.DM-23835-g64e252fb03	0	daf_persistence	tickets.DM-23835-gf6c78417ee
+tickets.DM-23835-g64e252fb03	0	geom	tickets.DM-23835-g1b0a77db9f+1
+tickets.DM-23835-g64e252fb03	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-g64e252fb03	0	log	tickets.DM-23835-ga043d0ed60+1
+tickets.DM-23835-g64e252fb03	0	meas_base	tickets.DM-23835-g45352d6373
+tickets.DM-23835-g64e252fb03	0	obs_test	tickets.DM-23835-g4f66f03920
+tickets.DM-23835-g64e252fb03	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-g64e252fb03	0	pex_exceptions	tickets.DM-23835-g2777954c74
+tickets.DM-23835-g64e252fb03	0	pipe_base	tickets.DM-23835-gf5b21541de
+tickets.DM-23835-g64e252fb03	0	sconsUtils	tickets.DM-23835-g48994a59fc
+tickets.DM-23835-g64e252fb03	0	utils	tickets.DM-23835-gcc4927c4f1+1

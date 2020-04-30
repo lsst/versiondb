@@ -17258,3 +17258,11 @@ tickets.DM-23835-g5ea3a5f9f2	0	utils	tickets.DM-23835-gcc4927c4f1
 19.0.0-2-gd6f004e	6	utils	19.0.0-7-g686a884+5
 19.0.0-2-gd6f004e	6	numpy	1.16.2
 19.0.0-2-gd6f004e	6	matplotlib	3.0.3
+tickets.DM-23835-g2dcc972015	0	geom	tickets.DM-23835-g1b0a77db9f+1
+tickets.DM-23835-g2dcc972015	0	sphgeom	tickets.DM-23835-g652e91866a
+tickets.DM-23835-g2dcc972015	0	afw	tickets.DM-23835-g747d2c249b
+tickets.DM-23835-g2dcc972015	0	log	tickets.DM-23835-ga043d0ed60+1
+tickets.DM-23835-g2dcc972015	0	meas_algorithms	tickets.DM-23835-g64e252fb03
+tickets.DM-23835-g2dcc972015	0	pex_config	tickets.DM-23835-g6f53a3f269
+tickets.DM-23835-g2dcc972015	0	pipe_base	tickets.DM-23835-gf5b21541de
+tickets.DM-23835-g2dcc972015	0	utils	tickets.DM-23835-gcc4927c4f1+1

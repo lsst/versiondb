@@ -4832,3 +4832,7 @@ tickets.DM-23835-g36382b0fde	0	log	tickets.DM-23835-ga043d0ed60
 19.0.0	2	pex_config	19.0.0+3
 19.0.0	2	daf_persistence	19.0.0+2
 19.0.0	2	log	19.0.0+11
+19.0.0-1-g36382b0	17	utils	tickets.DM-23835-gcc4927c4f1+1
+19.0.0-1-g36382b0	17	pex_config	tickets.DM-23835-g6f53a3f269
+19.0.0-1-g36382b0	17	daf_persistence	tickets.DM-23835-gf6c78417ee
+19.0.0-1-g36382b0	17	log	tickets.DM-23835-ga043d0ed60+1
