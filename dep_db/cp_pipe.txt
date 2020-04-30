@@ -2103,3 +2103,9 @@ tickets.DM-23835-g079e42630d	0	meas_algorithms	tickets.DM-23835-ga6ed9de832
 19.0.0-14-g7511ce4	5	ip_isr	19.0.0-19-ga9bf60b+1
 19.0.0-14-g7511ce4	5	afw	19.0.0-18-g35bb99870+2
 19.0.0-14-g7511ce4	5	meas_algorithms	19.0.0-16-g3dc1a33c+5
+19.0.0-14-g7511ce4	6	pex_config	19.0.0-8-g305ff64
+19.0.0-14-g7511ce4	6	pipe_base	19.0.0-17-g9c22e3c+9
+19.0.0-14-g7511ce4	6	log	19.0.0+10
+19.0.0-14-g7511ce4	6	ip_isr	19.0.0-21-ge306cd8
+19.0.0-14-g7511ce4	6	afw	19.0.0-18-g35bb99870+2
+19.0.0-14-g7511ce4	6	meas_algorithms	19.0.0-16-g3dc1a33c+6
