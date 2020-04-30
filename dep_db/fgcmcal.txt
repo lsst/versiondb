@@ -6027,3 +6027,12 @@ tickets.DM-23835-g7bd64d0073	0	pipe_tasks	tickets.DM-23835-g8216a32ba5
 tickets.DM-23835-g7bd64d0073	0	fgcm	tickets.DM-23835-geb24413433
 tickets.DM-23835-g7bd64d0073	0	jointcal	tickets.DM-23835-ga3ad80a754
 tickets.DM-23835-g7bd64d0073	0	testdata_jointcal	19.0.0-3-g176239d+10
+19.0.0-20-g3336a1e	0	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-20-g3336a1e	0	afw	19.0.0-19-gda55c62e5
+19.0.0-20-g3336a1e	0	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-20-g3336a1e	0	obs_base	19.0.0-50-gfab7359
+19.0.0-20-g3336a1e	0	pex_config	19.0.0-9-g98aad11
+19.0.0-20-g3336a1e	0	pipe_tasks	19.0.0-52-g4cc338d0
+19.0.0-20-g3336a1e	0	fgcm	lsst-dev-g2c16a2033a
+19.0.0-20-g3336a1e	0	jointcal	19.0.0-6-gce3e386
+19.0.0-20-g3336a1e	0	testdata_jointcal	19.0.0-3-g176239d+11

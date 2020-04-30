@@ -4230,3 +4230,13 @@ tickets.DM-23835-gdcbb01c9ee	0	ap_verify_testdata	19.0.0+79
 tickets.DM-23835-gdcbb01c9ee	0	obs_test	tickets.DM-23835-g4f66f03920
 tickets.DM-23835-gdcbb01c9ee	0	ip_diffim	tickets.DM-23835-g1a4d734039
 tickets.DM-23835-gdcbb01c9ee	0	ap_association	tickets.DM-23835-g07bb665303
+19.0.0-9-g697e78b	0	utils	19.0.0-8-g967c747
+19.0.0-9-g697e78b	0	afw	19.0.0-19-gda55c62e5
+19.0.0-9-g697e78b	0	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-9-g697e78b	0	pipe_tasks	19.0.0-52-g4cc338d0
+19.0.0-9-g697e78b	0	verify	19.0.0-12-gae03c70
+19.0.0-9-g697e78b	0	ap_pipe	19.0.0-8-g326ba0f+4
+19.0.0-9-g697e78b	0	ap_verify_testdata	19.0.0+80
+19.0.0-9-g697e78b	0	obs_test	19.0.0-4-gb666382
+19.0.0-9-g697e78b	0	ip_diffim	19.0.0-18-g96083c2
+19.0.0-9-g697e78b	0	ap_association	19.0.0-18-ge32f237

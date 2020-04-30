@@ -4989,3 +4989,11 @@ tickets.DM-23835-g8e76a75e71	0	daf_butler	tickets.DM-23835-gf66795ffd9
 tickets.DM-23835-g8e76a75e71	0	pipe_base	tickets.DM-23835-gf5b21541de
 tickets.DM-23835-g8e76a75e71	0	dax_apdb	tickets.DM-23835-g3326dc74b0
 tickets.DM-23835-g8e76a75e71	0	verify_metrics	19.0.0-1-g8efd64f+4
+19.0.0-12-gae03c70	0	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-12-gae03c70	0	utils	19.0.0-8-g967c747
+19.0.0-12-gae03c70	0	log	19.0.0-1-g1faeb96
+19.0.0-12-gae03c70	0	pex_config	19.0.0-9-g98aad11
+19.0.0-12-gae03c70	0	daf_butler	19.0.0-63-g0d85109a
+19.0.0-12-gae03c70	0	pipe_base	19.0.0-18-gfb21c91
+19.0.0-12-gae03c70	0	dax_apdb	19.0.0-3-gbea416a
+19.0.0-12-gae03c70	0	verify_metrics	19.0.0-1-g8efd64f+5

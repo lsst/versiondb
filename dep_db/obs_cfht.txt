@@ -5654,3 +5654,11 @@ tickets.DM-23835-ge8a75b64ec	0	pipe_tasks	tickets.DM-23835-g8216a32ba5
 tickets.DM-23835-ge8a75b64ec	0	astro_metadata_translator	tickets.DM-23835-g592071df3b+1
 tickets.DM-23835-ge8a75b64ec	0	geom	tickets.DM-23835-g1b0a77db9f+1
 tickets.DM-23835-ge8a75b64ec	0	testdata_cfht	14.0
+19.0.0-3-g54c4654	0	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-3-g54c4654	0	obs_base	19.0.0-50-gfab7359
+19.0.0-3-g54c4654	0	meas_algorithms	19.0.0-17-gde1f5b76
+19.0.0-3-g54c4654	0	meas_astrom	19.0.0-3-gc851abf
+19.0.0-3-g54c4654	0	pipe_tasks	19.0.0-52-g4cc338d0
+19.0.0-3-g54c4654	0	astro_metadata_translator	0.1.0-11-g452a59e
+19.0.0-3-g54c4654	0	geom	19.0.0-3-g99a058e
+19.0.0-3-g54c4654	0	testdata_cfht	14.0
