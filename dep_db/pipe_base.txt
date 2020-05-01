@@ -8994,3 +8994,9 @@ tickets.DM-23835-gf5b21541de	0	afw	tickets.DM-23835-g747d2c249b
 19.0.0-18-gfb21c91	0	pex_config	19.0.0-9-g98aad11
 19.0.0-18-gfb21c91	0	utils	19.0.0-8-g967c747
 19.0.0-18-gfb21c91	0	afw	19.0.0-19-gda55c62e5
+19.0.0-18-gfb21c91	1	daf_butler	19.0.0-64-g95e41e1e
+19.0.0-18-gfb21c91	1	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-18-gfb21c91	1	log	19.0.0-1-g1faeb96
+19.0.0-18-gfb21c91	1	pex_config	19.0.0-9-g98aad11
+19.0.0-18-gfb21c91	1	utils	19.0.0-8-g967c747
+19.0.0-18-gfb21c91	1	afw	19.0.0-19-gda55c62e5

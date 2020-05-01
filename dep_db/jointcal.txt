@@ -12009,3 +12009,17 @@ tickets.DM-23835-ga3ad80a754	0	testdata_jointcal	19.0.0-3-g176239d+10
 19.0.0-6-gce3e386	1	verify_metrics	19.0.0-1-g8efd64f+5
 19.0.0-6-gce3e386	1	obs_cfht	19.0.0-3-g54c4654+1
 19.0.0-6-gce3e386	1	testdata_jointcal	19.0.0-3-g176239d+12
+19.0.0-6-gce3e386	2	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-6-gce3e386	2	eigen	3.3.7.lsst2
+19.0.0-6-gce3e386	2	afw	19.0.0-19-gda55c62e5
+19.0.0-6-gce3e386	2	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-6-gce3e386	2	obs_base	19.0.0-51-gb87bce2+1
+19.0.0-6-gce3e386	2	pex_exceptions	19.0.0-3-ga84a0ef
+19.0.0-6-gce3e386	2	pex_config	19.0.0-9-g98aad11
+19.0.0-6-gce3e386	2	meas_algorithms	19.0.0-17-gde1f5b76+2
+19.0.0-6-gce3e386	2	pipe_tasks	19.0.0-54-g1bde8684
+19.0.0-6-gce3e386	2	jointcal_cholmod	master-g07e7fe1603
+19.0.0-6-gce3e386	2	verify	19.0.0-12-gae03c70+1
+19.0.0-6-gce3e386	2	verify_metrics	19.0.0-1-g8efd64f+5
+19.0.0-6-gce3e386	2	obs_cfht	19.0.0-3-g54c4654+2
+19.0.0-6-gce3e386	2	testdata_jointcal	19.0.0-4-g362a323

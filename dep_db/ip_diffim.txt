@@ -22818,3 +22818,16 @@ tickets.DM-23835-g1a4d734039	0	afwdata	19.0.0-1-gd1c39c2
 19.0.0-19-gb85e94b	0	verify	19.0.0-12-gae03c70
 19.0.0-19-gb85e94b	0	geom	19.0.0-3-g99a058e
 19.0.0-19-gb85e94b	0	afwdata	19.0.0-1-gd1c39c2
+19.0.0-19-gb85e94b	1	afw	19.0.0-19-gda55c62e5
+19.0.0-19-gb85e94b	1	daf_base	19.0.0-2-g4aada73
+19.0.0-19-gb85e94b	1	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-19-gb85e94b	1	log	19.0.0-1-g1faeb96
+19.0.0-19-gb85e94b	1	meas_algorithms	19.0.0-17-gde1f5b76+2
+19.0.0-19-gb85e94b	1	meas_base	19.0.0-8-gb750100+1
+19.0.0-19-gb85e94b	1	meas_deblender	19.0.0-4-gc799371+2
+19.0.0-19-gb85e94b	1	pex_config	19.0.0-9-g98aad11
+19.0.0-19-gb85e94b	1	pipe_base	19.0.0-18-gfb21c91+1
+19.0.0-19-gb85e94b	1	utils	19.0.0-8-g967c747
+19.0.0-19-gb85e94b	1	verify	19.0.0-12-gae03c70+1
+19.0.0-19-gb85e94b	1	geom	19.0.0-3-g99a058e
+19.0.0-19-gb85e94b	1	afwdata	19.0.0-1-gd1c39c2

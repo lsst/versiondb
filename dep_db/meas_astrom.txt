@@ -17282,3 +17282,11 @@ tickets.DM-23835-g2dcc972015	0	utils	tickets.DM-23835-gcc4927c4f1+1
 19.0.0-3-gc851abf	1	pex_config	19.0.0-9-g98aad11
 19.0.0-3-gc851abf	1	pipe_base	19.0.0-18-gfb21c91
 19.0.0-3-gc851abf	1	utils	19.0.0-8-g967c747
+19.0.0-3-gc851abf	2	geom	19.0.0-3-g99a058e
+19.0.0-3-gc851abf	2	sphgeom	19.0.0-3-gc70e9ed
+19.0.0-3-gc851abf	2	afw	19.0.0-19-gda55c62e5
+19.0.0-3-gc851abf	2	log	19.0.0-1-g1faeb96
+19.0.0-3-gc851abf	2	meas_algorithms	19.0.0-17-gde1f5b76+2
+19.0.0-3-gc851abf	2	pex_config	19.0.0-9-g98aad11
+19.0.0-3-gc851abf	2	pipe_base	19.0.0-18-gfb21c91+1
+19.0.0-3-gc851abf	2	utils	19.0.0-8-g967c747

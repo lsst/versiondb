@@ -10047,3 +10047,10 @@ tickets.DM-23835-g4f66f03920	0	pipe_base	tickets.DM-23835-gf5b21541de
 19.0.0-4-gb666382	1	utils	19.0.0-8-g967c747
 19.0.0-4-gb666382	1	obs_test_data	19.0.0
 19.0.0-4-gb666382	1	pipe_base	19.0.0-18-gfb21c91
+19.0.0-4-gb666382	2	afw	19.0.0-19-gda55c62e5
+19.0.0-4-gb666382	2	daf_base	19.0.0-2-g4aada73
+19.0.0-4-gb666382	2	obs_base	19.0.0-51-gb87bce2+1
+19.0.0-4-gb666382	2	pex_config	19.0.0-9-g98aad11
+19.0.0-4-gb666382	2	utils	19.0.0-8-g967c747
+19.0.0-4-gb666382	2	obs_test_data	19.0.0
+19.0.0-4-gb666382	2	pipe_base	19.0.0-18-gfb21c91+1
