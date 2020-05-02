@@ -1656,3 +1656,10 @@ u.danielsf.fix_rotskypos-g3f23058b04	1	sims_data	2015.02.05
 2.13.0.sims-41-ga16ce87	0	astropy	3.1.2.lsst2
 2.13.0.sims-41-ga16ce87	0	healpy	1.10.3.lsst2+5
 2.13.0.sims-41-ga16ce87	0	sims_data	2018.05.08
+2.13.0.sims-41-ga16ce87	1	utils	19.0.0-8-g967c747
+2.13.0.sims-41-ga16ce87	1	python	3.7
+2.13.0.sims-41-ga16ce87	1	python_future	0.16.0+5
+2.13.0.sims-41-ga16ce87	1	palpy	1.8.1+6
+2.13.0.sims-41-ga16ce87	1	astropy	3.1.2.lsst2
+2.13.0.sims-41-ga16ce87	1	healpy	1.10.3.lsst2+5
+2.13.0.sims-41-ga16ce87	1	sims_data	2018.05.08
