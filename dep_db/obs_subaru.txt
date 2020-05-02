@@ -13680,3 +13680,17 @@ tickets.DM-23835-g8660a1b5b0	0	testdata_subaru	19.0.0
 19.0.0-42-g7e376851	1	meas_extensions_psfex	19.0.0-2-gd82b0d5+2
 19.0.0-42-g7e376851	1	meas_extensions_shapeHSM	19.0.0-1-gd0d6709+2
 19.0.0-42-g7e376851	1	testdata_subaru	19.0.0
+19.0.0-43-gf88d43ed	0	daf_persistence	19.0.0-5-g24a5ec6
+19.0.0-43-gf88d43ed	0	obs_base	19.0.0-53-gf4ac060
+19.0.0-43-gf88d43ed	0	pipe_tasks	19.0.0-55-g5222f1c4
+19.0.0-43-gf88d43ed	0	meas_astrom	19.0.0-3-gc851abf+3
+19.0.0-43-gf88d43ed	0	sconsUtils	19.0.0-2-g1fb10ab
+19.0.0-43-gf88d43ed	0	astshim	19.0.0-2-g6e0b8f9
+19.0.0-43-gf88d43ed	0	astro_metadata_translator	0.1.0-11-g452a59e
+19.0.0-43-gf88d43ed	0	obs_subaru_data	19.0.0-1-g81f4c9d
+19.0.0-43-gf88d43ed	0	geom	19.0.0-3-g99a058e
+19.0.0-43-gf88d43ed	0	daf_butler	19.0.0-65-ga8942968
+19.0.0-43-gf88d43ed	0	meas_modelfit	19.0.0-6-g4aaee92+3
+19.0.0-43-gf88d43ed	0	meas_extensions_psfex	19.0.0-2-gd82b0d5+3
+19.0.0-43-gf88d43ed	0	meas_extensions_shapeHSM	19.0.0-1-gd0d6709+3
+19.0.0-43-gf88d43ed	0	testdata_subaru	19.0.0
