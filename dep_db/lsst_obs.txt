@@ -9031,3 +9031,13 @@ master-g489e6e60e2	41	testdata_decam	12.1-3-gfbd6eff
 19.0.0-1-g9569ba2	2	testdata_cfht	14.0
 19.0.0-1-g9569ba2	2	testdata_subaru	19.0.0
 19.0.0-1-g9569ba2	2	testdata_decam	19.0.0-2-g9a3ee7c
+19.0.0-1-g9569ba2	3	obs_cfht	19.0.0-3-g54c4654+5
+19.0.0-1-g9569ba2	3	obs_ctio0m9	19.0.0-1-g96ffb03+5
+19.0.0-1-g9569ba2	3	obs_decam	19.0.0-23-g2f46faf+2
+19.0.0-1-g9569ba2	3	obs_lsst	19.0.0-53-g56b0ea1+2
+19.0.0-1-g9569ba2	3	obs_subaru	19.0.0-44-g2cc45910
+19.0.0-1-g9569ba2	3	obs_test	19.0.0-5-g309d03d
+19.0.0-1-g9569ba2	3	obs_sdss	19.0.0-2-gb993d36+5
+19.0.0-1-g9569ba2	3	testdata_cfht	14.0
+19.0.0-1-g9569ba2	3	testdata_subaru	19.0.0
+19.0.0-1-g9569ba2	3	testdata_decam	19.0.0-2-g9a3ee7c
