@@ -1296,3 +1296,7 @@ master-g68a5757bc4	12	utils	12.1-2-gd71c75d+4
 2.13.0.sims-5-g0316a32	15	sims_utils	2.13.0.sims-41-ga16ce87+1
 2.13.0.sims-5-g0316a32	15	sqlalchemy	1.3.8
 2.13.0.sims-5-g0316a32	15	utils	19.0.0-8-g967c747
+tickets.DM-24742-g8bba5e8beb	0	daf_persistence	19.0.0-6-g60c8ecb
+tickets.DM-24742-g8bba5e8beb	0	pymssql	tickets.DM-24742-g3f3d62ec1a
+tickets.DM-24742-g8bba5e8beb	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-g8bba5e8beb	0	utils	19.0.0-8-g967c747+1

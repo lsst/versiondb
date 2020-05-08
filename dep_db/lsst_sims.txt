@@ -14302,3 +14302,16 @@ sims_2.2.5	5	sims_movingObjects	sims_2.2.5+1
 2.13.0.sims-3-gec5618e	59	sims_survey_fields	2.6.0.sims+43
 2.13.0.sims-3-gec5618e	59	sims_featureScheduler	master-g38f5c941ab+1
 2.13.0.sims-3-gec5618e	59	obs_lsst	19.0.0-53-g56b0ea1
+2.13.0.sims-3-gec5618e	60	sims_maf	tickets.DM-24742-g9d5f2e6c37
+2.13.0.sims-3-gec5618e	60	sims_GalSimInterface	tickets.DM-24742-g10e3b91fc8
+2.13.0.sims-3-gec5618e	60	sims_catUtils	tickets.DM-24742-g327a1a19c1
+2.13.0.sims-3-gec5618e	60	sims_catalogs	tickets.DM-24742-g8bba5e8beb
+2.13.0.sims-3-gec5618e	60	sims_sed_library	2017.01.24
+2.13.0.sims-3-gec5618e	60	sims_maps	tickets.DM-24742-g690cc68edd
+2.13.0.sims-3-gec5618e	60	sims_skybrightness	tickets.DM-24742-ga6289a6d0e
+2.13.0.sims-3-gec5618e	60	sims_skybrightness_pre	tickets.DM-24742-ge8bda3dcca
+2.13.0.sims-3-gec5618e	60	sncosmo	tickets.DM-24742-g7eac5a0f3b
+2.13.0.sims-3-gec5618e	60	ephem	tickets.DM-24742-g24f3e2400e
+2.13.0.sims-3-gec5618e	60	sims_survey_fields	tickets.DM-24742-g5905d48dc7
+2.13.0.sims-3-gec5618e	60	sims_featureScheduler	tickets.DM-24742-g978eab9d7b
+2.13.0.sims-3-gec5618e	60	obs_lsst	19.0.0-53-g56b0ea1+5

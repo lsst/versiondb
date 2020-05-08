@@ -19450,3 +19450,14 @@ u.danielsf.astropy_helpers-gae4042d311	0	obs_lsstSim	16.0-4-g7986501+21
 2.13.0.sims-42-gf4e5abe8	0	sims_maps	2017.05.08-7-g75a3b37
 2.13.0.sims-42-gf4e5abe8	0	sims_survey_fields	2.6.0.sims+43
 2.13.0.sims-42-gf4e5abe8	0	obs_lsstSim	19.0.0-4-g5b43909+3
+tickets.DM-24742-g9d5f2e6c37	0	base	19.0.0-4-gb4e0033
+tickets.DM-24742-g9d5f2e6c37	0	ephem	tickets.DM-24742-g24f3e2400e
+tickets.DM-24742-g9d5f2e6c37	0	palpy	tickets.DM-24742-ga0b3ab3150
+tickets.DM-24742-g9d5f2e6c37	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-g9d5f2e6c37	0	sims_data	2018.05.08
+tickets.DM-24742-g9d5f2e6c37	0	sims_catalogs	tickets.DM-24742-g8bba5e8beb
+tickets.DM-24742-g9d5f2e6c37	0	sims_photUtils	tickets.DM-24742-gfde2ee3cce
+tickets.DM-24742-g9d5f2e6c37	0	sims_coordUtils	tickets.DM-24742-gd444178b61
+tickets.DM-24742-g9d5f2e6c37	0	sims_maps	tickets.DM-24742-g690cc68edd
+tickets.DM-24742-g9d5f2e6c37	0	sims_survey_fields	tickets.DM-24742-g5905d48dc7
+tickets.DM-24742-g9d5f2e6c37	0	obs_lsstSim	19.0.0-4-g5b43909+6

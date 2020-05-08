@@ -1663,3 +1663,6 @@ u.danielsf.fix_rotskypos-g3f23058b04	1	sims_data	2015.02.05
 2.13.0.sims-41-ga16ce87	1	astropy	3.1.2.lsst2
 2.13.0.sims-41-ga16ce87	1	healpy	1.10.3.lsst2+5
 2.13.0.sims-41-ga16ce87	1	sims_data	2018.05.08
+tickets.DM-24742-g7cf5e9ce5c	0	utils	19.0.0-8-g967c747+1
+tickets.DM-24742-g7cf5e9ce5c	0	palpy	tickets.DM-24742-ga0b3ab3150
+tickets.DM-24742-g7cf5e9ce5c	0	sims_data	2018.05.08

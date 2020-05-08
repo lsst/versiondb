@@ -7290,3 +7290,6 @@ sims_2.2.6	0	astropy	0.0.1.lsst2
 2.13.0.sims-1-g60d0775	32	python	3.7
 2.13.0.sims-1-g60d0775	32	throughputs	2019.07.02-2-g58f0f27
 2.13.0.sims-1-g60d0775	32	astropy	3.1.2.lsst2
+tickets.DM-24742-gfde2ee3cce	0	utils	19.0.0-8-g967c747+1
+tickets.DM-24742-gfde2ee3cce	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-gfde2ee3cce	0	throughputs	2019.07.02-2-g58f0f27

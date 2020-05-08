@@ -6798,3 +6798,11 @@ u.danielsf.fix_rotskypos-gce9f1515e4	0	obs_lsstSim	13.0-13-g177be6f+6
 2.13.0.sims-12-g1d3da73	20	sims_catalogs	2.13.0.sims-5-g0316a32+15
 2.13.0.sims-12-g1d3da73	20	sims_catUtils	2.13.0.sims-8-gaeaf9bd8+8
 2.13.0.sims-12-g1d3da73	20	obs_lsstSim	19.0.0-4-g5b43909+3
+tickets.DM-24742-g10e3b91fc8	0	meas_astrom	19.0.0-3-gc851abf+8
+tickets.DM-24742-g10e3b91fc8	0	afw	19.0.0-22-gd98cb7f78+2
+tickets.DM-24742-g10e3b91fc8	0	geom	19.0.0-3-g99a058e+1
+tickets.DM-24742-g10e3b91fc8	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-g10e3b91fc8	0	sims_coordUtils	tickets.DM-24742-gd444178b61
+tickets.DM-24742-g10e3b91fc8	0	sims_catalogs	tickets.DM-24742-g8bba5e8beb
+tickets.DM-24742-g10e3b91fc8	0	sims_catUtils	tickets.DM-24742-g327a1a19c1
+tickets.DM-24742-g10e3b91fc8	0	obs_lsstSim	19.0.0-4-g5b43909+6

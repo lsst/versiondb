@@ -782,3 +782,13 @@ master-g38f5c941ab	1	sims_downtimeModel	master-g55f72efa65+9
 master-g38f5c941ab	1	sims_survey_fields	2.6.0.sims+43
 master-g38f5c941ab	1	sims_almanac	master-g420e492ac3+14
 master-g38f5c941ab	1	ts_observatory_model	master-g3d307a5f45+39
+tickets.DM-24742-g978eab9d7b	0	base	19.0.0-4-gb4e0033
+tickets.DM-24742-g978eab9d7b	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-g978eab9d7b	0	sims_skybrightness_pre	tickets.DM-24742-ge8bda3dcca
+tickets.DM-24742-g978eab9d7b	0	ephem	tickets.DM-24742-g24f3e2400e
+tickets.DM-24742-g978eab9d7b	0	sims_seeingModel	master-ga4bf72ea44+11
+tickets.DM-24742-g978eab9d7b	0	sims_cloudModel	master-ge3724df529+11
+tickets.DM-24742-g978eab9d7b	0	sims_downtimeModel	master-g55f72efa65+10
+tickets.DM-24742-g978eab9d7b	0	sims_survey_fields	tickets.DM-24742-g5905d48dc7
+tickets.DM-24742-g978eab9d7b	0	sims_almanac	tickets.DM-24742-gf8e8d8f367
+tickets.DM-24742-g978eab9d7b	0	ts_observatory_model	tickets.DM-24742-gf22b923f34

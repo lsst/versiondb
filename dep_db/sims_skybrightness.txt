@@ -2367,3 +2367,10 @@ sims_2.2.6	0	healpy	1.8.1.lsst2+1
 2.13.0.sims-2-g79b6a57	8	sims_skybrightness_data	2017.05.05-1-g01a98f8
 2.13.0.sims-2-g79b6a57	8	healpy	1.10.3.lsst2+5
 2.13.0.sims-2-g79b6a57	8	python_future	0.16.0+5
+tickets.DM-24742-ga6289a6d0e	0	base	19.0.0-4-gb4e0033
+tickets.DM-24742-ga6289a6d0e	0	ephem	tickets.DM-24742-g24f3e2400e
+tickets.DM-24742-ga6289a6d0e	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-ga6289a6d0e	0	sims_photUtils	tickets.DM-24742-gfde2ee3cce
+tickets.DM-24742-ga6289a6d0e	0	utils	19.0.0-8-g967c747+1
+tickets.DM-24742-ga6289a6d0e	0	throughputs	2019.07.02-2-g58f0f27
+tickets.DM-24742-ga6289a6d0e	0	sims_skybrightness_data	2017.05.05-1-g01a98f8

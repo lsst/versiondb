@@ -7449,3 +7449,9 @@ u.danielsf.fix_rotskypos-g6b744ce090	1	obs_lsstSim	13.0-15-g29533ec+8
 2.13.0.sims-4-g5ebaff5	20	afw	19.0.0-22-gd98cb7f78
 2.13.0.sims-4-g5ebaff5	20	sims_utils	2.13.0.sims-41-ga16ce87+1
 2.13.0.sims-4-g5ebaff5	20	obs_lsstSim	19.0.0-4-g5b43909+3
+tickets.DM-24742-gd444178b61	0	base	19.0.0-4-gb4e0033
+tickets.DM-24742-gd444178b61	0	utils	19.0.0-8-g967c747+1
+tickets.DM-24742-gd444178b61	0	geom	19.0.0-3-g99a058e+1
+tickets.DM-24742-gd444178b61	0	afw	19.0.0-22-gd98cb7f78+2
+tickets.DM-24742-gd444178b61	0	sims_utils	tickets.DM-24742-g7cf5e9ce5c
+tickets.DM-24742-gd444178b61	0	obs_lsstSim	19.0.0-4-g5b43909+6
