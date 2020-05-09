@@ -6806,3 +6806,13 @@ tickets.DM-24742-g10e3b91fc8	0	sims_coordUtils	tickets.DM-24742-gd444178b61
 tickets.DM-24742-g10e3b91fc8	0	sims_catalogs	tickets.DM-24742-g8bba5e8beb
 tickets.DM-24742-g10e3b91fc8	0	sims_catUtils	tickets.DM-24742-g327a1a19c1
 tickets.DM-24742-g10e3b91fc8	0	obs_lsstSim	19.0.0-4-g5b43909+6
+2.13.0.sims-13-ge0ff577	0	galsim	2.2.1.lsst+3
+2.13.0.sims-13-ge0ff577	0	astropy	3.1.2.lsst2
+2.13.0.sims-13-ge0ff577	0	meas_astrom	19.0.0-3-gc851abf+8
+2.13.0.sims-13-ge0ff577	0	afw	19.0.0-22-gd98cb7f78+2
+2.13.0.sims-13-ge0ff577	0	geom	19.0.0-3-g99a058e+1
+2.13.0.sims-13-ge0ff577	0	sims_utils	2.13.0.sims-42-g73c7d28
+2.13.0.sims-13-ge0ff577	0	sims_coordUtils	2.13.0.sims-4-g5ebaff5+21
+2.13.0.sims-13-ge0ff577	0	sims_catalogs	2.13.0.sims-5-g0316a32+16
+2.13.0.sims-13-ge0ff577	0	sims_catUtils	2.13.0.sims-8-gaeaf9bd8+9
+2.13.0.sims-13-ge0ff577	0	obs_lsstSim	19.0.0-4-g5b43909+6

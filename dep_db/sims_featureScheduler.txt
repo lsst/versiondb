@@ -792,3 +792,17 @@ tickets.DM-24742-g978eab9d7b	0	sims_downtimeModel	master-g55f72efa65+10
 tickets.DM-24742-g978eab9d7b	0	sims_survey_fields	tickets.DM-24742-g5905d48dc7
 tickets.DM-24742-g978eab9d7b	0	sims_almanac	tickets.DM-24742-gf8e8d8f367
 tickets.DM-24742-g978eab9d7b	0	ts_observatory_model	tickets.DM-24742-gf22b923f34
+master-g38f5c941ab	2	base	19.0.0-4-gb4e0033
+master-g38f5c941ab	2	numpy	1.16.2
+master-g38f5c941ab	2	sims_utils	2.13.0.sims-42-g73c7d28
+master-g38f5c941ab	2	sims_skybrightness_pre	2.13.0.sims-8-gcc59254+18
+master-g38f5c941ab	2	scipy	1.2.1
+master-g38f5c941ab	2	healpy	1.10.3.lsst2+5
+master-g38f5c941ab	2	astropy	3.1.2.lsst2
+master-g38f5c941ab	2	ephem	3.7.6.0+4
+master-g38f5c941ab	2	sims_seeingModel	master-ga4bf72ea44+12
+master-g38f5c941ab	2	sims_cloudModel	master-ge3724df529+12
+master-g38f5c941ab	2	sims_downtimeModel	master-g55f72efa65+10
+master-g38f5c941ab	2	sims_survey_fields	2.6.0.sims+44
+master-g38f5c941ab	2	sims_almanac	master-g420e492ac3+15
+master-g38f5c941ab	2	ts_observatory_model	master-g3d307a5f45+40
