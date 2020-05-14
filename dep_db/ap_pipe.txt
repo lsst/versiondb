@@ -2226,3 +2226,9 @@ tickets.DM-23835-g8dfed85431	0	ap_pipe_testdata	18.0.0+155
 19.0.0-8-g326ba0f	14	pipe_tasks	19.0.0-59-g5d40e1c7+3
 19.0.0-8-g326ba0f	14	ap_association	19.0.0-18-ge32f237+10
 19.0.0-8-g326ba0f	14	ap_pipe_testdata	19.0.0-1-g90fac64+38
+19.0.0-9-g563b57e	0	utils	19.0.0-9-gba41d1f
+19.0.0-9-g563b57e	0	pex_config	19.0.0-11-g48a0200
+19.0.0-9-g563b57e	0	pipe_base	19.0.0-19-geb45990
+19.0.0-9-g563b57e	0	pipe_tasks	19.0.0-60-gafafd468
+19.0.0-9-g563b57e	0	ap_association	19.0.0-19-g1c36ff8
+19.0.0-9-g563b57e	0	ap_pipe_testdata	19.0.0-1-g90fac64+39

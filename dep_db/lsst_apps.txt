@@ -16556,3 +16556,12 @@ w.2016.15	0	meas_extensions_psfex	w.2016.15
 19.0.0-1-gb3c0038	8	meas_extensions_simpleShape	19.0.0-2-gb013ac2+9
 19.0.0-1-gb3c0038	8	display_ds9	19.0.0-2-g5e94dc7+3
 19.0.0-1-gb3c0038	8	meas_extensions_psfex	19.0.0-2-gd82b0d5+10
+19.0.0-1-gb3c0038	9	meas_deblender	19.0.0-5-gfb03ce7
+19.0.0-1-gb3c0038	9	meas_modelfit	19.0.0-7-gc567de5
+19.0.0-1-gb3c0038	9	pipe_tasks	19.0.0-60-gafafd468
+19.0.0-1-gb3c0038	9	ap_pipe	19.0.0-9-g563b57e
+19.0.0-1-gb3c0038	9	obs_sdss	19.0.0-3-g631c6ba
+19.0.0-1-gb3c0038	9	obs_test	19.0.0-6-gbaebbfb
+19.0.0-1-gb3c0038	9	meas_extensions_simpleShape	19.0.0-3-g9c54d0d
+19.0.0-1-gb3c0038	9	display_ds9	19.0.0-3-g2b32d65
+19.0.0-1-gb3c0038	9	meas_extensions_psfex	19.0.0-3-gfe04aa6

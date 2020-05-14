@@ -6126,3 +6126,12 @@ tickets.DM-23835-g7bd64d0073	0	testdata_jointcal	19.0.0-3-g176239d+10
 19.0.0-20-g3336a1e	10	fgcm	lsst-dev-g2c16a2033a
 19.0.0-20-g3336a1e	10	jointcal	19.0.0-6-gce3e386+10
 19.0.0-20-g3336a1e	10	testdata_jointcal	19.0.0-4-g362a323+8
+19.0.0-21-gea850ae	0	sconsUtils	19.0.0-3-g1276964
+19.0.0-21-gea850ae	0	afw	19.0.0-23-g9b026a6e0
+19.0.0-21-gea850ae	0	daf_persistence	19.0.0-7-gbea9075
+19.0.0-21-gea850ae	0	obs_base	19.0.0-61-g5c66d13
+19.0.0-21-gea850ae	0	pex_config	19.0.0-11-g48a0200
+19.0.0-21-gea850ae	0	pipe_tasks	19.0.0-60-gafafd468
+19.0.0-21-gea850ae	0	fgcm	lsst-dev-g2c16a2033a
+19.0.0-21-gea850ae	0	jointcal	19.0.0-7-g06fa4b6
+19.0.0-21-gea850ae	0	testdata_jointcal	19.0.0-4-g362a323+9
