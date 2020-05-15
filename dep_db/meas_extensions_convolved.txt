@@ -2043,3 +2043,10 @@ master-gaffd610453	46	meas_extensions_photometryKron	13.0-6-gd233a4b+13
 19.0.0-1-gc390c3c	0	meas_base	19.0.0-9-g463f923
 19.0.0-1-gc390c3c	0	utils	19.0.0-9-gba41d1f
 19.0.0-1-gc390c3c	0	daf_base	19.0.0-3-g8f2fd4b
+19.0.0-1-gc390c3c	1	meas_algorithms	19.0.0-19-gb97ba8bf+1
+19.0.0-1-gc390c3c	1	meas_extensions_photometryKron	19.0.0-2-gdb23e24+1
+19.0.0-1-gc390c3c	1	afw	19.0.0-23-g9b026a6e0
+19.0.0-1-gc390c3c	1	geom	19.0.0-4-g8278b9b
+19.0.0-1-gc390c3c	1	meas_base	19.0.0-9-g463f923+1
+19.0.0-1-gc390c3c	1	utils	19.0.0-9-gba41d1f
+19.0.0-1-gc390c3c	1	daf_base	19.0.0-3-g8f2fd4b

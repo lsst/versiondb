@@ -12103,3 +12103,11 @@ tickets.DM-23835-gcd5aab4176	0	geom	tickets.DM-23835-g1b0a77db9f+1
 19.0.0-3-gfe04aa6	0	sconsUtils	19.0.0-3-g1276964
 19.0.0-3-gfe04aa6	0	utils	19.0.0-9-gba41d1f
 19.0.0-3-gfe04aa6	0	geom	19.0.0-4-g8278b9b
+19.0.0-3-gfe04aa6	1	afw	19.0.0-23-g9b026a6e0
+19.0.0-3-gfe04aa6	1	daf_base	19.0.0-3-g8f2fd4b
+19.0.0-3-gfe04aa6	1	meas_algorithms	19.0.0-19-gb97ba8bf+1
+19.0.0-3-gfe04aa6	1	meas_base	19.0.0-9-g463f923+1
+19.0.0-3-gfe04aa6	1	psfex	19.0.0-2-g082f1ba+1
+19.0.0-3-gfe04aa6	1	sconsUtils	19.0.0-3-g1276964
+19.0.0-3-gfe04aa6	1	utils	19.0.0-9-gba41d1f
+19.0.0-3-gfe04aa6	1	geom	19.0.0-4-g8278b9b
