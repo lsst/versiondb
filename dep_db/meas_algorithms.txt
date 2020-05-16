@@ -19574,3 +19574,16 @@ tickets.DM-23835-g64e252fb03	0	utils	tickets.DM-23835-gcc4927c4f1+1
 19.0.0-19-gb97ba8bf	1	pipe_base	19.0.0-20-gc8b1623
 19.0.0-19-gb97ba8bf	1	sconsUtils	19.0.0-3-g1276964
 19.0.0-19-gb97ba8bf	1	utils	19.0.0-9-gba41d1f
+19.0.0-20-g5a5a17ab	0	astshim	19.0.0-3-ge74d124
+19.0.0-20-g5a5a17ab	0	daf_base	19.0.0-3-g8f2fd4b
+19.0.0-20-g5a5a17ab	0	daf_persistence	19.0.0-7-gbea9075
+19.0.0-20-g5a5a17ab	0	geom	19.0.0-4-g8278b9b
+19.0.0-20-g5a5a17ab	0	afw	19.0.0-23-g9b026a6e0
+19.0.0-20-g5a5a17ab	0	log	19.0.0-2-g697d857
+19.0.0-20-g5a5a17ab	0	meas_base	19.0.0-9-g463f923+1
+19.0.0-20-g5a5a17ab	0	obs_test	19.0.0-6-gbaebbfb+1
+19.0.0-20-g5a5a17ab	0	pex_config	19.0.0-11-g48a0200
+19.0.0-20-g5a5a17ab	0	pex_exceptions	19.0.0-4-g5a8b323
+19.0.0-20-g5a5a17ab	0	pipe_base	19.0.0-20-gc8b1623
+19.0.0-20-g5a5a17ab	0	sconsUtils	19.0.0-3-g1276964
+19.0.0-20-g5a5a17ab	0	utils	19.0.0-9-gba41d1f
