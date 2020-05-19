@@ -16046,3 +16046,11 @@ tickets.DM-23835-ga05d9a4f9b	0	geom	tickets.DM-23835-g1b0a77db9f+1
 19.0.0-3-g631c6ba	2	utils	19.0.0-9-gba41d1f
 19.0.0-3-g631c6ba	2	log	19.0.0-2-g697d857
 19.0.0-3-g631c6ba	2	geom	19.0.0-4-g8278b9b
+19.0.0-3-g631c6ba	3	obs_base	19.0.0-64-gf672fef
+19.0.0-3-g631c6ba	3	afw	19.0.0-23-g9b026a6e0+1
+19.0.0-3-g631c6ba	3	meas_algorithms	19.0.0-20-g5a5a17ab+1
+19.0.0-3-g631c6ba	3	meas_astrom	19.0.0-4-g8964aba+3
+19.0.0-3-g631c6ba	3	pipe_tasks	19.0.0-60-gafafd468+3
+19.0.0-3-g631c6ba	3	utils	19.0.0-9-gba41d1f
+19.0.0-3-g631c6ba	3	log	19.0.0-2-g697d857
+19.0.0-3-g631c6ba	3	geom	19.0.0-4-g8278b9b
