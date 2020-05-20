@@ -4127,3 +4127,7 @@ tickets.DM-23835-g3a731fc9b4	1	utils	tickets.DM-23835-gcc4927c4f1+1
 19.0.0-4-ge404a01	2	pipe_base	19.0.0-20-gc8b1623+1
 19.0.0-4-ge404a01	2	log	19.0.0-2-g697d857
 19.0.0-4-ge404a01	2	utils	19.0.0-9-gba41d1f
+19.0.0-4-ge404a01	3	daf_persistence	19.0.0-7-gbea9075+1
+19.0.0-4-ge404a01	3	pipe_base	19.0.0-20-gc8b1623+2
+19.0.0-4-ge404a01	3	log	19.0.0-2-g697d857
+19.0.0-4-ge404a01	3	utils	19.0.0-9-gba41d1f

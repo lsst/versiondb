@@ -7782,3 +7782,11 @@ tickets.DM-23835-g6ec8087438	0	geom	tickets.DM-23835-g1b0a77db9f+1
 19.0.0-3-g9c54d0d	2	pex_config	19.0.0-11-g48a0200+1
 19.0.0-3-g9c54d0d	2	pex_exceptions	19.0.0-4-g5a8b323
 19.0.0-3-g9c54d0d	2	geom	19.0.0-4-g8278b9b
+19.0.0-3-g9c54d0d	3	sconsUtils	19.0.0-3-g1276964
+19.0.0-3-g9c54d0d	3	base	19.0.0-5-g40f3a5a
+19.0.0-3-g9c54d0d	3	afw	19.0.0-24-gf0e72354e
+19.0.0-3-g9c54d0d	3	meas_base	19.0.0-9-g463f923+3
+19.0.0-3-g9c54d0d	3	utils	19.0.0-9-gba41d1f
+19.0.0-3-g9c54d0d	3	pex_config	19.0.0-11-g48a0200+1
+19.0.0-3-g9c54d0d	3	pex_exceptions	19.0.0-4-g5a8b323
+19.0.0-3-g9c54d0d	3	geom	19.0.0-4-g8278b9b
