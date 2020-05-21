@@ -1865,3 +1865,12 @@ tickets.DM-23835-g462203a5fd	0	testdata_deblender	19.0.0-1-g8af30cc
 19.0.0-9-gbda1447	4	pipe_base	19.0.0-20-gc8b1623+2
 19.0.0-9-gbda1447	4	meas_algorithms	19.0.0-20-g5a5a17ab+2
 19.0.0-9-gbda1447	4	testdata_deblender	19.0.0-1-g8af30cc
+19.0.0-9-gbda1447	5	base	19.0.0-5-g40f3a5a
+19.0.0-9-gbda1447	5	afw	19.0.0-24-gf0e72354e
+19.0.0-9-gbda1447	5	log	19.0.0-2-g697d857
+19.0.0-9-gbda1447	5	scarlet	lsst-dev-gccea6b4eda
+19.0.0-9-gbda1447	5	log	19.0.0-2-g697d857
+19.0.0-9-gbda1447	5	pex_config	19.0.0-11-g48a0200+1
+19.0.0-9-gbda1447	5	pipe_base	19.0.0-21-g02856f7
+19.0.0-9-gbda1447	5	meas_algorithms	19.0.0-20-g5a5a17ab+3
+19.0.0-9-gbda1447	5	testdata_deblender	19.0.0-1-g8af30cc
