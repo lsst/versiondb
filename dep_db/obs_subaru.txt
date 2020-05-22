@@ -13876,3 +13876,17 @@ tickets.DM-23835-g8660a1b5b0	0	testdata_subaru	19.0.0
 19.0.0-50-g538938a3	0	meas_extensions_psfex	19.0.0-3-gfe04aa6+5
 19.0.0-50-g538938a3	0	meas_extensions_shapeHSM	19.0.0-2-g5191324+5
 19.0.0-50-g538938a3	0	testdata_subaru	19.0.0
+19.0.0-51-gdf8a29f7	0	daf_persistence	19.0.0-7-gbea9075+2
+19.0.0-51-gdf8a29f7	0	obs_base	19.0.0-64-gf672fef+3
+19.0.0-51-gdf8a29f7	0	pipe_tasks	19.0.0-60-gafafd468+6
+19.0.0-51-gdf8a29f7	0	meas_astrom	19.0.0-4-g8964aba+6
+19.0.0-51-gdf8a29f7	0	sconsUtils	19.0.0-3-g1276964
+19.0.0-51-gdf8a29f7	0	astshim	19.0.0-3-ge74d124
+19.0.0-51-gdf8a29f7	0	astro_metadata_translator	0.1.0-12-g03ebef7+2
+19.0.0-51-gdf8a29f7	0	obs_subaru_data	19.0.0-1-g81f4c9d
+19.0.0-51-gdf8a29f7	0	geom	19.0.0-4-g8278b9b+1
+19.0.0-51-gdf8a29f7	0	daf_butler	19.0.0-82-g2cb96f3d
+19.0.0-51-gdf8a29f7	0	meas_modelfit	19.0.0-7-gc567de5+6
+19.0.0-51-gdf8a29f7	0	meas_extensions_psfex	19.0.0-3-gfe04aa6+6
+19.0.0-51-gdf8a29f7	0	meas_extensions_shapeHSM	19.0.0-2-g5191324+6
+19.0.0-51-gdf8a29f7	0	testdata_subaru	19.0.0
