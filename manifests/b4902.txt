@@ -1,0 +1,44 @@
+# product                 SHA1                                      Version                       
+BUILD=b4902
+antlr4                    ab7ad61352339393c9de0682c14e8d9be3d3c1fc  4.7.1.lsst3                              
+python                    85c3855c56fdbd3304bda946ee9f0899487c30f6  3.7                                      
+xrootd                    628f1b81fb817ac32a6a7b9fba70b2aa87beeb5d  lsst-dev-g628f1b81fb                     
+numpy                     36a8a3613488940afc4ac5a6049a34afb0f4c9cd  1.16.2                                   python
+libevent                  7eda99b28260fef2aea6de76475b754e611df4a9  2.1.8                                    
+doxygen                   524ee4ee18a8ea2be55a677f925dc1f92df1e323  1.8.13.lsst3                             
+sqlalchemy                a4144f10dbfe245b3bd105b9428b490b2367b94e  1.3.8                                    python
+flask                     4f85944ff9afc671c3080c3211c2b941389d533f  1.0.2                                    python
+boost                     7c78c5aa00ffd9eb34ccd55825605e04cab9c8ff  1.69.lsst1                               python
+apr                       39b3212aa46217e4f485b02496381907da8b8d7a  1.5.2                                    
+libyaml                   fe04f4f6ffde41f44bfec6c6950136b4d224c8c9  0.1.7                                    
+sconsUtils                1276964a75b16dfc5742bc8cbd7332de4b1cf402  19.0.0-3-g1276964                        
+requests                  83cdaf189ad5e7f0f7805ba3104f4cf0c748d363  2.9.1.lsst1+6                            python
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+5                                 python
+mariadb                   07c67f42aba0cda60c7e804da83141c7a1ae6932  10.2.14.lsst3-1-g07c67f4                 
+hiredis                   825f5a91c56b242b8d536cbd4be31e462739454b  master-g825f5a91c5                       
+json_nlohmann             adac3a383c0236aa1f6efe4a2159547161cfc630  3.1.2                                    
+protobuf                  dbc86f2b0d009b8c785697bf3f44c1b733ec0dbb  2.6.1.lsst4-1-gdbc86f2+5                 python
+eigen                     fd995628f7aa5534ef73c13f6d9660d0cbe3e416  3.3.7.lsst2                              
+jemalloc                  20ffad636e721dab2fb2e7b4e8a1266ef8f1188f  5.0.1.lsst1                              
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+5                            python
+apr_util                  78a90a1243a24ee961222bffa4b07d9033307fe4  1.5.4.lsst1                              apr
+libcurl                   6c553f4911cb6768d68d48609f06cf043fce9655  7.53.1.lsst1                             
+mariadbclient             c3b9d248e6b9b8c51c348b80d50dd198b28cd921  10.2.14.lsst2                            
+lua                       c215672a04f8273ddcdef70c6532f1eb7a06f703  5.3.4                                    
+base                      40f3a5ae034636c9c459508f2ed83b9776873b70  19.0.0-5-g40f3a5a                        sconsUtils
+pyyaml                    a7699fc59fab93365d152e9fb5974073fc6e238e  5.1+2                                    python,libyaml
+pybind11                  ccb1d112055e50d0656bf402608954a1d1b9a778  2.2.4.lsst2                              python,numpy,eigen
+log4cxx                   758b5a6065f42f957adbbc00074a300dac6131bc  0.10.0.lsst7+1                           apr,apr_util
+pex_exceptions            5a8b32307a533f330184baf2541fdc992f91826a  19.0.0-4-g5a8b323                        base
+mysqlproxy                878fe5ad88c16e3a02b3ee12c5f9ec895714a0bd  0.8.5.lsst7                              libevent,lua,mariadb
+redis_plus_plus           e0661a33615bb0c8109f54eda58e3e0321e85e0f  master-ge0661a3361                       hiredis
+python_mysqlclient        adfec1ab86b7fc86aadbdb0489e749789c501db4  1.3.12.lsst2+4                           python,mariadbclient
+sphgeom                   8557e14f57db8e580d8fb7b02a3592c5a3096ea8  19.0.0-4-g8557e14                        base,sconsUtils
+partition                 721d0e5f88ea91e921a5ef4abd4529579e6469a3  12.1-1-g721d0e5+100                      boost,sconsUtils,sphgeom
+scisql                    9598467b33ca5a242e8a49c9370614d7f201c9f6  0.3.9+2                                  mariadb,python_mysqlclient,python
+utils                     920eed2ca375a5ab36af36a63d6bc2c3a1d03ef1  19.0.0-10-g920eed2                       base,pex_exceptions
+log                       697d8577163db0f3c0b5637cdcf691d608051ac4  19.0.0-2-g697d857+1                      base,sconsUtils,utils
+db                        01491e796db86ec8a25c574eef3a3e7f204d2c54  15.0-1-g01491e7+11                       log,python,mariadbclient,python_mysqlclient,sconsUtils,sqlalchemy
+qserv                     5be54dfe122c0c77b136097c5b8a4e5ee30b06c5  12.1-291-g5be54dfe1+1                    antlr4,boost,db,doxygen,flask,jemalloc,libcurl,log,log4cxx,lua,mariadb,mysqlproxy,json_nlohmann,python_mysqlclient,partition,protobuf,pybind11,python,redis_plus_plus,requests,scisql,scons,sphgeom,sqlalchemy,xrootd
+qserv_testdata            5107a02b67f0ab1ad6950766ada5f91170e0cf94  2016_08-32-g5107a02+35                   python,python_future,pyyaml,qserv,scons,sconsUtils
+qserv_distrib             76ecee9da3d174fe6e8e3ecfa52012c24ce259e0  2016_08-1-g76ecee9+289                   qserv,partition,qserv_testdata
