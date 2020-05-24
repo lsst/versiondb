@@ -19966,3 +19966,11 @@ tickets.DM-23835-g196226c06f	0	utils	tickets.DM-23835-gcc4927c4f1+1
 19.0.0-4-g5b43909	7	ip_isr	19.0.0-24-g923e380+2
 19.0.0-4-g5b43909	7	pipe_tasks	19.0.0-60-gafafd468+2
 19.0.0-4-g5b43909	7	utils	19.0.0-9-gba41d1f
+19.0.0-4-g5b43909	8	daf_base	19.0.0-4-g66397f0+1
+19.0.0-4-g5b43909	8	afw	19.0.0-24-gf0e72354e+1
+19.0.0-4-g5b43909	8	daf_persistence	19.0.0-7-gbea9075+2
+19.0.0-4-g5b43909	8	obs_base	19.0.0-64-gf672fef+4
+19.0.0-4-g5b43909	8	meas_algorithms	19.0.0-20-g5a5a17ab+5
+19.0.0-4-g5b43909	8	ip_isr	19.0.0-24-g923e380+7
+19.0.0-4-g5b43909	8	pipe_tasks	19.0.0-60-gafafd468+7
+19.0.0-4-g5b43909	8	utils	19.0.0-10-g920eed2

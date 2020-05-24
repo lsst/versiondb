@@ -1310,3 +1310,7 @@ tickets.DM-24742-g8bba5e8beb	0	utils	19.0.0-8-g967c747+1
 2.13.0.sims-6-g00a9e00	0	pymssql	2.1.1-1-gb0e77e5
 2.13.0.sims-6-g00a9e00	0	sims_utils	2.13.0.sims-43-g0b90c3c
 2.13.0.sims-6-g00a9e00	0	utils	19.0.0-9-gba41d1f
+2.13.0.sims-6-g00a9e00	1	daf_persistence	19.0.0-7-gbea9075+2
+2.13.0.sims-6-g00a9e00	1	pymssql	2.1.1-1-gb0e77e5
+2.13.0.sims-6-g00a9e00	1	sims_utils	2.13.0.sims-43-g0b90c3c+1
+2.13.0.sims-6-g00a9e00	1	utils	19.0.0-10-g920eed2

@@ -6824,3 +6824,11 @@ tickets.DM-24742-g10e3b91fc8	0	obs_lsstSim	19.0.0-4-g5b43909+6
 2.13.0.sims-14-g29b6feb	0	sims_catalogs	2.13.0.sims-6-g00a9e00
 2.13.0.sims-14-g29b6feb	0	sims_catUtils	2.13.0.sims-9-g71410a0d
 2.13.0.sims-14-g29b6feb	0	obs_lsstSim	19.0.0-4-g5b43909+7
+2.13.0.sims-14-g29b6feb	1	meas_astrom	19.0.0-4-g8964aba+7
+2.13.0.sims-14-g29b6feb	1	afw	19.0.0-24-gf0e72354e+1
+2.13.0.sims-14-g29b6feb	1	geom	19.0.0-4-g8278b9b+1
+2.13.0.sims-14-g29b6feb	1	sims_utils	2.13.0.sims-43-g0b90c3c+1
+2.13.0.sims-14-g29b6feb	1	sims_coordUtils	2.13.0.sims-5-gac68177+1
+2.13.0.sims-14-g29b6feb	1	sims_catalogs	2.13.0.sims-6-g00a9e00+1
+2.13.0.sims-14-g29b6feb	1	sims_catUtils	2.13.0.sims-9-g71410a0d+1
+2.13.0.sims-14-g29b6feb	1	obs_lsstSim	19.0.0-4-g5b43909+8
