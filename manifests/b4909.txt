@@ -1,0 +1,25 @@
+# product                 SHA1                                      Version                       
+BUILD=b4909
+mariadb                   86638867cfce2fa02b4d85f987ae095b27df3f25  10.2.14.lsst3-2-g8663886                 
+sconsUtils                1276964a75b16dfc5742bc8cbd7332de4b1cf402  19.0.0-3-g1276964                        
+hiredis                   825f5a91c56b242b8d536cbd4be31e462739454b  master-g825f5a91c5                       
+antlr4                    ab7ad61352339393c9de0682c14e8d9be3d3c1fc  4.7.1.lsst3                              
+xrootd                    628f1b81fb817ac32a6a7b9fba70b2aa87beeb5d  lsst-dev-g628f1b81fb                     
+redis_plus_plus           e0661a33615bb0c8109f54eda58e3e0321e85e0f  master-ge0661a3361                       hiredis
+scisql                    d3ee28a379ff8cb64fea1ca7a8534d013adef5ad  0.3.9-1-gd3ee28a                         mariadb
+libyaml                   fe04f4f6ffde41f44bfec6c6950136b4d224c8c9  0.1.7                                    
+mysqlproxy                7b0d87316b8f0e8b15073aaa7956a492ff433cb5  lsst-dev-g7b0d87316b                     mariadb
+python                    85c3855c56fdbd3304bda946ee9f0899487c30f6  3.7                                      
+base                      40f3a5ae034636c9c459508f2ed83b9776873b70  19.0.0-5-g40f3a5a                        sconsUtils
+scons                     c2c3bc3800787922db0db035bad0ab347047ba88  3.0.0.lsst1+5                            python
+sphgeom                   8557e14f57db8e580d8fb7b02a3592c5a3096ea8  19.0.0-4-g8557e14                        base,sconsUtils
+pyyaml                    a7699fc59fab93365d152e9fb5974073fc6e238e  5.1+2                                    python,libyaml
+python_future             d45cc88dd170528ba3a61171a8a8f6eedd0d4fdc  0.16.0+5                                 python
+pex_exceptions            5a8b32307a533f330184baf2541fdc992f91826a  19.0.0-4-g5a8b323                        base
+partition                 fbacfff4b4f5e460d1192613662374d64067db58  12.1-2-gfbacfff                          sconsUtils,sphgeom
+utils                     920eed2ca375a5ab36af36a63d6bc2c3a1d03ef1  19.0.0-10-g920eed2                       base,pex_exceptions
+log                       4db63b3cc4b64606c314604c76b538835c1ae7da  19.0.0-5-g4db63b3                        base,sconsUtils,utils
+db                        9be925f68d4afe58e9ee2864f9f526f8f3e11b67  15.0-2-g9be925f                          log,sconsUtils
+qserv                     25bc05b98bbb7c565a47aad3e478b59cce57bea1  12.1-292-g25bc05b98                      antlr4,db,log,mariadb,mysqlproxy,partition,redis_plus_plus,scisql,sphgeom,xrootd
+qserv_testdata            5107a02b67f0ab1ad6950766ada5f91170e0cf94  2016_08-32-g5107a02+36                   python,python_future,pyyaml,qserv,scons,sconsUtils
+qserv_distrib             76ecee9da3d174fe6e8e3ecfa52012c24ce259e0  2016_08-1-g76ecee9+290                   qserv,partition,qserv_testdata
