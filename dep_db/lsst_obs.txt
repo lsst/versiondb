@@ -9221,3 +9221,13 @@ master-g489e6e60e2	41	testdata_decam	12.1-3-gfbd6eff
 19.0.0-1-g9569ba2	21	testdata_cfht	14.0
 19.0.0-1-g9569ba2	21	testdata_subaru	19.0.0
 19.0.0-1-g9569ba2	21	testdata_decam	19.0.0-2-g9a3ee7c
+19.0.0-1-g9569ba2	22	obs_cfht	19.0.0-4-g38158d1+13
+19.0.0-1-g9569ba2	22	obs_ctio0m9	19.0.0-2-g6571302+13
+19.0.0-1-g9569ba2	22	obs_decam	19.0.0-30-g9c3fd16+1
+19.0.0-1-g9569ba2	22	obs_lsst	19.0.0-62-gc261203
+19.0.0-1-g9569ba2	22	obs_subaru	19.0.0-55-g2bec7c0d
+19.0.0-1-g9569ba2	22	obs_test	19.0.0-6-gbaebbfb+12
+19.0.0-1-g9569ba2	22	obs_sdss	19.0.0-3-g631c6ba+13
+19.0.0-1-g9569ba2	22	testdata_cfht	14.0
+19.0.0-1-g9569ba2	22	testdata_subaru	19.0.0
+19.0.0-1-g9569ba2	22	testdata_decam	19.0.0-2-g9a3ee7c
