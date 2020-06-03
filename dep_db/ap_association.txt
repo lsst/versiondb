@@ -3006,3 +3006,11 @@ tickets.DM-23835-g07bb665303	0	verify	tickets.DM-23835-g8e76a75e71
 19.0.0-22-gb996882	4	dax_apdb	19.0.0-4-g4a9c019+6
 19.0.0-22-gb996882	4	alert_packet	master-g4588f856af
 19.0.0-22-gb996882	4	verify	19.0.0-14-g940e762+13
+19.0.0-24-g4835ec0	0	afw	19.0.0-25-g6c8df7140+1
+19.0.0-24-g4835ec0	0	alert_packet	master-g4588f856af
+19.0.0-24-g4835ec0	0	dax_apdb	19.0.0-4-g4a9c019+6
+19.0.0-24-g4835ec0	0	meas_algorithms	19.0.0-20-g5a5a17ab+13
+19.0.0-24-g4835ec0	0	meas_base	19.0.0-9-g463f923+14
+19.0.0-24-g4835ec0	0	pex_config	19.0.0-11-g48a0200+2
+19.0.0-24-g4835ec0	0	pipe_base	19.0.0-24-g878c510+3
+19.0.0-24-g4835ec0	0	verify	19.0.0-14-g940e762+14
