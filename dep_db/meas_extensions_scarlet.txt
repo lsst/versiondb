@@ -1991,3 +1991,12 @@ tickets.DM-23835-g462203a5fd	0	testdata_deblender	19.0.0-1-g8af30cc
 19.0.0-10-g0542f41	7	pipe_base	19.0.0-24-g878c510+6
 19.0.0-10-g0542f41	7	meas_algorithms	19.0.0-20-g5a5a17ab+16
 19.0.0-10-g0542f41	7	testdata_deblender	19.0.0-1-g8af30cc
+19.0.0-10-g0542f41	8	base	19.0.0-7-g04f1aa2
+19.0.0-10-g0542f41	8	afw	19.0.0-26-g4476391b4+1
+19.0.0-10-g0542f41	8	log	19.0.0-5-g4db63b3+2
+19.0.0-10-g0542f41	8	scarlet	lsst-dev-g516ae2b0c8
+19.0.0-10-g0542f41	8	log	19.0.0-5-g4db63b3+2
+19.0.0-10-g0542f41	8	pex_config	19.0.0-11-g48a0200+4
+19.0.0-10-g0542f41	8	pipe_base	19.0.0-24-g878c510+7
+19.0.0-10-g0542f41	8	meas_algorithms	19.0.0-20-g5a5a17ab+17
+19.0.0-10-g0542f41	8	testdata_deblender	19.0.0-1-g8af30cc

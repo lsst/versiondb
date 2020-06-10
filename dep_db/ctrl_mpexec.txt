@@ -1078,3 +1078,7 @@ tickets.DM-23835-g3f344182b2	0	pipe_base	tickets.DM-23835-g42cd5aae5d
 19.0.0-23-g6d6cb62	1	log	19.0.0-5-g4db63b3+1
 19.0.0-23-g6d6cb62	1	pex_config	19.0.0-11-g48a0200+3
 19.0.0-23-g6d6cb62	1	pipe_base	19.0.0-24-g878c510+6
+19.0.0-23-g6d6cb62	2	daf_butler	19.0.0-100-gac593d24
+19.0.0-23-g6d6cb62	2	log	19.0.0-5-g4db63b3+2
+19.0.0-23-g6d6cb62	2	pex_config	19.0.0-11-g48a0200+4
+19.0.0-23-g6d6cb62	2	pipe_base	19.0.0-24-g878c510+7
