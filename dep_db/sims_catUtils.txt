@@ -19756,3 +19756,16 @@ tickets.DM-24742-g327a1a19c1	0	obs_lsstSim	19.0.0-4-g5b43909+6
 2.13.0.sims-9-g71410a0d	3	daf_persistence	19.0.0-7-gbea9075+7
 2.13.0.sims-9-g71410a0d	3	sncosmo	1.3.0.lsst2-2-gd11e578
 2.13.0.sims-9-g71410a0d	3	obs_lsstSim	19.0.0-4-g5b43909+10
+2.13.0.sims-9-g71410a0d	4	utils	19.0.0-10-g920eed2+3
+2.13.0.sims-9-g71410a0d	4	sims_sed_library	2017.01.24
+2.13.0.sims-9-g71410a0d	4	sims_maps	2017.05.08-8-gdd04fc0
+2.13.0.sims-9-g71410a0d	4	sims_utils	2.13.0.sims-43-g0b90c3c+2
+2.13.0.sims-9-g71410a0d	4	sims_catalogs	2.13.0.sims-6-g00a9e00+3
+2.13.0.sims-9-g71410a0d	4	sims_coordUtils	2.13.0.sims-5-gac68177+4
+2.13.0.sims-9-g71410a0d	4	sims_photUtils	2.13.0.sims-3-g5572953+2
+2.13.0.sims-9-g71410a0d	4	sims_data	2018.05.08
+2.13.0.sims-9-g71410a0d	4	palpy	1.8.1-1-ga780397
+2.13.0.sims-9-g71410a0d	4	pymssql	2.1.1-1-gb0e77e5
+2.13.0.sims-9-g71410a0d	4	daf_persistence	19.0.0-7-gbea9075+7
+2.13.0.sims-9-g71410a0d	4	sncosmo	1.3.0.lsst2-2-gd11e578
+2.13.0.sims-9-g71410a0d	4	obs_lsstSim	19.0.0-4-g5b43909+11
