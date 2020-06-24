@@ -3652,3 +3652,8 @@ tickets.DM-23835-gb182ee1d63	1	pipe_tasks	tickets.DM-23835-g8216a32ba5
 19.0.0-4-g3d16501	28	afw	19.0.0-27-gf99403173
 19.0.0-4-g3d16501	28	pipe_base	19.0.0-24-g878c510+13
 19.0.0-4-g3d16501	28	pipe_tasks	19.0.0-65-gd489f3fc
+20.0.0	0	daf_persistence	20.0.0
+20.0.0	0	pex_config	20.0.0
+20.0.0	0	afw	20.0.0
+20.0.0	0	pipe_base	20.0.0
+20.0.0	0	pipe_tasks	20.0.0

@@ -6431,3 +6431,13 @@ tickets.DM-23835-g7bd64d0073	0	testdata_jointcal	19.0.0-3-g176239d+10
 19.0.0-25-g1f84a6d	9	jointcal	19.0.0-10-g4a5fae6+14
 19.0.0-25-g1f84a6d	9	testdata_jointcal	19.0.0-8-gaafa04d
 19.0.0-25-g1f84a6d	9	obs_subaru	19.0.0-62-gb16ae2cc+1
+20.0.0	0	sconsUtils	20.0.0
+20.0.0	0	afw	20.0.0
+20.0.0	0	daf_persistence	20.0.0
+20.0.0	0	obs_base	20.0.0
+20.0.0	0	pex_config	20.0.0
+20.0.0	0	pipe_tasks	20.0.0
+20.0.0	0	fgcm	lsst-dev-g2c16a2033a
+20.0.0	0	jointcal	20.0.0
+20.0.0	0	testdata_jointcal	20.0.0
+20.0.0	0	obs_subaru	20.0.0
