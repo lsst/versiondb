@@ -2232,3 +2232,10 @@ master-gaffd610453	46	meas_extensions_photometryKron	13.0-6-gd233a4b+13
 20.0.0	0	meas_base	20.0.0
 20.0.0	0	utils	20.0.0
 20.0.0	0	daf_base	20.0.0
+20.0.0	1	meas_algorithms	20.0.0-2-g92e20685
+20.0.0	1	meas_extensions_photometryKron	20.0.0+1
+20.0.0	1	afw	20.0.0-2-gf99403173
+20.0.0	1	geom	20.0.0-1-gb9eeb60
+20.0.0	1	meas_base	20.0.0+1
+20.0.0	1	utils	20.0.0+1
+20.0.0	1	daf_base	20.0.0+1

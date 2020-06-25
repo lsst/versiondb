@@ -23312,3 +23312,16 @@ tickets.DM-23835-g1a4d734039	0	afwdata	19.0.0-1-gd1c39c2
 20.0.0	0	verify	20.0.0
 20.0.0	0	geom	20.0.0
 20.0.0	0	afwdata	20.0.0
+20.0.0	1	afw	20.0.0-2-gf99403173
+20.0.0	1	daf_base	20.0.0+1
+20.0.0	1	daf_persistence	20.0.0+1
+20.0.0	1	log	20.0.0+1
+20.0.0	1	meas_algorithms	20.0.0-2-g92e20685
+20.0.0	1	meas_base	20.0.0+1
+20.0.0	1	meas_deblender	20.0.0+1
+20.0.0	1	pex_config	20.0.0+1
+20.0.0	1	pipe_base	20.0.0+1
+20.0.0	1	utils	20.0.0+1
+20.0.0	1	verify	20.0.0-1-g44bc195
+20.0.0	1	geom	20.0.0-1-gb9eeb60
+20.0.0	1	afwdata	20.0.0

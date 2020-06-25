@@ -9204,3 +9204,9 @@ tickets.DM-23835-gf5b21541de	0	afw	tickets.DM-23835-g747d2c249b
 20.0.0	0	pex_config	20.0.0
 20.0.0	0	utils	20.0.0
 20.0.0	0	afw	20.0.0
+20.0.0	1	daf_butler	19.0.0-110-g319242f1
+20.0.0	1	daf_persistence	20.0.0+1
+20.0.0	1	log	20.0.0+1
+20.0.0	1	pex_config	20.0.0+1
+20.0.0	1	utils	20.0.0+1
+20.0.0	1	afw	20.0.0-2-gf99403173

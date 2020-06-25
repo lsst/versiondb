@@ -1450,3 +1450,7 @@ tickets.DM-23835-g8c57eb963c	0	firefly_client	tickets.DM-23835-g2f7191361c
 20.0.0	0	geom	20.0.0
 20.0.0	0	log	20.0.0
 20.0.0	0	firefly_client	lsst-dev-gae83af3b70
+20.0.0	1	afw	20.0.0-2-gf99403173
+20.0.0	1	geom	20.0.0-1-gb9eeb60
+20.0.0	1	log	20.0.0+1
+20.0.0	1	firefly_client	lsst-dev-gae83af3b70

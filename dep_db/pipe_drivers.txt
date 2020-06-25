@@ -7281,3 +7281,12 @@ tickets.DM-23835-gce3f959b9a	0	geom	tickets.DM-23835-g1b0a77db9f
 20.0.0	0	pipe_tasks	20.0.0
 20.0.0	0	astro_metadata_translator	0.1.0-12-g03ebef7+6
 20.0.0	0	geom	20.0.0
+20.0.0	1	ctrl_pool	20.0.0+1
+20.0.0	1	afw	20.0.0-2-gf99403173
+20.0.0	1	pex_exceptions	20.0.0+1
+20.0.0	1	sphgeom	20.0.0+1
+20.0.0	1	pex_config	20.0.0+1
+20.0.0	1	pipe_base	20.0.0+1
+20.0.0	1	pipe_tasks	20.0.0-4-gd489f3fc
+20.0.0	1	astro_metadata_translator	0.1.0-12-g03ebef7+7
+20.0.0	1	geom	20.0.0-1-gb9eeb60
