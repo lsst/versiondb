@@ -11751,3 +11751,17 @@ tickets.DM-23835-g99cd2d52ca	0	testdata_decam	tickets.DM-23835-gceb8033df3
 20.0.0-4-gfa6e18e	0	obs_decam_data	20.0.0-1-g7048e9c
 20.0.0-4-gfa6e18e	0	geom	20.0.0-1-gb9eeb60
 20.0.0-4-gfa6e18e	0	testdata_decam	20.0.0-1-gf48a38f
+20.0.0-4-gfa6e18e	1	utils	20.0.0+1
+20.0.0-4-gfa6e18e	1	daf_persistence	20.0.0+2
+20.0.0-4-gfa6e18e	1	obs_base	20.0.0-10-g3c4dce0+1
+20.0.0-4-gfa6e18e	1	afw	20.0.0-4-gde602ef96
+20.0.0-4-gfa6e18e	1	meas_algorithms	20.0.0-2-g92e20685+1
+20.0.0-4-gfa6e18e	1	pipe_tasks	20.0.0-5-g45ea3685
+20.0.0-4-gfa6e18e	1	pipe_base	20.0.0+2
+20.0.0-4-gfa6e18e	1	pex_exceptions	20.0.0+1
+20.0.0-4-gfa6e18e	1	pex_config	20.0.0+1
+20.0.0-4-gfa6e18e	1	ip_isr	20.0.0-2-gbc613e1+1
+20.0.0-4-gfa6e18e	1	astro_metadata_translator	0.1.0-12-g03ebef7+7
+20.0.0-4-gfa6e18e	1	obs_decam_data	20.0.0-1-g7048e9c
+20.0.0-4-gfa6e18e	1	geom	20.0.0-2-gec03fae
+20.0.0-4-gfa6e18e	1	testdata_decam	20.0.0-1-gf48a38f

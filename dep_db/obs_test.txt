@@ -10306,3 +10306,10 @@ tickets.DM-23835-g4f66f03920	0	pipe_base	tickets.DM-23835-gf5b21541de
 20.0.0	1	utils	20.0.0+1
 20.0.0	1	obs_test_data	19.0.0
 20.0.0	1	pipe_base	20.0.0+1
+20.0.0	2	afw	20.0.0-4-gde602ef96
+20.0.0	2	daf_base	20.0.0+1
+20.0.0	2	obs_base	20.0.0-10-g3c4dce0+1
+20.0.0	2	pex_config	20.0.0+1
+20.0.0	2	utils	20.0.0+1
+20.0.0	2	obs_test_data	19.0.0
+20.0.0	2	pipe_base	20.0.0+2
