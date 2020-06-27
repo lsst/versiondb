@@ -13948,3 +13948,14 @@ master-g26753debd6	46	ci_ctio0m9	master-gbe69b68c0a+98
 20.0.0	2	validation_data_decam	20.0.0
 20.0.0	2	validate_drp	20.0.0+2
 20.0.0	2	ci_ctio0m9	17.0+298
+20.0.0	3	lsst_apps	20.0.0+3
+20.0.0	3	lsst_distrib	20.0.0+3
+20.0.0	3	lsst_obs	20.0.0+3
+20.0.0	3	lsst_dm_stack_demo	20.0.0+3
+20.0.0	3	testdata_subaru	20.0.0-1-g316d0ce
+20.0.0	3	testdata_cfht	14.0
+20.0.0	3	testdata_decam	20.0.0-1-gf48a38f
+20.0.0	3	validation_data_cfht	20.0.0
+20.0.0	3	validation_data_decam	20.0.0
+20.0.0	3	validate_drp	20.0.0+3
+20.0.0	3	ci_ctio0m9	17.0+299

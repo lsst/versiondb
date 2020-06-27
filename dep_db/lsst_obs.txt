@@ -9431,3 +9431,13 @@ master-g489e6e60e2	41	testdata_decam	12.1-3-gfbd6eff
 20.0.0	2	testdata_cfht	14.0
 20.0.0	2	testdata_subaru	19.0.0
 20.0.0	2	testdata_decam	20.0.0-1-gf48a38f
+20.0.0	3	obs_cfht	20.0.0+3
+20.0.0	3	obs_ctio0m9	20.0.0+3
+20.0.0	3	obs_decam	20.0.0-5-g0059727
+20.0.0	3	obs_lsst	19.0.0-71-gc490c78+5
+20.0.0	3	obs_subaru	19.0.0-63-g51b63c8d
+20.0.0	3	obs_test	20.0.0+3
+20.0.0	3	obs_sdss	20.0.0+3
+20.0.0	3	testdata_cfht	14.0
+20.0.0	3	testdata_subaru	20.0.0-1-g316d0ce
+20.0.0	3	testdata_decam	20.0.0-1-gf48a38f
