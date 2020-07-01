@@ -11850,3 +11850,13 @@ tickets.DM-23835-g3e5ba369da	0	obs_subaru	tickets.DM-23835-g8660a1b5b0
 20.0.0	3	obs_cfht	20.0.0+3
 20.0.0	3	obs_decam	20.0.0-5-g0059727
 20.0.0	3	obs_subaru	19.0.0-63-g51b63c8d
+20.0.0	4	utils	20.0.0+1
+20.0.0	4	daf_persistence	20.0.0+3
+20.0.0	4	afw	20.0.0-4-gde602ef96+1
+20.0.0	4	pipe_base	20.0.0+4
+20.0.0	4	verify	20.0.0-1-g44bc195+3
+20.0.0	4	pipe_tasks	20.0.0-7-g2b42b7ea
+20.0.0	4	pipe_drivers	20.0.0+4
+20.0.0	4	obs_cfht	20.0.0+4
+20.0.0	4	obs_decam	20.0.0-6-g9b2f099
+20.0.0	4	obs_subaru	19.0.0-64-g8a7ca956

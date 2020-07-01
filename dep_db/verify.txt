@@ -5309,3 +5309,11 @@ tickets.DM-23835-g8e76a75e71	0	verify_metrics	19.0.0-1-g8efd64f+4
 20.0.0-1-g44bc195	2	pipe_base	20.0.0+3
 20.0.0-1-g44bc195	2	dax_apdb	20.0.0-1-g253301a+1
 20.0.0-1-g44bc195	2	verify_metrics	20.0.0
+20.0.0-1-g44bc195	3	sconsUtils	20.0.0
+20.0.0-1-g44bc195	3	utils	20.0.0+1
+20.0.0-1-g44bc195	3	log	20.0.0-1-gd1c87d7
+20.0.0-1-g44bc195	3	pex_config	20.0.0+2
+20.0.0-1-g44bc195	3	daf_butler	19.0.0-111-g347fe885
+20.0.0-1-g44bc195	3	pipe_base	20.0.0+4
+20.0.0-1-g44bc195	3	dax_apdb	20.0.0-1-g253301a+2
+20.0.0-1-g44bc195	3	verify_metrics	20.0.0
