@@ -8367,3 +8367,11 @@ tickets.DM-23835-ga878f8cdbe	1	utils	tickets.DM-23835-gcc4927c4f1+1
 20.0.0	5	pex_exceptions	20.0.0+1
 20.0.0	5	sconsUtils	20.0.0
 20.0.0	5	utils	20.0.0+1
+20.0.0	6	meas_base	20.0.0+6
+20.0.0	6	meas_algorithms	20.0.0-2-g92e20685+6
+20.0.0	6	geom	20.0.0-2-gec03fae
+20.0.0	6	afw	20.0.0-4-gde602ef96+1
+20.0.0	6	daf_base	20.0.0-1-g8a53f90
+20.0.0	6	pex_exceptions	20.0.0+1
+20.0.0	6	sconsUtils	20.0.0
+20.0.0	6	utils	20.0.0+1
