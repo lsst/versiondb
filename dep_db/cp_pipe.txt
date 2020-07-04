@@ -2421,3 +2421,11 @@ tickets.DM-23835-g079e42630d	0	meas_algorithms	tickets.DM-23835-ga6ed9de832
 20.0.0-1-g32a200e	5	meas_algorithms	20.0.0-2-g92e20685+6
 20.0.0-1-g32a200e	5	pipe_drivers	20.0.0+6
 20.0.0-1-g32a200e	5	pipe_tasks	20.0.0-8-g7eef53f7+1
+20.0.0-1-g32a200e	6	pex_config	20.0.0+2
+20.0.0-1-g32a200e	6	pipe_base	20.0.0-2-g04cfba9
+20.0.0-1-g32a200e	6	log	20.0.0-1-gd1c87d7
+20.0.0-1-g32a200e	6	ip_isr	20.0.0-3-g2fa8bb8+3
+20.0.0-1-g32a200e	6	afw	20.0.0-4-gde602ef96+1
+20.0.0-1-g32a200e	6	meas_algorithms	20.0.0-2-g92e20685+7
+20.0.0-1-g32a200e	6	pipe_drivers	20.0.0+7
+20.0.0-1-g32a200e	6	pipe_tasks	20.0.0-8-g7eef53f7+2
