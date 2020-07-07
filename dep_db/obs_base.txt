@@ -6376,3 +6376,13 @@ tickets.DM-23835-g035f69d2bc	0	skymap	tickets.DM-23835-g322e958979
 20.0.0-15-g34741e2	1	daf_butler	19.0.0-113-g0a1db075
 20.0.0-15-g34741e2	1	pipe_base	20.0.0-2-g04cfba9
 20.0.0-15-g34741e2	1	skymap	20.0.0+6
+20.0.0-15-g34741e2	2	daf_base	20.0.0-1-g8a53f90+1
+20.0.0-15-g34741e2	2	log	20.0.0-1-gd1c87d7+1
+20.0.0-15-g34741e2	2	daf_persistence	20.0.0+4
+20.0.0-15-g34741e2	2	afw	20.0.0-4-gde602ef96+2
+20.0.0-15-g34741e2	2	utils	20.0.0+2
+20.0.0-15-g34741e2	2	astro_metadata_translator	0.1.0-12-g03ebef7+9
+20.0.0-15-g34741e2	2	geom	20.0.0-2-gec03fae+1
+20.0.0-15-g34741e2	2	daf_butler	19.0.0-113-g0a1db075+1
+20.0.0-15-g34741e2	2	pipe_base	20.0.0-2-g04cfba9+1
+20.0.0-15-g34741e2	2	skymap	20.0.0+7
