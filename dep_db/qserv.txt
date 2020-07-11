@@ -19275,3 +19275,14 @@ tickets.DM-10971-gd1471d3382	0	xrootd	lsst-dev-gb228094683
 12.1-302-g43993a78a	3	scisql	0.3.9-1-gd3ee28a
 12.1-302-g43993a78a	3	sphgeom	20.0.0+2
 12.1-302-g43993a78a	3	xrootd	lsst-dev-g0837e71e83
+12.1-306-g2b49e7d84	0	antlr4	4.7.1.lsst3
+12.1-306-g2b49e7d84	0	db	15.0-2-g9be925f+3
+12.1-306-g2b49e7d84	0	log	20.0.0-1-gd1c87d7+1
+12.1-306-g2b49e7d84	0	lua	5.3.4-2-gc7ee4ab
+12.1-306-g2b49e7d84	0	mariadb	10.2.14.lsst3-2-g8663886
+12.1-306-g2b49e7d84	0	mysqlproxy	lsst-dev-g9882a7ccab
+12.1-306-g2b49e7d84	0	partition	12.1-2-gfbacfff+4
+12.1-306-g2b49e7d84	0	redis_plus_plus	master-ge0661a3361
+12.1-306-g2b49e7d84	0	scisql	0.3.9-1-gd3ee28a
+12.1-306-g2b49e7d84	0	sphgeom	20.0.0-2-gd11eeda
+12.1-306-g2b49e7d84	0	xrootd	lsst-dev-g0837e71e83
