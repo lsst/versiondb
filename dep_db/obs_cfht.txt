@@ -6062,3 +6062,11 @@ tickets.DM-23835-ge8a75b64ec	0	testdata_cfht	14.0
 20.0.0	10	astro_metadata_translator	0.1.0-12-g03ebef7+9
 20.0.0	10	geom	20.0.0-2-gec03fae+3
 20.0.0	10	testdata_cfht	14.0
+20.0.0	11	daf_persistence	20.0.0+4
+20.0.0	11	obs_base	20.0.0-17-g41c5faf
+20.0.0	11	meas_algorithms	20.0.0-3-gbdbfa727+3
+20.0.0	11	meas_astrom	20.0.0-1-gc96f8cb+12
+20.0.0	11	pipe_tasks	20.0.0-8-g7eef53f7+7
+20.0.0	11	astro_metadata_translator	0.1.0-12-g03ebef7+9
+20.0.0	11	geom	20.0.0-2-gec03fae+3
+20.0.0	11	testdata_cfht	14.0
