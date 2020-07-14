@@ -2478,3 +2478,9 @@ tickets.DM-23835-g8dfed85431	0	ap_pipe_testdata	18.0.0+155
 20.0.0-2-gd4c8807	8	pipe_tasks	20.0.0-8-g7eef53f7+7
 20.0.0-2-gd4c8807	8	ap_association	20.0.0-10-g7fd97fe
 20.0.0-2-gd4c8807	8	ap_pipe_testdata	20.0.0+12
+20.0.0-2-gd4c8807	9	utils	20.0.0+3
+20.0.0-2-gd4c8807	9	pex_config	20.0.0+4
+20.0.0-2-gd4c8807	9	pipe_base	20.0.0-2-g04cfba9+5
+20.0.0-2-gd4c8807	9	pipe_tasks	20.0.0-10-g1b4d8e16
+20.0.0-2-gd4c8807	9	ap_association	20.0.0-10-g7fd97fe+1
+20.0.0-2-gd4c8807	9	ap_pipe_testdata	20.0.0+13

@@ -4419,3 +4419,9 @@ tickets.DM-23835-gd2e4f7b082	1	ip_isr	tickets.DM-23835-g4bcadb93f8
 20.0.0	11	pex_config	20.0.0+3
 20.0.0	11	utils	20.0.0+2
 20.0.0	11	ip_isr	20.0.0-4-ge987224+1
+20.0.0	12	afw	20.0.0-4-gde602ef96+5
+20.0.0	12	daf_base	20.0.0-1-g8a53f90+2
+20.0.0	12	obs_base	20.0.0-18-g0a0a97d
+20.0.0	12	pex_config	20.0.0+4
+20.0.0	12	utils	20.0.0+3
+20.0.0	12	ip_isr	20.0.0-4-ge987224+3
