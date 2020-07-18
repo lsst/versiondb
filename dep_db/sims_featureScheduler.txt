@@ -866,3 +866,13 @@ master-g9888a9f842	0	sims_downtimeModel	master-g55f72efa65+16
 master-g9888a9f842	0	sims_survey_fields	2.13.0.sims-1-g3f5255d+4
 master-g9888a9f842	0	sims_almanac	master-g021b69e146
 master-g9888a9f842	0	ts_observatory_model	master-g3d307a5f45+45
+master-g9888a9f842	1	base	20.0.0-4-g4a2362f
+master-g9888a9f842	1	sims_utils	2.13.0.sims-43-g0b90c3c+5
+master-g9888a9f842	1	sims_skybrightness_pre	2.13.0.sims-10-g460c1a4+5
+master-g9888a9f842	1	ephem	3.7.6.0-1-g6182364
+master-g9888a9f842	1	sims_seeingModel	master-ga4bf72ea44+19
+master-g9888a9f842	1	sims_cloudModel	master-ge3724df529+19
+master-g9888a9f842	1	sims_downtimeModel	master-g55f72efa65+17
+master-g9888a9f842	1	sims_survey_fields	2.13.0.sims-1-g3f5255d+5
+master-g9888a9f842	1	sims_almanac	master-g021b69e146+1
+master-g9888a9f842	1	ts_observatory_model	master-g3d307a5f45+46
