@@ -4678,3 +4678,13 @@ b.20.0.x-g4f9e7049ff	0	daf_butler	b.20.0.x-gcf8d84b909
 19.0.0-78-g51692a9	3	astro_metadata_translator	0.1.0-12-g03ebef7+10
 19.0.0-78-g51692a9	3	obs_lsst_data	20.0.0-1-g3fe583d
 19.0.0-78-g51692a9	3	daf_butler	19.0.0-119-ga83748a6
+19.0.0-79-gb348b48	0	afw	20.0.0-4-gde602ef96+5
+19.0.0-79-gb348b48	0	daf_base	20.0.0-1-g8a53f90+2
+19.0.0-79-gb348b48	0	obs_base	20.0.0-21-g52834e7+1
+19.0.0-79-gb348b48	0	pex_config	20.0.0+4
+19.0.0-79-gb348b48	0	utils	20.0.0+3
+19.0.0-79-gb348b48	0	ip_isr	20.0.0-5-gfcb36e1+2
+19.0.0-79-gb348b48	0	pipe_tasks	20.0.0-10-g1b4d8e16+6
+19.0.0-79-gb348b48	0	astro_metadata_translator	0.1.0-12-g03ebef7+10
+19.0.0-79-gb348b48	0	obs_lsst_data	20.0.0-1-g3fe583d
+19.0.0-79-gb348b48	0	daf_butler	19.0.0-120-g5dce7a7a
