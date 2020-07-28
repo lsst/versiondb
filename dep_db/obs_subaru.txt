@@ -14506,3 +14506,17 @@ b.20.0.x-gfecca0a2e6	0	testdata_subaru	19.0.0
 19.0.0-67-gd2b1459d	9	meas_extensions_psfex	20.0.0-1-g10df615+18
 19.0.0-67-gd2b1459d	9	meas_extensions_shapeHSM	20.0.0+19
 19.0.0-67-gd2b1459d	9	testdata_subaru	20.0.0-1-g316d0ce
+19.0.0-67-gd2b1459d	10	daf_persistence	20.0.0+5
+19.0.0-67-gd2b1459d	10	obs_base	20.0.0-22-g8ce909b
+19.0.0-67-gd2b1459d	10	pipe_tasks	20.0.0-12-g2a9f6943+2
+19.0.0-67-gd2b1459d	10	meas_astrom	20.0.0-1-gc96f8cb+24
+19.0.0-67-gd2b1459d	10	sconsUtils	20.0.0-1-gc4fbba5
+19.0.0-67-gd2b1459d	10	astshim	20.0.0+1
+19.0.0-67-gd2b1459d	10	astro_metadata_translator	0.1.0-12-g03ebef7+10
+19.0.0-67-gd2b1459d	10	obs_subaru_data	20.0.0
+19.0.0-67-gd2b1459d	10	geom	20.0.0-2-gec03fae+4
+19.0.0-67-gd2b1459d	10	daf_butler	19.0.0-124-g6801571f
+19.0.0-67-gd2b1459d	10	meas_modelfit	20.0.0+20
+19.0.0-67-gd2b1459d	10	meas_extensions_psfex	20.0.0-1-g10df615+19
+19.0.0-67-gd2b1459d	10	meas_extensions_shapeHSM	20.0.0+20
+19.0.0-67-gd2b1459d	10	testdata_subaru	20.0.0-1-g316d0ce
