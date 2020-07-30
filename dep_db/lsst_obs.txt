@@ -9641,3 +9641,13 @@ master-g489e6e60e2	41	testdata_decam	12.1-3-gfbd6eff
 20.0.0	23	testdata_cfht	14.0
 20.0.0	23	testdata_subaru	20.0.0-1-g316d0ce
 20.0.0	23	testdata_decam	20.0.0-2-g47917b2
+20.0.0	24	obs_cfht	20.0.0+23
+20.0.0	24	obs_ctio0m9	20.0.0+21
+20.0.0	24	obs_decam	20.0.0-11-gda4966f+8
+20.0.0	24	obs_lsst	19.0.0-79-gb348b48+7
+20.0.0	24	obs_subaru	19.0.0-68-g8ae4fb5c
+20.0.0	24	obs_test	20.0.0+26
+20.0.0	24	obs_sdss	20.0.0+23
+20.0.0	24	testdata_cfht	14.0
+20.0.0	24	testdata_subaru	20.0.0-1-g316d0ce
+20.0.0	24	testdata_decam	20.0.0-2-g47917b2
