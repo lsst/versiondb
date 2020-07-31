@@ -4873,3 +4873,12 @@ tickets.DM-23835-gdcbb01c9ee	0	ap_association	tickets.DM-23835-g07bb665303
 20.0.0-7-g4612f31	9	ap_verify_testdata	20.0.0-4-g66db125+10
 20.0.0-7-g4612f31	9	ip_diffim	20.0.0-1-g596936a+24
 20.0.0-7-g4612f31	9	ap_association	20.0.0-11-g041cdba+5
+20.0.0-7-g4612f31	10	utils	20.0.0+3
+20.0.0-7-g4612f31	10	afw	20.0.0-4-gde602ef96+5
+20.0.0-7-g4612f31	10	daf_persistence	20.0.0+5
+20.0.0-7-g4612f31	10	pipe_tasks	20.0.0-12-g2a9f6943+4
+20.0.0-7-g4612f31	10	verify	20.0.0-1-g44bc195+20
+20.0.0-7-g4612f31	10	ap_pipe	20.0.0-2-gd4c8807+21
+20.0.0-7-g4612f31	10	ap_verify_testdata	20.0.0-4-g66db125+11
+20.0.0-7-g4612f31	10	ip_diffim	20.0.0-1-g596936a+25
+20.0.0-7-g4612f31	10	ap_association	20.0.0-11-g041cdba+6

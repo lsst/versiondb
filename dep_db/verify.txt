@@ -5445,3 +5445,11 @@ tickets.DM-23835-g8e76a75e71	0	verify_metrics	19.0.0-1-g8efd64f+4
 20.0.0-1-g44bc195	19	pipe_base	20.0.0-6-g9c77118+2
 20.0.0-1-g44bc195	19	dax_apdb	20.0.0-1-g253301a+6
 20.0.0-1-g44bc195	19	verify_metrics	20.0.0-2-g5e4bddd
+20.0.0-1-g44bc195	20	sconsUtils	20.0.0-1-gc4fbba5
+20.0.0-1-g44bc195	20	utils	20.0.0+3
+20.0.0-1-g44bc195	20	log	20.0.0-1-gd1c87d7+2
+20.0.0-1-g44bc195	20	pex_config	20.0.0+4
+20.0.0-1-g44bc195	20	daf_butler	19.0.0-126-g59503f7c
+20.0.0-1-g44bc195	20	pipe_base	20.0.0-7-gb92c176
+20.0.0-1-g44bc195	20	dax_apdb	20.0.0-1-g253301a+6
+20.0.0-1-g44bc195	20	verify_metrics	20.0.0-2-g5e4bddd
