@@ -16454,3 +16454,11 @@ tickets.DM-23835-ga05d9a4f9b	0	geom	tickets.DM-23835-g1b0a77db9f+1
 20.0.0	24	utils	20.0.0+3
 20.0.0	24	log	20.0.0-1-gd1c87d7+2
 20.0.0	24	geom	20.0.0-2-gec03fae+4
+20.0.0	25	obs_base	20.0.0-24-g0eb5a41+1
+20.0.0	25	afw	20.0.0-4-gde602ef96+5
+20.0.0	25	meas_algorithms	20.0.0-5-gc4485221+1
+20.0.0	25	meas_astrom	20.0.0-1-gc96f8cb+27
+20.0.0	25	pipe_tasks	20.0.0-13-g198ee8df
+20.0.0	25	utils	20.0.0+3
+20.0.0	25	log	20.0.0-1-gd1c87d7+2
+20.0.0	25	geom	20.0.0-2-gec03fae+4
