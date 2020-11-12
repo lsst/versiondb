@@ -1,0 +1,72 @@
+# product                 SHA1                                      Version                       
+BUILD=b5187
+afwdata                   d1c39c2f883e254a0e8fcd080721619ca496e1d3  20.0.0                                   
+astropy_helpers           9c76ab20764baf2335cbd254d274addf80fd6c80  3.0.2.lsst-1-g9c76ab2                    
+eigen                     fd995628f7aa5534ef73c13f6d9660d0cbe3e416  3.3.7.lsst2                              
+ephem                     6182364ef5d674c8f0765ee00779fcfe7ab23a50  3.7.6.0-1-g6182364                       
+freetds                   0735e0852765cf374c258482c5b9a295c0459975  0.91.112.lsst2-1-g0735e08                
+obs_lsst_data             1010acae735ccaa1f27868e803e7790505d34e02  20.0.0-6-g1010aca                        
+obs_test_data             b4dcb135d7fe475262c0b982b6f574d74ef90754  20.0.0                                   
+palpy                     a7803970ea9fbca76a1481d3e46fd5b1af9d7158  1.8.1-1-ga780397                         
+proxmin                   79c049878343e03f030d423d5eca84c61cf578e7  lsst-dev-g79c0498783                     
+sconsUtils                9a8dc73fbcf953828928a0b252a3747277ac3d68  20.0.0-2-g9a8dc73                        
+sims_data                 ca5d0e022c7167ef0e7ee216efcfa9b9b9d9cae7  2018.05.08                               
+sims_maps                 0e9deaa7802370ac9904a15d5394bffb6027c459  2017.05.08-10-g0e9deaa                   
+sims_sed_library          5b328a8624af10bcd6eeab6148384ea206a2de43  2017.01.24-1-g5b328a8                    
+sims_skybrightness_data   01a98f80e09179c96976f9ae830fc07c22bca67d  2017.05.05-1-g01a98f8                    
+testdata_deblender        8af30cc6eeffc3554cc7b3aee2e66f46f21279de  20.0.0                                   
+throughputs               58f0f273b9c8458202f8d8061a4542c3c9f0ed75  2019.07.02-2-g58f0f27                    
+astshim                   b780d761e47868ed5d6c35b1b01ee31cbd89178e  20.0.0-2-gb780d76+d529cf1a41             sconsUtils
+base                      64f541ce8b2c64fead098d88f8b6b5b758a46983  20.0.0-6-g64f541c+d529cf1a41             sconsUtils
+kht                       85ae2b958399c0514c27a9928c036c494fbbc2b8  lsst-dev-g85ae2b9583+4a227a8d44          eigen
+psfex                     a90eac9742e8c7f0280a06fc7e59f4acf6af86b1  19.0.0-3-ga90eac9+d529cf1a41             sconsUtils
+pymssql                   b0e77e5799637dc339a54093d2ad130abfe539a0  2.1.1-1-gb0e77e5+ad9f4941ed              freetds
+scarlet                   accceaf1d02f82043df7ceaf3a49e5e934bec234  lsst-dev-gaccceaf1d0+f31336177f          proxmin
+sncosmo                   418c6ad3ea5f6404bef92b0c09d4ea155b78b2d9  1.3.0.lsst2-4-g418c6ad+a276e85521        astropy_helpers
+sphgeom                   fbfe50006416b39f0c25c3da25b096e728c9d150  20.0.0-5-gfbfe500+d529cf1a41             sconsUtils
+verify_metrics            b1000a397ba604194c5f06fd5ab0197346ea1f90  20.0.0-5-gb1000a3+d529cf1a41             sconsUtils
+pex_exceptions            5a8b32307a533f330184baf2541fdc992f91826a  20.0.0+bddc4f4cbe                        base
+scarlet_extensions        9d1858973594594d1fd70a257f99b89e77df79fc  lsst-dev-g9d18589735+2809726f89          scarlet
+utils                     4cc78c60040044ed6d79e9e74be90d501f6c233f  20.0.0-3-g4cc78c6+e0676b0dc8             base,pex_exceptions
+daf_base                  f910f653d804b5cfbc1ae856b27ecda95f55ca9e  20.0.0-4-gf910f65+5d3db074ba             utils,pex_exceptions
+daf_butler                520f072b9bfca94d1e2b123232fde4bf48389dd7  19.0.0-197-g520f072b+187b78b4b8          sphgeom,sconsUtils,utils
+geom                      bd60e8ce2cfca0bca6ac589220688f84172f2a52  20.0.0-3-gbd60e8c+187b78b4b8             sconsUtils,sphgeom,pex_exceptions,utils
+log                       61b8584665373209cb86a9fae22326d0a10157e4  20.0.0-2-g61b8584+5d3db074ba             base,sconsUtils,utils
+sims_almanac              021b69e146185b5362cbd16f017d3f312930c1a3  master-g021b69e146+5d3db074ba            base,utils
+sims_survey_fields        3f5255daf361aa322d1c4a72f0310a609ecb7052  2.13.0.sims-1-g3f5255d+5d3db074ba        utils
+sims_utils                40e226b5b1db60fb04210abb480bf43e593a6c41  2.13.0.sims-44-g40e226b+3e90de69b6       utils,palpy,sims_data
+astro_metadata_translator 00cc688fd2035093c2e67ba2e008c57582e03ee5  0.1.0-16-g00cc688+0d71a2d77f             sconsUtils,daf_base
+daf_persistence           becbe0515785050c6d2f532154153194ac934527  20.0.0-3-gbecbe05+48431fa087             utils,log,daf_base
+pex_config                2b7511a59cdb15a0b7515bb53be6336bd1c5294d  20.0.0-1-g2b7511a+0d71a2d77f             daf_base
+sims_catalogs             07da441c31ab45787a82b3784805c0dd6b343574  2.13.0.sims-7-g07da441+d486a7e8df        daf_butler,pymssql,sims_utils,utils
+sims_photUtils            557295365d7cbb4ba14068f51719138413954264  2.13.0.sims-3-g5572953+25ba653aaf        utils,sims_utils,throughputs
+afw                       fab17e72e66bb27836dd643162a81a9aca63cf8c  20.0.0-16-gfab17e72e+fdf35455f6          daf_base,daf_persistence,pex_config,geom,log,sphgeom,utils,astshim,afwdata
+sims_cloudModel           e3724df5295e741076d6596dd9a15e4ab9fb1348  master-ge3724df529+0e19824c28            utils,pex_config,sims_utils
+sims_downtimeModel        55f72efa65e9793de772e7accf868fc2f569c778  master-g55f72efa65+323ab1783b            utils,pex_config
+sims_seeingModel          a4bf72ea443f605edd1ad02490135ddf74d679a3  master-ga4bf72ea44+a04711126a            utils,pex_config,sims_utils,throughputs,sims_photUtils
+sims_skybrightness        638250ea2cfbc3a2bb7a0211d21dc03081908c6b  2.13.0.sims-6-g638250e+55eecdaf20        base,ephem,sims_utils,sims_photUtils,utils,throughputs,sims_skybrightness_data
+dax_apdb                  253301aa6cef94a1860a0adc84002e26b2a6a1a1  20.0.0-1-g253301a+8829bf0056             afw,pex_config,sconsUtils,sphgeom,utils
+pipe_base                 3dcad98e454eb1df00561b5eb2bb902bf54f07f1  20.0.0-25-g3dcad98+544a109665            daf_butler,daf_persistence,log,pex_config,utils,afw
+sims_skybrightness_pre    460c1a44419863b084a18d2862ee88a88efe33a3  2.13.0.sims-10-g460c1a4+52b927b81e       sims_utils,sims_survey_fields,ephem,sims_skybrightness
+skymap                    97dc21a859325fc3a2e2d97c32ff3dda306f61c7  20.0.0-4-g97dc21a+544a109665             sphgeom,geom,afw,daf_butler
+coadd_utils               8227491f6708ddf234dd8f04c47401542adc7b18  20.0.0+7927753e06                        afw,log,pex_config,pipe_base,sconsUtils,utils,afwdata
+obs_base                  a3f3ddadc23083a33cda842b09ba34c328c12eca  20.0.0-68-ga3f3dda+5fca18c6a4            daf_base,log,daf_persistence,afw,utils,astro_metadata_translator,geom,daf_butler,pipe_base,skymap
+sims_featureScheduler     5c4c5aa3005d7d79961e7bff65135da26a924f73  master-g5c4c5aa300+d78c6af6b5            base,sims_utils,sims_skybrightness_pre,ephem,sims_seeingModel,sims_cloudModel,sims_downtimeModel,sims_survey_fields,sims_almanac
+verify                    2b2d431df2524ac3683c7dc925a4916d15d5bdd8  20.0.0-3-g2b2d431+8015128ce9             sconsUtils,utils,log,pex_config,daf_butler,pipe_base,dax_apdb,verify_metrics
+meas_base                 b4befbc2e73346a7cffeb981670a4883b1de21e8  20.0.0-4-gb4befbc+087873070b             utils,geom,afw,coadd_utils,daf_base,sphgeom,pex_config,pipe_base,sconsUtils
+obs_test                  0070d887cc19b9079872a15c148733253c5511ee  20.0.0-2-g0070d88+ba3ffc8f0b             afw,daf_base,obs_base,pex_config,utils,obs_test_data,pipe_base
+meas_algorithms           321c96eae34407508075afabb3845b7a5db8592f  20.0.0-12-g321c96ea+23efe4bbff           astshim,daf_base,daf_persistence,geom,afw,log,meas_base,obs_test,pex_config,pex_exceptions,pipe_base,sconsUtils,utils
+ip_isr                    5eafb0f08a3aa946228f4a33633d386b98b78095  20.0.0-25-g5eafb0f+ee58a624b3            meas_algorithms,pipe_base,sconsUtils,afw,geom,utils,pex_exceptions
+meas_astrom               f1f7952ad29e7cc2206b5bad2d688c87818b83dd  20.0.0-2-gf1f7952+ee58a624b3             geom,sphgeom,afw,log,meas_algorithms,pex_config,pipe_base,utils
+meas_deblender            8f21e14b5a96c241e174d0d2cdc5ec6c5cb8cdc8  20.0.0-3-g8f21e14+4fd2c12c9a             afw,log,meas_algorithms,sconsUtils,utils,testdata_deblender
+meas_extensions_psfex     dfe0fee89b1a5e081df3c5316e111860bc87c039  20.0.0-5-gdfe0fee+199202a608             afw,daf_base,meas_algorithms,meas_base,psfex,sconsUtils,utils,geom
+meas_extensions_scarlet   8953f445d358b9f0288376969526a70cc8035cf1  20.0.0-4-g8953f44+8217a10e31             base,afw,log,scarlet,scarlet_extensions,log,pex_config,pex_exceptions,pipe_base,meas_algorithms,testdata_deblender
+ip_diffim                 4aef684b15bdd753747a10702ce07bd42773fe02  20.0.0-9-g4aef684+e18322736b             afw,daf_base,daf_persistence,log,meas_algorithms,meas_base,meas_deblender,pex_config,pipe_base,utils,verify,geom,afwdata
+pipe_tasks                e4adf51330c32c8136dd22b2bf79a98ccee9cb9f  20.0.0-38-ge4adf513+a12e1f8e37           afw,daf_persistence,log,meas_base,pipe_base,pex_config,utils,obs_base,meas_algorithms,meas_extensions_scarlet,meas_extensions_psfex,kht,meas_astrom,meas_deblender,ip_isr,ip_diffim,coadd_utils,skymap,sphgeom,obs_test
+obs_lsst                  bcb8e0c239576a11864adab54711b057d9c9c553  19.0.0-108-gbcb8e0c+4b8ab7952e           afw,daf_base,obs_base,pex_config,utils,ip_isr,pipe_tasks,astro_metadata_translator,obs_lsst_data,daf_butler
+obs_lsstSim               5b439099271350b4f32a7a66b2b998a2be3c93c6  19.0.0-4-g5b43909+b8795eef08             daf_base,afw,daf_persistence,obs_base,meas_algorithms,ip_isr,pipe_tasks,utils
+sims_coordUtils           ac68177360651da8afeead2751bd94f693b0cc1c  2.13.0.sims-5-gac68177+d4879143b4        base,utils,geom,afw,sims_utils,obs_lsstSim
+sims_catUtils             daeeefda10833c4954ac8aec41e32d4c9e421f82  2.13.0.sims-11-gdaeeefda+7c46460ac1      utils,sims_sed_library,sims_maps,sims_utils,sims_catalogs,sims_coordUtils,sims_photUtils,sims_data,palpy,pymssql,daf_persistence,sncosmo,obs_lsstSim
+sims_maf                  083594479c1e52ddbe863e593202d3fe7630a951  2.13.0.sims-62-g08359447+7667d888e1      base,ephem,palpy,sims_utils,sims_data,sims_catalogs,sims_photUtils,sims_coordUtils,sims_maps,sims_survey_fields,obs_lsstSim
+sims_GalSimInterface      29b6feb5cb2eefe33be97516219fcde4f04fb9e0  2.13.0.sims-14-g29b6feb+a172419780       meas_astrom,afw,geom,sims_utils,sims_coordUtils,sims_catalogs,sims_catUtils,obs_lsstSim
+lsst_sims                 ec5618e94d652677e20f0f9b7e5369bc61f71031  2.13.0.sims-3-gec5618e+0be1262801        sims_maf,sims_GalSimInterface,sims_catUtils,sims_catalogs,sims_sed_library,sims_maps,sims_skybrightness,sims_skybrightness_pre,sncosmo,ephem,sims_survey_fields,sims_featureScheduler,obs_lsst
