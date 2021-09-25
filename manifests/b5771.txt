@@ -1,0 +1,22 @@
+# product                 SHA1                                      Version                       
+BUILD=b5771
+antlr4                    ab7ad61352339393c9de0682c14e8d9be3d3c1fc  4.7.1.lsst3                              
+hiredis                   825f5a91c56b242b8d536cbd4be31e462739454b  master-g825f5a91c5                       
+lua                       c7ee4ab3e82bd449d793266b575d16dbb37b1a58  5.3.4-2-gc7ee4ab                         
+mariadb                   86638867cfce2fa02b4d85f987ae095b27df3f25  10.2.14.lsst3-2-g8663886                 
+sconsUtils                92998165e0c4bb5be7d458d311af30054d08595a  22.0.0-5-g9299816                        
+xrootd                    5b015dcebcd4b8c62a2534238582eab1266f728f  affinity-flex-hash-g5b015dcebc           
+base                      a9b0f51b18e88357090344f187ee0a3056b10922  22.0.1-2-ga9b0f51+052faf71bd             sconsUtils
+mysqlproxy                9882a7ccab953b7eb8b286e2fc7e51904c63676e  lsst-dev-g9882a7ccab+99b3b1a7ba          lua,mariadb
+redis_plus_plus           e0661a33615bb0c8109f54eda58e3e0321e85e0f  master-ge0661a3361+925b38c994            hiredis
+scisql                    d3ee28a379ff8cb64fea1ca7a8534d013adef5ad  0.3.9-1-gd3ee28a+eff62e5ec7              mariadb
+sphgeom                   ac51dbfff83f90e0dd1d98b8bd4bd6016d80a258  22.0.1-2-gac51dbf+052faf71bd             sconsUtils
+partition                 dd298a6529ed9688dbbf009c7ab95460984b183e  12.1-5-gdd298a6+5904de93c2               sconsUtils,sphgeom
+pex_exceptions            de069b70e5abe0cb21eda8786941313c025a7f21  22.0.0+7589c3a021                        base
+cpputils                  6e05de7fdc869ca4707d956fd17b219f1f9d2f94  master-g6e05de7fdc+c1283a92b8            base,pex_exceptions
+utils                     3afcb0f245807a502f1e73dac4782a1b239bb3e0  22.0.1-5-g3afcb0f+7bff505259             cpputils,sconsUtils
+log                       ba7369791174168e2f4059f312ac34ac2889635d  22.0.1-7-gba73697+2b530637d3             base,sconsUtils,utils
+db                        9be925f68d4afe58e9ee2864f9f526f8f3e11b67  15.0-2-g9be925f+6bd3ed2599               log,sconsUtils
+qserv                     913281952b8c881a478dc50e5ddfeb6122ad4e12  2021.9.2-rc1-4-g913281952+9f8903c6fa     antlr4,db,log,lua,mariadb,mysqlproxy,partition,redis_plus_plus,scisql,sphgeom,xrootd
+qserv_testdata            1b03ebccee29edc6c6dd1c9efd1e7552def6dbf4  2021.6.3-rc1+51200e4562                  qserv,sconsUtils
+qserv_distrib             76ecee9da3d174fe6e8e3ecfa52012c24ce259e0  2021.6.3-rc1+8daaf47f3a                  qserv,partition,qserv_testdata
