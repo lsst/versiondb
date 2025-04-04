@@ -1,0 +1,120 @@
+# product                 SHA1                                      Version                       
+BUILD=b7613
+afwdata                   da6a35342cddc65db1d042053e6f05b0e26afc6d  gda6a35342c                              
+ap_verify_testdata        ac6c61303a72e82bed683a2f33148f85e733c121  gac6c61303a                              
+fgcm                      b6414fb7c25fc041dbc45a278341cfca1dd572bf  gb6414fb7c2                              
+kht                       afcb7142decdb77911b08be3ee495256b2f19ed3  gafcb7142de                              
+obs_decam_data            9eeeb5e1744bf8adbf537d8090ce4329e9927f2a  g9eeeb5e174                              
+obs_lsst_data             cdd4b2c61b6e9b4669ebc2379d02c7ea2a399ebe  gcdd4b2c61b                              
+obs_subaru_data           7ff78db35487d4e684a72e349abc7204559ea87b  g7ff78db354                              
+sconsUtils                a067d4dfce9190aef36f4938f2824f24839e0e3d  ga067d4dfce                              
+testdata_cfht             fc909493914c3bdf2eb4eac6cef672d82640ae3f  gfc90949391                              
+testdata_deblender        8a244b65448f9248c91d66b0894bc3fd056feb91  g8a244b6544                              
+testdata_decam            fde10c3a1cfb39bba0e5005e956c4b2059c91370  gfde10c3a1c                              
+testdata_jointcal         f1d4ecff8ca0ab0faa6be604b92c82554c5341ed  gf1d4ecff8c                              
+testdata_subaru           03c3ee655a9f3a162a19b12d7ad201b6af0c1e33  g03c3ee655a                              
+base                      53246c715956882f6e527aaa7283219e06a7401f  g53246c7159+fcb1d3bbc8                   sconsUtils
+dustmaps_cachedata        bb0a0c949e73ad2289341f9e0bf912c1e810fe45  gbb0a0c949e+fcb1d3bbc8                   sconsUtils
+gauss2d                   9125e01d80fc2ec491ffa9b869e93d331701d244  g9125e01d80+fcb1d3bbc8                   sconsUtils
+jointcal_cholmod          5b815a837eb1fe17aa9597e66017b25d3136e3b6  g5b815a837e+fcb1d3bbc8                   sconsUtils
+modelfit_parameters       35bb328faa137fdecac9ba21664eec8cdfa06eeb  g35bb328faa+fcb1d3bbc8                   sconsUtils
+psfex                     7b9623be859eb100c82fc1dd773c529ffda28e97  g7b9623be85+fcb1d3bbc8                   sconsUtils
+scarlet_lite              d9a9a58781529ebf7a1128f84b1ab9373818b81b  gd9a9a58781+fcb1d3bbc8                   sconsUtils
+sphgeom                   7b71ed63151fba77558ea866c0572137bde92f47  g7b71ed6315+fcb1d3bbc8                   sconsUtils
+utils                     8d1d1ec227cf45f4110621c024f75aee1f37e8c9  g8d1d1ec227+fcb1d3bbc8                   sconsUtils
+verify_metrics            05f563eca1e615dff33c5240e704f4673a9cebe0  g05f563eca1+fcb1d3bbc8                   sconsUtils
+daf_relation              79127c212b9fce19e88f568801a1330cffc7689b  g79127c212b+fa73091e6d                   sconsUtils,utils
+gauss2d_fit               b58c049af005e3c501e8556df46edc28e42efd1f  gb58c049af0+f03b321e39                   gauss2d,modelfit_parameters,sconsUtils
+log                       e278dab8ac7dbe34f6bcd0740cd60ba18e889be2  ge278dab8ac+fa73091e6d                   sconsUtils,utils
+pex_exceptions            786e29fd129756b69aad840e77102572d4427069  g786e29fd12+cf7ec2a62a                   base
+resources                 e25f5608ea2ce9698ab2ef0395cf270b50840f68  ge25f5608ea+fa73091e6d                   sconsUtils,utils
+spectractor               64d345e58ab39b919bfa806f22732e55b45af665  g64d345e58a+fa73091e6d                   utils,utils
+cpputils                  abe3b4be7314deef3ffc989f82d55a864bdb48e6  gabe3b4be73+1e0a283bba                   base,pex_exceptions
+daf_butler                260d03d4d3a0780da4cb4c14f2e7e43570947402  g260d03d4d3+14732d4773                   sphgeom,sconsUtils,utils,resources,daf_relation
+felis                     bdd2fa977c001ca0a5f56e4295d618e2fc35032f  gbdd2fa977c+e88f15a2cc                   sconsUtils,utils,resources
+astshim                   78460c75b0e7e4b30293ab93a99093bd37996298  g78460c75b0+2f9a1b4bcd                   sconsUtils,cpputils
+daf_base                  1ec0fe41b46a37cd3cfa123c2e377e059bbc10cc  g1ec0fe41b4+f8df4a5e9d                   utils,cpputils,pex_exceptions,base
+daf_butler_admin          3ceb23165bc5c6463c94d36e030052e90a1790c3  g3ceb23165b+d2da1cbfca                   daf_butler,sconsUtils
+daf_butler_migrate        bb2bb68fd624ce976107c73739ba1e8d67da8a6d  gbb2bb68fd6+d2da1cbfca                   daf_butler,resources,sconsUtils
+dax_obscore               a9a0b86e97a08ba995ecdbd641d549964ccc75bc  ga9a0b86e97+4de8c9c38e                   daf_butler,sphgeom,utils,felis
+geom                      d6cbbdb0b4b12839c948da7cfb301f775e30f8df  gd6cbbdb0b4+ace4583378                   sconsUtils,sphgeom,pex_exceptions,utils,cpputils
+rucio_register            d0745f1f598b7095e4dbf5356f42fbac3af7dac9  gd0745f1f59+d2da1cbfca                   utils,daf_butler
+sdm_tools                 be3d0f23c9bebfc67e041080ca77ecddf93c5360  gbe3d0f23c9+43d9643709                   sconsUtils,utils,felis
+astro_metadata_translator 8cbe06beb28aaf122201aa4f488a8e219cc5c0cc  g8cbe06beb2+a9d2faf463                   sconsUtils,daf_base
+gbdes                     e47971662c340e01a2594dbf5d34cf6ed6ed7dc1  ge47971662c+66a4ae13b8                   astshim
+pex_config                abf852232518027c538e9a5d2614b5f803025a76  gabf8522325+a9d2faf463                   daf_base,sconsUtils
+sdm_schemas               84eb69e1e02777620be525ebf70c85329a68a20d  g84eb69e1e0+ad6609034e                   sconsUtils,sdm_tools
+afw                       5a012ec0e74b76aae036e87a76e26d59b508d1d5  g5a012ec0e7+6ce3c67fb7                   daf_base,pex_config,geom,log,sphgeom,utils,astshim,base,cpputils,afwdata
+alert_packet              a9fcad5d897aa656264e80be13695ef9ac89f070  ga9fcad5d89+99c457a9a8                   resources,sdm_schemas
+dax_apdb                  1e78f5e6d3ac7fa40e675e427438e82c3fbe901a  g1e78f5e6d3+05b96b9403                   felis,geom,pex_config,resources,sconsUtils,sdm_schemas,sphgeom,utils
+multiprofit               b1c7dd47778d81099d10cb44b94026debead8536  gb1c7dd4777+60293c4f0e                   sconsUtils,gauss2d_fit,pex_config
+pipe_base                 b9b01a10741bfeb0a387e868b9a61ab8eb796cf6  gb9b01a1074+5b6bd8023f                   daf_butler,pex_config,utils,resources
+cbp                       7a6b8c32e41a7a9b91a634076ee98d217ded5ccd  g7a6b8c32e4+b5a8974b5d                   geom,sphgeom,afw
+coadd_utils               89139ef63871455d4aa124831d04de57703bfe20  g89139ef638+b5a8974b5d                   afw,sconsUtils,utils,cpputils,afwdata,pex_config
+ctrl_mpexec               3018488a2c267ae14bf9e71e204eaabc5fca1104  g3018488a2c+5325a2e632                   daf_butler,pex_config,pipe_base,utils
+display_astrowidgets      e410e46f2952210f483f261cc3f0745053b85f8e  ge410e46f29+b5a8974b5d                   base,afw
+display_ds9               b89ab40317fdbea58404a50998d1b3ce9b1cc161  gb89ab40317+b5a8974b5d                   afw
+display_firefly           f67bdafdda8b8c11a6131273bb97b120642252c5  gf67bdafdda+b5a8974b5d                   afw,geom
+display_matplotlib        67b6fd64d1d83835edcd1659f7d6cbc216cc7f35  g67b6fd64d1+b5a8974b5d                   afw
+obs_base                  f063a37d1876648ecbe73d35a02f3c5424e9150b  gf063a37d18+5a74d2ac62                   utils,daf_butler,pipe_base,resources,astro_metadata_translator,pex_config,daf_base,afw,geom,pex_exceptions,log
+shapelet                  989de1cb63fd88ae497edcb2cd8d6431038732a8  g989de1cb63+b5a8974b5d                   afw,sconsUtils,geom
+skymap                    1fd858c14a10efce22350d0db720cadf582b1ecb  g1fd858c14a+1f896281a9                   sphgeom,geom,afw,daf_butler
+verify                    e8650ff3b9e8cf5ebdb549269993cf7fac235561  ge8650ff3b9+40a466a6c6                   sconsUtils,utils,pex_config,daf_butler,pipe_base,dax_apdb,afw,verify_metrics
+ctrl_bps                  a8eeb1f00d4765d8cd1ab02396a1328585de279a  ga8eeb1f00d+7029bd2305                   sconsUtils,utils,daf_butler,pipe_base,resources,ctrl_mpexec
+meas_base                 fe06eef73a299658b32916e854c372b3038c1498  gfe06eef73a+62ba25d42b                   utils,geom,afw,skymap,daf_base,sphgeom,pex_config,pipe_base,sconsUtils,cpputils
+ctrl_bps_htcondor         f5b835adcec46ec48601fbb804207dc6a507eff6  gf5b835adce+818d7e025b                   sconsUtils,ctrl_bps,utils
+ctrl_bps_panda            39c3bc929638cf87ed518d8b6f6c12e7a83f4692  g39c3bc9296+818d7e025b                   sconsUtils,ctrl_bps,daf_butler,resources,utils
+ctrl_bps_parsl            712baaf93572a464477d83326dc0cf649c5318d4  g712baaf935+818d7e025b                   ctrl_bps,utils
+meas_algorithms           9f7030ddb1a0183e9666db77d785cacfa36ef45f  g9f7030ddb1+0d26baa418                   astshim,daf_base,geom,afw,log,meas_base,pex_config,pex_exceptions,pipe_base,sconsUtils,utils,cpputils,kht,obs_base
+meas_extensions_simpleShape cf25f946bab589403c642f899e033b6201cf5add  gcf25f946ba+17127e6d9c                   sconsUtils,base,afw,meas_base,utils,pex_config,pex_exceptions,geom
+meas_extensions_trailedSources 8852436030a9b17df3274866a721385ce7c4ee9a  g8852436030+17127e6d9c                   base,afw,geom,pex_config,utils,cpputils,meas_base
+meas_transiNet            d42b450c19e0e335355a0845f9beeb53c5398de6  gd42b450c19+17127e6d9c                   base,pex_config,pipe_base,meas_base
+ctrl_execute              e537be132608532f5459de82e5da9bab1a028594  ge537be1326+e0e035880b                   pex_config,utils,ctrl_bps_htcondor,resources
+ip_isr                    0d33ba980625e815f92b36fa222f8240fc568f41  g0d33ba9806+23fb6b1458                   meas_algorithms,pipe_base,sconsUtils,afw,geom,utils,pex_exceptions
+lsst_bps_plugins          7de033f5be636d27090da2ca3ac644c9ea74b1ad  g7de033f5be+aaa7696fc8                   ctrl_bps_htcondor,ctrl_bps_panda,ctrl_bps_parsl
+meas_astrom               a2b97cdc5181ba3279881bb3e1e604ba26e67dc0  ga2b97cdc51+23fb6b1458                   geom,sphgeom,afw,log,meas_algorithms,pex_config,pipe_base,utils
+meas_deblender            b1101e3267bf9652e11230fc9ff85ebf18d20289  gb1101e3267+1c10e8ebae                   afw,log,meas_algorithms,sconsUtils,utils,testdata_deblender
+meas_extensions_photometryKron 60b5630c4e21468e1476a1fd7bc4eeb354e2ed7d  g60b5630c4e+23fb6b1458                   meas_base,meas_algorithms
+meas_extensions_piff      94187f82dcd20bf2f4551b83ca9fef9f9275cc7d  g94187f82dc+23fb6b1458                   afw,base,geom,log,meas_algorithms,pex_config,utils
+meas_extensions_psfex     4af146b05049174b1a2d70e08e44f84af82ea0c3  g4af146b050+32dc2822d5                   afw,daf_base,meas_algorithms,meas_base,pipe_base,psfex,sconsUtils,utils,geom,afwdata
+meas_extensions_scarlet   2b9472a11b6d812739824d92ac04915bb440ed05  g2b9472a11b+1a02f846b1                   base,afw,meas_algorithms,log,scarlet_lite,log,pex_config,pex_exceptions,pipe_base,testdata_deblender
+meas_extensions_shapeHSM  9d96a5eb00ace21c17143c464c626cbd2f37fc4c  g9d96a5eb00+23fb6b1458                   meas_base,meas_algorithms,geom,afw,daf_base,pex_exceptions,sconsUtils,utils
+meas_modelfit             9f33ca652e4a24d1b239bc8ec6e4e2ee003a82c8  g9f33ca652e+b775bc0ddd                   afw,meas_algorithms,meas_base,log,sconsUtils,shapelet,geom,cpputils
+ctrl_platform_s3df        eb39acdf45dd219f121987b11997302a964ea703  geb39acdf45+c65b8cdbad                   sconsUtils,ctrl_execute
+ip_diffim                 87b7deb4dceb25313abb65c319148f1eb182a075  g87b7deb4dc+050abbb6d1                   afw,daf_base,log,meas_astrom,meas_algorithms,meas_extensions_trailedSources,meas_extensions_shapeHSM,meas_base,meas_deblender,pex_config,pipe_base,utils,verify,geom,afwdata
+lsst_middleware           8e973c5a7ee18572697886b42f8f7d75b22e5d5f  g8e973c5a7e+19f9865423                   sconsUtils,daf_butler,pipe_base,ctrl_mpexec,ctrl_bps,obs_base,lsst_bps_plugins,dax_obscore,daf_butler_migrate,daf_butler_admin
+meas_extensions_convolved 7da95dfc271c7ba74c3d01e2d64f8204f391d25d  g7da95dfc27+1230810171                   meas_algorithms,meas_extensions_photometryKron,afw,geom,meas_base,utils,daf_base
+meas_extensions_gaap      5c7ea12361c38bede0815fbf655d9e84a9abe553  g5c7ea12361+f5470ffec2                   afw,daf_base,geom,ip_diffim,meas_algorithms,meas_base,pex_config,pex_exceptions,utils
+pipe_tasks                a44b1db4f6bc904a475a3bb9c6c0b98207ece617  ga44b1db4f6+65b51902b9                   afw,coadd_utils,daf_base,daf_butler,dustmaps_cachedata,geom,ip_diffim,ip_isr,meas_algorithms,meas_astrom,meas_base,meas_deblender,meas_extensions_convolved,meas_extensions_gaap,meas_extensions_photometryKron,meas_extensions_piff,meas_extensions_psfex,meas_extensions_scarlet,meas_extensions_shapeHSM,meas_extensions_trailedSources,meas_modelfit,obs_base,pex_config,pipe_base,skymap,sphgeom,utils,verify
+ap_association            519377a0f8ba32dd50561c75488820e812c5a993  g519377a0f8+fd3d7edefd                   afw,alert_packet,dax_apdb,meas_algorithms,meas_base,pex_config,pipe_base,pipe_tasks,verify
+cell_coadds               481822f45422e60e8cea7b375c445ac7b14f1f24  g481822f454+adee046805                   base,meas_algorithms,pipe_tasks
+faro                      aff3cf7e1815a51ad01bc781cc081f057aaa81bb  gaff3cf7e18+226fdd6ea5                   afw,base,ctrl_mpexec,daf_butler,dustmaps_cachedata,geom,pex_config,pipe_base,pipe_tasks,sconsUtils,utils,verify,verify_metrics
+obs_cfht                  8219804093490ca531ae83edaf854e3d3431ffac  g8219804093+45b5d2da89                   obs_base,meas_algorithms,meas_astrom,pipe_tasks,astro_metadata_translator,geom,meas_extensions_photometryKron,meas_extensions_shapeHSM,testdata_cfht
+obs_decam                 0fba68d861bbef3175696e4a2dd2f21fb6ef7440  g0fba68d861+71b39d8992                   utils,obs_base,afw,meas_algorithms,pipe_tasks,pipe_base,pex_exceptions,pex_config,ip_isr,astro_metadata_translator,obs_decam_data,geom,daf_butler,ctrl_mpexec,testdata_decam
+obs_lsst                  9b4d4c4e907c86e77eb3e15cca7f8a43b9a99405  g9b4d4c4e90+b52abf7a72                   afw,daf_base,obs_base,pex_config,utils,ip_isr,pipe_tasks,astro_metadata_translator,obs_lsst_data,daf_butler,meas_extensions_gaap,meas_extensions_psfex,meas_algorithms
+obs_subaru                695c782e01117ae25e248be3f23275486bf53e45  g695c782e01+c77b605ad8                   obs_base,pipe_tasks,meas_astrom,sconsUtils,astshim,astro_metadata_translator,obs_subaru_data,geom,daf_butler,meas_modelfit,meas_extensions_psfex,meas_extensions_shapeHSM,meas_extensions_gaap,testdata_subaru
+atmospec                  3c80eed8faa599f81602a7152c2542a338732fb8  g3c80eed8fa+b9944c6337                   meas_algorithms,meas_astrom,pipe_tasks,pipe_base,geom,ip_isr,pex_config,meas_algorithms,meas_astrom,obs_lsst,daf_base,utils,afw,spectractor,daf_butler,ctrl_mpexec
+drp_tasks                 dd0667205998d4eac8df663c1a523b629e2a727f  gdd06672059+7b74de5e16                   base,gbdes,afw,cell_coadds,daf_base,daf_butler,sphgeom,pex_config,geom,pipe_base,utils,meas_algorithms,meas_extensions_photometryKron,meas_extensions_shapeHSM,pipe_tasks
+fgcmcal                   4d2262a0811a4c481bcde7b27295ede29e4d4004  g4d2262a081+50ddfc6a69                   sconsUtils,afw,daf_butler,obs_base,pipe_base,pex_config,pipe_tasks,ctrl_mpexec,fgcm,testdata_jointcal,obs_subaru,obs_lsst
+jointcal                  de0f65d7ad2e795ab5a17a0d837117b7f7db0459  gde0f65d7ad+12e49698cc                   sconsUtils,afw,obs_base,pex_exceptions,pex_config,meas_algorithms,pipe_tasks,jointcal_cholmod,verify,verify_metrics,cpputils,pipe_base,daf_butler,ctrl_mpexec,obs_subaru,obs_cfht,testdata_jointcal,obs_decam,obs_cfht
+obs_fiberspectrograph     49223bffc5f3ac7bf66327c134f8dcd4c1edf44b  g49223bffc5+d950eaee6e                   obs_base,obs_lsst,astro_metadata_translator,daf_butler,ip_isr,afw
+obs_rubinGenericCamera    edca799caefbb0dbfea5e1d35529046dbbb34982  gedca799cae+d950eaee6e                   obs_base,obs_lsst,astro_metadata_translator,daf_butler
+testdata_image_cutouts    850e1822672bca0f17d6eea739b528bc8370590f  g850e182267+d950eaee6e                   obs_lsst
+cp_pipe                   2422b8fc533db1a5f6a96d26403d54fff89b94d7  g2422b8fc53+33fccb2095                   pex_config,pipe_base,log,ip_isr,afw,meas_algorithms,pipe_tasks,obs_subaru,obs_decam,obs_lsst,fgcmcal
+dax_images_cutout         bef2fa0fcc28376301555764835a60e1d4cae556  gbef2fa0fcc+1a755b32cc                   daf_butler,sphgeom,geom,afw,skymap,testdata_image_cutouts
+lsst_obs                  0a56add59002600e84f91f8f4c28b19ef1dea558  g0a56add590+4e8508b520                   obs_cfht,obs_decam,obs_lsst,obs_subaru,obs_rubinGenericCamera,obs_fiberspectrograph,testdata_cfht,testdata_subaru,testdata_decam
+summit_utils              9c0be661ad912c75af94db9b6ec0b3a4df4ca0e4  g9c0be661ad+d747233c64                   afw,atmospec,base,daf_butler,geom,ip_isr,meas_algorithms,pipe_tasks,utils,pex_config,obs_base,obs_lsst,resources,daf_base,pipe_base,astro_metadata_translator
+analysis_tools            53be94633b4d28ef2ff6998ee3ec12ecdc2a9e50  g53be94633b+3a6b11aaaf                   afw,base,cp_pipe,daf_butler,drp_tasks,geom,meas_algorithms,pex_config,pipe_base,skymap
+summit_extras             00e7b6e3e98cbfc47e75393762ee42be0752ae46  g00e7b6e3e9+a5e4d8f977                   afw,atmospec,base,daf_butler,geom,ip_isr,meas_algorithms,pipe_tasks,utils,pex_exceptions,summit_utils,display_matplotlib
+analysis_ap               7299995a7b027a51d041c1c3994a8d5b1afdf6ea  g7299995a7b+38873bd2e5                   afw,base,daf_butler,dax_apdb,meas_base,pex_config,pex_exceptions,pipe_base,utils,analysis_tools,ap_association,obs_lsst
+cp_verify                 5916666dea781ab32618c53ade21bd772bd1cf2e  g5916666dea+09733f9751                   sconsUtils,afw,cp_pipe,ip_isr,meas_algorithms,pex_config,pex_exceptions,pipe_tasks,utils,pipe_base,analysis_tools,obs_lsst,obs_decam,obs_subaru
+meas_extensions_multiprofit 7e6799d32373e5ed8eb84c418c31905998503dc8  g7e6799d323+3fe8239084                   afw,analysis_tools,daf_butler,gauss2d,gauss2d_fit,geom,multiprofit,pex_config,pipe_base,pipe_tasks,skymap,utils
+source_injection          1fb5b2d7cb5933e73fff8442377aeb52dc57bc23  g1fb5b2d7cb+09733f9751                   afw,analysis_tools,base,daf_butler,geom,obs_subaru,pex_config,pex_exceptions,pipe_base
+ap_pipe                   72cd468254c2aeff4eff032cc9bd8052e24b5829  g72cd468254+044c3da467                   utils,pex_config,pipe_base,pipe_tasks,ap_association,analysis_tools,source_injection,meas_transiNet,obs_decam,obs_subaru,obs_lsst
+drp_pipe                  6e254fa39aadde54dfd14b68f87b995db31adfd6  g6e254fa39a+a961c13334                   obs_lsst,obs_decam,obs_subaru,ip_isr,ip_diffim,pipe_tasks,meas_base,jointcal,fgcmcal,meas_transiNet,faro,analysis_tools,drp_tasks,ap_association,source_injection,meas_extensions_multiprofit
+ap_verify                 26d0733f805f8375073ff8aac7e50b2d75cd4bf9  g26d0733f80+57aefa1d05                   utils,verify,ap_pipe,ctrl_mpexec,ap_verify_testdata,obs_lsst,ip_diffim,ap_association
+lsst_apps                 8e78f5f268b634c5ba7fe8e32d1110945501550c  g8e78f5f268+def6b8d24b                   meas_deblender,meas_modelfit,pipe_tasks,ap_pipe,meas_extensions_simpleShape,display_ds9,meas_extensions_psfex,meas_extensions_piff,source_injection
+pipelines_check           6f05859e33ffa439ecc1c01228e92915df6ec3c3  g6f05859e33+bce339a7b3                   pipe_tasks,daf_butler,obs_subaru,ctrl_mpexec,meas_extensions_convolved,meas_extensions_photometryKron,ip_isr,drp_pipe
+lsst_distrib              c675d380bf75acbff89104264ca4309f2aac6f17  gc675d380bf+071a120a69                   lsst_apps,ctrl_execute,ctrl_platform_s3df,ctrl_mpexec,ctrl_bps,lsst_bps_plugins,meas_extensions_convolved,meas_extensions_shapeHSM,meas_extensions_photometryKron,meas_extensions_scarlet,meas_extensions_trailedSources,meas_extensions_gaap,rucio_register,meas_extensions_multiprofit,lsst_obs,cbp,jointcal,verify,ap_verify,display_firefly,display_matplotlib,cp_pipe,sdm_schemas,fgcmcal,faro,cp_verify,atmospec,drp_pipe,display_astrowidgets,analysis_ap,dax_images_cutout
+lsst_sitcom               4c2f1f2b8df1e8e60646a4067b7be026221de89f  g4c2f1f2b8d+019d1c84f2                   lsst_distrib,summit_utils,summit_extras
+lsst_ci                   ed1ef10abb08d491ddbfd259827b8839ca7a48a5  ged1ef10abb+6215b0bd1b                   lsst_apps,lsst_distrib,lsst_sitcom,lsst_obs,pipelines_check,testdata_subaru,testdata_cfht,testdata_decam
