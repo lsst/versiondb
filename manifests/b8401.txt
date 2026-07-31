@@ -1,0 +1,17 @@
+# product                 SHA1                                      Version                       
+BUILD=b8401
+afwdata                   da6a35342cddc65db1d042053e6f05b0e26afc6d  gda6a35342c                              
+sconsUtils                aaf73f26a192d90cd44b35bca48a4671638282ed  gaaf73f26a1                              
+base                      53246c715956882f6e527aaa7283219e06a7401f  g53246c7159+af1bfebf34                   sconsUtils
+sphgeom                   482271f493225a071c38b28e1dd5c8fc2905b904  g482271f493+af1bfebf34                   sconsUtils
+sphinxutils               f19a2bea7c531165255f81dd52122788e48a30c7  gf19a2bea7c+af1bfebf34                   sconsUtils
+pex_exceptions            786e29fd129756b69aad840e77102572d4427069  g786e29fd12+b2440768fd                   base
+utils                     36f3e0efcb38c1da6b56e14e9f24f5ba3b471e70  g36f3e0efcb+5988831943                   sconsUtils,sphinxutils
+cpputils                  87389fa79250779e51d116f9f25e6b6545982b51  g87389fa792+a455f089f2                   base,pex_exceptions
+log                       eaed405ab28a62c25942748c72edff486af0dbc4  geaed405ab2+0588e1668a                   sconsUtils,utils
+resources                 60c6fdcdcd1e99e2de1e794f6e5e1579a2ff8b05  g60c6fdcdcd+0588e1668a                   sconsUtils,utils
+astshim                   f5dcc679e78871306a255a8a659d9b9f42e0b843  gf5dcc679e7+38b54f1ccd                   sconsUtils,cpputils
+daf_base                  8ea07a8fe4ad399a23e32cd9cfd14d3c70f5cef5  g8ea07a8fe4+a44d14f55d                   utils,cpputils,pex_exceptions,base
+geom                      19811a767916cb2e91fb1843f4c8599e682d82ce  g19811a7679+08ac1b7679                   sconsUtils,sphgeom,pex_exceptions,utils,cpputils
+pex_config                e1a95365524cdd2acb55745c5d8fecfca366e62e  ge1a9536552+5ba80f410d                   daf_base,sconsUtils,resources
+afw                       41b6eb56439ac6a47191309589c181fbfa4659e0  g41b6eb5643+3994a6b19a                   daf_base,pex_config,geom,log,sphgeom,utils,astshim,base,cpputils,afwdata
